@@ -1,0 +1,16 @@
+Card Name:
+English Name:Happy Happy ☆ Kirari
+Card No.:IMC/W41-E010SR
+Rarity:SR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Ill think of one too～!
+Trigger:Soul
+Special Attribute:Music・Happy Happy
+Text:【CONT】 During your turn, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul.

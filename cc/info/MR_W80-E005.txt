@@ -1,0 +1,17 @@
+Card Name:
+English Name:Everyone's Own Feelings, Iroha
+Card No.:MR/W80-E005
+Rarity:R
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"I swear Ill help you.
+Trigger:
+Special Attribute:Magic・Cooking
+Text:【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.
+Text:【ACT】 [【REST】 this card] Choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn.

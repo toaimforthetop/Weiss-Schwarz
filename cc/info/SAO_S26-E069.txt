@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kirito - Two Worlds
+Card No.:SAO/S26-E069
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:See you on the other side.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have another "Asuna In a Birdcage", this card gets +2000 power.
+Text:【AUTO】 When this card attacks, if a card named "Confrontation Between the Strongest Players" is in your climax area, this card gets +3000 power until end of your opponent\'s next turn.
+Text:【CONT】 During your opponent's turn, all of your other characters get +500 power.", '【AUTO】 [(1) 【REST】 two of your 【STAND】 characters] When you use "Accelerate", you may pay the cost. If you do, put the top card of your clock into your waiting room.

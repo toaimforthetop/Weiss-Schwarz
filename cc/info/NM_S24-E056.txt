@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Fire Sisters” Tsukihi Araragi
+Card No.:NM/S24-E056
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0 
+Power:4500
+Soul:1
+Flavor Text:"Dont just grow up and leave us behind.
+Trigger:
+Special Attribute:Strange・Japanese Clothes
+Text:【AUTO】 When this card becomes Reverse@, if the number of your other 《Japanese Clothes》 characters is two or more, and this card's battle opponent is level 1 or lower, you may Reverse@ that character in battle.", '

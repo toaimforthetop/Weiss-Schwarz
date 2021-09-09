@@ -1,0 +1,16 @@
+Card Name:
+English Name:Seraph Lamington
+Card No.:DG/S02-TE07
+Rarity:C
+Expansion:Disgaea ～Hour of Darkness～
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Demons certainly have love inside of them.They just havent found it yet.
+Trigger:Soul
+Special Attribute:Angel・Love
+Text:-

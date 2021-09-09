@@ -1,0 +1,16 @@
+Card Name:
+English Name:First Job, Rika
+Card No.:IMC/W41-TE10
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Power~
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Gal
+Text:-

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“In Practice” Umi Sonoda
+Card No.:LL/EN-W02-E090
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Leave this to me! Save yourself. Hurry, go!"…… But not really. Did I pull that off?
+Trigger:
+Special Attribute:Music・Sports
+Text:【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your characters, until end of turn, that character gets +1000 power.
+Text:【ACT】 [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Music》 characters,  and that character gets +2000 until end of turn.

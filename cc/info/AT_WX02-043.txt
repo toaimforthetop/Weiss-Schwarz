@@ -1,0 +1,17 @@
+Card Name:
+English Name:Marceline: I Remember You
+Card No.:AT/WX02-043
+Rarity:RR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Vampire
+Text:【CONT】 Memory If "Remember You" is in your memory, this card gets "【CONT】 Assist All of your characters in front of this card get +500 power."
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.

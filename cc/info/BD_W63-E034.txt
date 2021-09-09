@@ -1,0 +1,17 @@
+Card Name:
+English Name:"I'll Hold Them Off!" Moca Aoba
+Card No.:BD/W63-E034
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Yeah, better to start sooner than later.
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 3 or more 《Music》 characters, at the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn.
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mio in Summer Clothes
+Card No.:IMC/W41-E029
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"I thought itd brighten up the office!
+Trigger:
+Special Attribute:Music・-
+Text:-

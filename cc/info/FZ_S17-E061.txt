@@ -1,0 +1,18 @@
+Card Name:
+English Name:Golden Monarch, Archer
+Card No.:FZ/S17-E061
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Now show me, Saber.', 'Show me the true worth of the light of your Heroic Spirit.
+Trigger:
+Special Attribute:Servant・Royalty
+Text:【CONT】 If a red climax is in your climax area, this card gets the following ability."【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is cost 1 or less, you may 【REVERSE】 that character."
+Text:【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)
+Text:【AUTO】［Put this card into your waiting room］ When a card named "Identity of the Fallen Knight" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on. 

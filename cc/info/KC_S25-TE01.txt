@@ -1,0 +1,16 @@
+Card Name:
+English Name:Clumsy Girl, Inaduma
+Card No.:KC/S25-TE01
+Rarity:TD
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Ha wah wah wah, that was a surprise!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, 【REST】this card. (The revealed card is returned to its original place)【AUTO】[(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search you deck for up to one level 1 or lower character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

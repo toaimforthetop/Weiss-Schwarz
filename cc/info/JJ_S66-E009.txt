@@ -1,0 +1,18 @@
+Card Name:
+English Name:Angry Lunatic Tendencies, Fugo
+Card No.:JJ/S66-E009
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"After that, Fugo underwent Polpos test and gained Purple Smoke.
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 "Savage Smoke, P.S", put it face up underneath this card as a marker, and shuffle your deck.
+Text:【ACT】 [Put 1 character from your hand into your waiting room] If you are level 1 or higher, choose 1 "Savage Smoke, P.S" marker underneath this card, and put it on any position of your stage. At the end of the turn, you may put that character face up underneath this card as a marker.
+Text:【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Choose 1 level 1 or lower character in your waiting room, and return it to your hand.

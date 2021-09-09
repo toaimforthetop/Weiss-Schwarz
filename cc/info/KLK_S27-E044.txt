@@ -1,0 +1,17 @@
+Card Name:
+English Name:Taking Back Senketsu! Ryuko
+Card No.:KLK/S27-E044
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"I dont have time to mess around with you!
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one card named "Seki Tekko", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Clothes》 or 《Family》 characters, and that character gets +2000 power until end of turn.

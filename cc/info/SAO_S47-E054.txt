@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lisbeth Changes Clothes
+Card No.:SAO/S47-E054
+Rarity:R
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Wah……
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Back Together
+Card No.:DG/EN-S03-E127
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Flonne: "So…… I get credit for getting them back togther～! ……Right?"
+Trigger:
+Special Attribute:
+Text:Choose a climax in your opponent's waiting room, and return it to his or her deck. If you do, shuffle your opponent's deck, choose a character in your waiting room, and return it to your hand.", '

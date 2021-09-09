@@ -1,0 +1,17 @@
+Card Name:
+English Name:With My Beloved Weapons, Fukaziroh
+Card No.:GGO/S59-E058
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Im counting on you, Rightony and Leftania.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If this card is in the right position of your center stage, this card\'s card name will also be regarded as "Fukaziroh Holding Rightony".
+Text:【CONT】 If this card is in the left position of your center stage, this card\'s card name will also be regarded as "Fukaziroh Holding Leftania".

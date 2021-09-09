@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Different Morning, Rin
+Card No.:FS/S34-E069
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"I guess its just one of those days.
+Trigger:
+Special Attribute:Master・Jewel
+Text:-

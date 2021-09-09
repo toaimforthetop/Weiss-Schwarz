@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Universal Genius, Da Vinci
+Card No.:FGO/S75-TE15
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Chaldea・Genius
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Chaldea》 or 《Babylonia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.

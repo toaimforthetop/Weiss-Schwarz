@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yachiyo Nanami
+Card No.:MR/W59-TE11R
+Rarity:RRR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Life as a Magical Girl isnt easy.
+Trigger:
+Special Attribute:Magic・Balance
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.

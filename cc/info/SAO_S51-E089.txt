@@ -1,0 +1,17 @@
+Card Name:
+English Name:Drive of An Angry God, Kirito
+Card No.:SAO/S51-E089
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Woooooooooooooohh!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.", '

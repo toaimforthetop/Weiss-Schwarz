@@ -1,0 +1,16 @@
+Card Name:
+English Name:High School Girl, Tae
+Card No.:BD/W47-E104
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Can we borrow the speakers from the warehouse?
+Trigger:
+Special Attribute:Music・Rabbit
+Text:【AUTO】  When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a cost 0 or lower character in your opponent's center stage, and put it on the bottom of his or her deck.

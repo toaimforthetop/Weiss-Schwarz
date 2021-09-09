@@ -1,0 +1,17 @@
+Card Name:
+English Name:Quiet White Cat, Koneko
+Card No.:Fdd/W65-E056
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:…Blast away.
+Trigger:
+Special Attribute:Fantasia Bunko・Demon・Tank
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it at the top of your deck or into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that card.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Sparkling Stage
+Card No.:BD/EN-W03-125BDR
+Rarity:BDR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:0
+Power:0
+Soul:0
+Flavor Text:-
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)

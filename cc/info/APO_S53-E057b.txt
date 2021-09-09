@@ -1,0 +1,16 @@
+Card Name:
+English Name:Two Cigarettes
+Card No.:APO/S53-E057b
+Rarity:
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Shishigou(獅子劫)" or "Saber of Red(赤のセイバー)" in its card name, this card cannot be played from your hand.Put the top two cards of your deck into your waiting room, choose a level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)

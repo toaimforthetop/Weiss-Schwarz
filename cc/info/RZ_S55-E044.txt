@@ -1,0 +1,16 @@
+Card Name:
+English Name:Naked Companionship, Roswaal
+Card No.:RZ/S55-E044
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hi, there! May I join you?
+Trigger:
+Special Attribute:Magic・Odd Eye
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.

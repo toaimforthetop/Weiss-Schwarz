@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kazuma
+Card No.:KS/W49-E003
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Hey, you guys.
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.

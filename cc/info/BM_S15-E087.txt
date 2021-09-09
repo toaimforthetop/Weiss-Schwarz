@@ -1,0 +1,17 @@
+Card Name:
+English Name:Girl Under a Curse, Nadeko Sengoku
+Card No.:BM/S15-E087
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・-
+Text:[CONT] During your opponent's turn, this card gets +1000 power.
+Text:[AUTO] Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)

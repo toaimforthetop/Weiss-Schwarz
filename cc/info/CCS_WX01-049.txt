@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spinny
+Card No.:CCS/WX01-049
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:It’s not time to get involved yet.
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.

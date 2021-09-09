@@ -1,0 +1,17 @@
+Card Name:
+English Name:Satisfied Kasumi
+Card No.:BD/W47-E050
+Rarity:U
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Heh heh.
+Trigger:Soul
+Special Attribute:Music・Star
+Text:【AUTO】  When this card is placed on the stage from your hand, this card get +X power until end of turn. X is equal to 1000 multiplied by the number of characters you have with 《Music》 or "Asuka(明日香)" in its card name.
+Text:【AUTO】  [(1)] When this card\'s level 2 or higher battle opponent becomes 【REVERSE】  in battle, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

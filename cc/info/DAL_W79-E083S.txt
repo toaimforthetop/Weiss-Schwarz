@@ -1,0 +1,18 @@
+Card Name:
+English Name:Origami Tobiichi
+Card No.:DAL/W79-E083S
+Rarity:SR
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"I wont let you run anymore!
+Trigger:Soul
+Special Attribute:Date・AST
+Text:【CONT】 During this card\'s battle, your opponent cannot play "Backup" from their hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Revenge for 5 Years Ago" is in your climax area, and you have 4 or more other 《Date》 or 《Celestial Spirit》 characters, this card gets +1000 power until end of turn, put the bottom 4 cards of your opponent\'s deck into their waiting room, and deal 1 damage to your opponent X times. X is equal to the number of climax among those cards. (Damage may be canceled)

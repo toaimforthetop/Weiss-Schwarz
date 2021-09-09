@@ -1,0 +1,17 @@
+Card Name:
+English Name:Prison of Flame, Mii
+Card No.:BFR/S78-E072
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Flames of creation, origin of all.
+Trigger:
+Special Attribute:Game・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Game》 characters you have ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent\'s characters, and that character gets the following ability until end of turn. "【CONT】 This card cannot be returned to hand or put into memory."

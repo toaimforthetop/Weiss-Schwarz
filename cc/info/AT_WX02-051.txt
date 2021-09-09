@@ -1,0 +1,16 @@
+Card Name:
+English Name:Princess Bubblegum: What Was Missing
+Card No.:AT/WX02-051
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Ooo》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×500.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lumpy Space Princess
+Card No.:AT/WX02-064
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"And shes, like, talking to a new nice king. And he's like totally single.
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【CONT】 All of your other level 0 or lower characters get +1000 power.
+Text:【AUTO】 【CXCOMBO】 When "Captured!" is placed on your climax area, reveal the top card of your deck. If that card is level 1 or higher, put it into your stock. (Otherwise, return the revealed card to its original place. Climax are regarded as level 0)

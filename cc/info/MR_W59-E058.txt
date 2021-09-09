@@ -1,0 +1,17 @@
+Card Name:
+English Name:Novice Magical Girl, Kaede
+Card No.:MR/W59-E058
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I have to… I have to attack…
+Trigger:
+Special Attribute:Magic・Magia
+Text:【CONT】 Your other 《Magic》 character in the middle position of your center stage gets +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room."

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Dignified Appearance, Tohka
+Card No.:DAL/W79-E052SP
+Rarity:SP
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 If you have 4 or more 《Date》 or 《Celestial Spirit》 characters, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Date》 or 《Celestial Spirit》 character, this card gets +2000 power until the end of your opponent's next turn.", '

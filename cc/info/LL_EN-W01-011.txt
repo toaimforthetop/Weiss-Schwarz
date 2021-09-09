@@ -1,0 +1,18 @@
+Card Name:
+English Name:"No Brand Girls" Nico
+Card No.:LL/EN-W01-011
+Rarity:R
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Look, all my fans are waiting. Smile♪
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 If the number of your other characters in the center stage is one or less, this card gets +1 soul.
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, this card gets +1000 power and +1 soul until end of turn.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets +1000 power until end of turn.', "【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is level 0 or lower, you may move this card to an open position of your center stage. (Climax are regarded as level 0)", '

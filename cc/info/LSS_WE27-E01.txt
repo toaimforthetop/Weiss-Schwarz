@@ -1,0 +1,17 @@
+Card Name:
+English Name:"MIRAI TICKET" Hanamaru Kunikida
+Card No.:LSS/WE27-E01
+Rarity:RR
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one yellow character in your waiting room, and return it to your hand.", '

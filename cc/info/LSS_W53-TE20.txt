@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Now Then, Where Shall We Go?" Kanan Matsuura
+Card No.:LSS/W53-TE20
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Shall we go with a great leap forward?"
+Trigger:Soul
+Special Attribute:Music・Umbrella
+Text:【CONT】 If all of your characters are 《Music》, this card gets +1000 power.
+Text:【AUTO】 [(3) Put a card from your hand into your waiting room] This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.", '

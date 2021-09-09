@@ -1,0 +1,17 @@
+Card Name:
+English Name:Together with Debeko, Rii
+Card No.:BD/W47-E013
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Riis so bored…
+Trigger:
+Special Attribute:Music・Puppet
+Text:【CONT】  This card cannot side attack.
+Text:【AUTO】  This ability activates up to one time per turn. When your card is placed on the level area, this card gets +1500 power until end of turn.

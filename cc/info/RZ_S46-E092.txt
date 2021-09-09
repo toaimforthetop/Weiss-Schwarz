@@ -1,0 +1,17 @@
+Card Name:
+English Name:Gentle Disparagement, Emilia
+Card No.:RZ/S46-E092
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"...Subaru, youre such a dunderhead!
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 When your other 《Magic》 or 《Weapon》 character attacks, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "A Boy\'s Fantasy" is in your climax area, this card gets +3500 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent\'s deck."

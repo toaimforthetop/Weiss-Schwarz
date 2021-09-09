@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Our LIVE, the LIFE with You" Nozomi Tojo
+Card No.:LL/W24-E003SP
+Rarity:SP
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, reveal the top card of your deck. If that card is a 《Music》 character, choose another of your 《Music》 characters, and that character gets +2000 power and soul +1 until end of turn. （The revealed card is returned to its original place.)", '

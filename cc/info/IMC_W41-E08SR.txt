@@ -1,0 +1,18 @@
+Card Name:
+English Name:My First Star, Anastasia
+Card No.:IMC/W41-E08SR
+Rarity:SR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Star
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power for each of your other 《Music》 characters.', "【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in the center stage, look at the top card of\u3000your deck, and put it on the top of your deck or into your waiting room.", '

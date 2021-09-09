@@ -1,0 +1,16 @@
+Card Name:
+English Name:Underworld Girl, Yuri
+Card No.:AB/W11-E107
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Now, let\'s go. I'll protect you.
+Trigger:
+Special Attribute:Death・Weapon
+Text:[AUTO] When another of your characters becomes [REVERSE] in battle, this card gets +1000 power until end of turn.

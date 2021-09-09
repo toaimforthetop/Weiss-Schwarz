@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Until the Goal is Accomplished" Armored Titan
+Card No.:AOT/S50-E094
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Keiji: "Shit! Since when could he move so quick!?"Goggles: "Are we completely useless here……!?"
+Trigger:
+Special Attribute:Titan・-
+Text:【AUTO】 When you use this card\'s "Backup", if you have a 《Titan》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)

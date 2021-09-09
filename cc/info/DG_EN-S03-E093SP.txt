@@ -1,0 +1,16 @@
+Card Name:
+English Name:Werewolf Butler, Fenrich
+Card No.:DG/EN-S03-E093SP
+Rarity:SP
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Demon・Animal
+Text:【CONT】 If the number of your other characters is one or less, all of your other characters get +1500 power.

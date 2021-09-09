@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shimakaze-class Destroyer, Shimakaze
+Card No.:KC/S25-E003SSP
+Rarity:SSP
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】When this card\'s battle opponent becomes 【Reverse】, if a card named "Fast like Shimakaze" is in your climax area, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

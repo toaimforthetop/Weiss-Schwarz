@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Poppin' Colors!" Saya Yamabuki
+Card No.:BD/EN-W03-074H
+Rarity:HR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:"I guess you can say it matches the PoppinParty vibe? The way it pops with excitement, maybe?
+Trigger:Soul
+Special Attribute:Music・Poppin'Party
+Text:【CONT】This card gets +1000 power for each of your other 《Music》 characters.
+Text:【AUTO】[(1)] At the beginning of the encore step, if you do not have another【REST】character on your center stage, you may pay the cost. If you do,【REST】this card.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Batman: Missionary Disguise
+Card No.:BNJ/SX01-A05
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

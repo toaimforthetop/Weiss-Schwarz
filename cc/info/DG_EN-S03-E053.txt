@@ -1,0 +1,16 @@
+Card Name:
+English Name:Awakened Angel, Pure Flonne
+Card No.:DG/EN-S03-E053
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:On Netherworld soil, where evil looms, an ephemeral flower blooms!', 'Pure Flonne the Awakened Angel?(黒いハート)
+Trigger:Soul
+Special Attribute:Angel・Love
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, if the number of your other 《Demon》 or 《Angel》 characters is three or more, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Demon》 or 《Angel》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

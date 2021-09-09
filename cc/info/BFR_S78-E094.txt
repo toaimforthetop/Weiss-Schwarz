@@ -1,0 +1,17 @@
+Card Name:
+English Name:Devour, Maple
+Card No.:BFR/S78-E094
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Great shields might be stronger than I thought!
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, if there is a climax in your climax area, you may put the top card of your deck into your stock.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tremble With Pleasure
+Card No.:KS/W49-E029
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Mm……!
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.
+Text:【AUTO】 Memory [Put this card into your waiting room] When the damage you received is not canceled, if this card is in your memory, and the damage is three or more, you may pay the cost. If you do, search your deck for up to two 《Worries》 characters, reveal them to your opponent, put them into your hand, choose a card in your hand, put it into your stock, and shuffle your deck.

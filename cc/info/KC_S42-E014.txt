@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Akizuki-class Destroyer, Teruzuki
+Card No.:KC/S42-E014
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Admiral, are you interested in Anti-Aircraft Artillery?Would you... like to try touching Teruzukis?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "Main guns, get ready for aerial combat!" is in your climax area, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, put it into your hand. (If it is not, return the revealed card to its original place)【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

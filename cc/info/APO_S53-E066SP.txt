@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Massacre" Assassin of Black
+Card No.:APO/S53-E066SP
+Rarity:SP
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Mist
+Text:【CONT】 During this card\'s battle, all players cannot play "Backup" from hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 [Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)

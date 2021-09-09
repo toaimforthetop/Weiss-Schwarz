@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cyan Pile Becoming a Shield
+Card No.:AW/S43-E092
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Chi!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When you level up, put this card into your waiting room.

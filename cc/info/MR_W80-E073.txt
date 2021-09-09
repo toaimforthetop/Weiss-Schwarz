@@ -1,0 +1,16 @@
+Card Name:
+English Name:Magical Girl Service, Tsuruno
+Card No.:MR/W80-E073
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:No need to hold back.
+Trigger:Soul
+Special Attribute:Magic・Flame
+Text:-

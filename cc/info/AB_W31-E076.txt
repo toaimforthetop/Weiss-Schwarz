@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unreasonable Request, Yuri
+Card No.:AB/W31-E076
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:…Listen up! Get the seat right in front of hers.
+Trigger:
+Special Attribute:Death・Weapon
+Text:[ACT] [[REST] one of your characters] This card gets +1000 power until end of turn.

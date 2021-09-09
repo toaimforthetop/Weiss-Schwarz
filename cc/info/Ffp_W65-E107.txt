@@ -1,0 +1,17 @@
+Card Name:
+English Name:Stylish Getup, Bonta-kun
+Card No.:Ffp/W65-E107
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Fumoffu.
+Trigger:
+Special Attribute:Fantasia Bunko・-
+Text:【CONT】 This card cannot side attack.
+Text:【CONT】 All of your other 《Fantasia Bunko》 characters get +500 power.

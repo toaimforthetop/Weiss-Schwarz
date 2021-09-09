@@ -1,0 +1,17 @@
+Card Name:
+English Name:"My First Pair of Cat Ears" Yukina Minato
+Card No.:BD/W63-E089
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Could you just forget about what happened that day...?
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】 If you do not have any other 《Roselia》 characters, this card cannot 【STAND】 during your stand phase.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.

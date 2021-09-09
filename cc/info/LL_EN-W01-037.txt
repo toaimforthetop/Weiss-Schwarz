@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Nico-Nico-Ni!" Nico
+Card No.:LL/EN-W01-037
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:This bear is so cute. Am I cute, too? Oh no♪
+Trigger:
+Special Attribute:Music・Puppet
+Text:【CONT】 During your turn, all of your other characters get +500 power.

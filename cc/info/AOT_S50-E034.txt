@@ -1,0 +1,17 @@
+Card Name:
+English Name:"To Seize Freedom" Erwin
+Card No.:AOT/S50-E034
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:…… I can always be replaced! More importantly, find Eren and retreat!…… Time is of the essence!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Corps》 characters.\
+Text:【AUTO】 [(1) Put a 《Corps》 character from your hand into your waiting room] At the end of your turn, if this card is in your center stage, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)

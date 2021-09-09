@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nap Time Kotori
+Card No.:LL/W34-E067
+Rarity:CC
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

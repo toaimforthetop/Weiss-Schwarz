@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Moderation is Key!" Tsugumi Hazawa
+Card No.:BD/W63-E032SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【CONT】 Assist All of your characters in front of this card gets +500 power.
+Text:【AUTO】 【CLOCK】 Alarm [(2)] If this card is the top card of your clock, your level is 2 or higher, and all your characters are 《Afterglow》, at the beginning of your climax phase, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

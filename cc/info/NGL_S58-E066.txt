@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unstoppable Love, Steph
+Card No.:NGL/S58-E066
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Im so beau-ti-ful! ?
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 All of your other "Lacking Presence, Steph" get +1000 power.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 "Lacking Presence, Steph", reveal it to your opponent, put it into your hand, and shuffle your deck.

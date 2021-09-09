@@ -1,0 +1,16 @@
+Card Name:
+English Name:Wavering Heart, Kurumi
+Card No.:DAL/W79-E065
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"But thats…
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of the following effects and perform it."If your clock has 3 or less cards, search your deck for up to 1 《Date》 or 《Celestial Spirit》 character, reveal it to your opponent, put it into your hand, and shuffle your deck." "If your clock has 4 or more cards, choose 1 《Date》 or 《Celestial Spirit》 character in your waiting room, return it to your hand, choose 1 of your other 《Date》 or 《Celestial Spirit》 characters, and that character gets +1000 power until end of turn."

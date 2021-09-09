@@ -1,0 +1,17 @@
+Card Name:
+English Name:Shop's Poster Girl, Tsuruno
+Card No.:MR/W80-E053S
+Rarity:SR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Tomorrow, therell be chop suey, so just you wait!
+Trigger:
+Special Attribute:Magic・Flame
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.

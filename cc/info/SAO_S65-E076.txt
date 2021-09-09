@@ -1,0 +1,16 @@
+Card Name:
+English Name:Light from Sacred Arts, Eugeo
+Card No.:SAO/S65-E076
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I see. They dont like the light from this grass.
+Trigger:
+Special Attribute:Fluctlight・Woodcutter
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Fluctlight》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Fluctlight》 characters you have ×500.

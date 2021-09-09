@@ -1,0 +1,18 @@
+Card Name:
+English Name:Rin in Pajamas
+Card No.:LL/EN-W01-098
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Ta-daa, these are my cat pajamas-!
+Trigger:Soul
+Special Attribute:Music・Pajamas
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Whimsical Girl" Rin" in your waiting room, and put it on the stage position that this card was on.
+Text:【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【CONT】 If you would pay the "Change" cost for one of your characters, you may put this card into your waiting room instead of one or two cards from your stock.

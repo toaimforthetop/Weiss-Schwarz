@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Unforgettable Memory
+Card No.:P5/S45-TE08
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Still, I couldn\'tjust let that go…"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your 《Thief》 characters, and that character gets +2000 power until end of turn.

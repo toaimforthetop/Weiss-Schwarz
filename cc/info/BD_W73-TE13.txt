@@ -1,0 +1,17 @@
+Card Name:
+English Name:Firm Perceptions, CHU?
+Card No.:BD/W73-TE13
+Rarity:TD
+Expansion:BanG Dream! [RAISE A SUILEN]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:PAREO!
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 All of your other "Firm Trust, PAREO" get +1000 power.
+Text:【AUTO】 Bond/"Firm Trust, PAREO"  [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Firm Trust, PAREO" in your waiting room, and return it to your hand)

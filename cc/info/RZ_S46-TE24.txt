@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sharp-Tongued Maid, Ram
+Card No.:RZ/S46-TE24
+Rarity:TD
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Well, isnt it obvious? The more you can do, the less I have to do.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn.

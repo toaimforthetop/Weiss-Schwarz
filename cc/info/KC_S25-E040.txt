@@ -1,0 +1,17 @@
+Card Name:
+English Name:1st Chitose-class Light Aircraft Carrier, Chitose-Ko-Kai-Ni
+Card No.:KC/S25-E040
+Rarity:R
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:The newly developed two-seater reconnaissance planes are my pride and joy!
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Aircraft Carrier
+Text:【CONT】All of your other 《Fleet Girl》 characters get +1000 power.
+Text:【AUTO】Encore [(2)] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)", '

@@ -1,0 +1,18 @@
+Card Name:
+English Name:“A Lonely Fight” Homura
+Card No.:MM/W35-E028
+Rarity:R
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Someday, that final day will come. As we wait for the Law of the Cycle to lead us away, we continue our unending battle.
+Trigger:
+Special Attribute:Magic・Time
+Text:【AUTO】 When this card attacks, all of your other characters with "Madoka(まどか)" in its card name get +500 power until end of turn.
+Text:【AUTO】 Bond／"“A Desired Form” Madoka" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "“A Desired Form” Madoka" in your waiting room, and return it to your hand.)
+Text:【CONT】 All of your characters get +1000 power and +1 soul.', "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)", '

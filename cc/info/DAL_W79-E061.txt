@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cruel Reality, Tohka
+Card No.:DAL/W79-E061
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Shido…?
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When "Brunt of Fury" is placed on your climax area, you may pay the cost. If you do, choose up to 1 "Descent of Calamity, Tohka" in your hand, and put it on the stage position that this card was on.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sun Shower" Eli
+Card No.:LL/EN-W01-002
+Rarity:RR
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"In Russia, the fox doesnt have a very good image……", "But it's different in Japan.
+Trigger:Soul
+Special Attribute:Music・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.', "【AUTO】 [(2)] When this card attacks, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and return it to your opponent's hand.", '

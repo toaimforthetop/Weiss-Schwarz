@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sworn Promise" Homura
+Card No.:MR/W59-E034
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I promised back then. That I would protect and save you.
+Trigger:
+Special Attribute:Magic・Skill
+Text:【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +1000 power.
+Text:【AUTO】 At the beginning of the attack phase, choose 1 character in your center stage, and if the levels of all your characters in your center stage are the same as that character\'s, this card gets +1000 power and the following ability until end of turn. "【AUTO】 [(1) Put this card into your waiting room] When your other 《Magic》 character is frontal attacked, you may pay the cost. If you do, return that character to your hand."

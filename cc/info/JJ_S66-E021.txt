@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unexpected Clean Freak, P.S
+Card No.:JJ/S66-E021
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Abbacchio: "It\'s really high strung, and really cares about being clean."
+Trigger:Soul
+Special Attribute:Golden Wind・Stand
+Text:【CONT】 This card gets +2500 power for each character in your opponent's back stage.", '

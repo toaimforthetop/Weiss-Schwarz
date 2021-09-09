@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Beloved Weapons Don't Betray" LLENN
+Card No.:GGO/S59-E040S
+Rarity:SRSR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Live or die, we\'ll be together!"
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your stock] When "How Adorable…" is placed on your climax area, you may pay the cost. If you do, choose up to 1 "Chatting P-chan" in your waiting room, and return it to your hand.
+Text:【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.

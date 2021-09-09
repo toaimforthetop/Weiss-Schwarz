@@ -1,0 +1,16 @@
+Card Name:
+English Name:Caring for Friends, Nozomi
+Card No.:LL/W24-E037
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Even your desire to keep the school open comes from your sense of responsibility as the student council president?!
+Trigger:
+Special Attribute:Music・Fortune Telling
+Text:【AUTO】 Bond／"Otonokizaka High 3rd Year, Eli" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Otonokizaka High 3rd Year, Eli" in your waiting room, and return it to your hand.）

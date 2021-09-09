@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tsundere?
+Card No.:BM/S15-E072
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:What about that girl, Araragi?
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room, and return them to your hand.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Rendezvous of Smiles" Kokoro Tsurumaki
+Card No.:BD/W63-E015
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Okay, Ill have you make the puppets then, Misaki!
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 All of your other ""A Penguin? A Bear?" Misaki Okusawa" get +2000 power.
+Text:【ACT】 [(1) Put this card into your waiting room] Choose 1 "Message from Michelle" in your waiting room, and return it to your hand.

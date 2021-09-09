@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Onstage" Aya Maruyama
+Card No.:BD/W54-E034
+Rarity:U
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Ta-da～☆
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 All of your other 《Pastel＊Palettes》 characters get +500 power.
+Text:【AUTO】 【CXCOMBO】 When a card named "Shuwarin☆Dreaming" is placed on your climax area, reveal the top card of your deck. If that card is a 《Pastel＊Palettes》 character, put it into your stock, choose one of your characters, and that character gets +500 power until end of turn. (If it is not, return the revealed card to its original place)

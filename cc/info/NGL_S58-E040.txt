@@ -1,0 +1,16 @@
+Card Name:
+English Name:Humanity's Potential, Fil
+Card No.:NGL/S58-E040
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Of course～
+Trigger:
+Special Attribute:Game・Elf
+Text:-

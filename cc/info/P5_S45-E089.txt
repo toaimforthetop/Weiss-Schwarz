@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yusuke: First Encounter
+Card No.:P5/S45-E089
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:…?
+Trigger:
+Special Attribute:Thief・-
+Text:【CONT】 All of your other 《Thief》 characters get +500 power.
+Text:【AUTO】 [(1)] When your other character in the middle position of the center stage attacks, you may put the top card of your deck into your waiting room. If that card is a climax, you may pay the cost. If you do, draw a card.

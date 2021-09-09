@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Out-of-control Artifact” Xenolith
+Card No.:DG/EN-S03-E073
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:1000
+Soul:2
+Flavor Text:…………
+Trigger:Soul
+Special Attribute:Jewel・Demon
+Text:【CONT】 This card gets +1000 power for each of your other characters.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:-

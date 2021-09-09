@@ -1,0 +1,17 @@
+Card Name:
+English Name:Complex Feelings, Tohka
+Card No.:DAL/W79-E104
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn.
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of characters your opponent has ×1000.", '

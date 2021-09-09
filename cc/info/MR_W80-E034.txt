@@ -1,0 +1,17 @@
+Card Name:
+English Name:Well-Coordinated Sisters, Tsukuyo
+Card No.:MR/W80-E034
+Rarity:R
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:...we hope you become entranced...
+Trigger:Soul
+Special Attribute:Magic・Twins
+Text:【CONT】 This card gets +500 power for each of your other 《Magic》 characters.
+Text:【AUTO】 【CXCOMBO】 [[Put 1 "Black Feather" from your hand into your waiting room]  When this card attacks, if "Sisters\' Entertaining Performance" is in your climax area, and you have another 《Magic》 character, you may pay the cost. If you do, deal 1 damage to your opponent, choose up to 1 《Magic》 character in your waiting room, and put it into your stock. (Damage may be canceled)

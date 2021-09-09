@@ -1,0 +1,17 @@
+Card Name:
+English Name:Child on the Inside? Milim
+Card No.:TSK/S70-E032
+Rarity:RR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Its so good! This is so good!
+Trigger:
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 [(3)] When this card is placed on the stage from your hand, you may pay the cost. If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

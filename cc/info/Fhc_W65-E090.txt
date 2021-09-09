@@ -1,0 +1,17 @@
+Card Name:
+English Name:Coffin-Carrying Wizard, Chaika
+Card No.:Fhc/W65-E090
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Have no ability. I can. Do it together. This is all.
+Trigger:
+Special Attribute:Fantasia Bunko・Magic・Death
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Fantasia Bunko》 or 《Magic》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your hand. (Otherwise, return the revealed card to its original place)

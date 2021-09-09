@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hazing the Newcomer, Abbacchio
+Card No.:JJ/S66-TE04
+Rarity:TD
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Lets have some tea and chat.
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 This card gets +500 power for each of your other 《Golden Wind》 characters.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

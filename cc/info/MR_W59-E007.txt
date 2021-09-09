@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Memories of Hatred" Felicia
+Card No.:MR/W59-E007
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 At the beginning of your attack phase, choose 1 character in your center stage, and if the levels of all your characters in your center stage are the same as that character's,this card gets +3000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)", '

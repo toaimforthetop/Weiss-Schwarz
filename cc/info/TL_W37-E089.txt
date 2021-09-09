@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Naked Apron” Haruna
+Card No.:TL/W37-E089
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Eh heh heh…?
+Trigger:
+Special Attribute:Sports・Animal
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".

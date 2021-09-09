@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Me From That Time" Kurumi
+Card No.:DAL/W79-E013
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:"It wont do for you to fall for those words.
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".
+Text:【AUTO】 This ability activates up to 1 time per turn. When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0. Return the revealed card to its original place)

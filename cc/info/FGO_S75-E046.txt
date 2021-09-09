@@ -1,0 +1,16 @@
+Card Name:
+English Name:Wise King's Holy Grail
+Card No.:FGO/S75-E046
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Put 2 cards from the top of your deck into your waiting room, choose up to 1 level X or lower 《Chaldea》 or 《Babylonia》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)

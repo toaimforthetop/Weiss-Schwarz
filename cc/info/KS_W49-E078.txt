@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Sacred Turn Undead” Aqua
+Card No.:KS/W49-E078
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:7000
+Soul:1
+Flavor Text:"Sacred Turn Undead"!!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, put that character into your opponent's memory.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Captain Gordon, Defender of Earth
+Card No.:DG/S02-TE15
+Rarity:C
+Expansion:Disgaea ～Hour of Darkness～
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:You fiend! As the 37th Defender of Earth, I will lay waste to your wicked plans!
+Trigger:Soul
+Special Attribute:Brave・Weapon
+Text:-

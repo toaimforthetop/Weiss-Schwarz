@@ -1,0 +1,16 @@
+Card Name:
+English Name:Model Student, Kanade
+Card No.:AB/W31-TE22
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Second periods about to start.
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] During your turn, this card gets +500 power for each of your other  《Death》 characters

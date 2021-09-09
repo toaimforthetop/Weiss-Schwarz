@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Droopy Temptation" Sylvia
+Card No.:KS/W76-E087
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Kazuma: "See, Sylvia-san here... She actually appreciates me."
+Trigger:Soul
+Special Attribute:Devil King Army・-
+Text:【CONT】 If you have 4 or more  《Devil King Army》 characters or characters with "Kazuma(カズマ)" in its card name, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(2) Put 1 card from your hand into your waiting room & Put 2 《Devil King Army》 characters from your waiting room face up in any order underneath this card as markers]When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose 1 ""Synthesis With the Mage Killer" Sylvia" in your waiting room, put it on the position that this card is on as 【REST】, and put this card and all markers underneath this card face up in any order underneath that ""Synthesis With the Mage Killer" Sylvia" as markers.

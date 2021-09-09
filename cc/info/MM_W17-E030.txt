@@ -1,0 +1,18 @@
+Card Name:
+English Name:Ultimate Madoka
+Card No.:MM/W17-E030
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:My wish was to erase all witches.
+Trigger:Soul
+Special Attribute:Magic
+Text:【AUTO】 When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【AUTO】［Put this card into your memory］ When a card named "Madoka\'s Wish" is placed on your climax area, you may pay the cost. If you do, search your deck for up to one card named "Homura "Fights On"", and put it on the stage position that this card was on. Shuffle your deck afterwards, and that character gets +3000 power until end of your opponent\'s next turn. 
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Ultimate Madoka" in your waiting room, and put it on the stage position that this card was on.

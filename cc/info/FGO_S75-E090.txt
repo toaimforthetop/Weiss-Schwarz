@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rescue From a Crisis, Fou
+Card No.:FGO/S75-E090
+Rarity:C
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Fooou!
+Trigger:
+Special Attribute:Chaldea・Beast
+Text:【AUTO】 [(2) Return this card to your hand] When your other 《Chaldea》 or 《Sweets》 character becomes 【REVERSE】 in battle, if this card is in your back stage, you may pay the cost. If you do, return that character to your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn.", '

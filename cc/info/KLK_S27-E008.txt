@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ryuko in Pajamas
+Card No.:KLK/S27-E008
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"My Kamuis in the laundry!
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 Bond／"Fight Club President, Mako" ［Put the top card of your deck into your clock］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Fight Club President, Mako" in your waiting room, and return it to your hand.)【ACT】 [(1)] This card gets +1 soul until end of turn.

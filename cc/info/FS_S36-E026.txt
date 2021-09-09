@@ -1,0 +1,16 @@
+Card Name:
+English Name:Signal to Counterattack
+Card No.:FS/S36-E026
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Lets get started, King of Heroes――", 'Do you have enough weapons stored up?
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your 《Master》 or 《Servant》 characters, and that character gets +3500 power until end of turn.

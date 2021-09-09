@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Secret Recipes” Maki Nishikino
+Card No.:LL/EN-W02-E154
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"You know, Im not particularly interested in cooking……
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card attacks, if a blue climax is in your climax area, draw a card, choose a card in your hand, and put it into your waiting room.

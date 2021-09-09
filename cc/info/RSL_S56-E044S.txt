@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sudden Closeness, Karen & Mahiru
+Card No.:RSL/S56-E044S
+Rarity:SR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Karen: "Come on, support it with your diaphragm!"Mahiru: "Eh?! Like this?"
+Trigger:
+Special Attribute:Revue・－
+Text:【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

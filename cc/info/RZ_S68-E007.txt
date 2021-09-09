@@ -1,0 +1,17 @@
+Card Name:
+English Name:Girl from Village Irlam, Petra
+Card No.:RZ/S68-E007
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Ah, Subaru!
+Trigger:Soul
+Special Attribute:Memory Snow・-
+Text:【CONT】 Experience If  "Aim for New York? Petra" and "Delicious Reward, Petra" are in your level, this card gets -1 level while in your hand.
+Text:【AUTO】 【CXCOMBO】 When "Out-of-Season Snow Festival" is placed on your climax area, if this card is on your center stage, this card gets the following ability until the end of your opponent\'s next turn. "【AUTO】 At the beginning of the attack phase, choose up to 2 level 0 or lower 《Memory Snow》 characters in your waiting room, put them on separate positions of your stage, and you may put the top card of your deck into your waiting room. If that card is a 《Memory Snow》 character or "Flying Assault Form of the Ultra-Firepower Weapon S-N0 BUN-E", choose 1 of your other level 0 or lower characters, and that character gets +9000 power and +1 soul until end of turn."

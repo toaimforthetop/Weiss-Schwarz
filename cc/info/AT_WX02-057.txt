@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lord Monochromicorn
+Card No.:AT/WX02-057
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fanfiction・-
+Text:【CONT】 All of your other "Prince Gumball" get the following ability. "【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+Text:【CONT】 All of your other 《Ooo》 or 《Fanfiction》 characters get +500 power.

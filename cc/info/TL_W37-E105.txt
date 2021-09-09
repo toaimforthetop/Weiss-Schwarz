@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Lala
+Card No.:TL/W37-E105
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Whats wrong, Rito-
+Trigger:
+Special Attribute:Alien・Science
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose an 《Alien》 character in your waiting room, and return it to your hand.

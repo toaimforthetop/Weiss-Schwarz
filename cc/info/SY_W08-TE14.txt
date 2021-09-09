@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Haruhi & Nagato
+Card No.:SY/W08-TE14
+Rarity:TD
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text: Haruhi: "Everyone\'s here." 
+Trigger:
+Special Attribute:Brigade Leader・Alien
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, choose one of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】."

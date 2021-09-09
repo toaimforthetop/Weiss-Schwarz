@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Happy Moment, Asuna & Yui
+Card No.:SAO/S20-PE03
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Asuna: "We\'ll be together forever, Yui."
+Trigger:
+Special Attribute:Avatar・Net
+Text:【CONT】 During your turn, all of your other characters get +500 power.

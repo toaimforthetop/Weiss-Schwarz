@@ -1,0 +1,17 @@
+Card Name:
+English Name:Self-Praise, Ram
+Card No.:RZ/S46-E044
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I do believe my honesty is my most charming feature.
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 If the character facing this card is level 3 or higher, this card gets +4500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Magic》 or 《Weapon》 characters you have is four or more, you may put the top card of your deck into your stock.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Veteran Player, Pitohui
+Card No.:GGO/S59-TE14R
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

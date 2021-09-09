@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Octopus Towel" Ran Mitake
+Card No.:BD/W63-E103
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Ran: "Sounds like the perfect way to remember the day."
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Music》 characters, this card gets +2000 power until end of turn.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.

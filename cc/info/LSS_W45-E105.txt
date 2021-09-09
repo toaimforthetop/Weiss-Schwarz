@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit You
+Card No.:LSS/W45-E105
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 This card cannot side attack.

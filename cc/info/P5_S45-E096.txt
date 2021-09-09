@@ -1,0 +1,16 @@
+Card Name:
+English Name:Calling Card
+Card No.:P5/S45-E096
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Madarame: "It\'s those damn brats\'doing, isn\'t it?Well, it means nothing... They\'llonly be able to do as they pleaseuntil this exhibit is over…"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If there are no face down cards in your opponent\'s memory, your opponent chooses a card from your opponent\'s hand, puts it face down into his or her memory, and draws up to one card.Choose one of your 《Thief》 characters, and until end of turn, that character gets +2500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent\'s deck."

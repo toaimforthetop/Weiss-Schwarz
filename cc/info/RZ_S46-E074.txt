@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gaze of Admiration, Rem
+Card No.:RZ/S46-E074
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"My sister really is amazing. I can\'t match her in anything. In that case, I don\'t have to do anything anymore. I can just walk behind her..."
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 You cannot play event cards and "Backup" from hand.

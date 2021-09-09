@@ -1,0 +1,16 @@
+Card Name:
+English Name:Big Misunderstanding, Kaede Azusagawa
+Card No.:SBY/W64-TE16
+Rarity:TD
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Then, is she making you buy a vase?
+Trigger:Soul
+Special Attribute:Adolescence・Animal
+Text:【CONT】 If you have 2 or more other 《Adolescence》 characters, this card gets +2000 power.

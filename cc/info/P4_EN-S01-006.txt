@@ -1,0 +1,19 @@
+Card Name:
+English Name:Nanako Dojima
+Card No.:P4/EN-S01-006
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"My schools on the way, so… let's go together.
+Trigger:
+Special Attribute:TV・Junes
+Text:【AUTO】 Bond／"Protagonist(P4)" [(1)] （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Protagonist(P4)" in your waiting room, and return it to your hand.)
+Text:
+Text:【ACT】 [(1) 【REST】 this card] Choose one of your characters with 《Hero》 or "Protagonist(主人公)" in its card name, and that character gets +1 soul until end of turn.
+Text:【AUTO】 When this card attacks, put the top three cards of your deck into your waiting room. If there is one or more 《Junes》 characters among those cards, this card gets +2000 power until end of turn. If there are two or more 《Junes》 characters among those cards, you may put the top card of your clock into your waiting room. If there are three or more 《Junes》 characters among those cards, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.", '

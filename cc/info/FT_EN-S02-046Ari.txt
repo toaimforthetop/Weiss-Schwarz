@@ -1,0 +1,17 @@
+Card Name:
+English Name:Celestial Spirit of the Zodiac Gates
+Card No.:FT/EN-S02-046Ari
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:Aries: "Wool bomb!!!"
+Trigger:Soul
+Special Attribute:Magic・Key
+Text:【AUTO】 Memory When you use this card\'s "Backup", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1500 power until end of turn.
+Text:【ACT】【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)

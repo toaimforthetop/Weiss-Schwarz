@@ -1,0 +1,17 @@
+Card Name:
+English Name:A New Story, Madoka
+Card No.:MR/W59-E033
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Im a Magical Girl…so I have to do this!
+Trigger:
+Special Attribute:Magic・Heal
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Magic》 characters you have ×500.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, put the top card of your deck into your waiting room. If that card has the same card name as a character on your stage, put that card into your stock.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Red Robin: Sinking Ship
+Card No.:BNJ/SX01-T03
+Rarity:TD
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"We need to go! She cant stay afloat much longer!
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use "【AUTO】 Encore" until end of turn. (You cannot use the "【AUTO】 Encore [(3)]" rule either)

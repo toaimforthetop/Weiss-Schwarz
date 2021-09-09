@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yusuke as FOX: The Phantom Artist
+Card No.:P5/S45-E080
+Rarity:R
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I thank you, Madarame...!Every reason for me to forgiveyou has disappeared without atrace at this very moment!
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Calling Card" in your waiting room, and return it to your hand.
+Text:【AUTO】 This ability activates up to one time per turn. When you play an event, this card gets +2000 power until end of turn.

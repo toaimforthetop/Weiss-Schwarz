@@ -1,0 +1,18 @@
+Card Name:
+English Name:Angel Trainee Flonne
+Card No.:DG/EN-S03-E059
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:This is love.
+Trigger:
+Special Attribute:Angel・Love
+Text:【CONT】 All of your other characters get 《Love》.
+Text:【AUTO】 Bond/"Supreme Overlord Laharl" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Supreme Overlord Laharl" in your waiting room, and return it to your hand.)
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of cards in your deck is five or less, return all cards in your waiting room to your deck. If you do, shuffle your deck, and this card gets +3000 power until the end of your opponent's next turn.", '

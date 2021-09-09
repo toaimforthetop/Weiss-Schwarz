@@ -1,0 +1,18 @@
+Card Name:
+English Name:5th Shiratsuyu-class Destroyer, Harusame Kai
+Card No.:KC/S42-E093
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Lets work hard for today's transport mission. Transporting and escorting are important. 
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 This card gets +1000 power for each marker underneath this card.
+Text:【AUTO】 This ability activates up to one time per turn. When you play a card named "Drum Can(Transport Use)", you may put the top card of your deck underneath this card as a marker.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck underneath this card as a marker.

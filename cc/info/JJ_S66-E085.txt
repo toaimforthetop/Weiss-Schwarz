@@ -1,0 +1,17 @@
+Card Name:
+English Name:Indestructible Flexibility, S.L
+Card No.:JJ/S66-E085
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:Making things "softer"... Means they become harder to break than diamonds!
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Determination to Awaken" is in your climax area, reveal the top card of your deck. If that card is a 《Golden Wind》 character, put it into your hand. (Otherwise, return it to its original place)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Teruki
+Card No.:MOB/SX02-102
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Esper・Hair
+Text:【CONT】 During your turn, if you have another 《Esper》 character, this card gets +3000 power.
+Text:【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +500 power for each of your other 《Esper》 characters.

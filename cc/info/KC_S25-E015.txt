@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Yugumo-class Destroyer, Makigumo
+Card No.:KC/S25-E015
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Commander, was Makigumo of any help?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【ACT】[(3)] Until end of turn, this card gets +7500 power and the following ability. "【AUTO】When this card\'s battle opponent becomes 【Reverse】, you may put that character into your opponent\'s stock."

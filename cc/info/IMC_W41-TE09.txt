@@ -1,0 +1,16 @@
+Card Name:
+English Name:Charisma JK, Mika
+Card No.:IMC/W41-TE09
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Power~
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I heard your CD debut', 'is in the works. 
+Trigger:
+Special Attribute:Music・Gal
+Text:【CONT】 During your turn, this card gets +2000 power.

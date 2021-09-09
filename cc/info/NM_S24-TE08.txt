@@ -1,0 +1,16 @@
+Card Name:
+English Name:Smaller of the Sisters, Tsukihi Araragi
+Card No.:NM/S24-TE08
+Rarity:TD
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0 
+Power:1000 
+Soul:1
+Flavor Text:Mm?
+Trigger:
+Special Attribute:Strange・Japanese Clothes
+Text:【AUTO】 Bond/"Brushing Teeth, Karen Araragi" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Brushing Teeth, Karen Araragi" in your waiting room, and return it to your hand.)

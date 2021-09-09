@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Magazines & A Kiss" LLENN
+Card No.:GGO/S59-E052
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:"Ill keep my promise.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have 2 or more other 《Avatar》 or 《Net》 characters, this card gets +2000 power and "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".

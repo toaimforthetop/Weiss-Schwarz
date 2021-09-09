@@ -1,0 +1,16 @@
+Card Name:
+English Name:Beauty Dressed as a Man, Crusch
+Card No.:RZ/S55-E016
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +3000 power.

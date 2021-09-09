@@ -1,0 +1,18 @@
+Card Name:
+English Name:Emilia All Alone
+Card No.:RZ/SE35-E11
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"Youve never talked about making a contract before... so...
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 All of your other ""Call My Name" Puck" get +1000 power.
+Text:【CONT】 Assist All of your 《Magic》 or 《Weapon》 characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Search your deck for up to 1 character with "Emilia (エミリア)" or "Puck (パック)" in its card name, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets +1000 power until end of turn.

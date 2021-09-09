@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kagamine Len "Ciel"
+Card No.:PD/S29-E017
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Snow
+Text:【CONT】 Memory If a card named "Kagamine Rin "Soleil"" is in your memory, this card gets +2000 power.
+Text:【AUTO】 Memory When this card attacks, if a card named "Soundless Voice" is in your climax area, and a card named "Kagamine Rin "Soleil"" is in your memory, this card gets +3000 power until the end of your opponent\'s next turn.

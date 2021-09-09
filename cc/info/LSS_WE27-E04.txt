@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Do Your Rubesty" Ruby Kurosawa
+Card No.:LSS/WE27-E04
+Rarity:R
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Do your Rubesty!
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 Bond/""MIRAI TICKET" Dia Kurosawa" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""MIRAI TICKET" Dia Kurosawa" in your waiting room, and return it to your hand)【ACT】 [【REST】 this card] Choose one of your cards named ""MIRAI TICKET" Dia Kurosawa", and that character gets +2500 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Counter, Maple
+Card No.:BFR/S78-E022
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:[Counte
+Trigger:Soul
+Special Attribute:Game・Shield
+Text:【AUTO】 [(2)] When you use this card\'s "Backup", you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)
+Text:【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

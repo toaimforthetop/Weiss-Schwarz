@@ -1,0 +1,18 @@
+Card Name:
+English Name:Reborn Krichevskoy
+Card No.:DG/EN-S03-E094
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Garungun: "He is the newest and evilest Overlord in New Netherworld history, New King Krichevskoy!"
+Trigger:
+Special Attribute:Prinny・-
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.
+Text:【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1500 power until end of turn.
+Text:【CONT】 If the number of your other characters is one or less, all of your other characters get +1500 power.

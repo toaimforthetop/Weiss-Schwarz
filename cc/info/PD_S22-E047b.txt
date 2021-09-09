@@ -1,0 +1,16 @@
+Card Name:
+English Name:Senbonzakura
+Card No.:PD/S22-E047b
+Rarity:CR
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:希望の丘\u3000遥か彼方
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul. 

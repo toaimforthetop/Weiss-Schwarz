@@ -1,0 +1,16 @@
+Card Name:
+English Name:"A Definite Step" Hange
+Card No.:AOT/S50-E043
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Erwin: "It\'s just…… with this, we\'ve taken one more step towards the truth."
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Corps》 character, this card gets +2000 power until end of turn.

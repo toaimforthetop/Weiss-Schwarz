@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Riding" Skill, Saber
+Card No.:FZ/S17-TE04
+Rarity:TD
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:My Riding skill allows me to command any beast or vehicle.
+Trigger:
+Special Attribute:Servant・Royalty
+Text:-

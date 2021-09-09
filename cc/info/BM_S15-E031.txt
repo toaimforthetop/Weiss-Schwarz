@@ -1,0 +1,16 @@
+Card Name:
+English Name:Koyomi's Lover, Hitagi Senjyogahara
+Card No.:BM/S15-E031
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Strange・Stationery
+Text:[CONT] Experience This card gets +X power. X is equal to 500 multiplied by the total level of cards in your level.

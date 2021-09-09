@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sweet Temptation, Administrator
+Card No.:SAO/S65-E056S
+Rarity:SR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【CONT】 Experience If all of the cards in your level have "Administrator(アドミニストレータ)" or "Quinella(クィネラ)" in their card names, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if "Temptation into Eternal Stasis" is in your climax area, you may pay the cost. If you do, put the top card of your deck into your waiting room. If that card is a 《Fluctlight》 character, choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】.

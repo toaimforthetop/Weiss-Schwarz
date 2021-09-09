@@ -1,0 +1,16 @@
+Card Name:
+English Name:Adlib
+Card No.:NK/W30-E074
+Rarity:CC
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Raku: "The road I\'ll be traveling is a blood-soaked trail involving both families. I don\'t want to get my fragile little sister involved in such an ordeal!!"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

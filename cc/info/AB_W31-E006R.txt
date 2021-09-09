@@ -1,0 +1,17 @@
+Card Name:
+English Name:End of the Confrontation, Kanade
+Card No.:AB/W31-E006R
+Rarity:RRR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:What I can do, for everyone.
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] During your turn, this card gets +1000 power.
+Text:[ACT] Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Death》characters, and that character gets +2000 power until end of turn.

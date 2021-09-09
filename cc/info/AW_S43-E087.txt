@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Nega Nebulas》 Submaster, Fuko
+Card No.:AW/S43-E087
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"And that black tornado, theres no effect like that", "in a Weathered Stage.And that black tornado, there's no effect like that", "in a Weathered Stage.And that black tornado, there's no effect like that", 'in a Weathered Stage.
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【ACT】 [(1) Put a climax from your hand into your waiting room] Look at the top card of your deck, put it on the top or the bottom of your deck, and draw one card.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Promise in your Heart, Asuna & Kirito
+Card No.:SAO/S51-E010
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Kirito: "Trust me, and wait for me, Asuna."
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Memory If a card named "Promise Under the Meteors, Asuna" is in your memory, this card gets +5000 power and +1 soul.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bard, Isuzu
+Card No.:LH/SE20-E22
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:"Come on. It wasnt worth any applause, was it?
+Trigger:Soul
+Special Attribute:Weapon・Music
+Text:【CONT】 If the number of other 《Weapon》 or 《Magic》 characters you have is three or more, this card gets +1000 power and "【AUTO】 Encore [Put a character from your hand into your waiting room］".

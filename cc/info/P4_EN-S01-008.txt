@@ -1,0 +1,19 @@
+Card Name:
+English Name:Friendly Siblings, Protagonist & Nanako
+Card No.:P4/EN-S01-008
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:"But Im not lonely… You're here with me.
+Trigger:Soul
+Special Attribute:Junes・TV
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the level of the character facing this card.
+Text:
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)
+Text:【AUTO】 When this card attacks, put the top three cards of your deck into your waiting room. If there is one or more 《Junes》 characters among those cards, this card gets +2000 power until end of turn. If there are two or more 《Junes》 characters among those cards, you may put the top card of your clock into your waiting room. If there are three or more 《Junes》 characters among those cards, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.", '

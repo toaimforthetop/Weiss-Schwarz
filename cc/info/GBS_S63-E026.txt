@@ -1,0 +1,16 @@
+Card Name:
+English Name:Faith Entrusted to the Bow
+Card No.:GBS/S63-E026
+Rarity:CC
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"We have to get going, dont we?
+Trigger:Soul・Return
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Domineering Princess, Luvia
+Card No.:PI/EN-S04-E019
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Alone, we probably wouldnt have been able to win.
+Trigger:
+Special Attribute:Jewel・Heiress
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

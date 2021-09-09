@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kagamine Rin "Heat Haze"
+Card No.:PD/S29-E004
+Rarity:R
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【CONT】 During your turn, all of your other 《Music》 characters get +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)

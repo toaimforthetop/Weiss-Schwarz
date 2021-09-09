@@ -1,0 +1,19 @@
+Card Name:
+English Name:Criticizing Role, Koyomi Araragi
+Card No.:BM/S15-E053
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:No way, that was on purpose……
+Trigger:
+Special Attribute:Strange・Blood
+Text:[CONT] If you are at level 2 or higher, this card gets the following ability. "[ACT]［(3) Put the top card of your deck into your clock］ Choose a card named "Girl Who Met a Crab, Hitagi Senjyogahara" in your hand, and put it on any position of your stage."
+Text:[CONT] All of your other characters with "Hitagi" in its card name get +500 power. 
+Text:[AUTO] When this card attacks, if a card named "Flubbing Girl" is in your climax area, this card gets +6000 power until end of turn. Then, at the beginning of your encore step, return this card to your deck. Shuffle your deck afterwards.
+Text:[AUTO] Experience When this character's level 1 or higher battle opponent becomes [REVERSE], if the total level of the cards in your level is two or higher, you may put that character on top of your opponent's deck.

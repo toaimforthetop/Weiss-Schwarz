@@ -1,0 +1,17 @@
+Card Name:
+English Name:Date-Day Morning, Emilia
+Card No.:RZ/S68-E066
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.
+Text:【ACT】 [【REST】 1 of your 《Memory Snow》 characters] This card gets +1000 power until end of turn.

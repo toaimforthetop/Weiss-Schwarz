@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Farewell to Nightmares” Sayaka
+Card No.:MM/W35-E087
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Love
+Text:【AUTO】 When your opponent uses "Brainstorm", if a climax is put into the waiting room by that effect, you may draw a card. If you do, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 Bond／"Exterminating Nightmares, Kyoko" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Exterminating Nightmares, Kyoko" in your waiting room, and return it to your hand.)
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Magic》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards.

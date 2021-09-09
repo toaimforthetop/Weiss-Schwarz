@@ -1,0 +1,16 @@
+Card Name:
+English Name:Drain Touch
+Card No.:KS/W49-E065
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Im sorry! Drain Touch-!!
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Wiz(ウィズ)" or "Kazuma(カズマ)" in its card name, this card cannot be played from your hand.You may choose one of your opponent\'s level 1 or lower characters, and put it into your opponent\'s waiting room. If you do, your opponent chooses up to one level 0 or lower character in his or her waiting room, and puts it on the stage position that character was on.Put this card into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Deadly Strike” Lancer
+Card No.:FS/S36-E036
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Ill have your heart!
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 [Put a 《Weapon》 character from your hand into waiting room & 【REST】 one of your other 【STAND】 green characters] When this card attacks, if a card named "“Gae Bolg”" is in you climax area, you may pay the cost. If you do, choose one of your opponent\'s characters, and that character gets -3000 power until end of turn.

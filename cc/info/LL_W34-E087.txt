@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Snow Halation" Rin Hoshizora 
+Card No.:LL/W34-E087
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 During your opponent\'s turn, this card gets +500 power for each of your other characters with "Rin(凛)" in its card name.

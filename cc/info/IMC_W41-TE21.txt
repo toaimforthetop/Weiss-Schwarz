@@ -1,0 +1,16 @@
+Card Name:
+English Name:Producer Holding Out Name Card
+Card No.:IMC/W41-TE21
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Smile~
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You are Uzuki Shimamura, yes?
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 All of your other red characters get +500 power.

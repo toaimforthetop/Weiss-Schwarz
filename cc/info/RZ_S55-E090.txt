@@ -1,0 +1,17 @@
+Card Name:
+English Name:Frightened Rem
+Card No.:RZ/S55-E090
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Sister, Sister. Could our guest be a troubled man who takes pleasure from torture?
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 If you have 2 or more other 《Magic》 or 《Weapon》 characters, this card's soul does not decrease by side attacking.
+Text:【AUTO】 When this card attacks, all of your characters get +1000 power until end of turn.", '

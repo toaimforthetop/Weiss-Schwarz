@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mameta Inukawa
+Card No.:MOB/SX02-037
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Ive brought him!
+Trigger:
+Special Attribute:Club Activities・-
+Text:【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to the soul of that character ×1000.

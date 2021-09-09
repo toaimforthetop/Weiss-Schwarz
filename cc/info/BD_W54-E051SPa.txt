@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Sister I Adore" Rimi Ushigome
+Card No.:BD/W54-E051SPa
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【AUTO】 At the beginning of your climax phase, choose one of your characters, and that character gets +500 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one character in your waiting room, and return it to your hand.

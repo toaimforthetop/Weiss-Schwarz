@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Haruhi
+Card No.:SY/WE09-E17
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I dont know when those are!
+Trigger:
+Special Attribute:Brigade Leader・Swimsuit
+Text:【AUTO】 [(2) Put this card into your clock] When a card named "End of Summer" is placed on your climax area, you may pay the cost. If you do, choose a card named "Flower Viewing, Haruhi" in your waiting room, and put it on the stage position that this card was on.

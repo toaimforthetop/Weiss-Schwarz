@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hatsune Miku"Polka Dot Bikini"
+Card No.:PD/S22-E082
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Swimsuit
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist".
+Text:【ACT】［1］ Choose one of your 《Music》 characters, and that character gets +1000 power until end of your opponent\'s next turn.

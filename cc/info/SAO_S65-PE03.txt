@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Because We Were Together" Kirito & Eugeo
+Card No.:SAO/S65-PE03
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Eugeo: "I know already. Stay cool, right?"
+Trigger:
+Special Attribute:Fluctlight・Weapon
+Text:【CONT】 If all of your characters are 《Fluctlight》, this card gets +1000 power.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

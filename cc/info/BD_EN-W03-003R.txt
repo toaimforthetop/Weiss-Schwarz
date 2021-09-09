@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Perfect Nutrition!" Hagumi Kitazawa
+Card No.:BD/EN-W03-003R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Hey, Ako-chan. Is there anything I can help with? Taking care of her by yourself must be a lot of work.
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】[(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, draw 1 card.

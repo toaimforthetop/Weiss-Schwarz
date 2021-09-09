@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unexpected Words, Hitagi Senjyogahara
+Card No.:NM/S24-E063
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"……Oh, no. Thats really cool.
+Trigger:
+Special Attribute:Strange
+Text:【CONT】 If you have another character with "Koyomi(暦)" in its card name, this card gets +1500 power.

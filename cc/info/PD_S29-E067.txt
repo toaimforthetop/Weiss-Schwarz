@@ -1,0 +1,16 @@
+Card Name:
+English Name:MEIKO "Scarlet"
+Card No.:PD/S29-E067
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Dress
+Text:【AUTO】 [Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, if you do not have any other characters, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room with "MEIKO" or "MEIKO(メイコ)" in its card name, and put it on the stage position that this card was on.

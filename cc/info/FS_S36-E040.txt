@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Complex Emotions” Sakura
+Card No.:FS/S36-E040
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sports・-
+Text:【CONT】 If this card is in your center stage, this card cannot 【STAND】 during your stand phase.

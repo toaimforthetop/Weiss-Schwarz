@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Unryu-class Aircraft Carrier, Katsuragi Kai
+Card No.:KC/S42-E023
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Aircraft Carrier Katsuragi, preparations complete!
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【CONT】 If the number of 《Fleet Girl》 characters you have is four or more, this card gets -1 level while in your hand.
+Text:【AUTO】 When you level up, this card gets "【AUTO】 Encore [(1)]" until end of turn.

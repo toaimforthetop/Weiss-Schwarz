@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Advance" Berserker of Red
+Card No.:APO/S53-TE05
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Muscle
+Text:【CONT】 You cannot play event cards and "Backup" from hand.

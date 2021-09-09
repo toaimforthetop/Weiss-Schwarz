@@ -1,0 +1,17 @@
+Card Name:
+English Name:Acquiring Freedom, Ereshkigal
+Card No.:FGO/S75-E002
+Rarity:RR
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Fujimaru: "...I want you to fight Gorgon with me."
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of  《Chaldea》 or 《Babylonia》 characters among those cards ×1000.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock]  When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1  《Chaldea》 or 《Babylonia》 character in your waiting room, and return it to your hand. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tsukuyo Amane
+Card No.:MR/W59-E036
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Were spitting images of one another!
+Trigger:
+Special Attribute:Magic・Balance
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Non-Stop Training" is in your climax area, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, and choose 1 level 1 or lower character in your opponent\'s back stage. That character cannot 【STAND】 during your opponent\'s next stand phase.

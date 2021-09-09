@@ -1,0 +1,16 @@
+Card Name:
+English Name:Experienced Multiplayer
+Card No.:SAO/S51-E069
+Rarity:CR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Lisbeth: "All right, wanna go out there and grab some points?"Asuna & Silica: "Yeah!"
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand.)

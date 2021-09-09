@@ -1,0 +1,17 @@
+Card Name:
+English Name:Highly Considerate, Puck
+Card No.:RZ/S68-E081
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"I think Subaru just wants to play with you, Betty.Actually, Id like to do that too, if possible.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 During your turn, all of your other "Bored Spectator, Beatrice" get +2000 power.
+Text:【AUTO】 Bond/"Bored Spectator, Beatrice" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 "Bored Spectator, Beatrice" in your waiting room, and return it to your hand)

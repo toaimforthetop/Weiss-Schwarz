@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rin Kujo
+Card No.:TL/W37-E051
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Weapon
+Text:【CONT】 if you have cards named "Saki Tenjoin" and "Aya Fujisaki", this card gets -1 level while in your hand.

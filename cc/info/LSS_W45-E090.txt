@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Hug" Kanan Matsuura
+Card No.:LSS/W45-E090
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Give me a hug?
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card attacks, if a card named ""We Want to Shine!" Mari & Kanan & Dia" is in your climax area, this card gets +X power until the end of your opponent\'s next turn. X is equal to 500 multiplied by the number of your 《Music》 characters.

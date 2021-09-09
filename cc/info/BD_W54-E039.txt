@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Onstage" Ran Mitake
+Card No.:BD/W54-E039
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"The same as always," right? Let\'s go.
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a character in his or her center stage, and that character gets -3000 power until end of turn

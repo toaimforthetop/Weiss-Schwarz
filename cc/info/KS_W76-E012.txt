@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sightseeing in the Crimson Demon Village!" Darkness
+Card No.:KS/W76-E012
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:You and the others should enjoy your sightseeing, Kazutrash.
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【CONT】 During your opponent's turn, if all of your characters are 《Adventurer》 or 《Magic》, this card gets +1 level and +1500 power.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.", '

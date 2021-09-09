@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unique Skill "Great Sage"
+Card No.:TSK/S70-E096
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Sage will transform into the unique skill Great Sage. Successful.
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.
+Text:【AUTO】 Memory At the beginning of your climax phase, if this card is in your memory, choose 1 of your characters with "Rimuru(リムル)" in its card name, and that character gets +2500 power until end of turn.

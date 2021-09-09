@@ -1,0 +1,17 @@
+Card Name:
+English Name:1st Fubuki-class Destroyer, Fubuki Kai-II
+Card No.:KC/S42-E060
+Rarity:RR
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Commence Fire! Go-!
+Trigger:Soul
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn.
+Text:【AUTO】 [(3) Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal X damage to your opponent. X is equal to the number of other 《Destroyer》 characters you have. (This damage may be canceled)

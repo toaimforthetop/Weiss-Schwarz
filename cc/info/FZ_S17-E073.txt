@@ -1,0 +1,18 @@
+Card Name:
+English Name:Memories of Distant Past, Sakura & Aoi & Rin
+Card No.:FZ/S17-E073
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:No Flavor Text
+Trigger:
+Special Attribute:Jewel・-
+Text:【AUTO】 When this card is placed on stage from your hand, choose another of your 《Jewel》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand. 
+Text:【CONT】 All of your other 《Servant》 characters get +500 power. 

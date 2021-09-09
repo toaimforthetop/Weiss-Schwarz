@@ -1,0 +1,16 @@
+Card Name:
+English Name:Aesthetics of Death, Caster
+Card No.:FZ/S17-E090
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Indeed! Exactly so! Impressive, Ryunosuke!
+Trigger:
+Special Attribute:Servant・Book
+Text:【AUTO】 When a card named "Prank of Fate" is placed on your climax area, if this card is on the center stage, search your deck for up to one level 0 or lower character, and put it on any position of your stage. Shuffle your deck afterwards. 

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Re-class Battleship
+Card No.:KC/SE28-E39
+Rarity:U
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1 
+Power:6000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Battleship
+Text:【CONT】 If your opponent has a 《Fleet Girl》 character, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, you may choose one of your opponent's level 0 or lower characters, and put it on the bottom of his or her deck. (The revealed card is returned to its original place)", '

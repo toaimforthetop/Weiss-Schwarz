@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mikuru Beam
+Card No.:SY/W08-E045
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:M-M-Mikuru Beam!
+Trigger:
+Special Attribute:
+Text:If you do not have a 《Time》 character, this card cannot be played from your hand.
+Text:Choose a character in your clock, and return it to your hand.', "Choose one of your oponent's characters, and that character gets -1000 power until end of turn.", 'Put this card into your clock.
+Text:-

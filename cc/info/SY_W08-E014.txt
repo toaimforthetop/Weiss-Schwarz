@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kyon's Apron Look
+Card No.:SY/W08-E014
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"But realitys harsher than you think.
+Trigger:
+Special Attribute:Book・SOS Brigade
+Text:【CONT】 During your turn, all of your other characters get +500 power.
+Text:【AUTO】 When your opponent uses "Brainstorm", if a climax is put into the waiting room by that effect, choose one of your characters, and that character gets +2000 power until end of turn.
+Text:【CONT】 Alarm If this card is the top card of your clock, all of your characters with no traits get the following ability. "【AUTO】 [(1)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one character with no traits, reveal it to your opponent, put it into your hand, and shuffle your deck."

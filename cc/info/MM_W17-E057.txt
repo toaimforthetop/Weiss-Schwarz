@@ -1,0 +1,16 @@
+Card Name:
+English Name:Time Manipulation
+Card No.:MM/W17-E057
+Rarity:CC
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Im not, even living in the same time as you are, Madoka.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

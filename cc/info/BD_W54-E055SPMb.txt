@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Theme Park Fun!" Kasumi Toyama
+Card No.:BD/W54-E055SPMb
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.

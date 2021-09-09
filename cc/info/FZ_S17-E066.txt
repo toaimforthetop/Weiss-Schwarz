@@ -1,0 +1,16 @@
+Card Name:
+English Name:Matou's Obsession, Zouken
+Card No.:FZ/S17-E066
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Im amazed that a failure like you would dare show your face here.
+Trigger:
+Special Attribute:Insect・-
+Text:【ACT】［Put the top card of your deck into your clock & 【REST】 this card] Choose one of your 《Master》 characters, and that character gets +2500 power until end of turn. 

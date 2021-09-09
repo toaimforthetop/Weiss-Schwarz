@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ties That Bind, Miyu
+Card No.:PI/EN-S04-E028
+Rarity:RR
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:If you want a reason… I have one.
+Trigger:
+Special Attribute:Master・Magic
+Text:【AUTO】 [Put this card into your waiting room] When another of your characters with "Illya(イリヤ)" in its card name is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1500 power until end of turn.
+Text:【AUTO】 Bond/"Usual Scenery, Illya" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Usual Scenery, Illya" in your waiting room, and return it to your hand.)

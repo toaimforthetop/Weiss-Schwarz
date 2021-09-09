@@ -1,0 +1,16 @@
+Card Name:
+English Name:Realistic Miyu
+Card No.:PI/EN-S04-E060S
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:People… cannot fly.
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)【AUTO】 Change [Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "“Kaleidoscope” Miyu" in your waiting room, and put it on the stage position that this card was on.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Big Bro” Shirou
+Card No.:PI/EN-S04-E046
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Shes Illya's cousin!?
+Trigger:
+Special Attribute:Sports・-
+Text:【CONT】 During your opponent\'s turn, all of your other characters get +500 power.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with "Experience", reveal it to your opponent, put it into your hand and shuffle your deck.

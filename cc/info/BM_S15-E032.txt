@@ -1,0 +1,18 @@
+Card Name:
+English Name:Suruga Kanbaru
+Card No.:BM/S15-E032
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Strange・Sports
+Text:[CONT] Experience If the total level of the cards in your level is five or higher, this card gets +1000 power and "[AUTO] Encore ［Put a character from your hand into your waiting room］".
+Text:[AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. 
+Text:[CONT] Experience This card gets +X power. X is equal to 500 multiplied by the total level of cards in your level.

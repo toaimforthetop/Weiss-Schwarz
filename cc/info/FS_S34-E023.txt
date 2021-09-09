@@ -1,0 +1,16 @@
+Card Name:
+English Name:During Morning Practice, Mitsuzuri
+Card No.:FS/S34-E023
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Hey, Tohsaka?', "You're early today.
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck, and your opponent may put the top card of your deck on the bottom of your deck. (If not, return the revealed card to its original place)", '

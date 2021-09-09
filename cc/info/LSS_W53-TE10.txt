@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Now Then, Where Shall We Go?" Chika Takami
+Card No.:LSS/W53-TE10
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

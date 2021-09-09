@@ -1,0 +1,18 @@
+Card Name:
+English Name:Exterminating Nightmares, Kyoko
+Card No.:MM/W35-E065
+Rarity:R
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:All according to plan.
+Trigger:Soul
+Special Attribute:Magic・Sweets
+Text:【AUTO】 [(2) Put a character from your stage into your waiting room] When you use this card\'s "Backup", you may pay the cost. If you do, choose one of your opponent\'s characters with level higher than your opponent\'s level, and put it into your opponent\'s waiting room.
+Text:【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose a character in your waiting room, and you may return it to your hand."

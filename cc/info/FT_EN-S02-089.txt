@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cana Alberona
+Card No.:FT/EN-S02-089
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Elfman can hold his own against Phantom....
+Trigger:
+Special Attribute:Magic・Fortune Telling
+Text:【CONT】 Your other character in the middle position of the center stage gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Dimple: Innocent Introduction
+Card No.:MOB/SX02-032
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Good morning. Isnt it a lovely morning, Partner?
+Trigger:
+Special Attribute:Spirit・-
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When your "Dimple: High-Level Evil Spirit" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card on any position of your stage as 【REST】.

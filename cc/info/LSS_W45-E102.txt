@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Hanamaru
+Card No.:LSS/W45-E102
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put this card into your stock. (The revealed card is returned to its original place)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Syaoran: Athletic
+Card No.:CCS/WX01-T01
+Rarity:TD
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Chiharu: "Pretty athletic, isn’t he?"Sakura: "Yeah, he really is."
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 This card cannot side attack.

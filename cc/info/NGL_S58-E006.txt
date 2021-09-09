@@ -1,0 +1,17 @@
+Card Name:
+English Name:Existence-Robbing Game, Sora
+Card No.:NGL/S58-E006
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Shiro: "I should\'ve come sooner…"
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 All of your other "Reunion with Brother, Shiro" get +1 soul.
+Text:【AUTO】 [Put the top card of your deck into your clock] When a climax is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Game》 character or an event card, put it into your hand. (Otherwise, return it to its original place)【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.

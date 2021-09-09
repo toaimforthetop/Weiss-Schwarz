@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Gentle Ally" Conny
+Card No.:AOT/S35-E011
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I dont like the idea of so many of us being dead for nothing.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] If the number of your other 《Corps》 characters is two or more, this card gets +1000 power.

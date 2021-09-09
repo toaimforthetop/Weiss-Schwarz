@@ -1,0 +1,16 @@
+Card Name:
+English Name:Stacia Window
+Card No.:SAO/S65-TE18
+Rarity:TD
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Look at up to 3 cards from the top of your deck, put them on the top of your deck in the original order, choose up to 1 character in your waiting room, and return it to your hand.

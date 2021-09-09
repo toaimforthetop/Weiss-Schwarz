@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Chewing" Komekko
+Card No.:KS/W76-E037
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Kazuma: "Komekko, you can have the rest."
+Trigger:
+Special Attribute:Magic・Younger Sister
+Text:【CONT】 If you would pay the cost for an event in your hand, you may put 1 marker from underneath this card into your waiting room instead of 1 card from your stock.
+Text:【AUTO】 [【REST】 this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at the top card of your deck, and put it face down underneath this card as a marker.
+Text:【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your 《Adventurer》 or 《Magic》 characters, and that character gets +1000 power until end of turn.", '

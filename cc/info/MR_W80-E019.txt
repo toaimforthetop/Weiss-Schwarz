@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unsettling Self-Introduction, Mami
+Card No.:MR/W80-E019
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Im Mami Tomoe. The Magical Girl of Mitakihara.
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【AUTO】 [Put this card into your clock]  When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand. (Otherwise, return it to its original place)

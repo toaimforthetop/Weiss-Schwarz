@@ -1,0 +1,18 @@
+Card Name:
+English Name:Fashionable Glasses, Rin
+Card No.:FS/S34-E062
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Well?
+Trigger:
+Special Attribute:Master・Jewel
+Text:【CONT】 If the number of other characters you have is one or less, this card gets +1500 power.
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named "Summoning Ritual" is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '【ACT】 [【REST】 this card] Choose one of your characters with "Archer(アーチャー)" in its card name, until end of turn, that character gets +1500 power and the following ability. "【CONT】 If the character facing this card is a lower level than this card, this card cannot attack."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Magical Girl of Bows, Madoka
+Card No.:MM/W17-E026S
+Rarity:SR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:SECRET
+Trigger:
+Special Attribute:Magic
+Text:【CONT】 If the number of cards in your stock is four or more, this card gets +1000 power. 

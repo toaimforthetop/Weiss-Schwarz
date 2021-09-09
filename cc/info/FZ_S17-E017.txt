@@ -1,0 +1,16 @@
+Card Name:
+English Name:Irisviel von Einzbern
+Card No.:FZ/S17-E017
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Eight more years, and your fight will come to an end.', 'And our ideal will become reality.
+Trigger:
+Special Attribute:Homunculus・Alchemy
+Text:【AUTO】［(2)] When a yellow climax is placed on your climax area, you may pay the cost. If you do, put the top card of your clock into your waiting room. 

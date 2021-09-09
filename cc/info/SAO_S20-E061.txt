@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lisbeth the Blacksmith
+Card No.:SAO/S20-E061
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Welcome to Lisbeths Smith Shop!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】［【REST】 this card］ When you use an "Accelerate" ability, if this card is 【STAND】, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power until end of turn. 

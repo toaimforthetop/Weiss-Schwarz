@@ -1,0 +1,18 @@
+Card Name:
+English Name:LOVE LAIKA, Anastasia
+Card No.:IMC/W41-E098
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Spasiba!
+Trigger:
+Special Attribute:Music・Star
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, if the number of your other 《Music》 characters is three or more, you may pay the cost. If you do, search your deck for up to one card named "Memories", reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 Bond/"LOVE LAIKA, Minami" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "LOVE LAIKA, Minami" in your waiting room, and return it to your hand.)
+Text:【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named "Memories" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your clock into your waiting room."

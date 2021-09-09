@@ -1,0 +1,16 @@
+Card Name:
+English Name:Girl Who Lost All Weight, Hitagi Senjyogahara
+Card No.:BM/S15-TE05
+Rarity:TD
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Strange・Stationery
+Text:

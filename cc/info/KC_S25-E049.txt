@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Sendai-class Light Cruiser, Sendai
+Card No.:KC/S25-E049
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"The night is really great～isnt it.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【AUTO】When a card named "We must go into night combat!" is placed on your climax area, if this card is on the center stage, this card gets the following ability until the end of your opponent\'s next turn. "【CONT】All level 1 or lower characters get +2 soul."

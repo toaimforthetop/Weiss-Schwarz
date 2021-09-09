@@ -1,0 +1,16 @@
+Card Name:
+English Name:Subaru Natsuki
+Card No.:RZ/S46-E068SP
+Rarity:SP
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:3000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Death・Magic
+Text:【CONT】 Great Performance【AUTO】 Memory At the beginning of your climax phase, if a card named "Subaru Natsuki" is in your memory, choose one of your 《Magic》 or 《Weapon》 characters, and that character gets the following ability until end of turn. "【AUTO】 When this card attacks, you may deal one damage to your opponent." (This damage may be canceled)【AUTO】 【CXCOMBO】 Memory [(7) Put four cards and a card named "Like A Demon" from your hand into your waiting room & Put this card into your memory] At the beginning of the encore step, if you have a card named "Return by Death" in your memory, and this card is 【REVERSE】, you may pay the cost. If you do, put all cards from your clock into your waiting room, all players return all their characters to their hand, and return all cards in their waiting room to their deck. Search your deck afterwards for up to one card named "Subaru Natsuki", put it on the stage position that this card was on, and all players shuffle their decks.

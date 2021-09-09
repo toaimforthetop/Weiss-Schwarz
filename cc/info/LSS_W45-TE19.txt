@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Midsummer Aquarium" Kanan Matsuura
+Card No.:LSS/W45-TE19
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When a card named ""Midsummer Aquarium" Mari & Kanan & Dia" is placed on your climax area, if this card is in your center stage, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Then, shuffle your deck, and this card gets +3000 power until end of turn.

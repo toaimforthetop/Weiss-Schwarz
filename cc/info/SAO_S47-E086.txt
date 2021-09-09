@@ -1,0 +1,17 @@
+Card Name:
+English Name:Strong Existence, Sinon
+Card No.:SAO/S47-E086
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"If I get knocked out, Im going to retire.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power.
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "Last Shot, Sinon" in your waiting room, and put it on the stage position that this card was on.

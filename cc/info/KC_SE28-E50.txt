@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hehehe… Does it hurt?
+Card No.:KC/SE28-E50
+Rarity:C
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Now youve done it… I will also leave you in pain……!
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand.)

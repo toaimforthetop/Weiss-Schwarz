@@ -1,0 +1,18 @@
+Card Name:
+English Name:Demon of 《Dual-wielding》, Kirito
+Card No.:SAO/S26-E062SP
+Rarity:SP
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(3) Put two cards from your hand into your waiting room] This ability activates up to once per turn. When this card attacks, if your level is 3 or higher and the number of cards in your clock is six, you may pay the cost. If you do, 【STAND】 this card.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tsubomi: Childhood Memories
+Card No.:MOB/SX02-031
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Wow, how cute.
+Trigger:
+Special Attribute:First Love・-
+Text:【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.
+Text:【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.

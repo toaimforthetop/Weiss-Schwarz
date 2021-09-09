@@ -1,0 +1,17 @@
+Card Name:
+English Name:Asuna & Yuuki
+Card No.:SAO/S47-E044
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:I gave this life… everything I had…… I was alive……
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +1500 power for each marker underneath this card.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 character in your waiting room, and put it face down underneath this card as a marker.", '

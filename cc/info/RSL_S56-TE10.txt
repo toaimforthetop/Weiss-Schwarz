@@ -1,0 +1,17 @@
+Card Name:
+English Name:Natural Stage Girl, Hikari Kagura
+Card No.:RSL/S56-TE10
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Revue・Barrette
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

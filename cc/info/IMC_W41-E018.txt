@@ -1,0 +1,18 @@
+Card Name:
+English Name:Loves Big Sis, Rika
+Card No.:IMC/W41-E018
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Sis!
+Trigger:
+Special Attribute:Music・Gal
+Text:【CONT】 During your turn, all of your other yellow characters get +1000 power.
+Text:【AUTO】 Bond/"Reliable Senior, Mika" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Reliable Senior, Mika" in your waiting room, and return it to your hand.)
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +1 soul until end of turn, and at the end of turn, put this card into your memory.

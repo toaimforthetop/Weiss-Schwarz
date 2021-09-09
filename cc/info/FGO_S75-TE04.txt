@@ -1,0 +1,17 @@
+Card Name:
+English Name:Forest of Schemes, Kingu
+Card No.:FGO/S75-TE04
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Babylonia・New Humanity
+Text:【CONT】 This card gets +500 power for each of your other 《Chaldea》 or 《Babylonia》 characters.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

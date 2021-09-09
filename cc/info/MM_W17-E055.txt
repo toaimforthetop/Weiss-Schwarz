@@ -1,0 +1,18 @@
+Card Name:
+English Name:Madoka's Wish
+Card No.:MM/W17-E055
+Rarity:CR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Event
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Then even I--should have no reason to despair, ever.
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)
+Text:Look at up to three cards from the top of your opponent's deck, choose up to one card from among them, and put it on the bottom of your opponent's deck. Put the rest on top of your opponent's deck in any order. ", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Precious Item" Chris
+Card No.:KS/W55-E007
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Nooooooo!!
+Trigger:
+Special Attribute:Adventurer・Robber
+Text:【AUTO】 【CXCOMBO】 When a card named "Return It to Me!!" is placed on your climax area, choose one of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, look at up to four cards from the top of your deck, choose up to one yellow or 《Adventurer》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."【ACT】 [【REST】 this card] Choose one of your yellow or 《Adventurer》 characters, and that character gets +1500 power until end of turn.

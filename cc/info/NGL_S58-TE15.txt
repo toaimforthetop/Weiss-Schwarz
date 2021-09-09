@@ -1,0 +1,17 @@
+Card Name:
+English Name:Communication Error, Shiro
+Card No.:NGL/S58-TE15
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:Brother!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put the top card of your deck into your clock]".
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

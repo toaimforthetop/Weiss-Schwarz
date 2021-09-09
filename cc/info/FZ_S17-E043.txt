@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sola-Ui Nuada-Re Sophia-Ri
+Card No.:FZ/S17-E043
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Lancer did well. You were the one who made the mistake.
+Trigger:
+Special Attribute:Master・Love
+Text:【AUTO】 Bond／"Lancer - Red Spear Which Cancels Magic" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Lancer - Red Spear Which Cancels Magic" in your waiting room, and return it to your hand.) 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fairy Tail Wizard, Lucy
+Card No.:FT/EN-S02-029SP
+Rarity:SP
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"I call upon thee, in the world of the Celestial Spirits! I beckon you to my side at once. Pass through the gate."
+Trigger:Soul
+Special Attribute:Magic・Key
+Text:【CONT】 Memory If the number of cards in your memory is two or more, this card gets +1500 power.
+Text:【AUTO】 [(2)] When a card named "Power of the Celestial Spirits" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one level 2 or lower 《Key》 character, and put it on any position of your stage. Shuffle your deck afterwards.

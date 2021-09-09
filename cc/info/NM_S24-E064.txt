@@ -1,0 +1,16 @@
+Card Name:
+English Name:Secret Conversation, Mayoi Hachikuji
+Card No.:NM/S24-E064
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1 
+Power:7000
+Soul:1
+Flavor Text:"Really, its nothing but a secret!
+Trigger:
+Special Attribute:Strange・Spirit
+Text:-

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Joshua & Margaret
+Card No.:AT/WX02-021
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Demon Blood Sword" in your waiting room, and return it to your hand.
+Text:【AUTO】 Bond/"Finn the Human & Jake the Dog"  [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 "Finn the Human & Jake the Dog" in your waiting room, and return it to your hand)

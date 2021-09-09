@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sharp Tongue, Hitagi Senjyogahara
+Card No.:BM/S15-E030
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・-
+Text:[AUTO][Put the top card of your deck into your clock] When this card attacks, if a card named "Girl With No Weight" is in your climax area, you may pay the cost. If you do, all of your characters get +1 level and +2000 power until end of turn.

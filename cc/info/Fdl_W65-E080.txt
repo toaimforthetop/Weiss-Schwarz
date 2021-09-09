@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pure 〈Princess〉, Tohka
+Card No.:Fdl/W65-E080
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"…A name, huh… I dont have anything like that.
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Celestial Spirit・Swordsmanship
+Text:【CONT】 This card gets +1500 power for each of your other 《Fantasia Bunko》 or 《Celestial Spirit》 characters in your back stage.
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to the number of other 《Fantasia Bunko》 or 《Celestial Spirit》 characters you have ×500.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Imminent "Death", M
+Card No.:GGO/S59-E085
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Pito!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 This ability activates up to 2 times per turn. When your other 《Avatar》 or 《Net》 character is placed on the stage from your hand, this card gets +1000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "A Love at the Risk of One\'s Life" is in your climax area, and you have another character with "Pito(ピト)" or "Elza(エルザ)" in its card name, search your deck for up to 1 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

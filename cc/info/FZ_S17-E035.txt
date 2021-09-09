@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Saber's left hand", Lancer
+Card No.:FZ/S17-E035
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:So, I believe cooperation to be our best option here, what do you think?
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When you use this card\'s "Backup", choose one of your 《Servant》 characters, and that character gets +1000 power until end of turn.
+Text:【ACT】【COUNTER】 Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.）
+Text:【AUTO】［【REST】 one of your 【STAND】 characters］ When a card named "Gordius Wheel" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent\'s characters on the center stage, and that character gets -2000 power until end of turn. 

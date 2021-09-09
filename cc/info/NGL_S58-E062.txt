@@ -1,0 +1,16 @@
+Card Name:
+English Name:Former Council of 18 Wings, Jibril
+Card No.:NGL/S58-E062
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I was once a member of the Council of 18 Wings, the Avantheim government. I have a considerable degree of influence.
+Trigger:
+Special Attribute:Game・Fl?gel
+Text:【CONT】 This card gets +500 power for each of your other 《Game》 characters.

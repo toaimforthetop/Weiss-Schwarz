@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Putting Away Clothes” Mikan
+Card No.:TL/W37-E040
+Rarity:R
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Celines clothes… I got sad while putting them away.
+Trigger:
+Special Attribute:Housework・Bag
+Text:【CONT】 If all of your characters are 《Trans》 or 《Housework》, this card gets +1000 power. 【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if you have a card named "Taiyaki Key Holder" in your climax area, search your deck for up to one 《Trans》 or 《Housework》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

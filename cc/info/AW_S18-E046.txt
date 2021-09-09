@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bright and Cheerful, Chiyuri
+Card No.:AW/S18-E046
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Hey Haru- ‘Sup?
+Trigger:
+Special Attribute:Sports・Net
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

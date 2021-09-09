@@ -1,0 +1,17 @@
+Card Name:
+English Name:Desperate Invitation, LOCK
+Card No.:BD/W73-E025S
+Rarity:SR
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Um, by the way, would you like to form a band together?!
+Trigger:Soul
+Special Attribute:Music・RAISE A SUILEN
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul until end of turn.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 "Desperate Invitation, LOCK" in your memory, and put it on any position of your stage.

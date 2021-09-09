@@ -1,0 +1,17 @@
+Card Name:
+English Name:To the Cave in the North, Eugeo
+Card No.:SAO/S65-E088
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Theres ice! There's ice here!
+Trigger:
+Special Attribute:Fluctlight・Woodcutter
+Text:【CONT】 During your opponent's turn, all of your other 《Fluctlight》 characters get +500 power.
+Text:【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. Draw up to X cards, choose X cards in your hand, and put them into your waiting room. X is equal to the number of climax revealed among those cards ×2.", '

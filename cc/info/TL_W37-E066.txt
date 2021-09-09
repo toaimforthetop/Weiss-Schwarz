@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Modest Support” Momo
+Card No.:TL/W37-E066
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Please do your best, Rito.
+Trigger:
+Special Attribute:Alien・Plant
+Text:【AUTO】 [Put the top card of your deck into your clock] When a card named "Secret Flower Garden?" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to two cost 0 or lower characters from among them, put them on separate positions of your stage, and put the rest into your waiting room.

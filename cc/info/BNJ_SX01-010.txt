@@ -1,0 +1,17 @@
+Card Name:
+English Name:Joker: Nemesis
+Card No.:BNJ/SX01-010
+Rarity:R
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:"You dont dare kill me. Isn't that right, Bats?
+Trigger:Soul
+Special Attribute:Sengoku・Villain
+Text:【CONT】 If you have 2 or more other 《Villain》 characters, this card gets +2500 power and "【AUTO】 Encore [Put 1 《Villain》 character from your hand into your waiting room]".
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Vivification" is in your climax area, look at up to 2 cards from the top of your deck, choose up to 2 《Villain》 characters from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

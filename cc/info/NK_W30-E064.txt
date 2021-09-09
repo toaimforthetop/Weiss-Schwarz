@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spoiled Child, Marika
+Card No.:NK/W30-E064
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Surely you dont mind, do you? I want to play the main character opposite Master Raku……
+Trigger:
+Special Attribute:Police・Key
+Text:-

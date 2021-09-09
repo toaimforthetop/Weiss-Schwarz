@@ -1,0 +1,17 @@
+Card Name:
+English Name:Incident of a Certain Summer, Alice
+Card No.:SAO/S65-E012
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Deusolbert: "...Trespassing into the Dark Territory."
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 When your other character with "Kirito(キリト)" or "Eugeo(ユージオ)" in its card name is placed on the stage from your hand, that character gets +1000 power and 《Lunch Box》 until end of turn.
+Text:【AUTO】 When your character\'s trigger check reveals a climax, choose 1 of your characters, and that character gets +2000 power until end of turn.

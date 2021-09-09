@@ -1,0 +1,18 @@
+Card Name:
+English Name:Time Limit, Leafa
+Card No.:SAO/SE26-E15
+Rarity:C
+Expansion:Sword Art Online Ⅱ Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:We made it!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other characters get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【CONT】 If you do not have any other characters in your center stage, this card gets +1500 power.

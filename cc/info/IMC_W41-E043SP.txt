@@ -1,0 +1,19 @@
+Card Name:
+English Name:Anzu Futaba
+Card No.:IMC/W41-E043SP
+Rarity:SP
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Candy
+Text:【CONT】 If the number of cards in your deck is five or less, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those card, 【REST】 this card.', "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.", '

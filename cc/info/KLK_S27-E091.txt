@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Elite Four, Sanageyama
+Card No.:KLK/S27-E091
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"All right, show me the power of a mans resolve.
+Trigger:
+Special Attribute:Clothes・Sports
+Text:-

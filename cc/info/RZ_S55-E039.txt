@@ -1,0 +1,17 @@
+Card Name:
+English Name:Witch's Scent, Beatrice
+Card No.:RZ/S55-E039
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"The scent of the witch. I feel like its bending my nose, I suppose.
+Trigger:
+Special Attribute:Magic・Book
+Text:【CONT】 If you have 2 or more other 《Magic》 or 《Weapon》 characters, this card gets +1000 power.
+Text:【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Magic》 or 《Weapon》 characters and this card, and exchange them as 【STAND】.", '

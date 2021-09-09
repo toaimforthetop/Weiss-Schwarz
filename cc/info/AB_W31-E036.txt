@@ -1,0 +1,15 @@
+Card Name:
+English Name:Kanade's Quiet Appearance
+Card No.:AB/W31-E036
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"…youre right.
+Special Attribute:Death・Student Council
+Trigger:

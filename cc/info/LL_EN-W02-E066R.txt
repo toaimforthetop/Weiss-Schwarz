@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Dressed Up” Kotori Minami
+Card No.:LL/EN-W02-E066R
+Rarity:RRR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:After dressing up, your bearing will become graceful. I wonder why? The power of dressing up is great♪
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

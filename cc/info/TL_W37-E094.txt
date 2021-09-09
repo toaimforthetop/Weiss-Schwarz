@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Wedding Dress” Haruna
+Card No.:TL/W37-E094
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Sports・Animal
+Text:【CONT】 If the number of other 《Animal》 or 《Plant》 characters you have is three or more, this card gets +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 When this card attacks, if a card named "Ripping Happening" is in your climax area, reveal the top card of your deck. If that card is an 《Animal》 or 《Plant》 character, put it into your hand. (If it is not, return the revealed card to its original place)

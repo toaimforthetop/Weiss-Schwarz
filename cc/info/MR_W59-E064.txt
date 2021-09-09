@@ -1,0 +1,16 @@
+Card Name:
+English Name:Karin Misono
+Card No.:MR/W59-E064
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Im Magical Karin, savior of weak Magical Girls!
+Trigger:
+Special Attribute:Magic・Support
+Text:【AUTO】 When you use "Accelerate", choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 [(1)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1 soul until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Mood Maker☆" Lisa Imai
+Card No.:BD/W54-TE06
+Rarity:TD
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Hi! Im Lisa Imai, bassist for Roselia☆Just call me Lisa, okay～?
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】 This card cannot side attack.

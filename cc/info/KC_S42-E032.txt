@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Bismarck-class Battleship, Bismarck
+Card No.:KC/S42-E032
+Rarity:R
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Gut. It is Bismarcks turn.
+Trigger:
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card.", '

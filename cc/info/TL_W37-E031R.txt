@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Sitting” Mikan
+Card No.:TL/W37-E031R
+Rarity:RR
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Were you worried about me that much~?
+Trigger:
+Special Attribute:Housework・Bag
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.
+Text:【AUTO】 During the attack phase, when your character or your opponent's character is returned to hand from the waiting room, all of that player's characters get -3 soul until end of turn.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Strike! Miku
+Card No.:IMC/W41-E056
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:I want you to promise', "that we'll make our debut, nya!
+Trigger:
+Special Attribute:Music・Cat Character
+Text:【AUTO】 When a card named "Aspired Stage" is placed on your climax area, if this card is in your center stage, you may choose a level 0 or lower character in your waiting room, and put it on any position of your stage.

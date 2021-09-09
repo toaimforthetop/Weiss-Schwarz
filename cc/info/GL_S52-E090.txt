@@ -1,0 +1,17 @@
+Card Name:
+English Name:Messenger Nia
+Card No.:GL/S52-E090
+Rarity:R
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Even if they do escape into space, all that awaits them is despair.
+Trigger:
+Special Attribute:Anti-Spiral・-
+Text:【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] When a card named "Humanity Extermination System" is placed on your climax area, you may pay the cost. If you do, choose up to two cards named "Mugann" in your waiting room, and put them on separate positions of your stage.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. If there is a card named "Mugann" revealed among those cards, search your deck for up to one 《Anti-Spiral》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

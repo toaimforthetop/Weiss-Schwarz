@@ -1,0 +1,17 @@
+Card Name:
+English Name:Boundless Obsessive Love, Albedo
+Card No.:OVL/S62-E028SP
+Rarity:SP
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Benevolent Pure White Demon" is in your climax area, search your deck for up to 1 《Grotesque Race》 or 《Nazarick》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

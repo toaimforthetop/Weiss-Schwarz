@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ryuji Sakamoto
+Card No.:P5/S45-E005S
+Rarity:SR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Im Ryuji Sakamoto.I'll come talk if I see you around.Don't ignore me, all right?
+Trigger:
+Special Attribute:Thief・Sports
+Text:【CONT】 This card gets +500 power for each of your other 《Thief》 or 《Sports》 characters.

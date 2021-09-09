@@ -1,0 +1,16 @@
+Card Name:
+English Name:Prinny Wars
+Card No.:DG/EN-S03-E041
+Rarity:CR
+Expansion:Disgaea
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Ill annihilate you and all of the Prinnies! It'll be total annihilation! For all of you!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Honorable Warrior, Cocytus
+Card No.:OVL/S62-E081
+Rarity:R
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Normally, I would face you with a weapon in each hand…
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 Experience If the total level of cards in your level is 4 or higher, this card gets +1000 power for each of your opponent\'s characters at 【REST】.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Grotesque Race》 or 《Subhuman Race》 or 《Nazarick》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if "Ruler of the Frozen Lake" is in your climax area, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)

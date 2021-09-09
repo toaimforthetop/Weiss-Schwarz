@@ -1,0 +1,16 @@
+Card Name:
+English Name:My First Star, Minami
+Card No.:IMC/W41-TE42
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Sports
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

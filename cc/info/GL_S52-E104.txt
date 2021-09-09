@@ -1,0 +1,16 @@
+Card Name:
+English Name:Charge Into the Wilderness! Team GURREN
+Card No.:GL/S52-E104
+Rarity:PR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・Drill
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Team DAI-GURREN》 character in your waiting room, and return it to your hand.

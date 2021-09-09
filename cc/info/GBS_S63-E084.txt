@@ -1,0 +1,17 @@
+Card Name:
+English Name:Quick-Witted Decision, Priestess
+Card No.:GBS/S63-E084
+Rarity:C
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Im sorry. I ended up only using two Protections.
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When you play an event card, you may put this card into your stock.

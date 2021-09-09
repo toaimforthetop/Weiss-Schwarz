@@ -1,0 +1,16 @@
+Card Name:
+English Name:First Battle, Naotsugu
+Card No.:LH/SE20-TE13
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:I lose my Level 90, it’s your ass! Shield Swing!
+Trigger:
+Special Attribute:Weapon・-
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:We Are Now Waiting In the Shining Light
+Card No.:LL/W24-E112b
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"That its not just going to be fun. There will be trials, too.That those hardships are part of our future.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

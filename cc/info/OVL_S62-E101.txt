@@ -1,0 +1,17 @@
+Card Name:
+English Name:Nazarick's Loyal Retainer, Demiurge
+Card No.:OVL/S62-E101
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I can only repay you, by humbly offering an even deeper devotion to your will.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Grotesque Race》 or 《Nazarick》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)

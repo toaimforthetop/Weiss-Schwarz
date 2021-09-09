@@ -1,0 +1,17 @@
+Card Name:
+English Name:Coincidence on the Rooftop, Rena
+Card No.:MR/W80-E065
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:What are you doing?
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

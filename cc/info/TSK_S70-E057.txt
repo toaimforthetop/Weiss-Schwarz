@@ -1,0 +1,16 @@
+Card Name:
+English Name:Declaration of Being Besties!
+Card No.:TSK/S70-E057
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Besties! Besties! Besties!
+Trigger:
+Special Attribute:
+Text:Look at up to 4 cards from the top of your deck,  choose up to 1 yellow character and up to 1 red character and up to 1 blue character from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into the waiting room.

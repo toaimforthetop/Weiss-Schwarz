@@ -1,0 +1,17 @@
+Card Name:
+English Name:In Pursuit of the End, Kuroyukihime
+Card No.:AW/S18-E005
+Rarity:R
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:The time has come…… I must leave my peaceful cocoon and aim for the sky once again.
+Trigger:
+Special Attribute:Student Council・Avatar
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power.
+Text:【ACT】 [【REST】 two of your characters] Choose one of your characters, and until end of turn, that character gets +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, put that character into your opponent\'s stock."

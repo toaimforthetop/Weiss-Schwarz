@@ -1,0 +1,17 @@
+Card Name:
+English Name:Miho Kohinata
+Card No.:IMC/W41-E053
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Ah ha ha♪
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [【REST】 one of your other 【STAND】 《Music》 characters and this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck into your stock.
+Text:【【STAND】と 《Music》の間にスペースが空きすぎ】

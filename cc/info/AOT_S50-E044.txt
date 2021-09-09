@@ -1,0 +1,16 @@
+Card Name:
+English Name:"What Happens Henceforth" Levi
+Card No.:AOT/S50-E044
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Tomas: "There are Titans inside Wall Rose!!"
+Trigger:
+Special Attribute:Corps・Weapon
+Text:

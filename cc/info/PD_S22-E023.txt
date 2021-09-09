@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fire◎Flower
+Card No.:PD/S22-E023
+Rarity:CR
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:戻
+Soul:1
+Flavor Text:“最初から君を好きでいられて良かった”', 'なんて空に歌うんだ
+Trigger:
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.（【RETURN】：When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.）", '

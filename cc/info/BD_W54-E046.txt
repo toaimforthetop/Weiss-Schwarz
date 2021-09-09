@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hard Being Honest
+Card No.:BD/W54-E046
+Rarity:U
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Event
+Color:Green
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Tomoe: "But you know... If you have changed, that takes away one of my jobs."
+Trigger:
+Special Attribute:
+Text:If you do not have an 《Afterglow》 character, this card cannot be played from your hand.Choose a card in your clock, and return it to your hand. Put this card into your memory.

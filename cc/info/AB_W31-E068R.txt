@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Godfather" Yuri
+Card No.:AB/W31-E068R
+Rarity:RRR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Feelings never solve anything, you know.
+Trigger:Soul
+Special Attribute:Death・Weapon
+Text:[AUTO] When another of your 《Death》 character attacks, this card gets +1000 power until end of turn.

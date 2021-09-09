@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Black-hearted Strategist” Momo
+Card No.:TL/W37-E077
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Heh heh? Its a joke?
+Trigger:
+Special Attribute:Alien・Plant
+Text:【AUTO】 Change [Put two 《Alien》 or 《Plant》 characters from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "“Heart-racing Bath Time” Momo" in your waiting room, and put it on the stage position that this card was on.

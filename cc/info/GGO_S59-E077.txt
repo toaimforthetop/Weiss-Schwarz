@@ -1,0 +1,18 @@
+Card Name:
+English Name:Gun Enthusiast, Pitohui
+Card No.:GGO/S59-E077
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:I get it. Wanting to hold onto your new gun for a while. You want to get used to "the feel" of it.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have 4 or more 《Avatar》 or 《Net》 characters, this card gets -1 level while in your hand.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 event card in your waiting room, and return it to your hand.
+Text:【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn.

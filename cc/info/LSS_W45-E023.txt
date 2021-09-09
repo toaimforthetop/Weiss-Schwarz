@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Favorite School Idol" Ruby Kurosawa
+Card No.:LSS/W45-E023
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Wed copy μ's and sing and stuff.
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If you have another character with "Dia(ダイヤ)" in its card name, this card gets +1500 power.

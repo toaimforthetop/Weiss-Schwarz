@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reunion, Rena
+Card No.:MR/W80-TE04
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Kaede.
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Magic》 character in your waiting room, and return it to your hand.

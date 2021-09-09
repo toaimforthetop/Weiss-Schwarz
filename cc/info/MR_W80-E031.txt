@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pursuing the Truth of Rumors, Yachiyo
+Card No.:MR/W80-E031
+Rarity:R
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"I couldnt get through to you after your message about going to Chuo Ward, so I'm glad I went looking for you just in case.
+Trigger:
+Special Attribute:Magic・Model
+Text:【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Encounter With a New Enemy" is in your climax area, you may choose 1 《Magic》 character in your waiting room, and put it into your stock.

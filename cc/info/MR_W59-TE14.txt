@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yuma Chitose
+Card No.:MR/W59-TE14
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"If Kyoko gets hurt, Ill make her better!
+Trigger:
+Special Attribute:Magic・Heal
+Text:【CONT】 This card gets +500 power for each of your other 《Magic》 characters.

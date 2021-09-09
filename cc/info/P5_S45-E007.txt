@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ryuji as SKULL & Captain Kidd
+Card No.:P5/S45-E007
+Rarity:R
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:I am thou, thou art I...There is no turning back...The skull of rebellionis your flag henceforth!
+Trigger:Soul
+Special Attribute:Thief・Sports
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Yo, I\'m Ready..." is in your climax area, choose up to one of your other characters and up to one of your opponent\'s characters, and return them to hand.

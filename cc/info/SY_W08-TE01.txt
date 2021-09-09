@@ -1,0 +1,16 @@
+Card Name:
+English Name:Haruhi Suzumiya
+Card No.:SY/W08-TE01
+Rarity:TD
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:" If you dont, it's the death sentence! 
+Trigger:
+Special Attribute:Brigade Leader・SOS Brigade
+Text:-

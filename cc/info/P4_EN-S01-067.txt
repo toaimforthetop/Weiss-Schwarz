@@ -1,0 +1,16 @@
+Card Name:
+English Name:One Strike
+Card No.:P4/EN-S01-067
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Rise: "Y-Yukiko!?"', '', 'Kanji: "Sure enough… One strike."
+Trigger:
+Special Attribute:
+Text:Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, and deal one damage to your opponent. (This damage may be canceled)", '

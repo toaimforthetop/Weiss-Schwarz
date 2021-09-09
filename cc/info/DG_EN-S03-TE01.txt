@@ -1,0 +1,16 @@
+Card Name:
+English Name:Laharl & Flonne
+Card No.:DG/EN-S03-TE01
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Laharl: "That\'s right! I\'m the Overlord!"
+Trigger:
+Special Attribute:Demon・Angel
+Text:

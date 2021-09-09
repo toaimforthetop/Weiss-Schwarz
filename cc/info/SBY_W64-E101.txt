@@ -1,0 +1,17 @@
+Card Name:
+English Name:SD Nodoka Toyohama
+Card No.:SBY/W64-E101
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Nothing less from you, Sakuta. What a rascal.
+Trigger:Soul
+Special Attribute:Adolescence・Fashionable
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the character's level ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other characters, and that character gets +1500 power until end of turn.", '

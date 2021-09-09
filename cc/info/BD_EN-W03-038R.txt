@@ -1,0 +1,17 @@
+Card Name:
+English Name:"We're Rooting For You!" Eve Wakamiya
+Card No.:BD/EN-W03-038R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Yep, and she worked really hard!
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】All of your other 《Music》 characters get +500 power.
+Text:【ACT】[【REST】this card] Look at the top card of your deck. (Return the card you saw to its original place)

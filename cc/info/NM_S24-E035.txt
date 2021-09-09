@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tutor, Tsubasa Hanekawa
+Card No.:NM/S24-E035
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Get this solved tonight. You have to start studying again tomorrow――
+Trigger:
+Special Attribute:Strange・Class Representative
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

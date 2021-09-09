@@ -1,0 +1,16 @@
+Card Name:
+English Name:Memory of a Memory
+Card No.:AT/WX02-A08
+Rarity:DD
+Expansion:【Demo Deck】 Adventure Time
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:0
+Cost:0
+Power:
+Soul:0
+Flavor Text:Marceline: "Finn, what’s going on? What is this place?"Finn: "It’s my old house. That magic powder put you in my memories."
+Trigger:Soul・Shot
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)

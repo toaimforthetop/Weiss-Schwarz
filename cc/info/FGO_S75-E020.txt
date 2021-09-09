@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fierce Attack
+Card No.:FGO/S75-E020
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:3
+Cost:2
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Put 4 cards from the top of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of level 1 or higher cards among those cards. （Climax are regarded as level 0. Damage may be canceled) 

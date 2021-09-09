@@ -1,0 +1,17 @@
+Card Name:
+English Name:Haru Onodera
+Card No.:NK/WE22-E18
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"You are an upperclassman, arent you…...?
+Trigger:
+Special Attribute:Sweets・-
+Text:【AUTO】 When another of your 《Sweets》 characters attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 Encore [Put a card from the top of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

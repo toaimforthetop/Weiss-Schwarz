@@ -1,0 +1,18 @@
+Card Name:
+English Name:Ice King
+Card No.:AT/WX02-076
+Rarity:R
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:3
+Power:10000
+Soul:2
+Flavor Text:I collect princesses because I want to marry one.
+Trigger:Soul
+Special Attribute:Ooo・-
+Text:【CONT】 Memory If "Skeleton Princess" and "Slime Princess" and "Turtle Princess" and "Wildberry Princess" are in your memory, this card gets -1 level and -2 cost while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 Memory [(1) Put 1 "Skeleton Princess" and 1 other "Slime Princess" and 1 other "Turtle Princess" and 1 other "Wildberry Princess" from your memory into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)

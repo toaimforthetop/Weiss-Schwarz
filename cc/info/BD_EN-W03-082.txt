@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Genius Girl" Hina Hikawa
+Card No.:BD/EN-W03-082
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:I love her so much~! The whole reason I learned to play the guitar is because I wanted to be like her.
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】If this card is on the left position of your center stage, this card gets +2500 power and "【AUTO】Encore [Put 1 character from your hand into your waiting room]".

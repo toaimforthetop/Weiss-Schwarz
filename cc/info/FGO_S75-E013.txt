@@ -1,0 +1,17 @@
+Card Name:
+English Name:Proud Warrior of the Jungle, Jaguar Warrior
+Card No.:FGO/S75-E013
+Rarity:C
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"If you dont fear these fangs, you can come right at me!
+Trigger:
+Special Attribute:Babylonia・Divine
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Chaldea》 or 《Babylonia》 characters, and return it to your hand.

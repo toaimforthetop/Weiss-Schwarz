@@ -1,0 +1,16 @@
+Card Name:
+English Name:Recovered Memories, Yui
+Card No.:SAO/S26-E068
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im a fake, all of me…… Even these tears…… I'm sorry.
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 During your opponent's turn, all of your other characters get +500 power.", '【AUTO】 [(1) 【REST】 two of your 【STAND】 characters] When you use "Accelerate", you may pay the cost. If you do, put the top card of your clock into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Master's Mental State, Rin
+Card No.:FS/S34-E059
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"I brought you here because you werent officially my enemy yet.
+Trigger:Soul
+Special Attribute:Master・Jewel
+Text:【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 Resonate [(1) Reveal a card named "Proof of Contract, Rin" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose one of your opponent\'s level 0 or lower characters, and put it into your opponent\'s waiting room.

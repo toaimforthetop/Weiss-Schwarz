@@ -1,0 +1,17 @@
+Card Name:
+English Name:Exploring the Forest, Puck
+Card No.:RZ/SE35-E24
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"If you dont like self-indulgence, how about living a slothful life?
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【CONT】 Memory If there is a card in your memory, this card gets the following ability. "【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room, and return it to your hand."【AUTO】 At the beginning of your main phase, you may choose 1 card in your stock, and look at it. (Return the card you saw to its original place)

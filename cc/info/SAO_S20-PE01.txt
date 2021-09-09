@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fair and Beautiful, Asuna
+Card No.:SAO/S20-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Well, anyway… Thanks for today.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

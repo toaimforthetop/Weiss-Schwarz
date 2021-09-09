@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Messenger of God" Angel
+Card No.:AB/W31-E002
+Rarity:RR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Hideous, isn't it?
+Trigger:
+Special Attribute:Death・Student Council
+Text:[AUTO] When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is not a 《Death》 character, at the beginning of your encore step, put this card into your waiting room. (The revealed cards are returned to their original place)

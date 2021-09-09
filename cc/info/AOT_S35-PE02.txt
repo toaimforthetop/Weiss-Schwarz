@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spreading War, Colossal Titan
+Card No.:AOT/S35-PE02
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Armin: "……No! That\'s impossible……!That wall\'s fifty meters high……!!"
+Trigger:Soul
+Special Attribute:-・Titan
+Text:【AUTO】 [Put a level 0 or lower character from your stage into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.

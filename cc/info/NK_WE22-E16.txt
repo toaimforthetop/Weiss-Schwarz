@@ -1,0 +1,16 @@
+Card Name:
+English Name:Paula McCoy
+Card No.:NK/WE22-E16
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:……Don\'t give me that "chan" treatment, it\'s creepy.I\'m here because the BlackTiger summoned me.
+Trigger:
+Special Attribute:Weapon・-
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Weapon》 or 《Heiress》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

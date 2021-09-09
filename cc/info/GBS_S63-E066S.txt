@@ -1,0 +1,17 @@
+Card Name:
+English Name:Everyday Anticipation, Guild Girl
+Card No.:GBS/S63-E066S
+Rarity:SR
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"But maybe hes a bit too stoic…
+Trigger:
+Special Attribute:Order・Guild
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 When damage dealt by this card is canceled, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.

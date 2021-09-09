@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mijuku DREAMER
+Card No.:LSS/WE27-E35
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Let\'s work hard together.""Let\'s work hard together.""Let\'s work hard together."
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn.

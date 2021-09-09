@@ -1,0 +1,17 @@
+Card Name:
+English Name:Solitary Path, Shizu
+Card No.:TSK/S70-TE14
+Rarity:TD
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:The goal of my journey is... to find the man who summoned me.
+Trigger:
+Special Attribute:Demon Continent・Mask
+Text:【AUTO】 When your other 《Demon Continent》 character attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.

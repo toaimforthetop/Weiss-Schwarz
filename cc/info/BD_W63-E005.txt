@@ -1,0 +1,18 @@
+Card Name:
+English Name:"With Everyone's Help" Kanon Matsubara
+Card No.:BD/W63-E005
+Rarity:R
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Ohh~, yelling like this is so embarrassing...
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 If you have 2 or more other 《Music》 characters, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 [(1)] At the beginning of your encore step, if  "A Forced Dance" is in your climax area, this card is on your center stage, and your opponent does not have any characters on his or her center stage, or all characters on your opponent\'s center stage are 【REVERSE】, you may pay the cost. If you do, Trigger FEVER.
+Text:【REPLAY】 Trigger FEVER Choose up to 2 《Music》 characters in your waiting room, return them to your hand, and this card gets +1000 power until the end of your opponent\'s next turn.

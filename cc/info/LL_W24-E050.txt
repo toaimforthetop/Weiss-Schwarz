@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tarot Reading
+Card No.:LL/W24-E050
+Rarity:CC
+Expansion:Love Live!
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:What are you going to do?
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

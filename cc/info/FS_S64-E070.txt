@@ -1,0 +1,16 @@
+Card Name:
+English Name:Beauty Feigning Innocence, Rin
+Card No.:FS/S64-E070
+Rarity:C
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:So losing no time… Can you come out tonight?
+Trigger:
+Special Attribute:Master・Jewel
+Text:【AUTO】 [(2)] When you level up, you may pay the cost. If you do, choose 1 《Master》 or 《Servant》 character in your waiting room, and return it to your hand. 【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Promise Exchange, Mayoi Hachikuji
+Card No.:NM/S24-E053
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0 
+Power:2000
+Soul:1
+Flavor Text:"If Im ever in really bad trouble again, would you help me?
+Trigger:
+Special Attribute:Strange・Spirit
+Text:【AUTO】 Experience When this card is placed on the stage from your hand, if the total level of the cards in your level is four or higher, choose a 《Strange》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.

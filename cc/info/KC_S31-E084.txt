@@ -1,0 +1,18 @@
+Card Name:
+English Name:Newly Constructed Repair Ship, Akashi
+Card No.:KC/S31-E084
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Admiral, do you need repairs too? So where are you damaged?
+Trigger:
+Special Attribute:Fleet Girl・Repair Ship
+Text:【CONT】 All of your other 《Fleet Girl》 characters get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters. 

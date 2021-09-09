@@ -1,0 +1,16 @@
+Card Name:
+English Name:Duffel Bag
+Card No.:GBS/S63-E055
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Goblin Slayer(ゴブリンスレイヤー)" in its card name, this card cannot be played from your hand.Choose 1 "《Gate》 Scroll" or "Torch" in your waiting room, and return it to your hand.

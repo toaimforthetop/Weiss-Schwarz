@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cute Blunder, Albedo
+Card No.:OVL/S62-E056
+Rarity:R
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Ah!!
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 Bond/"Overlord, Ainz" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Overlord, Ainz" in your waiting room, and return it to your hand)【ACT】 [【REST】 this card] Choose 1 of your "Overlord, Ainz", and that character gets +2500 power until end of turn.

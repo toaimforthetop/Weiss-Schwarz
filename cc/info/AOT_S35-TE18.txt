@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mikasa Ackermann
+Card No.:AOT/S35-TE18
+Rarity:TD
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:s
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] If the number of your other 《Corps》 characters is two or more, this card gets +1000 power and "[AUTO] Encore [Put a character from your hand into your waiting room]".
+Text:[AUTO] When another of your 《Corps》 character attacks, this card gets +1000 power until end of turn.

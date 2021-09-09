@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Wearing a Smile with Sadness" Yoshiko Tsushima
+Card No.:LSS/W45-E019
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:It was only for a little bit, but thanks', 'for playing along with the fallen angel thing.
+Trigger:
+Special Attribute:Music
+Text:【CONT】 During your turn, all of your other characters get +500 power.
+Text:【CONT】 During your turn, your other character in the middle position of the center stage with "Yoshiko(善子)" in its card name gets +1000 power.
+Text:【AUTO】 When a card named "Your Favorite Self" is placed on your climax area, choose one of your characters, until end of turn, that character gets +1500 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."

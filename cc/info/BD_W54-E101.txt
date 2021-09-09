@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Chibi Character" Kokoro Tsurumaki
+Card No.:BD/W54-E101
+Rarity:PR
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Make the world smile!
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

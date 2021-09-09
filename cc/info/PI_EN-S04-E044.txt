@@ -1,0 +1,16 @@
+Card Name:
+English Name:Practicing Magic, Illya
+Card No.:PI/EN-S04-E044
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Source? Oh… in that case…
+Trigger:
+Special Attribute:Master・Magic
+Text:【AUTO】 Bond/"Perfect Super-human? Miyu" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Perfect Super-human? Miyu" in your waiting room, and return it to your hand.)【ACT】 [(1) 【REST】 this card] Choose one of your characters with "Miyu(美遊)" in its card name, and that card gets +500 power until the end of turn.

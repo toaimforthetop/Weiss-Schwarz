@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Scout Regiment Section Commander" Hange
+Card No.:AOT/S35-E048
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Hi there!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[ACT] [Put a card from your hand into your waiting room] This card gets +2500 power until end of turn.

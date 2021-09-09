@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Blue Rose" Tina
+Card No.:OVL/S62-E088
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:What now, evil boss?
+Trigger:
+Special Attribute:Humanoid Race・Blue Rose
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 during battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.", '

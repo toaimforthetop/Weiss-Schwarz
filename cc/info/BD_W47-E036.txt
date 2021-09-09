@@ -1,0 +1,17 @@
+Card Name:
+English Name:Starrin'PARTY, Kasumi Toyama
+Card No.:BD/W47-E036
+Rarity:R
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Yay! 
+Trigger:Soul
+Special Attribute:Music・Star
+Text:【AUTO】  When this card is placed on the stage from your hand, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】  【CXCOMBO】  [(4) Put three cards from your hand into your waiting room] At the beginning of your attack phase, if a card named "We Are Poppin\'Party" is in your climax area, this card is in your center stage, and you have other cards named "Starrin\' PARTY, Tae Hanazono", "Starrin\'PARTY, Rimi Ushigome", "Starrin\'PARTY, Saya Yamabuki" and "Starrin\'PARTY, Arisa Ichigaya", you may pay the cost. If you do, 【STAND】  all of your opponent\'s characters, deal X damage to your opponent, and put up to X cards from the top of your clock into your waiting room. X is equal to the number of your opponent\'s 【STAND】  characters. (This damage may be canceled)

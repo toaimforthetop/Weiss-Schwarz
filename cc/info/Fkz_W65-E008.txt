@@ -1,0 +1,16 @@
+Card Name:
+English Name:Broken Heart Magnum, Haruna
+Card No.:Fkz/W65-E008
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Ill always be by your side. If I die, that is.
+Trigger:
+Special Attribute:Fantasia Bunko・Weapon・Magical Arms Girl
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".

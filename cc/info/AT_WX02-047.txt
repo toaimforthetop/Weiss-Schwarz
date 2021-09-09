@@ -1,0 +1,17 @@
+Card Name:
+English Name:Marceline: Monstrous
+Card No.:AT/WX02-047
+Rarity:R
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:What do you think of me now?!
+Trigger:Soul
+Special Attribute:Ooo・Vampire
+Text:【CONT】 This card gets +1000 power for each of your other 《Ooo》 characters.
+Text:【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".

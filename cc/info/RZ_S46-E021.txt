@@ -1,0 +1,16 @@
+Card Name:
+English Name:Royal Election Candidate, Anastasia
+Card No.:RZ/S46-E021
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Which one of em issued the challenge?
+Trigger:
+Special Attribute:Merchant・-
+Text:-

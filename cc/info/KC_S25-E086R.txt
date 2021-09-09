@@ -1,0 +1,17 @@
+Card Name:
+English Name:1st Tenryu-class Light Cruiser, Tenryu-Kai
+Card No.:KC/S25-E086R
+Rarity:RRR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:My name is Tenryu. Are you scared?
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power.
+Text:【AUTO】[(1)] When this card attacks, if a card named "That\'s the way to do it, anchors aweigh!" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

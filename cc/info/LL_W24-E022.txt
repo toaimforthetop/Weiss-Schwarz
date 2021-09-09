@@ -1,0 +1,16 @@
+Card Name:
+English Name:Honoka Kosaka
+Card No.:LL/W24-E022
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your 【STAND】 《Music》 characters, and 【REST】 it.

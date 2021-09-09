@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shaken
+Card No.:FS/S36-E044
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose a green character in your clock, return it to your hand, and put this card into your clock.

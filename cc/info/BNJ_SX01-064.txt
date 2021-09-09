@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sengoku Batman
+Card No.:BNJ/SX01-064
+Rarity:RR
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I will be what the Bat Clan calls me. I will be their prophecy. I will be...
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock]  When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Weapon》 character in your waiting room, and return it to your hand.

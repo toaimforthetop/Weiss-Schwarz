@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Please Explain!" Tomoe Udagawa
+Card No.:BD/EN-W03-032R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Hold everything!!
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【CONT】All of your other 《Music》 characters get +500 power.
+Text:【ACT】[(2)【REST】this card] Put the top card of your clock into your waiting room.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:2nd Katori-class Training Cruiser, Kashima
+Card No.:KC/S42-E059
+Rarity:RR
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Admiral. Today I, Kashima, shall be undertaking the position of secretary ship, okay?
+Trigger:Soul
+Special Attribute:Fleet Girl・Training Cruiser
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Fleet Girl》 characters you have.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Marine Escort Corp Flagship Kashima, anchors aweigh" is in your climax area, you may deal X damage to your opponent. X is equal to the number of your opponent\'s 【REVERSE】 characters. (This damage may be canceled)

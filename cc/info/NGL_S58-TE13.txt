@@ -1,0 +1,16 @@
+Card Name:
+English Name:One Half of BLANK, Shiro
+Card No.:NGL/S58-TE13
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Aschente!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 If your stock has 2 or less cards, this card gets +1500 power.

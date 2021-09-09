@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hosho-class Light Aircraft Carrier, Hosho
+Card No.:KC/S25-E099
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Thank you for the hard work. Would you like to take a bath? How about a meal? Or…… just kidding.
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Aircraft Carrier
+Text:【CONT】Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【AUTO】[(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Aircraft Carrier》 or 《Light Aircraft Carrier》 character, reveal it to your opponent, and put it into your hand, Shuffle your deck afterwards.", '

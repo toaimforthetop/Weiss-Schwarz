@@ -1,0 +1,17 @@
+Card Name:
+English Name:Caules Forvedge Yggdmillennia
+Card No.:APO/S53-E082
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:6500
+Soul:1
+Flavor Text:The Fifth of the Black orders with a Command Spell!
+Trigger:
+Special Attribute:Master・Glasses
+Text:【CONT】 This card gets +1000 power for each of your other 《Master》 or 《Servant》 characters.
+Text:【AUTO】 When you level up, this card gets "【AUTO】 Encore [(1)]" until end of turn.

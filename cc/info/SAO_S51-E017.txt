@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Genius Game Designer" Kayaba
+Card No.:SAO/S51-E017
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:3
+Power:10000
+Soul:2
+Flavor Text:The man I am now believes… in the existence of a power that transcends the system itself…
+Trigger:Soul
+Special Attribute:Net・Science
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.

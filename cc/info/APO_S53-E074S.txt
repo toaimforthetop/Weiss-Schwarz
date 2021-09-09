@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Divine Blade" Saber of Black
+Card No.:APO/S53-E074S
+Rarity:SR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Fall!
+Trigger:Soul
+Special Attribute:Servant・Dragon
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.
+Text:【AUTO】 【CXCOMBO】 [(3)] When this card attacks, if a card named "Balmung" is in your climax area, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)

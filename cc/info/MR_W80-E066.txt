@@ -1,0 +1,17 @@
+Card Name:
+English Name:Regarding Artistic Skills, Kaede
+Card No.:MR/W80-E066
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im surprised you would be the one to say that, Rena.
+Trigger:
+Special Attribute:Magic・Plant
+Text:【AUTO】 When this card direct attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.
+Text:【ACT】 【CXCOMBO】 [(3)] Choose 1 "Connect" in your waiting room, and put it on your climax area.

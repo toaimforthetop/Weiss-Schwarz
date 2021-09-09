@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Cat Notification Tone” Yui
+Card No.:TL/W37-E049
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:This notification tone… Yuki…!
+Trigger:Soul
+Special Attribute:Discipline Committee・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 When this card attacks, if a card named "Alluring Voice" is in your climax area, until end of turn, this card gets +X power, and your opponent cannot play "Backup" from hand. X is equal to 500 multiplied by the number of  other 《Animal》 or 《Plant》 characters you have.

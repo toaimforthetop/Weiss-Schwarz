@@ -1,0 +1,17 @@
+Card Name:
+English Name:Rebirthed World, Sora
+Card No.:NGL/S58-E004
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Now, about this little favor of mine…
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Game》 characters you have.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may deal 1 damage to your opponent." (Damage may be canceled)

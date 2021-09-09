@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Daisuki Dattara Daijoubu!" Riko Sakurauchi
+Card No.:LSS/W45-E055
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [【REST】 two of your characters] Choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s level 1 or higher battle opponent becomes 【REVERSE】, choose a character in your waiting room, return it to hand, choose a card in your hand, and put it into your waiting room."

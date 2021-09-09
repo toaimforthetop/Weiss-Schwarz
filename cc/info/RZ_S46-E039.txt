@@ -1,0 +1,17 @@
+Card Name:
+English Name:With Puck, Subaru
+Card No.:RZ/S46-E039
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Death・Magic
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Forbidden Library" in your waiting room, and return it to your hand.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a 《Magic》 or 《Weapon》 character in your waiting room, and return it to your hand.

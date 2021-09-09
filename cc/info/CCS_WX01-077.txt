@@ -1,0 +1,18 @@
+Card Name:
+English Name:Cardcaptor Sakura: SIEGE
+Card No.:CCS/WX01-077
+Rarity:RR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Now they’re trapped. Siege!
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 If you have 2 or more other 《Tomoeda》 or 《Magic》 characters, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Release! SIEGE!" is in your climax area, and you have another 《Tomoeda》 or 《Magic》 character, this card gets the following ability until the end of your opponent\'s next turn. "【AUTO】 At the beginning of your opponent\'s attack phase, choose up to 2 of your opponent\'s characters, and those characters get -1 soul until end of turn."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Doubt Towards the World, Kyoko
+Card No.:MM/W35-E061SP
+Rarity:SP
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You may be right that my memories are mixed up.
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn.

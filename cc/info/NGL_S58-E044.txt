@@ -1,0 +1,16 @@
+Card Name:
+English Name:Adolescent Kurami
+Card No.:NGL/S58-E044
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Fil: "Let\'s eat together."
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【CONT】 This card gets +2000 power for each of your other "Precious Presence, Fil" on your back stage.

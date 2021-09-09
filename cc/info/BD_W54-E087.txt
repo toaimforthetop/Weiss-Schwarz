@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Onstage" Maya Yamato"Onstage" Maya Yamato
+Card No.:BD/W54-E087
+Rarity:U
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:But I want to give our fans the best possible performance I can, after all…
+Trigger:Soul
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 If the number of colors of your characters on stage is four or more, all of your other 《Music》 characters get +X power. X is equal to 500 multiplied by that character's level.
+Text:【CONT】 This card gets all the colors of the face up markers underneath this card.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a card in your waiting room, and put it face up underneath this card as a marker.

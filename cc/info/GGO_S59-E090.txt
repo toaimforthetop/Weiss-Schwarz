@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fathomed Act, Elza
+Card No.:GGO/S59-E090
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Phu-ahahahaaahaha!!
+Trigger:
+Special Attribute:Net・Music
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 "Fathomed Act, Elza" in your memory, and put it on any position of your stage.

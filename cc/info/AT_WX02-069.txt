@@ -1,0 +1,17 @@
+Card Name:
+English Name:Remember You
+Card No.:AT/WX02-069
+Rarity:R
+Expansion:Adventure Time
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose 1 《Ooo》 character in your waiting room, return it to your hand, and put this card into your memory.
+Text:【AUTO】 Memory [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, return this card to your hand.

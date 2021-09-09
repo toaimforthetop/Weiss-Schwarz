@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Best Class Rep, Tsubasa Hanekawa
+Card No.:BM/S15-E045
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Huh? Araragi, youre still here?
+Trigger:Soul
+Special Attribute:Strange・Class Representative
+Text:

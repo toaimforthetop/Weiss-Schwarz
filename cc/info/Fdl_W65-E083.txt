@@ -1,0 +1,16 @@
+Card Name:
+English Name:〈Efreet〉of Burning Affection, Kotori
+Card No.:Fdl/W65-E083
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Get on your knees. Its time to start the punishment of love.
+Trigger:
+Special Attribute:Fantasia Bunko・Celestial Spirit・Flame
+Text:【AUTO】 When damage dealt by this card is not canceled, this card gets +6000 power until end of turn.

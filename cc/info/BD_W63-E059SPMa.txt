@@ -1,0 +1,17 @@
+Card Name:
+English Name:"In a Place as Big as This...?!" Rimi Ushigome
+Card No.:BD/W63-E059SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 During your turn, this card gets +2000 power.
+Text:【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Madoka Kaname
+Card No.:MM/W17-TE04
+Rarity:SP
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:SECRET
+Trigger:Soul
+Special Attribute:Magic
+Text:【CONT】 If the number of other 《Magic》 characters you have is three or more, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on stage from your hand, all of your characters get +2000 power until end of turn.
+Text:【ACT】[(1)] This card gets +2000 power until end of turn.

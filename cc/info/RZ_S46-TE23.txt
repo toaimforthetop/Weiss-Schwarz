@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sweetly Smiling Ram
+Card No.:RZ/S46-TE23
+Rarity:TD
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Youll have a pretty flower on each arm, Barusu.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【AUTO】 [(2)] When this card is put into your waiting room from stage, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.
+Text:【AUTO】 Bond/"The Younger Twin, Rem" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "The Younger Twin, Rem" in your waiting room, and return it to your hand)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Magic of Smiles" Hagumi Kitazawa
+Card No.:BD/EN-W03-002
+Rarity:RR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:This kinda gets my heart racing!
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent\'s characters, and return it to his or her hand.
+Text:【AUTO】【CXCOMBO】When "The Magic of Smiles" is placed on your climax area, this card gets +1500 power and the following ability until end of turn. "【AUTO】This ability activates up to 1 time per turn. When this card\'s trigger check reveals a card with  in its trigger icon, you may deal 3 damage to your opponent." (Damage may be canceled)

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Great Four" Melaquera
+Card No.:RZ/SE35-E47
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:Details... understood.
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If your waiting room has 6 or more "Black Water", this card gets -1 level while in your hand.
+Text:【CONT】 All of your other red characters get +1000 power.
+Text:【CONT】 Memory If your level is 3 or higher, and ""Mediator" Melaquera" is in your memory, this card gets the following ability. "【ACT】 [(1)] Choose 1 ""Mediator" Melaquera" in your level and this card, and exchange them."

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Turtle Princess
+Card No.:AT/WX02-067
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【CONT】 Memory If there are 2 or more 《Ooo》 characters in your memory, this card gets +1500 power.
+Text:【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.

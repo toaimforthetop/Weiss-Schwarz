@@ -1,0 +1,16 @@
+Card Name:
+English Name:Timid 〈Hermit〉, Yoshino
+Card No.:Fdl/W65-E086
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Yoshinon is… my hero...
+Trigger:
+Special Attribute:Fantasia Bunko・Celestial Spirit・Ice
+Text:【ACT】 [(1) 【REST】 2 of your characters] Look at up to 3 cards from the top of your deck, choose up to 1 《Fantasia Bunko》 or 《Celestial Spirit》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

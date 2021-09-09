@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nico Yazawa
+Card No.:LL/W24-E017
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 If you do not have any other characters, this card gets +1 level and +1500 power.

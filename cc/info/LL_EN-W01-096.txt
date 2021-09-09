@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Let's Go Out Together♪" Rin
+Card No.:LL/EN-W01-096
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Huh? Do I have something on my face?
+Trigger:
+Special Attribute:Music・Sweets
+Text:【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to another open position of your center stage.", '

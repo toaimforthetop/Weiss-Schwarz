@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Close Quarters"
+Card No.:NK/W30-E049
+Rarity:CC
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Raku: "Well, now, that\'s a big waste, since you\'re so cute."
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

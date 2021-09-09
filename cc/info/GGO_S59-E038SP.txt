@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cleansing with Grenades! Fukaziroh
+Card No.:GGO/S59-E038SP
+Rarity:SP
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Experience If "Promise to Be Kept, LLENN" and "Cleansing with Grenades! Fukaziroh" are in your level, this card gets -1 level while in your hand.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Promise to Be Kept, LLENN" in your waiting room, and put it on any position of your stage.

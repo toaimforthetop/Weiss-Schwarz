@@ -1,0 +1,16 @@
+Card Name:
+English Name:Good Luck Charm, Nadeko Sengoku
+Card No.:NM/S24-E001S
+Rarity:SR
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1 
+Power:7500
+Soul:1
+Flavor Text:I think Lala and the others are up to something.
+Trigger:Soul
+Special Attribute:Strange
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Strange》 characters you have.', "【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes Reverse@, you may pay the cost. If you do, search your deck for up to one 《Strange》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

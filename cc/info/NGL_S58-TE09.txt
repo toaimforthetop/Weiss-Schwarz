@@ -1,0 +1,16 @@
+Card Name:
+English Name:Power of the Pledges
+Card No.:NGL/S58-TE09
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Steph: "No! This isn\'t right!"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

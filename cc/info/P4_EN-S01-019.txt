@@ -1,0 +1,16 @@
+Card Name:
+English Name:Never More
+Card No.:P4/EN-S01-019
+Rarity:CC
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Yosuke: "Distance doesn\'t matter to us! Even if we are separated, we are still friends-!"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

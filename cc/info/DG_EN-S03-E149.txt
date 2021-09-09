@@ -1,0 +1,16 @@
+Card Name:
+English Name:Master of the Forbidden Chamber, Desco
+Card No.:DG/EN-S03-E149
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Its not a lie!! Desco is a final boss!!
+Trigger:
+Special Attribute:Demon・Clone
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

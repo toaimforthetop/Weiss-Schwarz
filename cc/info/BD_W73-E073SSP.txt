@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Supreme DREAMS" PAREO
+Card No.:BD/W73-E073SSP
+Rarity:SSP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・RAISE A SUILEN
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.
+Text:【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, look at the top card of your deck, put it on the top of your deck or into your waiting room, choose up to 1 《RAISE A SUILEN》 character in your waiting room, and put it into your stock.

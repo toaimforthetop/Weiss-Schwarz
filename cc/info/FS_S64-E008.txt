@@ -1,0 +1,17 @@
+Card Name:
+English Name:As a Master, Shirou
+Card No.:FS/S64-E008
+Rarity:U
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"I… Ill fight. I'll fight as a Master!
+Trigger:
+Special Attribute:Master・Weapon
+Text:【AUTO】 [(1)] When damage dealt by this card is canceled, you may pay the cost. If you do, draw 1 card.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Solitary Return" is in your climax area, and your stock has 5 or less cards, look at up to 3 cards from the top of your deck, choose up to 1 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

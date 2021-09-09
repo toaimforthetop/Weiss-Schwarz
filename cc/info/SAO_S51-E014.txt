@@ -1,0 +1,17 @@
+Card Name:
+English Name:Important Habit, Asuna
+Card No.:SAO/S51-E014
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 Memory If a card named "Promise Under the Meteors, Asuna" is in your memory, this card gets +1000 power and +1 soul.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

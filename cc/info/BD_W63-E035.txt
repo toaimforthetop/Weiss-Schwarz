@@ -1,0 +1,16 @@
+Card Name:
+English Name:"It's So Hot..." Ran Mitake
+Card No.:BD/W63-E035
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Moca. Too much talking. Chill out...
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Music》 characters you have ×500.

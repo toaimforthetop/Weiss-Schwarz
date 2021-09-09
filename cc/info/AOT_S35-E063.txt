@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Direct Sword" Mikasa
+Card No.:AOT/S35-E063
+Rarity:R
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Im going to carve you up again.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:[AUTO] [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Corps》 character in your waiting room, and return it to your hand.

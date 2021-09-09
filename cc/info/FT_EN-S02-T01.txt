@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fire Dragon Slayer, Natsu
+Card No.:FT/EN-S02-T01
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Im a Dragon Slayer of Fairy Tail!
+Trigger:Soul
+Special Attribute:Magic・Dragon
+Text:【CONT】 If the number of cards named "Fire Dragon Roar" in your waiting room is two or more, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.

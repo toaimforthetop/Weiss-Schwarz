@@ -1,0 +1,16 @@
+Card Name:
+English Name:Helplessly Useless Archer
+Card No.:DG/EN-S03-E079
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:My hobby is shooting at vital points.', 'My forte is these awesome curls.', "Let's all get curly!
+Trigger:Soul
+Special Attribute:Weapon・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your opponent's characters, and that character gets -500 power until end of turn.", '

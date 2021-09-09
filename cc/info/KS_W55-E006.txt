@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Decoy" Kazuma
+Card No.:KS/W55-E006
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Im gonna be your meal today!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [Put this card at the bottom of your deck] Choose a card named ""Mesmerizing Water Goddess" Aqua" in your hand with level lower than or equal to your level, and put it on any position of your stage.

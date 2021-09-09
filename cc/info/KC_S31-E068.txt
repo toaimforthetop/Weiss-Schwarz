@@ -1,0 +1,18 @@
+Card Name:
+English Name:3rd Mutsuki-class Destroyer, Yayoi
+Card No.:KC/S31-E068
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"As I said, I am not mad… Please dont be concerned about it.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 If the number of markers underneath this card is two or more, this card gets "【CONT】 Assist All of your characters in front of this card get +1000 power.".
+Text:【ACT】 [【REST】 this card] If the number of markers underneath this card is one or less, choose a card named "1st Mutsuki-class Destroyer, Mutsuki" or "2nd Mutsuki-class Destroyer, Kisaragi" in your waiting room, and put it face down underneath this card as a marker.
+Text:【AUTO】 [Put the top card of your deck into your clock] When?this?card?attacks, if a card named "Pu-pukupuu!" is in your climax area, you may pay the cost. If you do, choose a 《Fleet Girl》 character in your waiting room, and return it to your hand.

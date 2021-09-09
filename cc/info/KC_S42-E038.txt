@@ -1,0 +1,16 @@
+Card Name:
+English Name:During the Festival, Jintsu Kai-II
+Card No.:KC/S42-E038
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Watch the fireworks together? ……Ah, gladly……
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【AUTO】 [Put the top card of your deck into your clock & Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one climax, reveal it to your opponent, put it into your hand, and shuffle your deck.

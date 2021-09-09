@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kariya - Cost of Life
+Card No.:FZ/S17-E068
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Just hold on… Sakura…
+Trigger:Soul
+Special Attribute:Master・Insect
+Text:【CONT】 Assist All of your characters in front of this card get the following ability."【AUTO】［(1)］ When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, 【REVERSE】 that character."

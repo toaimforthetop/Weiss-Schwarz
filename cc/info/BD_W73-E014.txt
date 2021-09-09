@@ -1,0 +1,16 @@
+Card Name:
+English Name:After-school Strategy Meeting
+Card No.:BD/W73-E014
+Rarity:U
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Something like this, right?
+Trigger:
+Special Attribute:
+Text:Choose 1 of the following effects and perform it."Choose 1 of your opponent\'s characters, and move it to another open position of his or her stage.""Search your deck for up to 1 《Hello, Happy World!》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."

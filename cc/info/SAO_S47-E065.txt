@@ -1,0 +1,17 @@
+Card Name:
+English Name:Familiar, Pina
+Card No.:SAO/S47-E065
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Kyuru.
+Trigger:
+Special Attribute:Familiar・Dragon
+Text:【CONT】 All of your other characters with "Silica(シリカ)" in its card name get +500 power.
+Text:【AUTO】［Put this card into your waiting room］ When another of your characters with "Silica(シリカ)" in its card name is put into the waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage postition as 【REST】.

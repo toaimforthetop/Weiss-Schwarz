@@ -1,0 +1,16 @@
+Card Name:
+English Name:Secure!
+Card No.:CCS/WX01-072
+Rarity:U
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Force without master, heed the call of my Staff of Dreams, and become my power!
+Trigger:
+Special Attribute:
+Text:Choose 1 of your characters with "Sakura" in its card name, and that character gets +2000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, put that character into your opponent\'s memory, and draw up to 1 card."

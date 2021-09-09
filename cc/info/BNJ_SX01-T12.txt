@@ -1,0 +1,16 @@
+Card Name:
+English Name:Present Day Catwoman
+Card No.:BNJ/SX01-T12
+Rarity:TD
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Batman: "Catwoman, don\'t!"
+Trigger:
+Special Attribute:Weapon・-
+Text:

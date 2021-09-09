@@ -1,0 +1,16 @@
+Card Name:
+English Name:Red Hood
+Card No.:BNJ/SX01-A02
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Large Ship Construction
+Card No.:KC/S31-E030
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:
+Trigger:
+Special Attribute:
+Text:Choose two of your 【STAND】 characters, and 【REST】 them. If you 【REST】 two characters, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, put it on any position of your stage, and until the end of your opponent\'s next turn, that character gets +1000 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."(If it is not, return the revealed card to its original place)

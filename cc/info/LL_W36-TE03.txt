@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nico Yazawa
+Card No.:LL/W36-TE03
+Rarity:TD
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Im just like that? Well, we'll just have to settle it in court. What's with that look?
+Trigger:
+Special Attribute:Music・Swimsuit
+Text:【AUTO】[(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

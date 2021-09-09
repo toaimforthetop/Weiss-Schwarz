@@ -1,0 +1,18 @@
+Card Name:
+English Name:"That's Our Miracle" Nico Yazawa
+Card No.:LL/EN-W01-009
+Rarity:R
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 All of your other characters with "Nico(にこ)" in its card name get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Choose one of your characters with "Nico(にこ)" in its card name, and until end of turn, that characters gets +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【Reverse】, you may choose a character in your waiting room, and return it to your hand."
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, draw up to two cards, choose a card in your hand, and put it into your waiting room.', "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your 《Music》 characters, and that character gets +X power and +1 soul until end of turn. X is equal to 1500 multiplied by that character's level.", '

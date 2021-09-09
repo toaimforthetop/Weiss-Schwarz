@@ -1,0 +1,16 @@
+Card Name:
+English Name:"That's Our Miracle" Maki Nishikino
+Card No.:LL/EN-W01-016
+Rarity:R
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other level 0 or lower characters.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Ayanami-class Destroyer, Shikinami
+Card No.:KC/S25-E059
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Right, Im on my way! Let's head out!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[Put this card into your waiting room] When another of your 《Fleet Girl》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +1000 power until end of turn.

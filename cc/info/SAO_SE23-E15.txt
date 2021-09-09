@@ -1,0 +1,17 @@
+Card Name:
+English Name:Death-causing Bullet, 《Death Gun》
+Card No.:SAO/SE23-E15
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Dont forget, it's not over yet.Nothing is over yet.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If all of your opponent's characters are 《Target》, this card gets +2000 power.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 2 or lower 《Target》 characters on the center stage, and put it into your opponent's waiting room.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"To Seize Freedom" Levi
+Card No.:AOT/S50-E031
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Hey, keep moving. Youll end up like a little lost kid.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Blade that Rends Despair" is in your climax area, and you have another 《Corps》 character, choose up to one 《Corps》 character in your waiting room, put it into your stock, choose one of your characters, and that character gets +2000 power until the end of your opponent\'s next turn.

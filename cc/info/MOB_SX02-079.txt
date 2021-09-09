@@ -1,0 +1,18 @@
+Card Name:
+English Name:MOB: Gratitude Towards His Master
+Card No.:MOB/SX02-079
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Master really is amazing.
+Trigger:Soul
+Special Attribute:Esper・-
+Text:【CONT】 All of your other "Arataka Reigen" get +500 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 【CXCOMBO】 When "It\'s Okay to Run Away!" is placed on your climax area, if there are 4 or more markers underneath this card, choose 1 of your other "Arataka Reigen", and that character gets +2500 power and "【CONT】 Great Performance" until the end of your opponent\'s next turn.
+Text:【AUTO】 When your other blue or 《Esper》 character becomes 【REVERSE】 in battle, if there are 3 or less markers underneath this card, put that character face down underneath this card as a marker.

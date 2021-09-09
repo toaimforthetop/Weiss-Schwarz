@@ -1,0 +1,17 @@
+Card Name:
+English Name:A New Power, Giorno
+Card No.:JJ/S66-E020
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"Ill do it! You're not getting way.
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 If there is a marker underneath this card, this card gets +7500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 "A New Power, G.W" in your waiting room, and put it face up underneath this card as a marker.

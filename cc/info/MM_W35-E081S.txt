@@ -1,0 +1,16 @@
+Card Name:
+English Name:“My Role” Sayaka
+Card No.:MM/W35-E081S
+Rarity:SR
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Because thats my role.
+Trigger:Soul
+Special Attribute:Magic・Love
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

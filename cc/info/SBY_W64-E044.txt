@@ -1,0 +1,17 @@
+Card Name:
+English Name:Memories That Remain, Shoko Makinohara
+Card No.:SBY/W64-E044
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"If her feelings werent reaching you, then I feel sorry for her.
+Trigger:Soul
+Special Attribute:Adolescence・Mystery
+Text:【CONT】 If you have 4 or more 《Adolescence》 characters, this card gets -1 level while in your hand.
+Text:【AUTO】 【CXCOMBO】 When "Amongst the Pain in the Rain" is placed on your climax area, if this card is on your center stage, put up to 2 cards from the top of your deck into your stock.

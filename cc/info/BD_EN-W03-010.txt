@@ -1,0 +1,16 @@
+Card Name:
+English Name:"I Want to Help" Kanon Matsubara
+Card No.:BD/EN-W03-010
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Youre welcome.
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose 1 card from your hand, and put it into your waiting room. (Otherwise, return it to its original place)

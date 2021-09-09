@@ -1,0 +1,16 @@
+Card Name:
+English Name:Robin: Reluctant Adieu
+Card No.:BNJ/SX01-A01
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, you may draw 1 card.

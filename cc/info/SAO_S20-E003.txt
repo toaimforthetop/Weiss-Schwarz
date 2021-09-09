@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna Lays on the Sofa
+Card No.:SAO/S20-E003
+Rarity:R
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Hey…… Kirito.', 'Do you think it would be okay if we left the front lines for a bit.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is a non-《Avatar》 character, put it into your clock. (If it is not, return the revealed card to is its original place.) 

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Everyone's Own Feelings, Momoko
+Card No.:MR/W80-E064
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:6500
+Soul:1
+Flavor Text:It has something to do with every single Magical Girl.
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 This card gets +1000 power for each of your other 《Magic》 characters.
+Text:【AUTO】 When this card is placed on the stage from your waiting room, reveal the top card of your deck. If that card is a 《Magic》 character, put that card into your stock.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 1 "Connect" from your climax area into your waiting room] At the end of your turn, if this card is in your center stage, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)

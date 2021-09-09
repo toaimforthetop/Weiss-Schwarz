@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Deep Sky"
+Card No.:PD/S22-TE09
+Rarity:TD
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Glasses
+Text:-

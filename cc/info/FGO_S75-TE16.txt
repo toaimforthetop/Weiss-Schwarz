@@ -1,0 +1,16 @@
+Card Name:
+English Name:Time to Display Strength, Mash
+Card No.:FGO/S75-TE16
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Chaldea・Shielder
+Text:-

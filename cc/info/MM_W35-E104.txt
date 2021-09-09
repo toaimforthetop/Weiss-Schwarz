@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Homura
+Card No.:MM/W35-E104
+Rarity:PR
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Just leave things to me for now.
+Trigger:
+Special Attribute:Magic・Time
+Text:【CONT】 If you do not have any other characters on your center stage, this card gets +1 level and +1000 power.

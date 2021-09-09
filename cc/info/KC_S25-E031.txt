@@ -1,0 +1,16 @@
+Card Name:
+English Name:Compass
+Card No.:KC/S25-E031
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Which direction would you like to take?
+Trigger:
+Special Attribute:
+Text:【COUNTER】Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. If there is a climax among those cards, choose one of your opponent\'s characters in battle, and that character gets the following ability until end of turn. "【CONT】This card cannot deal damage to a player." If there is none, put this card on the top of your deck.

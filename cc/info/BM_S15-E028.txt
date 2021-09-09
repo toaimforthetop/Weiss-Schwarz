@@ -1,0 +1,16 @@
+Card Name:
+English Name:Suruga Kanbaru Had a Breakthrough
+Card No.:BM/S15-E028
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Good morning, Araragi.
+Trigger:
+Special Attribute:Strange・Sports
+Text:[CONT] Experience If the total level of the cards in your level is six or higher, the character facing this card gets -1 soul. 

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Yubari-class Light Cruiser, Yubari
+Card No.:KC/S25-E037R
+Rarity:RRR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Right! Can I try out a few different ways?
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】If the number of climax in your waiting room is one or less, this card cannot be played from hand.
+Text:【CONT】If the number of cards in your stock is four or more, this card gets +1000 power.
+Text:【AUTO】When your opponent's character is returned to hand from the waiting room, choose one of your characters, and that character gets +2000 power until end of turn.
+Text:【CONT】If your level is 2 or higher, this card gets +1500 power.", '

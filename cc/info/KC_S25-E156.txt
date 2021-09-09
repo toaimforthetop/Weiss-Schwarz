@@ -1,0 +1,16 @@
+Card Name:
+English Name:10th Shiratsuyu-class Destroyer, Suzukaze
+Card No.:KC/S25-E156
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Roger that! Let me show you what Suzukaze is capable of!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:-

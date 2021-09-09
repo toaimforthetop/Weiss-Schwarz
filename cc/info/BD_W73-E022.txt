@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Our DREAMS" Moca Aoba
+Card No.:BD/W73-E022
+Rarity:R
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【CONT】 If you have 5 or more cards in your hand, this card gets +2000 power.
+Text:【AUTO】 【CLOCK】 Alarm [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is the top card of your clock, and you have 2 or more 《Afterglow》 characters, you may pay the cost. If you do, choose 1 《Afterglow》 character in your waiting room, and return it to your hand.

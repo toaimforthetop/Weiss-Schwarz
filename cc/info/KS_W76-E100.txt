@@ -1,0 +1,16 @@
+Card Name:
+English Name:Because Something Is!
+Card No.:KS/W76-E100
+Rarity:CC
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Kazuma: "Sylvia-san! Sylvia-san! Why do I feel something pressing into my butt?"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

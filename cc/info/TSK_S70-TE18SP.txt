@@ -1,0 +1,17 @@
+Card Name:
+English Name:Gushing Flames, Shizu
+Card No.:TSK/S70-TE18SP
+Rarity:SP
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Demon Continent・Flame
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Demon Continent》 characters you have.
+Text:【AUTO】 [(3) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)

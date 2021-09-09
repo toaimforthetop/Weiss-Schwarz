@@ -1,0 +1,16 @@
+Card Name:
+English Name:Moonlit Black Cats, Sachi
+Card No.:SAO/S20-E084
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Dont talk about me like I'm useless.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your opponent's turn, this card gets +1000 power. ", '

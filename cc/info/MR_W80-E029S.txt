@@ -1,0 +1,17 @@
+Card Name:
+English Name:In an Apron, Yachiyo
+Card No.:MR/W80-E029S
+Rarity:SR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You must be exhausted. This will take a while longer, so get more rest in the bedroom.
+Trigger:
+Special Attribute:Magic・Model
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into your opponent's clock.", '

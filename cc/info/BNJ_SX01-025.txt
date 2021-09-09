@@ -1,0 +1,17 @@
+Card Name:
+English Name:Penguin
+Card No.:BNJ/SX01-025
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Fly! My fine-feathered friends!
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 When this card attacks, if all of the other characters on your center stage are 【STAND】, this card gets +2000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use "【AUTO】 Encore" until end of turn. (You cannot use the "【AUTO】 Encore [(3)]" rule either)

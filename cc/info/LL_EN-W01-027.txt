@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Please Look at Rin♪" Rin
+Card No.:LL/EN-W01-027
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:As a guide, I can go all kinds of places. How fun-♪
+Trigger:
+Special Attribute:Music・Crew Member
+Text: 【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Haruhi in Yukata
+Card No.:SY/W08-E053S
+Rarity:SR
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Be happier about this discovery too.
+Trigger:
+Special Attribute:Brigade Leader・Japanese Clothes
+Text:【AUTO】 Bond/"Kyon in Yukata" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kyon in Yukata" in your waiting room, and return it to your hand.)
+Text:【ACT】 [(1)] Choose one of your 《Japanese Clothes》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [(2)] When a card named "Birth of SOS Brigade!" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one level 2 or lower 《SOS Brigade》 character, put it on any position of your stage, and shuffle your deck.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Two of Myself, Rio Futaba
+Card No.:SBY/W64-E040
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:There are two of me.
+Trigger:
+Special Attribute:Adolescence・Science
+Text:【CONT】 If your stock has 2 or less cards, this card cannot attack.

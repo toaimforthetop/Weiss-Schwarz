@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Kitty Cape"
+Card No.:PD/S22-E035
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Animal
+Text:【CONT】 If this card is in the middle position of the center stage, this card gets +1000 power.

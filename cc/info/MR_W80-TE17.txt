@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kamihama West Territory, Yachiyo
+Card No.:MR/W80-TE17
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Hunting Witches without permission in other Magical Girls territory leads to hostilities. Didn't Kyubey tell you that?
+Trigger:Soul
+Special Attribute:Magic・Model
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Magic》 characters you have ×1000.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

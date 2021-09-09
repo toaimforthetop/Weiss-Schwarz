@@ -1,0 +1,16 @@
+Card Name:
+English Name:Intense Shout
+Card No.:BD/W54-E098R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"I hope one day Ill be able to say with conviction that I truly do enjoy singing…
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)

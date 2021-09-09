@@ -1,0 +1,18 @@
+Card Name:
+English Name:Takashi Yamazaki
+Card No.:CCS/WX01-018
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Did you make it yourself?
+Trigger:
+Special Attribute:Tomoeda・-
+Text:【CONT】 All of your other "Chiharu Mihara" get +1000 power.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Speaking of Which…" in your waiting room, and return it to your hand.
+Text:【AUTO】 Bond/"Chiharu Mihara" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Chiharu Mihara" in your waiting room, and return it to your hand)

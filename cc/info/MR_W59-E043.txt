@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tsukasa Amane
+Card No.:MR/W59-E043
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Who is that? She looks just like me.
+Trigger:Soul
+Special Attribute:Magic・Magia
+Text:【AUTO】 When this card is placed on the stage from your hand, if your deck has 5 or less cards, return all cards from your waiting room to your deck. If you do, shuffle your deck, and you may choose 1 "Tsukuyo Amane" in your clock, and put it into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Many, but One, Assassin
+Card No.:FZ/S17-E093
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:And this time, we shall become true shadow.
+Trigger:
+Special Attribute:Servant・Mask
+Text:【ACT】［【REST】 two of your 《Master》 characters] Until end of turn, this card's soul does not decrease by side attacking.", '

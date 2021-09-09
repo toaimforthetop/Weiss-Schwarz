@@ -1,0 +1,18 @@
+Card Name:
+English Name:Supreme Wine, Archer
+Card No.:FZ/S17-E060
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Kirei Kotomine, can you imagine what would happen then?
+Trigger:
+Special Attribute:Servant・Royalty
+Text:【AUTO】［(1)］ When you use this card\'s "Backup", you may pay the cost. If you do, choose one of your 《Master》 or 《Servant》 characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character\'s level.
+Text:【ACT】【COUNTER】 Backup 1000, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.）
+Text:【AUTO】［Put this card into your waiting room］ When a card named "Identity of the Fallen Knight" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on. 

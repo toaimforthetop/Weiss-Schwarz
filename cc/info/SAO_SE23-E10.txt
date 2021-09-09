@@ -1,0 +1,16 @@
+Card Name:
+English Name:Watching the Match Together, Lisbeth
+Card No.:SAO/SE23-E10
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"That guys really good.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of cards in your opponent's stock is three or less, this card gets +1000 power.", '

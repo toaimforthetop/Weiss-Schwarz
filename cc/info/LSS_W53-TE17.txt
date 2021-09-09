@@ -1,0 +1,16 @@
+Card Name:
+English Name:"HAPPY PARTY TRAIN" Kanan Matsuura
+Card No.:LSS/W53-TE17
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Load up your feelings, HAPPY HAPPY TRAIN to go!"
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "HAPPY PARTY TRAIN" is in your climax area, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

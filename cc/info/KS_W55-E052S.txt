@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Eternal Rival" Yunyun
+Card No.:KS/W55-E052S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"N-N-No, I wasnt! I just happened to come by today!
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【CONT】 If you have a card named ""Detonative Dame" Megumin", this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +2000 power for each of your other cards named ""Detonative Dame" Megumin" on your center stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

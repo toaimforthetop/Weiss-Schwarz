@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yukiko's Laughing Fits
+Card No.:P4/EN-S01-057
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"I-I cant stop… laugh--", '', 'Heehee! Ohhh, my stomach, ahaha…
+Trigger:Soul
+Special Attribute:Fan・Magic
+Text:【AUTO】 When your opponent's 【STAND】 character becomes 【REST】, this card gets +1500 power until end of turn.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Naked Nudist, Mikisugi
+Card No.:KLK/S27-E063
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Farewell.
+Trigger:
+Special Attribute:Teacher・Narcissist
+Text:【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

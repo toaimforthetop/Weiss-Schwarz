@@ -1,0 +1,16 @@
+Card Name:
+English Name:Absolute Terror, Satsuki
+Card No.:KLK/S27-E089
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:No one on this Earth can do something before Satsuki Kiryuin!
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Dressed Up” Nico Yazawa
+Card No.:LL/EN-W02-E018R
+Rarity:RRR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Nico-Nico-Ni-♪ Ill be in your care for this year too! Nico-Ni-☆ Are you shocked by Nico-Ni's dressing up?
+Trigger:Soul
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named "Special Chocolate" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose a level 2 or lower character in your clock, put it on any position of your stage, and this card gets +3000 power until end of turn.

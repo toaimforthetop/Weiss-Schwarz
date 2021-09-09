@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kirito Discovers a Unique Skill
+Card No.:SAO/S47-E087
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:……aaaAAAAAAH!!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck underneath this card as a marker.
+Text:【AUTO】 ［Put all markers from underneath this card into your waiting room］ When another of your characters attack, if the number of markers underneath this card is five or more, you may pay the cost. If you do, 【STAND】 this card, and this card gets +6000 power until end of turn.", '

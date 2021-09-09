@@ -1,0 +1,16 @@
+Card Name:
+English Name:Horrific Mayonnaise Human
+Card No.:RZ/S68-E093
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Rem: "Before... When there wasn\'t enough mayonnaise, you were angry at me."
+Trigger:
+Special Attribute:
+Text:【CXCOMBO】 If you do not have a character with "Rem(レム)" in its card name, this card cannot be played from your hand. Look at up to 7 cards from the top of your deck, choose up to 1 "That\'s Not It, Rem" or "Praise me! Praise me! Aura" from among them, reveal it to your opponent, put it into your hand, return the rest to your deck, and shuffle your deck.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lunch Break
+Card No.:CCS/WX01-030
+Rarity:CR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Akiho: "So what events are in the tournament, then?"
+Trigger:Soul・Return
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)

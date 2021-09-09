@@ -1,0 +1,17 @@
+Card Name:
+English Name:Talking About the Future Smiling, Subaru
+Card No.:RZ/S46-E073
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Death・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other characters with "Rem(レム)" in its card name, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [(1) Put this card into your waiting room] When your other card with "Rem(レム)" in its card named is frontal attacked, you may pay the cost. If you do, return that character to your hand.

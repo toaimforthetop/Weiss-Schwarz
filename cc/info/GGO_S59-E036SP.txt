@@ -1,0 +1,17 @@
+Card Name:
+English Name:Rampaging in "GGO"! Fukaziroh
+Card No.:GGO/S59-E036SP
+Rarity:SP
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Don\'t Underestimate A Fairy!" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand.

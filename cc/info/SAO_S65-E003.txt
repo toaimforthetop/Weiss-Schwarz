@@ -1,0 +1,17 @@
+Card Name:
+English Name:"If You Want My Answer" Asuna
+Card No.:SAO/S65-E003
+Rarity:RR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"It wasnt all just fun and games. There was so much pain and sadness, too, wasn't there?
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand or by the 【AUTO】 effect of "Ocean Turtle, Asuna", when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card\'s level +1. (Climax are regarded as level 0. Damage may be canceled)

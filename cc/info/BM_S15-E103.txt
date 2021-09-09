@@ -1,0 +1,18 @@
+Card Name:
+English Name:Daughter of a Proper Family, Senjyogahara Hitagi
+Card No.:BM/S15-E103
+Rarity:TD
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Strange・Stationery
+Text:[AUTO] When this card is placed on stage from your hand, you may choose a ?Strange? character in your waiting room, and return it to your hand.
+Text:[ACT] 
+Text:[AUTO] When this card attacks, choose up to two of your ?Strange? characters, and those characters get +500 power until end of turn.

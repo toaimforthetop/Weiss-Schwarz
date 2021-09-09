@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Dense Cookies" Sayo Hikawa
+Card No.:BD/W63-E087SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 【CXCOMBO】 At the beginning of your encore step, if "Making Cookies" is in your climax area, this card is on your center stage, and your opponent does not have any characters on his or her center stage, or all characters on your opponent\'s center stage are 【REVERSE】, Trigger FEVER.
+Text:【REPLAY】 Trigger FEVER Search your deck for up to 1 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose up to 1  《Music》 character in your waiting room, put it into your stock, choose 1 of your other characters, and that character gets +1000 power until the end of your opponent\'s next turn.

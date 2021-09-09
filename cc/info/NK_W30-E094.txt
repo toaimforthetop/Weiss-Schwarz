@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Ruri
+Card No.:NK/W30-E094
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Youre just into seeing all the swimsuits, aren't you?
+Trigger:
+Special Attribute:Glasses・Sports
+Text:-

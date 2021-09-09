@@ -1,0 +1,16 @@
+Card Name:
+English Name:Seance Shrine
+Card No.:MR/W80-E046
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you have 1 or less 《Magic》 characters, this card cannot be played from your hand.Choose 1 of your characters, and that character gets +2500 power until end of turn.If your memory has 2 or less cards, perform the following action. "Choose 1 character in your waiting room, and if that character has the same card name as a character in your memory, you may put that character into your memory."

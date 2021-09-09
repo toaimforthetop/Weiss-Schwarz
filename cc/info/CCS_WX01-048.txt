@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cardcaptor Sakura: FLIGHT
+Card No.:CCS/WX01-048
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:They’ll be amazing in their own unique ways. I know it.
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【ACT】 [Put 1 《Tomoeda》 or 《Magic》 character from your hand into your waiting room] Reveal the top card of your deck. If that card is a 《Tomoeda》 or 《Magic》 character, this card gets the following ability until end of turn. "【CONT】 If  this card would attack, you may choose 1 character on your opponent\'s back stage, and this card frontal attacks that character as the defending character instead." (Return the revealed card to its original place)

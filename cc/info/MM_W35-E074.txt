@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Straight Thought, Kyoko
+Card No.:MM/W35-E074
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Oh, I didnt know you could talk normally.
+Trigger:
+Special Attribute:Magic・Sweets
+Text:

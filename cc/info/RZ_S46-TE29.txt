@@ -1,0 +1,16 @@
+Card Name:
+English Name:High, High, So Very High
+Card No.:RZ/S46-TE29
+Rarity:TD
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Whaaa?! Let me― Put me down, I suppose!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

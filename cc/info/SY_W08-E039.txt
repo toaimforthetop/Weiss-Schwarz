@@ -1,0 +1,16 @@
+Card Name:
+English Name:SOS Brigade's Mascot, Mikuru
+Card No.:SY/W08-E039
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Some tea, here♪
+Trigger:
+Special Attribute:Time・Maid
+Text:【AUTO】 When another of your 《SOS Brigade》 characters is placed on the stage from your hand or memory, until end of turn, that character gets +1000 power and 《Tea》.

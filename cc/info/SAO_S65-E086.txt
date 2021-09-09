@@ -1,0 +1,17 @@
+Card Name:
+English Name:Departure from Rulid Village, Kirito
+Card No.:SAO/S65-E086
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Eugeo: "The wind feels a little damp. We should probably get going now."
+Trigger:Soul
+Special Attribute:Fluctlight・-
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 Bond/""Kirito\'s Partner" Eugeo" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 ""Kirito\'s Partner" Eugeo" in your waiting room, and return it to your hand)

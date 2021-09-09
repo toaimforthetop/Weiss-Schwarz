@@ -1,0 +1,17 @@
+Card Name:
+English Name:Adolescent Sora
+Card No.:NGL/S58-E010
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Shiro: "...a boy who was seven years older than her…"
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【CONT】 Assist All of your 《Game》 characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 【CXCOMBO】 When "Promise Between the Two" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."

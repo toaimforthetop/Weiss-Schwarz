@@ -1,0 +1,16 @@
+Card Name:
+English Name:Queen of Zipang, Nobuna
+Card No.:Foy/W65-E009
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Everyone, will you help make my dream come true?
+Trigger:
+Special Attribute:Fantasia Bunko・Sengoku・Princess General
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "One Who Fulfils Ambitions" is in your climax area, and you have another 《Fantasia Bunko》 or 《Sengoku》 character, put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower  《Fantasia Bunko》 or 《Sengoku》 character in your waiting room, and return it to your hand. X is the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)

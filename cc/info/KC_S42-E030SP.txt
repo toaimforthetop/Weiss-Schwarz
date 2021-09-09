@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Admiral Hipper-class Heavy Cruiser, Prinz Eugen
+Card No.:KC/S42-E030SP
+Rarity:SP
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named "Aim carefully…… Feuer!" is in your climax area, and you have another green character, you may pay the cost. If you do, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Then, shuffle your deck, and this card gets +2000 power until the end of your opponent\'s next turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Game God, Tet
+Card No.:NGL/S58-E108
+Rarity:PR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"It seems I wasnt mistaken to bring you two here!
+Trigger:
+Special Attribute:Game・One True God
+Text:【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Game》 character in your waiting room, and return it to your hand.

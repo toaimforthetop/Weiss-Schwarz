@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Sweets Fairy” Honoka Kosaka
+Card No.:LL/EN-W02-E069S
+Rarity:SR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:"Its so much fun cooking together♪ It almost feels like we're baking love, you know?
+Trigger:Soul
+Special Attribute:Music・Sweets
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Music》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.", '

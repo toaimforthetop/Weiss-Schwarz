@@ -1,0 +1,17 @@
+Card Name:
+English Name:One Who Never Looks Back, Ash Roller
+Card No.:AW/S43-E035
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Never look back to the past.
+Trigger:Soul
+Special Attribute:Avatar・Bike
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.
+Text:【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put up to two cards from the top of your deck into your stock."

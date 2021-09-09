@@ -1,0 +1,16 @@
+Card Name:
+English Name:Transfer Student, Marika
+Card No.:NK/W30-E067
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:……Hello everybody, nice to meet you.
+Trigger:
+Special Attribute:Police・Key
+Text:【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)

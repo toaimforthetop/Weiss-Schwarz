@@ -1,0 +1,17 @@
+Card Name:
+English Name:Will of Opposition, Haruyuki
+Card No.:AW/S43-E015
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Were not the kind of people", "who would give up without a fight.We're not the kind of people", 'who would give up without a fight.
+Trigger:Soul
+Special Attribute:Net・Game
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【ACT】 [(1) 【REST】 this card] Choose one of your cards named "Silver Crow", and that card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your clock into your waiting room."

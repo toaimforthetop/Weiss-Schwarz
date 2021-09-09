@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Ultimate Attack Magic” Megumin
+Card No.:KS/W49-TE07
+Rarity:TD
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:This is the mightiest means of attack known to man…… the ultimate attack magic!
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Adventurer》 or 《Magic》 characters you have.

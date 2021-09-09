@@ -1,0 +1,17 @@
+Card Name:
+English Name:Secret of the Best, Maya Tendo
+Card No.:RSL/S56-E080
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Care to do it together?
+Trigger:Soul
+Special Attribute:Revue・Leading Actor
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.

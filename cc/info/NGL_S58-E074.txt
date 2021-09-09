@@ -1,0 +1,16 @@
+Card Name:
+English Name:Key of Hope
+Card No.:NGL/S58-E074
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Grandfather... what is this key for...?
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Sora(空)" or "Shiro(白)" in its card name, this card cannot be played from your hand.Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of the revealed cards. (Climax are regarded as level 0)

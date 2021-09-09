@@ -1,0 +1,17 @@
+Card Name:
+English Name:Elegant Clockwork, Kurumi
+Card No.:Fdl/W65-E077
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I am a Spirit.
+Trigger:
+Special Attribute:Fantasia Bunko・Celestial Spirit・Time
+Text:【CONT】 During your turn, if your clock has 2 or less cards, this card gets +2000 power.
+Text:【CONT】 If your clock has 3 or more cards, this card gets +1 soul.

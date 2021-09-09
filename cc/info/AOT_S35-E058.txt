@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Beyond the Walls" Mikasa
+Card No.:AOT/S35-E058
+Rarity:RRR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:"I m happy to demonstrate my own technique…… On you. And every last inch of your traitorous flesh.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] This card cannot side attack.
+Text:[CONT] This card gets +500 power for each of your other 《Corps》 characters.
+Text:【AUTO】  When this card\'s battle opponent becomes 【REVERSE】, if a card named "The World the Girl Saw" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)

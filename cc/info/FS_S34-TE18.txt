@@ -1,0 +1,18 @@
+Card Name:
+English Name:For Victory, Rin & Archer
+Card No.:FS/S34-TE18
+Rarity:SR
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:1
+Flavor Text:"Yes, Im fighting to win. That's all.
+Trigger:Soul
+Special Attribute:Master・Servant
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of your other 《Master》 or 《Servant》 characters is four or more, you may put the top card of your deck into your stock.
+Text:【AUTO】 [(1)] At the beginning of your encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

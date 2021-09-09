@@ -1,0 +1,18 @@
+Card Name:
+English Name:Guildmaster, Shiroe
+Card No.:LH/SE20-E35
+Rarity:U
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:And instead of losing your patience, you waited for me to figure it out just like that?
+Trigger:
+Special Attribute:Magic・Glasses
+Text:【AUTO】 Bond/ "Reliable Buddy, Naotsugu" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Reliable Buddy, Naotsugu" in your waiting room, and return it to your hand) 
+Text:【ACT】 [(1)] Draw a card, choose a card in your hand, and put it into your waiting room. 
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card from your opponent's hand, and puts it into his or her waiting room. ", '

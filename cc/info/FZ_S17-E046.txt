@@ -1,0 +1,16 @@
+Card Name:
+English Name:Loyal and Brave, Lancer
+Card No.:FZ/S17-E046
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:What I seek from this life, is but the loyalty denied me in my last.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:-

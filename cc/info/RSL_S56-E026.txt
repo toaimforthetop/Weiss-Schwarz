@@ -1,0 +1,18 @@
+Card Name:
+English Name:Spectating, Kaoruko Hanayagi
+Card No.:RSL/S56-E026
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:－
+Trigger:Soul
+Special Attribute:Revue・Nihon Buyo
+Text:【CONT】 Your other character in the middle position of the center stage gets +500 power.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 [(1)] At the beginning of your opponent's main phase, you may pay the cost. If you do, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock.", '

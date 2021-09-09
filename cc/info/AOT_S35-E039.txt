@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Member of Levi Squad" Petra
+Card No.:AOT/S35-E039
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Eren: "Petra Rall. Ten Titan-kills to her credit; forty-eight kill-assists."
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] If you have another ""Humanity\'s Strongest Soldier" Levi", this card gets +2000 power.
+Text:[CONT] If you have another ""Member of Levi Squad" Oruo", your other character in the middle position of the center stage gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".

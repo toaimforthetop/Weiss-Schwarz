@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Kuma-class Torpedo Cruiser, Kitakami-Kai
+Card No.:KC/S31-E071
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:20 firing tubes of oxygen torpedoes, firing the 2nd volley.
+Trigger:Soul
+Special Attribute:Fleet Girl・Torpedo Cruiser
+Text:【CONT】 All of your other "4th Kuma-class Torpedo Cruiser, Oi-Kai" get +2000 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Alina Gray
+Card No.:MR/W80-E036S
+Rarity:SR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:0
+Flavor Text:Ahaha... hahahaha!
+Trigger:Soul
+Special Attribute:Magic・Magius
+Text:【AUTO】 【CXCOMBO】 When "You\'ll Compensate Me, Right?" is placed on your climax area, if this card is in your center stage, this card gets +3000 power until end of turn, and all of your characters get the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose 1 《Magic》 character in your waiting room, and put it into your stock."【AUTO】 [(1) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When your other character is put into your waiting room from the stage, if this card is in your center stage, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fifty-Fifty Fear
+Card No.:BD/EN-W03-056
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:－
+Soul:0
+Flavor Text:Ran: "... Let\'s just get keep going!"
+Trigger:
+Special Attribute:－・－
+Text:【COUNTER】If you have 1 character with "Tsugumi(つぐみ)" in its card name, 1 other character with "Ran(蘭)" in its card name, and 1 other character with "Moca(モカ)" in its card name,” choose up to 2 of your 《Afterglow》 characters, and those characters get +1500 power until end of turn.

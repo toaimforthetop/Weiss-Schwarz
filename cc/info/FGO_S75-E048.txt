@@ -1,0 +1,16 @@
+Card Name:
+English Name:Awakening To...
+Card No.:FGO/S75-E048
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:I really am dead here!
+Trigger:
+Special Attribute:
+Text:Choose 1 of your characters, and put it into your waiting room. If you do, search your deck for up to 2 《Chaldea》 or 《Babylonia》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

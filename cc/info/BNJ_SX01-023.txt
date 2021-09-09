@@ -1,0 +1,17 @@
+Card Name:
+English Name:Penguin Castle
+Card No.:BNJ/SX01-023
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Chojin Birdman Castle! Wind, forest, fire, mountain transformation!
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【CONT】 If this card is in the right position of your center stage, this card gets +3000 power.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is 【TREASURE】, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock.

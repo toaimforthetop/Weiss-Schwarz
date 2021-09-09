@@ -1,0 +1,18 @@
+Card Name:
+English Name:2nd Vittorio Veneto-class Battleship, Italia
+Card No.:KC/S42-E075
+Rarity:RR
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Turret number one, number two, aiming… Fire, now!
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】 When this card is placed on the stage from your hand by the 【ACT】 effect of "2nd Vittorio Veneto-class Battleship, Littorio", you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When your other 《Fleet Girl》 character attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [(2) Put a card named "A Midsummer Moment, Littorio" from your hand into your waiting room] This ability activates up to one time per turn. When this card\'s battle opponent becomes 【REVERSE】, if a card named "Let me show you Italia\'s true power!" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.

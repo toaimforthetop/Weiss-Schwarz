@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gordius Wheel
+Card No.:FZ/S17-TE14
+Rarity:TD
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Go, Gordius Wheel!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

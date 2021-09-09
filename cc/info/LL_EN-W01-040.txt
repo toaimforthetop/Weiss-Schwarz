@@ -1,0 +1,16 @@
+Card Name:
+English Name:"All Psyched Up" Umi
+Card No.:LL/EN-W01-040
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:I can… feel the breeze on my legs in this costume…
+Trigger:
+Special Attribute:Music・-
+Text:-

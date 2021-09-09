@@ -1,0 +1,16 @@
+Card Name:
+English Name:4th Hatsuharu-class Destroyer, Hatsushimo Kai-II
+Card No.:KC/S42-E050
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Heading out, I see. Lets buck up and do our best!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Fleet Girl》 character in your clock, return it to your hand, and put the top card of your deck into your clock.

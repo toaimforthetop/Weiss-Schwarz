@@ -1,0 +1,16 @@
+Card Name:
+English Name:Room in the Turtle
+Card No.:JJ/S66-E096
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Its creating this space and making the key itself the entrance so that we could hide inside.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose 1 of your characters, and return it to your hand.

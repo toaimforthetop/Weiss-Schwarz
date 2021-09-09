@@ -1,0 +1,17 @@
+Card Name:
+English Name:Heart of Justice, Abbacchio
+Card No.:JJ/S66-E092
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"So hes inside the mirror...
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent\'s center stage, and that character gets -1000 power and 《Tea》 until end of turn.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 ""Key" to the Safe "Vehicle"" in your waiting room, and return it to your hand.

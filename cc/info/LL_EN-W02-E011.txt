@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Angelic Angel” Nico Yazawa
+Card No.:LL/EN-W02-E011
+Rarity:R
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:The school idol, Nico-Ni, is ready for anything!
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a green climax is placed on your climax area, choose one of your characters, and that character gets +1500 power until end of turn.

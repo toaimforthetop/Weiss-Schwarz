@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Natural Beauty" Tae Hanazono
+Card No.:BD/EN-W03-113
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"To wrap the cables, you should go underhand, then overhand. The over-under method. Im pretty good at it.
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】[(1)] At the beginning of encore step, if you do not have another【REST】character on your center stage, you may pay the cost. If you do,【REST】this card.

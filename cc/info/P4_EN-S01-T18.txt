@@ -1,0 +1,16 @@
+Card Name:
+English Name:Musha Training
+Card No.:P4/EN-S01-T18
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:In fact, my body is craving for "that" right now.
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room, and return them to your hand.

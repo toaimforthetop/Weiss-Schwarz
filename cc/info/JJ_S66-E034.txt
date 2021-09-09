@@ -1,0 +1,18 @@
+Card Name:
+English Name:Unavoidable Assassination, Risotto
+Card No.:JJ/S66-E034
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"I wont get closer to you.
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 This card cannot be chosen by your opponent's effects.
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Golden Wind》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 [(1) Put 2 characters from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, look at up to 3 cards from the top of your opponent's deck, choose up to 3 cards from among them, put them into your opponent's waiting room, return the rest to your opponent's deck, and your opponent shuffles his or her deck.", '

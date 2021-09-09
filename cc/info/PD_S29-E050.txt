@@ -1,0 +1,16 @@
+Card Name:
+English Name:Melt
+Card No.:PD/S29-E050
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:今すぐ\u3000わたしを抱きしめて！……なんてね
+Trigger:
+Special Attribute:
+Text:Choose one of your chracters, and until end of turn, that character gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."Put this card into your stock.

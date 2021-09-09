@@ -1,0 +1,18 @@
+Card Name:
+English Name:Resolution to Fight Together, Saber
+Card No.:FS/S34-E006SR
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:I have come in response to your summons. Master, what is the situation?
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 Resonate [Reveal a card named ""Heroic Spirit" Saber" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1 soul until end of turn.
+Text:【AUTO】 When this card attacks, if you have another 《Master》 or 《Servant》 character, this card gets +1500 power until end of turn.

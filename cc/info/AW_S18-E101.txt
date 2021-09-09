@@ -1,0 +1,16 @@
+Card Name:
+English Name:Meddlesome Childhood Friend, Chiyuri
+Card No.:AW/S18-E101
+Rarity:TD
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I got over the door of course.
+Trigger:
+Special Attribute:Sports・Net
+Text:【ACT】 [【REST】 two of your 《Net》 or 《Avatar》 characters] Choose one of your characters, and that character gets +1500 power until end of turn.

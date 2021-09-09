@@ -1,0 +1,17 @@
+Card Name:
+English Name:Makoto as QUEEN: Miss Post-Apocalyptic Raider
+Card No.:P5/S45-E038
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Ryuji: " \'Sup, Miss Post-Apocalyptic Raider."Makoto: "Do you want to get smacked?"
+Trigger:Soul
+Special Attribute:Thief・Student Council
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【AUTO】 [(1) Put a 《Thief》 or 《Student Council》 or 《Prosecutor》 character from your hand into your waiting room] When the damage dealt by your direct attacking character is not canceled, if the number of other 《Thief》 or 《Student Council》 or 《Prosecutor》 characters you have is three or more, you may pay the cost. If you do, choose a face down card in your opponent's memory, and put it into his or her clock.", '

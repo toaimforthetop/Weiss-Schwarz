@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cell Phone
+Card No.:DG/EN-S03-E158
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:…Please, help…
+Trigger:
+Special Attribute:
+Text:Search your deck for up to two 《Teacher》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck. Choose two cards in your hand, and put them into your waiting room.

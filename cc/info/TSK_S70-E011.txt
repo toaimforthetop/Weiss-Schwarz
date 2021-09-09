@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Orc Disaster" Geld
+Card No.:TSK/S70-E011
+Rarity:R
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:I am the Orc Disaster! I am the one who will devour all in this world!
+Trigger:Soul
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room, and deal X damage to your opponent. X is equal to the total number of  trigger icons among the cards revealed by this effect.  (Damage may be canceled)【AUTO】 【CXCOMBO】 When "Death March Dance" is placed on your climax area, if this card is in your center stage, choose up to 1 of your opponent\'s characters, return it to his or her hand, choose up to 1 《Demon Continent》 character in your waiting room, and put it into your stock.
+Text:【AUTO】 [Put 1 character with "Orc(豚頭)" in its card name that is not 【REVERSE】 from your stage into your waiting room] At the beginning of the encore step, you may pay the cost. If you do, 【REST】 this card.

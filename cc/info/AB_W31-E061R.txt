@@ -1,0 +1,17 @@
+Card Name:
+English Name:Role of a Big Sister, Yuri
+Card No.:AB/W31-E061R
+Rarity:RRR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:I was confident I was a cool big sister up until that day…
+Trigger:
+Special Attribute:Death・Weapon
+Text:[AUTO] When this card attacks, if a card named "Memories of a Past Life" is in your climax area, you may choose up to two 《Death》 characters in your waiting room, and return them to your hand. If you do, choose two cards from your hand, and put them into your waiting room.
+Text:[AUTO] Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named "Graduation from This World, Yuri" in your waiting room, and put it on the stage position that this card was on.

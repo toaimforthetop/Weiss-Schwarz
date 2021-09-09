@@ -1,0 +1,17 @@
+Card Name:
+English Name:Like a Child, Priestess
+Card No.:GBS/S63-TE18
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:H-Hello, Goblin Slayer. Um, I bought some armor, just as you instructed.
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of  "Like a Parent, Goblin Slayer", your opponent cannot use "【AUTO】 Encore" until end of turn. (Your opponent cannot use the "【AUTO】 Encore ［(3)］" rule either)

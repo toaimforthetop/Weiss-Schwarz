@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Snow Halation" Nozomi Tojo
+Card No.:LL/W34-E020
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card attacks, if a card named "Unfulfilled Wishes" is in your climax area, and you have other cards named "“Snow Halation” Nico Yazawa" and "“Snow Halation” Eli Ayase", this card gets +3500 power until the end of your opponent\'s next turn.

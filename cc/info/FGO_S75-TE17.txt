@@ -1,0 +1,16 @@
+Card Name:
+English Name:Perfect Proof of Existence, Da Vinci
+Card No.:FGO/S75-TE17
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:I see. What just happened was a forced deportation caused by a bounded field.
+Trigger:Soul
+Special Attribute:Chaldea・Genius
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

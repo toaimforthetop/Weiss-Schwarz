@@ -1,0 +1,17 @@
+Card Name:
+English Name:Baseball Girl, Yui
+Card No.:AB/W31-E041
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:Over the fence, of course.
+Trigger:Soul
+Special Attribute:Death・Music
+Text:[CONT] During your turn, all of your other 《Music》 characters get +500 power.
+Text:[CONT] Assist All of your level 2 or higher characters in front of this card get +1000 power.

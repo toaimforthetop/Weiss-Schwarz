@@ -1,0 +1,19 @@
+Card Name:
+English Name:Madoka's "Secret"
+Card No.:MM/W17-E022SP
+Rarity:SP
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:SECRET
+Trigger:Soul
+Special Attribute:Magic
+Text:【CONT】 If the number of other 《Magic》 characters you have is three or more, this card gets +1000 power.
+Text:【AUTO】 When this card attacks, if a card named "Don\'t tell anyone else in class, okay?" is in your climax area, choose up to one of your other characters, put that character into your memory, and at the beginning of your next draw phase, put that character in your memory on any position of your stage.
+Text:【AUTO】 When this card attacks, if a card named "Don\'t tell anyone else in class, okay?" is in your climax area, this card gets +2000 power until end of your opponent\'s next turn. 
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

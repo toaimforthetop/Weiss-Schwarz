@@ -1,0 +1,16 @@
+Card Name:
+English Name:Encounter with Rin, Producer
+Card No.:IMC/W41-E102
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Maybe just dip your toe in?
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1) Put a climax from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a climax in your waiting room, and return it to your hand.

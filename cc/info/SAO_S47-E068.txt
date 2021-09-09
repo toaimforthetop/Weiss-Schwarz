@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lisbeth's Determined Confession
+Card No.:SAO/S47-E068
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:I want to be your exclusive smith.', 'I want to be your exclusive smith.', 'I want to be your exclusive smith.', 'I want to be your exclusive smith.', 'I want to be your exclusive smith.', '
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【AUTO】 [(2)］ When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Driving, Scarlet Rain
+Card No.:AW/S43-E056
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:A public service announcement from SR Traffic Safety Association.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have another card named "Calming Sight, Niko & Pado", all of your other 《Avatar》 or 《Net》 characters get +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.

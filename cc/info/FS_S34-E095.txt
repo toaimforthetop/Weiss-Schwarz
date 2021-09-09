@@ -1,0 +1,18 @@
+Card Name:
+English Name:Reticent Teacher, Soichiro Kuzuki
+Card No.:FS/S34-E095
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:Ryudou, I need to speak to you.
+Trigger:Soul
+Special Attribute:Master・Teacher
+Text:【AUTO】 [Put a ""Caster\'s Master" Soichiro Kuzuki" from your hand into your clock] When you use this card\'s "Backup", you may pay the cost. If you do, choose one of your opponent\'s characters with level higher than your opponent\'s level, and put it on the bottom of your opponent\'s deck.
+Text:【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)
+Text:-

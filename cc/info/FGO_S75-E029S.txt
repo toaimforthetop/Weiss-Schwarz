@@ -1,0 +1,17 @@
+Card Name:
+English Name:Brimming with Power, Ana
+Card No.:FGO/S75-E029S
+Rarity:SR
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Babylonia・Sweets
+Text:【CONT】 The character facing this card cannot move to another position on the stage.
+Text:【CONT】 This card cannot side attack.

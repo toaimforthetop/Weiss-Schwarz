@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Resisting Fate" Armin
+Card No.:AOT/S35-E002
+Rarity:RR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:To rise above monsters, we have to abandon our humanity.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] This card cannot be chosen by your opponent's effects.
+Text:[CONT] Assist All of your 《Corps》 characters in front of this card get +2000 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."
+Text:[AUTO] When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room. X is equal to the number of 《Corps》 characters you have.

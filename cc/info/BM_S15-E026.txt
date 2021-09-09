@@ -1,0 +1,18 @@
+Card Name:
+English Name:Family Circumstance, Tsubasa Hanekawa
+Card No.:BM/S15-E026
+Rarity:RR
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"Now that its finally the long-awaited Golden Week, aren't you going to study or whatever?
+Trigger:Soul
+Special Attribute:Strange・Class Representative
+Text:[CONT] All of your 《Strange》 characters get +500 power and the following ability. "[ACT]［[REST] one of your characters] This card gets +1000 power until end of turn."
+Text:[AUTO]［(1) Put this card into your waiting room］ When a card named "Secret Reward" is placed on your climax area, you may pay the cost. If you do, choose a card named ""Energy Drain"Black Hanekawa" in your waiting room, and put it on the stage position that this card was on.
+Text:[AUTO] When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Wise King's Orders, Gilgamesh
+Card No.:FGO/S75-E031
+Rarity:R
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Raise the anchors!
+Trigger:Soul
+Special Attribute:Babylonia・Wise King
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 When your character's trigger check reveals a climax, if that card has  in its trigger icon, you may put the top card of your deck into your stock.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unexpected Encounter, 《Death Gun》
+Card No.:SAO/SE23-TE07
+Rarity:TD
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:Are you, the real deal?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card attacks, if your opponent has a 《Target》 character, this card gets +3000 power until the end of your opponent's next turn.", '

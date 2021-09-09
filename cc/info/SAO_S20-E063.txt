@@ -1,0 +1,16 @@
+Card Name:
+English Name:Like an Idol, Silica
+Card No.:SAO/S20-E063
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"I-Im Silica.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

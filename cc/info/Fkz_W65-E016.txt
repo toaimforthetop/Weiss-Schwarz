@@ -1,0 +1,16 @@
+Card Name:
+English Name:Creepy in a Cute Way, Ayumu
+Card No.:Fkz/W65-E016
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:You mean cute in a creepy way, right? Why did you make it the reverse?
+Trigger:
+Special Attribute:Fantasia Bunko・Magical Arms Girl・Death
+Text:【ACT】 [(1) Put this card into your waiting room] Choose up to 1 character in your hand with level equal to or lower than your level, and put it on the stage position that this card was on.

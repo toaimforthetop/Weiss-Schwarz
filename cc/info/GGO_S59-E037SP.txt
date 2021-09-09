@@ -1,0 +1,16 @@
+Card Name:
+English Name:Insane LLENN
+Card No.:GGO/S59-E037SP
+Rarity:SP
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards of your deck into your waiting room. If there are 1 or more 《Avatar》 or 《Net》 characters revealed among those cards, choose 1 character on your opponent\'s center stage, and that character gets -2000 power until end of turn. If there are 2 or more, choose 1 character on your opponent\'s center stage, and that character gets -4000 power until end of turn. If there are 3 or more, you may deal 1 damage to your opponent. (Damage may be canceled)【AUTO】 【CXCOMBO】 When this card attacks, if "Even By Gnawing Through The Throat" is in your climax area, you may deal 1 damage to your opponent. (Damage may be canceled)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kurumi Tokisaki
+Card No.:DAL/W79-E003
+Rarity:RR
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Well then, have a good day.
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 If you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, this card gets +1500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s memory."【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(3) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the bottom 5 cards of your opponent\'s deck into their waiting room, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the number of climax among those cards. (Damage may be canceled)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Guardian of Fairy Tail, Erza
+Card No.:FT/EN-S02-101
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text: -
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:【AUTO】 Memory When you use this card\'s "Backup", if the number of 《Magic》 characters in your memory is two or more, choose one of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn.)

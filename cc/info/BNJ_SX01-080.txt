@@ -1,0 +1,17 @@
+Card Name:
+English Name:Batman: The Final Showdown
+Card No.:BNJ/SX01-080
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Lets end this, Joker. Just you and me.
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Weapon》 characters.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

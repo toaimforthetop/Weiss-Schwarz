@@ -1,0 +1,16 @@
+Card Name:
+English Name:Top of the Skyscraper, Satsuki
+Card No.:KLK/S27-E086
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:However, your battle has only just begun!
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is a 《Clothes》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place)

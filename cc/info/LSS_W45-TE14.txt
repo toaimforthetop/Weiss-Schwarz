@@ -1,0 +1,16 @@
+Card Name:
+English Name:Make Our Dreams Come True
+Card No.:LSS/W45-TE14
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Now their "School Idol Project" begins to make their dreams come true!
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room, and return them to your hand.

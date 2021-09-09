@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Key" to the Safe "Vehicle"
+Card No.:JJ/S66-E095
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:The sixth platform… The drinking fountain with the turtle… This has to be the spot!
+Trigger:
+Special Attribute:
+Text:Put the top 2 cards of your deck into your waiting room, choose up to 1 level X or lower 《Golden Wind》 character in your waiting room, and return it to your hand. X is equal to the total level of the cards put into your waiting room by this effect. (Climax are regarded as level 0)

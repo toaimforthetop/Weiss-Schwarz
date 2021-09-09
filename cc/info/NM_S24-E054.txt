@@ -1,0 +1,16 @@
+Card Name:
+English Name:Accelerator, Suruga Kanbaru
+Card No.:NM/S24-E054
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Suruga Kanbaru. Primary weapon, accelerator.
+Trigger:
+Special Attribute:Strange・Sports
+Text:【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets +1000 power.

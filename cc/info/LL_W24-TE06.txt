@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Not Fair" Kotori
+Card No.:LL/W24-TE06
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Umi...Please…!
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power.

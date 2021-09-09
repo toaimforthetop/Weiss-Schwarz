@@ -1,0 +1,16 @@
+Card Name:
+English Name:Raku Ichijo
+Card No.:NK/W30-TE01
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Key・-
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

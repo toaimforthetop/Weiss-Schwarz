@@ -1,0 +1,16 @@
+Card Name:
+English Name:As For Us
+Card No.:RSL/S56-E093
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:－
+Soul:0
+Flavor Text:Claudine: "Je t\'attends sur scene!"Maya: "We\'ll be waiting on the stage."
+Trigger:
+Special Attribute:－・－
+Text:Look at up to 4 cards from the top of your deck, choose up to 1  《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

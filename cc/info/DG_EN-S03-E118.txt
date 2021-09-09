@@ -1,0 +1,16 @@
+Card Name:
+English Name:Demon Girl Etna, the Ultimate Beauty
+Card No.:DG/EN-S03-E118
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Act II: "The Rise of Queen Etna"', 'A pretty girl strutting her stuff in the darkness of the Netherworld!
+Trigger:Soul
+Special Attribute:Demon・Weapon
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Master of Explosion Magic Someday" Megumin
+Card No.:KS/W76-E035
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Kazuma: "I\'ve got one who can toy with and defeat the Devil King\'s generals with a single Explosion."
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 [Put 1 ""Foremost Mage" Megumin" or ""Greatest Mage" Yunyun" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 5 cards from the top of your deck, choose up to 1 《Adventurer》 or 《Magic》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn.

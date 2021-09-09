@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fierce Rivalry, Shuna
+Card No.:TSK/S70-E055
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Hehe. I wouldnt mind taking care of Great Rimuru myself.
+Trigger:Soul
+Special Attribute:Demon Continent・Shrine Maiden
+Text:【CONT】 If there is a marker underneath this card, all of your other 《Demon Continent》 characters get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 "Which One Do You Choose? Rimuru" in your waiting room, and put it face up underneath this card as a marker.

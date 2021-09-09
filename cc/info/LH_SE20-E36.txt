@@ -1,0 +1,18 @@
+Card Name:
+English Name:Rayneshia
+Card No.:LH/SE20-E36
+Rarity:U
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Well a real gentleman wouldnt say something like that.
+Trigger:
+Special Attribute:Heiress・-
+Text:【AUTO】 [Put this card into your waiting room] When another of your characters is put into the waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】. 
+Text:【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck. 
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card from your opponent's hand, and puts it into his or her waiting room. ", '

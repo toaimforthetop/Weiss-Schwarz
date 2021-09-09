@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Summer Festival Date” Maki Nishikino
+Card No.:LL/EN-W02-E117
+Rarity:RR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:If I show a bit more leg in this yukata, then will it be a bit cooler?
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one blue character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

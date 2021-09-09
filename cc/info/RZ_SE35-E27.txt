@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unsettling Premonition, Puck
+Card No.:RZ/SE35-E27
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Of course, I wont let it get away with this, though.
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 The character facing this card cannot move to another position on the stage.
+Text:【AUTO】 At the beginning of your climax phase, your opponent may put 2 cards from the top of their stock into their waiting room. If they do, this card cannot frontal attack until end of turn.

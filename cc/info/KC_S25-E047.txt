@@ -1,0 +1,17 @@
+Card Name:
+English Name:1st Furutaka-class Heavy Cruiser, Furutaka
+Card No.:KC/S25-E047
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:It will be great if you could learn more about the merits of a heavy cruiser.
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】When you use this card\'s "Backup", you may reveal your hand. If you do, if there is a climax among those cards, choose one of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】【COUNTER】Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.)

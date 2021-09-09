@@ -1,0 +1,17 @@
+Card Name:
+English Name:Spinning Wheel of Fate, Nui
+Card No.:KLK/S27-E022
+Rarity:RR
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Go all-out when you play. Lifes no fun if you don't.
+Trigger:Soul
+Special Attribute:Clothes・Eye Patch
+Text:【CONT】 If all of your characters are 《Clothes》, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on stage from your hand, you may choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room. If you do, your opponent will choose up to one level 0 or lower character from your opponent's waiting room, and put it on the stage position that character was on.", '

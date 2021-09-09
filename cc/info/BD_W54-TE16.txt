@@ -1,0 +1,16 @@
+Card Name:
+English Name:Phone-Shy
+Card No.:BD/W54-TE16
+Rarity:TD
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"A-Ako-chan... Im not so great... at phone calls... so I thought to take a deep breaths... and relax…
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If the number of 《Music》 characters you have is one or less, this card cannot be played from your hand.Choose one of the following effects and perform it. If you have a character with "Yukina(友希那)" in its card name, a character with "Lisa(リサ)" in its card name, a character with "Sayo(紗夜)" in its card name, a character with "Ako(あこ)" in its card name, and a character with "Rinko(燐子)" in its card name, perform the chosen effect two times instead."Choose one of your opponent\'s characters, and that character gets -1 soul until end of turn.""Choose one of your characters in battle, and that character gets +3000 power until end of turn.""Search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."

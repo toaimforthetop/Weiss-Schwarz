@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reminiscing, Yachiyo
+Card No.:MR/W80-E041
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:We were friends once, but that was a long time ago.
+Trigger:
+Special Attribute:Magic・Model
+Text:【AUTO】 This ability activates up to 1 time per turn. When your other "Magical Girl Service, Tsuruno" is placed on the stage from your hand, you may choose 1 《Magic》 character in your waiting room, and put it into your stock. 【AUTO】 Bond/"Magical Girl Service, Tsuruno"  [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 "Magical Girl Service, Tsuruno" in your waiting room, and return it to your hand)

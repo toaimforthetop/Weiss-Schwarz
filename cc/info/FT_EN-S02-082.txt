@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maiden in Love, Juvia
+Card No.:FT/EN-S02-082
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:There must be something wrong with me. Why is my heart beating so fast?
+Trigger:Soul
+Special Attribute:Magic・Love
+Text:【CONT】【CLOCK】 Alarm When this card is the top card of your clock, if the number of 《Love》 or 《Ice》 characters you have is four or more, at the beginning of your climax phase, search your deck for up to one 《Love》 or 《Ice》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

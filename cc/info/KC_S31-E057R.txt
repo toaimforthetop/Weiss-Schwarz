@@ -1,0 +1,18 @@
+Card Name:
+English Name:Light Aircraft Carrier Ryujo, heading out!
+Card No.:KC/S31-E057R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:As long as I am here, this will be the main fleet!
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul. 
+Text:(Treasure@: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)
+Text:【CONT】 If there is a marker underneath this card, this card gets +5000 power and +1 soul. ', "【CONT】 This card cannot be chosen by your opponent's effects. ", '【AUTO】 When another of your "1st Chitose-class Light Aircraft Carrier, Chitose-Ko" becomes Reversed@ in battle, if there are no markers underneath this card, you may put that character face down underneath this card as a marker.

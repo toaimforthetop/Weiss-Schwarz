@@ -1,0 +1,17 @@
+Card Name:
+English Name:Heart-pounding Stage, Rimi
+Card No.:BD/W47-E032S
+Rarity:SR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Choco Cornet
+Text:【AUTO】  When a climax is put on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】  【CXCOMBO】  When this card\'s battle opponent becomes 【REVERSE】 , if a card named "Aspired Stage" is in your climax area, choose up to one card named "Letter from Kasumi" in your waiting room, return it to your hand, and this card gets the following ability until end of turn. "【AUTO】  At the beginning of your encore step, you may return this card to your hand."

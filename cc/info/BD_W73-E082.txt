@@ -1,0 +1,18 @@
+Card Name:
+English Name:Festive Mood CHU?
+Card No.:BD/W73-E082
+Rarity:U
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Im all ears! Nothing could ruin the amazing mood I'm in!
+Trigger:Soul
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 All of your other 《RAISE A SUILEN》 characters get +1000 power.
+Text:【CONT】 If there is a marker underneath this card, this card gets the following ability. "【CONT】 All of your other 《RAISE A SUILEN》 characters in the middle position of your center stage gets +3000 power."
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose up to 1  "Beginning of a Legend, PAREO" in your hand, and put it face up underneath this card as a marker.

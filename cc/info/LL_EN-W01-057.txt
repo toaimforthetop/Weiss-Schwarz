@@ -1,0 +1,18 @@
+Card Name:
+English Name:Nozomi in Training Wear
+Card No.:LL/EN-W01-057
+Rarity:R
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:I can still keep going!
+Trigger:Soul
+Special Attribute:Music・Fortune Telling
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if a card named "With a Summer Smile 1,2,Jump!" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards, and this card gets +1000 power until end of turn.

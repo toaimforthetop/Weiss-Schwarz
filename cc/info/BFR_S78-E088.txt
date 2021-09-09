@@ -1,0 +1,16 @@
+Card Name:
+English Name:Information Warfare, Frederica
+Card No.:BFR/S78-E088
+Rarity:R
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:And what would be the point of me doing that?
+Trigger:Soul
+Special Attribute:Game・Magic
+Text:【AUTO】 【CXCOMBO】 When "Duel System" is placed on your climax area, if this card is in your center stage, and you have another "Information Warfare, Frederica", reveal the top card of your deck. If that card is a 《Game》 character, choose up to 1 of your opponent\'s level 3 or lower characters, return it to your opponent\'s deck, and your opponent shuffles their deck. (Return the revealed card to its original place)

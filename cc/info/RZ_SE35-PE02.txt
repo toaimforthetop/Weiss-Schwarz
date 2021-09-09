@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pouting Emilia
+Card No.:RZ/SE35-PE02
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You have a way of saying things that make them sound so awful.
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put the top card of your opponent's clock into their waiting room. If you do, put that character into their clock.", '

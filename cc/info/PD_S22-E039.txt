@@ -1,0 +1,17 @@
+Card Name:
+English Name:"39 Get!"Hatsune Miku
+Card No.:PD/S22-E039
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:キミと奏でたい、ずっと――
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 All of your other characters with "Miku" in its card name get +500 power.
+Text:【ACT】［【REST】 this card］ Choose one of your characters with "Miku" in its card name, and that character gets +500 power until end of turn.

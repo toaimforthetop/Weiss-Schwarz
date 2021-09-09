@@ -1,0 +1,16 @@
+Card Name:
+English Name:Half-Elf Maiden, Emilia
+Card No.:RZ/S46-E061
+Rarity:RR
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +1500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s memory."【AUTO】 [(2) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. During the turn that this card was placed on the stage from your hand,when this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card named "Great Spirit, Puck" in your waiting room, and put it on any position of your stage.

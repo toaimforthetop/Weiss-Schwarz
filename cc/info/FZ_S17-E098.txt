@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sea Monster
+Card No.:FZ/S17-E098
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:3
+Power:
+Soul:0
+Flavor Text:It glistens with a foul slime which induces nausea.', 'It is truly an island made of flesh.
+Trigger:
+Special Attribute:
+Text:Choose a character in your hand, and put it into your memory face down. Your opponent chooses the number 2 or 3. Reveal the face down card, and if that card is a character of a level that matches the number that your opponent chose, put it on any position of your stage. If it is not, put that card into your waiting room.

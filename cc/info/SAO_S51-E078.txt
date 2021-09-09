@@ -1,0 +1,17 @@
+Card Name:
+English Name:Welcome Assistance, Yui
+Card No.:SAO/S51-E078
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Ive loaded the saved data left on the SAO server onto you all.
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.
+Text:【AUTO】 【CXCombo】 [Put a card from your hand into your stock] When this card attacks, you may pay the cost. If you do, choose a card named "Sorry to Keep You Waiting!" in your climax area, and return it to your hand.

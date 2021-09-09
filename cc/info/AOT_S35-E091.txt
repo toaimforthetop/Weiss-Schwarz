@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Hard Exterior" Armored Titan
+Card No.:AOT/S35-E091
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Titan・-
+Text:【CONT】 If all of your characters are 《Titan》, this card gets +2000 power.
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card.", '

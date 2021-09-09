@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cute Second Cousin!? Niko
+Card No.:AW/S18-E059R
+Rarity:RRR
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:So, what’s it like being in junior high school? I wanna hear all about it...
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.

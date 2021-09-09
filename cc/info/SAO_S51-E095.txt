@@ -1,0 +1,17 @@
+Card Name:
+English Name:Investigation Report
+Card No.:SAO/S51-E095
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Daddy, Mommy, I was able to find out one thing.
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.
+Text:【CONT】 Memory During your opponent's turn, if this card is in your memory, all of your 《Avatar》 or 《Net》 characters get +1000 power.", '

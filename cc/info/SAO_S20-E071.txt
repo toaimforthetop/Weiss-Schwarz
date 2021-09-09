@@ -1,0 +1,17 @@
+Card Name:
+English Name:White Dragon's Lair
+Card No.:SAO/S20-E071
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Um……thank you. For saving me.
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.
+Text:【CONT】 Memory If this card is in your memory, your character in the middle positin of the center stage with "Kirito" in its card name gets +1000 power. 

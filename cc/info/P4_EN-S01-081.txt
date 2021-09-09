@@ -1,0 +1,18 @@
+Card Name:
+English Name:Teddie in Yukata
+Card No.:P4/EN-S01-081
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"A couple walking together at a festival… Unused to wearing it, the girls yukata comes loose… Summer has begun.
+Trigger:
+Special Attribute:Shadow・Japanese Clothes
+Text:【CONT】 During your opponent's turn, all of your other characters get +500 power.", '
+Text:【AUTO】 This ability activates up to three times per turn. When you play an event, choose one of your characters, and that character gets power +1000 until end of turn.
+Text:【AUTO】 [(3)] This ability activates up to one time per turn. When this card attacks, you may pay the cost. If you do, put three cards from the top of your deck into your waiting room. If there is a climax among those cards, put up to one card from the top of your clock into your waiting room. If there is an event among those cards, put all cards in your stock into your waiting room, and 【STAND】 this card.

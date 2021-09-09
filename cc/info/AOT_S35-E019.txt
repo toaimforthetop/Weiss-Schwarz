@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Garrison Regiment" Hannes
+Card No.:AOT/S35-E019
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT]  If the character facing this card is a higher level than this card, this card cannot attack.
+Text:[CONT] If you have another card with "Eren(エレン)" or "Mikasa(ミカサ)" or "Armin(アルミン)" in its card name, this card gets +1500 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Conqueror, May
+Card No.:BFR/S78-TE03
+Rarity:TD
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Game・Twins
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".

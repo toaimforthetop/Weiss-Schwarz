@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Battle Mode” Rider
+Card No.:FS/S36-E031
+Rarity:RR
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【CONT】 If the number of green characters you have is four or more, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【CONT】 All of your characters get +1000 power and +1 soul. ', "(: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.) ", '

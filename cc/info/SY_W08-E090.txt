@@ -1,0 +1,18 @@
+Card Name:
+English Name:Nagato's Apron Look
+Card No.:SY/W08-E090
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Ill lend you this.
+Trigger:
+Special Attribute:Alien・Book
+Text:【CONT】 All of your other 《Book》 characters get +500 power.
+Text:【ACT】 [(1) 【REST】 two of your characters] If the number of your other 《Book》 characters is three or more, draw a card.
+Text:【AUTO】 Bond/"Kyon in Yukata" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kyon in Yukata" in your waiting room, and return it to your hand.)

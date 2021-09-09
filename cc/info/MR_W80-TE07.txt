@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kaede Chased by a Witch
+Card No.:MR/W80-TE07
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"I cant beat it either, so let's get out of here!
+Trigger:Soul
+Special Attribute:Magic・Plant
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +2000 power until end of turn.", '

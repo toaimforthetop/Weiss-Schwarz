@@ -1,0 +1,16 @@
+Card Name:
+English Name:Supreme Overlord Baal
+Card No.:DG/EN-S03-E063
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:The Lord of Terror, Baal…...', 'The Legend was true…...
+Trigger:Soul
+Special Attribute:Demon・-
+Text:【CONT】 If you do not have any other characters, this card gets +10000 power, +2 soul, and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s clock."

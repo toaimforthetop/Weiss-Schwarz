@@ -1,0 +1,17 @@
+Card Name:
+English Name:Marshall Lee
+Card No.:AT/WX02-058
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fanfiction・-
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.

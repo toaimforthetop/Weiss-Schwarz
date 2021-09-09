@@ -1,0 +1,16 @@
+Card Name:
+English Name:Attack of Steel
+Card No.:Fdl/W65-E103
+Rarity:CC
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Objective supplemented. Now beginning the extermination of the identifier 〈Hermit〉 .
+Trigger:Draw
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【DRAW】: When this card triggers, you may draw 1 card)

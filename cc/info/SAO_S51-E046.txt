@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Complete SAO Incident Records
+Card No.:SAO/S51-E046
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Eiji: "It\'s like a journal of my memories."
+Trigger:
+Special Attribute:
+Text:If you do not have an 《Avatar》 or 《Net》 character, this card cannot be played from your hand.Choose one of the following effects and perform it. "Choose a level 2 or lower character with "Memory" in your opponent\'s center stage, and put it into his or her waiting room." "Choose one of your opponent\'s characters, and that character gets -2000 power until end of turn."

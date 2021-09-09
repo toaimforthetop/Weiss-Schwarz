@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Maiden's Resolve" Darc
+Card No.:MR/W59-E014
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Please bestow upon me the power to bring light to France!
+Trigger:Soul
+Special Attribute:Magic・Ability
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【ACT】 [(1) Put this card into your memory] Put the top card of your clock into your waiting room.

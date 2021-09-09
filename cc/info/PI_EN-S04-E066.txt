@@ -1,0 +1,16 @@
+Card Name:
+English Name:Miyu in Regular Clothes
+Card No.:PI/EN-S04-E066
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:This absurd act ignores aerodynamics. Not to mention gravity, inertia, and the third law of motion…
+Trigger:
+Special Attribute:Master・Magic
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mystery Transfer Student, Koizumi
+Card No.:SY/W08-E004R
+Rarity:RRR
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"I just transferred so theres much to learn, guide me well.
+Trigger:
+Special Attribute:Psychic Ability・SOS Brigade
+Text:【CONT】 Assist During your turn, all of your characters in front of this card get +1000 power.', "【AUTO】 [Put a card from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, search your deck for up to one 《SOS Brigade》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

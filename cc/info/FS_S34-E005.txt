@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Heroic Spirit" Saber
+Card No.:FS/S34-E005
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card attacks, if you have another 《Master》 or 《Servant》 character, this card gets +1500 power until end of turn.

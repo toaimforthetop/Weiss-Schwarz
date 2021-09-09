@@ -1,0 +1,16 @@
+Card Name:
+English Name:Raspberyl & Sapphire
+Card No.:DG/EN-S03-E139
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Ohhh! Arent you a cutesy little demon!?
+Trigger:
+Special Attribute:Demon・Royalty
+Text:【CONT】 If your opponent has a 500 power or lower character, this card gets +1500 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Morgana as MONA: Earnest Affection
+Card No.:P5/S45-E065
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"If my actions can help herachieve happiness, thatsmore than enough for me…
+Trigger:
+Special Attribute:Thief・-
+Text:【CONT】 During your turn, all of your other cards named "Ann as PANTHER & Carmen" get +2000 power.
+Text:【AUTO】 When your other character in the middle position of the center stage attacks, you may put the top card of your deck into your waiting room. If that card is a climax, choose a card in your opponent\'s waiting room, and put it on the top of his or her deck.

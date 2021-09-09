@@ -1,0 +1,17 @@
+Card Name:
+English Name:The End and the Beginning, Momonga
+Card No.:OVL/S62-TE11
+Rarity:TD
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:The command was. “Stand By”, right?
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 All of your other "The End and the Beginning, Albedo" get +1000 power.
+Text:【AUTO】 Bond/"The End and the Beginning, Albedo" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "The End and the Beginning, Albedo" in your waiting room, and return it to your hand)

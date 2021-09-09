@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hikaru Tokugawa
+Card No.:MOB/SX02-082
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Dont try to act like your brother.
+Trigger:
+Special Attribute:Student Council・-
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other blue or 《Club Activities》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn.", '

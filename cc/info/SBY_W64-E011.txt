@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sisterly Thoughts, Nodoka Toyohama
+Card No.:SBY/W64-E011
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Ill casually ask Big Sister where she is for you!
+Trigger:
+Special Attribute:Adolescence・Fashionable
+Text:【CONT】 During your turn, all of your other characters with "Mai (麻衣)" or "Nodoka (のどか)" in its card name get +1000 power.
+Text:【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room with "Mai (麻衣)" or "Nodoka (のどか)" in its card name, and return it to your hand.

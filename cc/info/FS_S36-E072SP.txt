@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Snow Fairy” Illya
+Card No.:FS/S36-E072SP
+Rarity:SP
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Besides, what do you want me to say', 'to someone who is going to die here?
+Trigger:
+Special Attribute:Master・Homunculus
+Text:【AUTO】 When this card attacks, if a card named "Official Contract" is in your climax area, and the number of other 《Master》 or 《Servant》 characters you have is four or more, you may draw a card.

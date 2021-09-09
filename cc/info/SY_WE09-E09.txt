@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mikuru Working Part-time
+Card No.:SY/WE09-E09
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Huh…
+Trigger:
+Special Attribute:Time・Frog
+Text:-

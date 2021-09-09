@@ -1,0 +1,16 @@
+Card Name:
+English Name:Prince of Disappointment, Yosuke
+Card No.:P4/EN-S01-013
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"An eloquent heiress of the noble Junes, shes pure disappointment from the moment she opens her mouth!
+Trigger:
+Special Attribute:Junes・Female Impersonator
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your deck into your waiting room. If you do, choose another of your characters with 《Junes》, for each 【SOUL】 trigger icon on the card put into your waiting room, that character gets +1 soul until end of turn.

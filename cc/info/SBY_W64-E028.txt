@@ -1,0 +1,17 @@
+Card Name:
+English Name:Clear Blue Skies, Tomoe Koga
+Card No.:SBY/W64-E028
+Rarity:R
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Adolescence・Smartphone
+Text:【AUTO】 At the beginning of your climax phase, choose 1 of your 《Adolescence》 characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over the top 4 cards of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock."

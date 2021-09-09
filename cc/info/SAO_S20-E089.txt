@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kirito's Quiet Days
+Card No.:SAO/S20-E089
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Morning. Sleep well?
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 Bond／"Asuna Changes Clothes" [(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Asuna Changes Clothes" in your waiting room, and return it to your hand.)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: Hospitable
+Card No.:CCS/WX01-088
+Rarity:U
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:9500
+Soul:1
+Flavor Text:Let’s eat in my room. I even made iced tea, too.
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 This card gets -2 level while on the stage.
+Text:【CONT】 This card gets +2000 power for each of your other "Sakura: Hospitable" on your center stage.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Battle Craftswoman, Iz
+Card No.:BFR/S78-E001SP
+Rarity:SP
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Blacksmith
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When your other character's battle opponent becomes 【REVERSE】, this card gets +1000 power until end of turn.

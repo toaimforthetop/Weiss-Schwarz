@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Counterattack Barrage” Archer
+Card No.:FS/S36-E053
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 Resonate [Reveal a card named "“Caladbolg II”" in your hand] At the beginning of your climax phase, if this card is in your center stage, you may pay the cost. If you do, choose a level 0 or lower character in your opponent\'s center stage, and put it into his or her waiting room.
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

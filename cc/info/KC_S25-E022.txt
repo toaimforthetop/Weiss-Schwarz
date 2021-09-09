@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Kagero-class Destroyer, Shiranui
+Card No.:KC/S25-E022
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Whys that…… Are you saying Shiranui is at fault here?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[(1)] When this card becomes 【Reverse】 in battle, you may pay the cost. If you do, 【REST】this card, and this card cannot 【STAND】during your next stand phase.

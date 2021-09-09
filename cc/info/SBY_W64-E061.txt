@@ -1,0 +1,17 @@
+Card Name:
+English Name:As a Lover, Mai Sakurajima
+Card No.:SBY/W64-E061
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Adolescence・Cooking
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your waiting room with "Mai (麻衣)" or "Nodoka (のどか)" in its card name, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 2 or lower, you may 【REVERSE】 that character.

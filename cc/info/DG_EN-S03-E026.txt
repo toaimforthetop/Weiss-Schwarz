@@ -1,0 +1,16 @@
+Card Name:
+English Name:Package from Celestia, Sicily
+Card No.:DG/EN-S03-E026
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Its time for my secret weapon finisher.
+Trigger:
+Special Attribute:Angel・Magic
+Text:【AUTO】 [Put this card into your stock] When a card named "Birth of a New Overlord" is put into your waiting room from your climax area, if your opponent does not have any other characters in his or her center stage, you may pay the cost. If you do, choose a card named "“Overlord” Sicily" in your waiting room, and put it on this card\'s previous stage position as 【REST】.

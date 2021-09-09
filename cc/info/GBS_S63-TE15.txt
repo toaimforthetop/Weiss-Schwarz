@@ -1,0 +1,16 @@
+Card Name:
+English Name:Adventurer, Swordsman
+Card No.:GBS/S63-TE15
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Were looking for at least one more person. Would you come with us?
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【CONT】 During this card\'s battle, you cannot play "Backup" from your hand.

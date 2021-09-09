@@ -1,0 +1,17 @@
+Card Name:
+English Name:Family Runs a Konnyaku Business, Sanageyama
+Card No.:KLK/S27-E081
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Mock Northern Kanto once more, Ill mix you up with limewater and boil you.
+Trigger:
+Special Attribute:Clothes・Sports
+Text:【CONT】 If the number of cards in your hand is five or more, this card gets +1000 power.
+Text:【CONT】 This card gets +X power. X is equal to 2000 multiplied by the level of the character facing this card.

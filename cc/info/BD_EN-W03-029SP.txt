@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Echoing Heartbeat" Ran Mitake
+Card No.:BD/EN-W03-029SP
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×500.
+Text:【AUTO】【CXCOMBO】When this card attacks, if "That Is How I Roll!" is in your climax area, this card gets +1000 power and the following ability until end of turn. "【AUTO】When this card\'s battle opponent becomes【REVERSE】, you may put the top card of your deck into your stock."

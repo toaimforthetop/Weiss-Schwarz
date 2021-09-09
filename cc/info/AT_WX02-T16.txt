@@ -1,0 +1,17 @@
+Card Name:
+English Name:Engagement Ring Princess
+Card No.:AT/WX02-T16
+Rarity:TD
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Royalty
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Ooo》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 2 or lower, you may 【REVERSE】 that character.", '

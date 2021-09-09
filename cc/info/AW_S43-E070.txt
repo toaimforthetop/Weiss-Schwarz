@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cooking with a Smile, Niko
+Card No.:AW/S43-E070
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text: Sorry, I gotta get back in the kitchen.
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 If the number of other characters you have is one or less, all of your other characters get +1 level and +1000 power.

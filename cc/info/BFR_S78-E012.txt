@@ -1,0 +1,16 @@
+Card Name:
+English Name:Third Place in the Event, Maple
+Card No.:BFR/S78-E012
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Yippie! Im in third!
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 When this card attacks, reveal the top card of your deck. If that card is level 1 or higher, choose 1 of your other characters, 【REST】 it, and move it to an open position of your back stage. (Climax are regarded as level 0. Return the revealed card to its original place)

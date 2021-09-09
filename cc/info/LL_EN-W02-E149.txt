@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Christmas Carol” Maki Nishikino
+Card No.:LL/EN-W02-E149
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"I wonder if Santa Maki will visit you? Youve been good, right?
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 During your opponent's turn, if the number of cards in your hand is five or more, this card gets +2000 power.", '

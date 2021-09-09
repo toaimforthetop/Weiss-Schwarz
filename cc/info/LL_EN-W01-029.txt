@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Spiritual Power" Nozomi
+Card No.:LL/EN-W01-029
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Ill use my power as a shrine maiden to make everyone happy♪
+Trigger:
+Special Attribute:Music・Shrine Maiden
+Text:【CONT】 Assist All of your characters in front of this card get +500 power. 【AUTO】 [(1) 【REST】 this card] When you use "Change", if this card is 【STAND】, you may pay the cost. If you do, all of your characters get +2000 power until end of turn.

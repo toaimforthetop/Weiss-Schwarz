@@ -1,0 +1,17 @@
+Card Name:
+English Name:Colorful x Melody
+Card No.:PD/S29-E020a
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:今は\u3000片想いだって\u3000届かなくたって
+Trigger:
+Special Attribute:
+Text:Choose one of your 【Stand】 《Music》 characters, and 【REST】 it. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards. Put this card into your memory.
+Text:【CONT】 Memory If this card is in your memory, all of your "Kagamine Rin "Cheerful Candy"" and "Hatsune Miku "Colorful Gumdrop"" get green.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Kazahaya-class Transport Ship, Hayasui Kai
+Card No.:KC/S42-E067
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Hayasuis Fleet, flagship Hayasui, anchors aweigh!Eh heh, I've always wanted to say that.
+Trigger:Soul
+Special Attribute:Fleet Girl・Supply Vessel
+Text:【CONT】 All of your other 《Fleet Girl》 characters get +1000 power.
+Text:【AUTO】 This ability activates up to one time per turn. When you play a card named "Offshore Supply", choose one of your characters, and that character gets +2000 power until end of turn.

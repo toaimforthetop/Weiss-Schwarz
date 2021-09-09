@@ -1,0 +1,16 @@
+Card Name:
+English Name:Morgana as MONA: That's the Treasure!
+Card No.:P5/S45-TE16
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:T-Treasure…
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 When your other 《Thief》 character attacks, this card gets +1000 power until end of turn.

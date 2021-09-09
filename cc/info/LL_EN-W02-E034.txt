@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Chinese Vampire” Nozomi Tojo
+Card No.:LL/EN-W02-E034
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:You can pretend to be afraid of ghosts and use it as an excuse to cling to me if you like♪
+Trigger:
+Special Attribute:Music・Spirit
+Text:【AUTO】 When this card attacks, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Until the Dying Breath" Bertholdt
+Card No.:AOT/S50-E065
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Someone has to be the one to do it…… Someone has to be the one to stain their hands with blood……
+Trigger:
+Special Attribute:Titan・Corps
+Text:【CONT】 This card gets +500 power for each of your other 《Corps》 or 《Titan》 characters.

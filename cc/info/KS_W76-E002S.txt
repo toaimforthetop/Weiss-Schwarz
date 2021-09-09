@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Musclebrained Crusader" Darkness
+Card No.:KS/W76-E002S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Kuh…...!
+Trigger:Soul
+Special Attribute:Adventurer・Worries
+Text:【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Magic》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand or by "Fusion", look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "M-My Defensive Strength?" is in your climax area and you have 4 or more other 《Adventurer》 or 《Magic》 characters, this card gets the following ability until the end of your opponent\'s next turn. "【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card or the character facing this card is canceled, you may deal 1 damage to your opponent." (Damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mysterious Girl, Nui
+Card No.:KLK/S27-E037PR
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Satsuki: "Why have you come here, Nui Harime."
+Trigger:
+Special Attribute:Clothes・Eye Patch
+Text:

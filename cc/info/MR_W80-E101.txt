@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reunion on the Bridge, Iroha
+Card No.:MR/W80-E101
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Cooking
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may choose 1 character in your opponent's center stage, and move it to an open position of their center stage.", '

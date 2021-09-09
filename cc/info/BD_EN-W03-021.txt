@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Hanasakigawa Dimension" Kokoro Tsurumaki
+Card No.:BD/EN-W03-021
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:If we find something fun together, we can all have a good time. Then, you will all smile, and I will smile too!
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:

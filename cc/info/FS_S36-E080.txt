@@ -1,0 +1,16 @@
+Card Name:
+English Name:“A Battle of Legend” Illya
+Card No.:FS/S36-E080
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Master・Homunculus
+Text:【CONT】 All of your other "“Strong Will” Berserker" get +1000 power.', "【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to 500 multiplied by that character's level.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nightwing: Coordinated Assault
+Card No.:BNJ/SX01-A06
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 Bond/"Catwoman: Battle on the Big Boat" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 card named "Catwoman: Battle on the Big Boat" in your waiting room, and return it to your hand)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Paper Thin Teddie
+Card No.:P4/EN-S01-077S
+Rarity:SR
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Wh-What in the world!? Nooo… My fine, silky fur… I was so proud of it! Waaaah…
+Trigger:
+Special Attribute:Shadow・Animal
+Text:【AUTO】 [(4)] At the beginning of your opponent\'s encore step, if this card is on the back stage, you may pay the cost. If you do, all of your characters get the following ability until end of turn. "【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】."

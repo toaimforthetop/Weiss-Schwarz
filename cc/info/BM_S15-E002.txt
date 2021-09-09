@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mayoi Hachikuji
+Card No.:BM/S15-E002
+Rarity:RR
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:So if you see me, please say hi.
+Trigger:Soul
+Special Attribute:Strange・Spirit
+Text:[AUTO] When this card is placed on stage from your hand, choose up to two of your other characters, and those characters get +1000 power and +1 soul until end of turn.
+Text:[AUTO] Experience When this card attacks, if the total level of the cards in your level is four or higher, choose one of your characters, and that character gets +1 soul until end of turn. 
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: When this card triggers, you may draw a card)

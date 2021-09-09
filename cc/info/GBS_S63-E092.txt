@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hitting Guild Girl's Weakness
+Card No.:GBS/S63-E092
+Rarity:C
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Huh? U-Um… Y-Yeah, so what?
+Trigger:
+Special Attribute:Order・Guild
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [【REST】 2 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."

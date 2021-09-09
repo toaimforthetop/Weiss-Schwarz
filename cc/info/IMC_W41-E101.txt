@@ -1,0 +1,16 @@
+Card Name:
+English Name:Aki Yamato
+Card No.:IMC/W41-E101
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Cutting the enemy food', 'supply is basic strategy.
+Trigger:
+Special Attribute:Music・Army
+Text:【CONT】 If the number of your other characters is one or less, this card gets +1000 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

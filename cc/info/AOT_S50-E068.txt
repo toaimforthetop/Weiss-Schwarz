@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Hidden Truth” Reiner
+Card No.:AOT/S50-E068
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:But the only choice for me now is to face the consequences of my actions and as a warrior…… fulfill my duty to the bitter end!
+Trigger:Soul
+Special Attribute:Titan・Corps
+Text:【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When a card named "Duel" is placed on your climax area, you may pay the cost. If you do, choose up to one card named ""Resurgence" Armored Titan" in your hand, and put it on the stage position that this card was on.

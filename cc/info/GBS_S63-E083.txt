@@ -1,0 +1,16 @@
+Card Name:
+English Name:What is a Discussion? Priestess
+Card No.:GBS/S63-E083
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Its not a discussion when there really aren't any options.
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of his or her deck.", '

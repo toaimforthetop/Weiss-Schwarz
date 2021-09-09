@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nana-Astar-Deviluke
+Card No.:TL/W37-E057
+Rarity:RR
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You beast!!
+Trigger:
+Special Attribute:Alien・Animal
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.

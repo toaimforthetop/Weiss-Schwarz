@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kyubey Manifestation
+Card No.:MM/W35-E017
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:It just goes to show how illogical human curiosity is.
+Trigger:
+Special Attribute:Alien・Magic
+Text:

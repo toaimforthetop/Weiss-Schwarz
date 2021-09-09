@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fairy Tail Wizard, Juvia
+Card No.:FT/EN-S02-074
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Look at me, Gray!!! Do you like what you see?
+Trigger:Soul
+Special Attribute:Magic・Love
+Text:【CONT】 Memory If the number of 《Magic》 characters in your memory is two or more, all of your other 《Love》 or 《Ice》 characters get +1000 power.

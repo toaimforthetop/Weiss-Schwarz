@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Marching Girl” Eli Ayase
+Card No.:LL/EN-W02-E035
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:How about we write a story, about just the two of us?
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 If you have another character with "Eli(絵里)" in its card name, this card gets +1500 power.

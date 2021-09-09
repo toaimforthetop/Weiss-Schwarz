@@ -1,0 +1,17 @@
+Card Name:
+English Name:Saint Misery
+Card No.:BFR/S78-E058
+Rarity:RR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:[Hea
+Trigger:Soul
+Special Attribute:Game・Magic
+Text:【CONT】 If all of your characters are 《Game》, this card gets +3000 power.
+Text:【AUTO】 When this card direct attacks, you may choose 1 《Game》 character in your waiting room, and put it into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:President Overlord Laharl
+Card No.:DG/EN-S03-TE14
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Theres only one main character in this world, and that's me!", 'President Overlord Laharl!!
+Trigger:
+Special Attribute:Demon・Weapon
+Text:

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kagamine Rin"Original"
+Card No.:PD/S22-E007
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 If the number of cards in your stock is four or less, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room. 【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, put that character into your opponent\'s stock.

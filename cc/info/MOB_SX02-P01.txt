@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reigen: Eating Takoyaki
+Card No.:MOB/SX02-P01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Master・-
+Text:【AUTO】 When this card attacks, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of your opponent's stock into his or her waiting room.", '

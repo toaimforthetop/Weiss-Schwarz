@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Promised Rematch" Lancer of Red
+Card No.:APO/S53-E031
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Is it finally time?
+Trigger:
+Special Attribute:Servant・Sun
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.

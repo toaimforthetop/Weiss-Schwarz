@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spectacular Plan, Kyubey
+Card No.:MM/W35-E089
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I wont deny that that was the end goal we had in mind. Though it would have been a very long and difficult endeavor.
+Trigger:
+Special Attribute:Alien・Magic
+Text:【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.

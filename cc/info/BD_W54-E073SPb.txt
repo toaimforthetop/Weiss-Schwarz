@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Indispensable" Lisa Imai"Indispensable" Lisa Imai"Indispensable" Lisa Imai"Indispensable" Lisa Imai
+Card No.:BD/W54-E073SPb
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Always With You" is in your climax area, and you have another 《Music》 character, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, shuffle your deck, and this card gets "【AUTO】 Encore [(2)]" until the end of your opponent\'s next turn.

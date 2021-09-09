@@ -1,0 +1,17 @@
+Card Name:
+English Name:Jake: Don't Roast Them!
+Card No.:AT/WX02-T03
+Rarity:TD
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:You gotta flambé!
+Trigger:
+Special Attribute:Ooo・Hero
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When this card attacks, choose 1 of your other characters with "Finn" in its card name, and that character gets +1000 power until end of turn.

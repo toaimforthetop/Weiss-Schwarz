@@ -1,0 +1,16 @@
+Card Name:
+English Name:Commanding Aura, Saber
+Card No.:FS/S34-TE01
+Rarity:TD
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:0
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swimsuit Kosaki
+Card No.:NK/W30-E030
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"When I cant swim at all-
+Trigger:Soul
+Special Attribute:Sweets・Key
+Text:【CONT】 Assist All of your 《Key》 characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【ACT】 [【REST】 two of your characters] Choose one of your characters, and until end of turn, that character gets the following ability. "【AUTO】 Memory When this card\'s battle opponent becomes 【Reverse】, if you have a card named "Promised Pendant" in your memory, you may put the top card of your deck into your stock."

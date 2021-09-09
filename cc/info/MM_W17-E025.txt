@@ -1,0 +1,16 @@
+Card Name:
+English Name:Homura's Hidden Feelings
+Card No.:MM/W17-E025
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:How can I tell you what I’m really feeling.
+Trigger:
+Special Attribute:Magic・Time
+Text:【CONT】 If the number of 《Magic》 characters you have is two or less, you cannot play this card from your hand. 

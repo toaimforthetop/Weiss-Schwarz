@@ -1,0 +1,18 @@
+Card Name:
+English Name:Rumor of the Saint of Kamihama, Mami
+Card No.:MR/W80-E010S
+Rarity:SR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"The gospel was delivered to you two as well, wasnt it?
+Trigger:Soul
+Special Attribute:Magic・Rumor
+Text:【CONT】 This card can be played from your hand without fulfilling the color requirement.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put the top card of your opponent's deck into their clock..", '

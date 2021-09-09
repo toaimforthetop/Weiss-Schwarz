@@ -1,0 +1,17 @@
+Card Name:
+English Name:"In the Dream" Wiz
+Card No.:KS/W55-E071
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Hah…
+Trigger:Soul
+Special Attribute:Death・Magic
+Text:【AUTO】 When this card attacks, this power gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Adventurer》 or 《Magic》 characters you have.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use "【AUTO】 Encore" until end of turn. (You cannot use the "【AUTO】 Encore [(3)]" rule either)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Batman: Infiltration
+Card No.:BNJ/SX01-A11
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Show Biz People, Rise
+Card No.:P4/EN-S01-023
+Rarity:R
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Wait here. Ill go reserve the area upstairs for us.
+Trigger:
+Special Attribute:Music・TV
+Text:【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "King\'s Game" in your waiting room, and return it to your hand.
+Text:', "【ACT】 [【REST】 one of your characters] Choose one of your opponent's 【STAND】 characters, and 【REST】 it.", '
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

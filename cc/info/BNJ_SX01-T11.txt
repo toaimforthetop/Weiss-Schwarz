@@ -1,0 +1,17 @@
+Card Name:
+English Name:Batman: Ancient Armor
+Card No.:BNJ/SX01-T11
+Rarity:TD
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"If were gonna win, it's time we finally played by those rules.
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Weapon》 characters on your back stage.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Unleash the Bat!" is in your climax area, and you have 2 or more other 《Weapon》 characters, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.

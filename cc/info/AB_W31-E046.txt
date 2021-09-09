@@ -1,0 +1,16 @@
+Card Name:
+English Name:Otonashi Without Past Memories
+Card No.:AB/W31-E046
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"…Where…am I? …I cant remember a thing…
+Trigger:Soul
+Special Attribute:Death・-
+Text:

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Yami
+Card No.:TL/W37-E102
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Im quite disturbed as well.
+Trigger:
+Special Attribute:Trans・Taiyaki
+Text:【CONT】 During your turn, if all of your characters are 《Trans》 or 《Housework》, this card gets +2000 power.

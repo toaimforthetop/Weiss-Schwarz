@@ -1,0 +1,18 @@
+Card Name:
+English Name:The Happy Roswaal Mansion Family, Rem
+Card No.:RZ/S55-E071S
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Stand still, with your back straight.
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 If you have 4 or more characters with "Rem(レム)" in its card name, this card gets -1 level while in your hand.
+Text:【CONT】 If all of your characters are 《Magic》 or 《Weapon》, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Magic》 or 《Weapon》 characters you have.

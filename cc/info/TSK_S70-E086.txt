@@ -1,0 +1,17 @@
+Card Name:
+English Name:New Subordinate, Soka
+Card No.:TSK/S70-E086
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Ill work my hardest for you!
+Trigger:
+Special Attribute:Demon Continent・Shinobi
+Text:【AUTO】 [Return 2 characters from your waiting room to your deck & Shuffle your deck] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card's soul does not decrease by side attacking until end of turn.
+Text:【AUTO】 When this card attacks, choose 1 of your 《Demon Continent》 characters, and that character gets +1500 power until end of turn.", '

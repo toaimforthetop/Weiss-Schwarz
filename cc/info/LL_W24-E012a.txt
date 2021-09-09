@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Tight Hug, and Closing In on "love"!" μ's
+Card No.:LL/W24-E012a
+Rarity:U
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.

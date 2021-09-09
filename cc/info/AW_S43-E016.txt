@@ -1,0 +1,18 @@
+Card Name:
+English Name:Silver Crow Embracing the Monarch
+Card No.:AW/S43-E016
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Always be there, no matter what. Say yes. That’s…… all I’m asking from you, Senpai.
+Trigger:Soul
+Special Attribute:Avatar・-
+Text:【CONT】 If there is a marker underneath this card, this card gets +3000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【ACT】 effect of a card named "Acrimonious Advice, Metatron", you may choose a card named "Acrimonious Advice, Metatron" in your waiting room, and put it face down underneath this card as a marker.
+Text:【AUTO】 When a card named "Dual Flight" is placed on your climax area, if you have another card named "《Lotus of Black Death》 Black Lotus" and this card in your center stage, choose up to one of your opponent\'s characters, return it to his or her hand, choose one of your cards named "《Lotus of Black Death》 Black Lotus" and this card, and those cards get +1500 power until end of turn.

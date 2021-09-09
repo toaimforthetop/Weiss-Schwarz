@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Dumbfounded" Darkness
+Card No.:KS/W76-E011
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"If the Devil Kings army is nearby, then is a general...
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Adventurer》 or 《Magic》 characters, and that character gets +1500 power until end of turn.

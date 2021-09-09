@@ -1,0 +1,16 @@
+Card Name:
+English Name:Thinking For the Other
+Card No.:LSS/WE27-E52
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Dia: "How you fit in… How you feel… And, your future… She cares about it more than anyone."
+Trigger:
+Special Attribute:
+Text:Choose a 《Music》 character in your waiting room, return it to your hand, choose one of your characters, and that character gets +1000 power until end of turn. Put this card into your memory.

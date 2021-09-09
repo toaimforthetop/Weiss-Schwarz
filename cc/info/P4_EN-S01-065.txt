@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The Two-Fisted Protein Junkie" Akihiko Sanada
+Card No.:P4/EN-S01-065
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"The man who lusts for power returns!"
+Trigger:Soul
+Special Attribute:Magic・Sports
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".

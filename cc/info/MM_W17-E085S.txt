@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sayaka's Healing Prayers
+Card No.:MM/W17-E085S
+Rarity:SR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:SECRET
+Trigger:
+Special Attribute:Magic・Love
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card. 

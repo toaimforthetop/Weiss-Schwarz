@@ -1,0 +1,16 @@
+Card Name:
+English Name:2D Dream Fever
+Card No.:PD/S29-E049
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:リンクたどって会いに往くよきっと君に繋がってるんじゃん蔓延している\u3000病名：二次元ドリームフィーバー
+Trigger:
+Special Attribute:
+Text:If the number of cards in your deck is twenty two or less, put all cards in your deck except the bottom card into your waiting room.

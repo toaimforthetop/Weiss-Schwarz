@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Growl" Berserker of Black
+Card No.:APO/S53-E070S
+Rarity:SR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:…….uuhh
+Trigger:
+Special Attribute:Servant・Electricity
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Master》 or 《Servant》 characters you have.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "Blasted Tree" is in your climax area, this card gets +1500 power until end of turn, and at the end of this card\'s attack, put this card into your memory, and put the top three cards of your deck into your waiting room. If there is a climax revealed among those cards, choose a character in your waiting room, and return it to your hand.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Attacking the Peak, Umi
+Card No.:LL/EN-W01-088
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Well attack the peak!
+Trigger:Soul
+Special Attribute:Music・Sports
+Text:【AUTO】 When a card named "Door to Our Dreams" is placed on your climax area, if this card is in your center stage, choose up to one level 0 or lower character in your waiting room, put it on any position of your stage, and this card gets +2000 power until end of turn.

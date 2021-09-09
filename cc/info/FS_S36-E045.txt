@@ -1,0 +1,16 @@
+Card Name:
+English Name:Last Farewell
+Card No.:FS/S36-E045
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Event
+Color:Green
+Level:3
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of green characters you have.

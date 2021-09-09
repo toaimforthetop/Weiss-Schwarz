@@ -1,0 +1,16 @@
+Card Name:
+English Name:Twinkle Twinkle Little Star
+Card No.:BD/W54-E106
+Rarity:PR
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"I wanna do lots of other things with everyone in the future. Were gonna make lots and lots of special memories together!
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand)

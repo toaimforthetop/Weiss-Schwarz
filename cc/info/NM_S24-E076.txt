@@ -1,0 +1,16 @@
+Card Name:
+English Name:Way Back, Tsubasa Hanekawa
+Card No.:NM/S24-E076
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"You havent been slacking at all.", 'I know that very well.
+Trigger:
+Special Attribute:Strange・Class Representative
+Text:-

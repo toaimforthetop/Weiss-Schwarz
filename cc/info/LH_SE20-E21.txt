@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cleric, Marielle
+Card No.:LH/SE20-E21
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:At a time like this, the more people on your side, the better!
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card attacks, if a card named "Crescent Moon Alliance" is in your climax area, you may pay the cost. If you do, choose up to two characters in your waiting room, return them to your hand, and this card gets +2000 power until end of turn.

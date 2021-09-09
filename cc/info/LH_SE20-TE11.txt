@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shiroe Riding a Gryphon
+Card No.:LH/SE20-TE11
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Okay, hang on tight.
+Trigger:
+Special Attribute:Magic・Glasses
+Text:-

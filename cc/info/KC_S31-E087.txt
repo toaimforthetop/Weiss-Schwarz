@@ -1,0 +1,19 @@
+Card Name:
+English Name:1st Nagato-class Battleship, Nagato-Kai
+Card No.:KC/S31-E087
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:It would be great if you would not touch my equipment so much…
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【CONT】 If the number of cards in your hand is four or more, this card gets +1500 power. 
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room. 
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory.
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters. 

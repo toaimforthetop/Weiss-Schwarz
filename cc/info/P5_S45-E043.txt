@@ -1,0 +1,16 @@
+Card Name:
+English Name:Haru: A Life on Rails
+Card No.:P5/S45-E043
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Thief・Heiress
+Text:【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.

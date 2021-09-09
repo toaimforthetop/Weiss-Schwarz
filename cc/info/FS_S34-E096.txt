@@ -1,0 +1,16 @@
+Card Name:
+English Name:Illusion magic
+Card No.:FS/S34-E096
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Saber: "Rider-class Servant!"
+Trigger:
+Special Attribute:
+Text:Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.

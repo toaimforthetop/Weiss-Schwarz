@@ -1,0 +1,16 @@
+Card Name:
+English Name:Scars
+Card No.:SBY/W64-E071
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Sakuta: "A photo... One of the scar on my chest."
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card is put into your waiting room from the stage, you may return this card to your hand."

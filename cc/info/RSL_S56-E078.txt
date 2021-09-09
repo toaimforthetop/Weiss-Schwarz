@@ -1,0 +1,16 @@
+Card Name:
+English Name:Leotard Junna & Mahiru
+Card No.:RSL/S56-E078
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Revue・－
+Text:【AUTO】 [(2)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Revue》 characters and this card, exchange them as 【STAND】, and that 《Revue》 character gets +1 level and +1000 power until end of turn.", '

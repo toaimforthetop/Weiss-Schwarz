@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Rebel" Berserker of Red
+Card No.:APO/S53-E055
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:"Ill bring death to each and every oppressor!
+Trigger:Soul
+Special Attribute:Servant・Muscle
+Text:【CONT】 This card gets -2 level while on the stage.
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul.

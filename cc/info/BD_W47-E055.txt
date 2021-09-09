@@ -1,0 +1,17 @@
+Card Name:
+English Name:Caring for Elder Sister, Asuka
+Card No.:BD/W47-E055
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】  When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】  Bond/"“Poppin’Party” Kasumi Toyama" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "“Poppin’Party” Kasumi Toyama" in your waiting room, and return it to your hand.)

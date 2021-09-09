@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yowane Haku"Original"
+Card No.:PD/S22-E085
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Net
+Text:【CONT】 If you have another character with "Assist", this card gets +2000 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Friend From Planet Tentac” Nana
+Card No.:TL/W37-E072
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:We became friends! Right, MedaQ?
+Trigger:Soul
+Special Attribute:Alien・Animal
+Text:【AUTO】 This ability activates up to two times per turn. When your other 《Alien》 or 《Animal》 characters is placed on the stage from your hand, this card get +1000 power until end of turn.
+Text:【AUTO】 When a card named "True Friends" is placed on your climax area, if this card is in your center stage, choose up to one of your 《Alien》 or 《Animal》 characters in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.

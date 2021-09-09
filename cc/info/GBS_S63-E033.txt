@@ -1,0 +1,17 @@
+Card Name:
+English Name:Enchanting Looks, Witch
+Card No.:GBS/S63-E033
+Rarity:R
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:4500
+Soul:2
+Flavor Text:"If you wanted to help people… you could do so with those two you were talking to… couldnt you?
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 Assist All of your characters in front of this card get +2000 power.
+Text:【AUTO】 During your opponent's turn, when the damage you received is not canceled, look at the top card of your deck, and put it on the top of your deck or into your waiting room.", '

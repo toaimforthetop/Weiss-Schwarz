@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Phoenix” Tsukihi Araragi
+Card No.:NM/S24-E049
+Rarity:R
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Strange・Japanese Clothes
+Text:【AUTO】 At the beginning of your draw phase, deal one damage to yourself. (This damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Prinny Squad
+Card No.:DG/EN-S03-TE02
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Etna: "Come on, Prinny Squad!!"', 'Etna: "Get your butts out here, NOW!!"
+Trigger:
+Special Attribute:Prinny・-
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.', "【ACT】 [Put a 《Prinny》 character into your waiting room] Choose one of your opponent's characters in the center stage, and that character gets -1000 power until end of turn.", '

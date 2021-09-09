@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Door to Our Dreams" Nozomi Tojo 
+Card No.:LL/W34-E018
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another character with "Nozomi(希)" in its card name, this card gets +2000 power until end of turn.

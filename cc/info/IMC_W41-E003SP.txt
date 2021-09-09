@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rika Jougasaki
+Card No.:IMC/W41-E003SP
+Rarity:SP
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Gal
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Music》 character, you may move this card to an open position of your center stage.", '

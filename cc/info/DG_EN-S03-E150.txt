@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hades' Warden, Axel
+Card No.:DG/EN-S03-E150
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:This is Axelworld!!
+Trigger:
+Special Attribute:Demon・Dark Hero
+Text:-

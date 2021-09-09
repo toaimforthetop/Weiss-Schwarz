@@ -1,0 +1,16 @@
+Card Name:
+English Name:All of the Trust in Humanity
+Card No.:NGL/S58-E077
+Rarity:CC
+Expansion:No Game No Life
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Grandfather… Grandfather…
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

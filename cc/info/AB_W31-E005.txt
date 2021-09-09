@@ -1,0 +1,17 @@
+Card Name:
+English Name:Angel Wings, Kanade
+Card No.:AB/W31-E005
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:No, they're decorations. I was told it would make me appear more angelic.
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] This card gets +500 power for each of your other《Death》 characters.
+Text:[AUTO] [(1)] When this card attacks, if a card named "Time to Part Ways" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Student Council》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

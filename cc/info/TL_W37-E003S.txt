@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Lollipop” Mea
+Card No.:TL/W37-E003S
+Rarity:SR
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Yes! I like it sweet.
+Trigger:
+Special Attribute:Trans・Sweets
+Text:【CONT】 All of your other 《Trans》 or 《Housework》 characters get +500 power.
+Text:【AUTO】 Resonate [(2) Reveal a card named "Yami" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.

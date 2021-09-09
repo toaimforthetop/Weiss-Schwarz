@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sunset on Your Back" Eren Titan
+Card No.:AOT/S50-E019
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:"……Ive gotta erase you……
+Trigger:
+Special Attribute:Titan・Corps
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put the top card of your deck into your clock]".

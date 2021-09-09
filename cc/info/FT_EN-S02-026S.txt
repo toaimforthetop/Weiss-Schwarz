@@ -1,0 +1,16 @@
+Card Name:
+English Name:Heaven's Wheel, Scattered Petals
+Card No.:FT/EN-S02-026S
+Rarity:SR
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level: -
+Cost: -
+Power: -
+Soul:0
+Flavor Text: -
+Trigger:Soul・Return
+Special Attribute: -・ -
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)", '

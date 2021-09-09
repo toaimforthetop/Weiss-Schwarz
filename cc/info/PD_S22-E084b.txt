@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kagamine Len"Bad Boy"
+Card No.:PD/S22-E084b
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Headphone
+Text:【CONT】 During your opponent's turn, all of your other 《Music》 characters get +500 power.
+Text:【AUTO】［Put this card into your waiting room］ When another of your characters is put into the waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.", '

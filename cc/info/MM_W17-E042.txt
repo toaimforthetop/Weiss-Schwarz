@@ -1,0 +1,16 @@
+Card Name:
+English Name:Madoka: "In order to protect everyone"
+Card No.:MM/W17-E042
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"But the more witches we slay, the more people we can save. So its worth the effort, right?
+Trigger:
+Special Attribute:Magic
+Text:【AUTO】 When this card attacks, choose another of your 《Magic》 characters, and that character gets +1000 power until end of your opponent's next turn. ", '

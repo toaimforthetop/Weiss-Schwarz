@@ -1,0 +1,16 @@
+Card Name:
+English Name:Suguha Cooking
+Card No.:SAO/S26-E034
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Then want to get it today?
+Trigger:
+Special Attribute:Net・Sports
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 ［Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)

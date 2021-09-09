@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Sword Skill Lore》 Yuuki
+Card No.:SAO/S47-E032
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Take this. Its my Original Sword Skill.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power. 【AUTO】 [(4) Put a card from your hand into your waiting room & Put this card into your memory] When another of your "Vestige of an Elder Sister, Asuna" attacks, you may pay the cost. If you do, put eleven cards from the top of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of 【TRIGGER】 trigger icons revealed among those cards. (This damage may be canceled)

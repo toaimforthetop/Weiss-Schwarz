@@ -1,0 +1,16 @@
+Card Name:
+English Name:RAISE YOUR HANDS, LOCK
+Card No.:BD/W73-E028
+Rarity:U
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I really want to perform at the festival...
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 If you do not have another character, this card gets +1500 power and the following ability. "【AUTO】 At the beginning of your opponent\'s attack phase, you may move this card to the open middle position of your center stage."【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.

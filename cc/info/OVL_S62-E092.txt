@@ -1,0 +1,16 @@
+Card Name:
+English Name:Struggles of the Untalented, Climb
+Card No.:OVL/S62-E092
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Gazef: "But while he’s limited by his ability, he’s not limited by experience."
+Trigger:
+Special Attribute:Humanoid Race・-
+Text:0

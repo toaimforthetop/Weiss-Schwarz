@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Rock and Glow" Tomoe Udagawa
+Card No.:BD/EN-W03-040
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Ahaha, well arent you full of confidence!
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】【CXCOMBO】When "Rock and Glow" is placed on your climax area, look at the top card of your deck, put it on the top of your deck or into your waiting room, and reveal the top card of your deck. If that card is a character with "Alarm", put it into your stock. (Otherwise, return the revealed card to its original place)
+Text:【AUTO】When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.

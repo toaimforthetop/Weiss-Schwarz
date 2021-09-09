@@ -1,0 +1,17 @@
+Card Name:
+English Name:Under One Roof, Rumia & Sistine
+Card No.:Fra/W65-E078
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Sistine: "We\'re family."
+Trigger:
+Special Attribute:Fantasia Bunko・Magic
+Text:【CONT】 If you have 2 or more other 《Fantasia Bunko》 or 《Magic》 characters, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Eden of Everlasting Summer" is in your climax area, search your deck for up to 1 《Fantasia Bunko》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

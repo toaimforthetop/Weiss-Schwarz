@@ -1,0 +1,16 @@
+Card Name:
+English Name:Makoto Niijima
+Card No.:P5/S45-E031S
+Rarity:SR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:"I… cant be like my sister.I had a feeling that there'dcome a time.. .when we wouldn't seeeye to eye anymore.
+Trigger:
+Special Attribute:Thief・Student Council
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.

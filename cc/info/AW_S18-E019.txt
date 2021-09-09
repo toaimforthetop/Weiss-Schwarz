@@ -1,0 +1,16 @@
+Card Name:
+English Name:School Madonna, Kuroyukihime
+Card No.:AW/S18-E019
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Sorry for dragging you all the way here, Haruyuki Arita.
+Trigger:
+Special Attribute:Student Council・Net
+Text:

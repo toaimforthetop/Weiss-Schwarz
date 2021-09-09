@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Kongo-class Battleship, Hiei-Kai-Ni
+Card No.:KC/S25-E081
+Rarity:RR+
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:3
+Power:9500
+Soul:2
+Flavor Text:I am always ready!
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【CONT】This card gets +X power. X is equal to 1000 multiplied by the level of the character facing this card.
+Text:【AUTO】When this card is placed on the stage from your hand or by the 【ACT】effect of "2nd Kongo-class Battleship, Hiei", all of your characters get +2000 power until end of turn.

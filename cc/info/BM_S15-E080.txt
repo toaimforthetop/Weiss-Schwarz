@@ -1,0 +1,18 @@
+Card Name:
+English Name:Lovers, Koyomi Araragi & Hitagi Senjyogahara
+Card No.:BM/S15-E080
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・Blood
+Text:[CONT] Experience If the total level of the cards in your level is two or higher, this card gets +500 power and "[AUTO] Encore ［Put a character in your hand into your waiting room］".
+Text:[AUTO]［(1)] When this card attacks, if a card named "Everything About Me" is in your climax area, you may pay the cost. If you do, look at up to five cards from the top of your deck, search for up to one 《Strange》 character, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room.
+Text:[AUTO] When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

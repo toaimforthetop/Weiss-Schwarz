@@ -1,0 +1,18 @@
+Card Name:
+English Name:Super Editor-in-Chief Haruhi
+Card No.:SY/W08-E058
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Well go get one.
+Trigger:
+Special Attribute:Glasses・Book
+Text:【AUTO】 When another of your 《Book》 character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [(1)] When your opponent uses "Brainstorm", if a climax is put into the waiting room by that effect, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)
+Text:【CONT】 This card gets +500 power for each different trait on your characters.

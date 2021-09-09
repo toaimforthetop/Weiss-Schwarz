@@ -1,0 +1,17 @@
+Card Name:
+English Name:Paper-Thin Existence, Mai Sakurajima
+Card No.:SBY/W64-E059
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:"Youre finally home.
+Trigger:Soul
+Special Attribute:Adolescence・Cooking
+Text:【AUTO】 When you use this card\'s "Backup", if you have 2 or more 《Adolescence》 characters, you may choose 1 "Irreplaceable Existence, Mai Sakurajima" in your waiting room, and put it into your memory.
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that card gets +1500 power until end of turn)

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Lord's Ninja, Akatsuki
+Card No.:LH/SE20-E03
+Rarity:RR
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:So my…… My Lord…… do you have plans for the festival?
+Trigger:Soul
+Special Attribute:Weapon・Shinobi
+Text:【CONT】 This card cannot side attack. 
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room. 
+Text:【AUTO】 When?this?card?attacks, if a card named "Waltz for Two" is in your climax area, until end of turn, this card gets +4000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may deal one damage to your opponent."(This damage may be canceled) 
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character. ", '【ACT】 [【REST】 one of your characters] This card gets +1000 power until end of turn. 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Auto-Battle Mode" Rimuru
+Card No.:TSK/S70-E074
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Wow, nice! I knew I could count on Great Sage!
+Trigger:
+Special Attribute:Demon Continent・Slime
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Unique Skill "Great Sage"" in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if this card\'s battle opponent is level 0 or lower, you may put that character at the bottom of your opponent\'s deck.

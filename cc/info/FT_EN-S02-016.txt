@@ -1,0 +1,16 @@
+Card Name:
+English Name:Makarov's Grandson, Laxus
+Card No.:FT/EN-S02-016
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Im the guild's strongest wizard!!!
+Trigger:Soul
+Special Attribute:Magic・Dragon
+Text:【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1000 power and +1 soul until end of turn.

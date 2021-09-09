@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sparkling Chords" Kasumi Toyama
+Card No.:BD/W54-PE01
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Todays gig was super sparkly!
+Trigger:Soul
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 If you have another red character and another blue character, this card gets the following ability. "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul until end of turn."

@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Twin Maids, Rem
+Card No.:RZ/S55-E093
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 This card gets +1000 power for each of your other 《Magic》 or 《Weapon》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Magic》 or 《Weapon》 characters, you may choose 1 《Magic》 or 《Weapon》 character in your waiting room, and put it into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Moodmaker, Hinata
+Card No.:AB/W31-E088
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:What about you is seductive.
+Trigger:
+Special Attribute:Death・Sports
+Text:[ACT] [(1)] Choose one of your 《Death》 characters, and that character gets +1500 power until end of turn.

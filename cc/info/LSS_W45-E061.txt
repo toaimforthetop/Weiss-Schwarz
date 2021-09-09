@@ -1,0 +1,16 @@
+Card Name:
+English Name:Honest Words
+Card No.:LSS/W45-E061
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"If I cry…… itll make everyone feel down, right? They tried so hard, they joined me as school idols…… They'll be sad, right?
+Trigger:
+Special Attribute:
+Text:Choose a 《Music》 character in your waiting room, and return it to your hand.You may choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +4000 power until end of turn.

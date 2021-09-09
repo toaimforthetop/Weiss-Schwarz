@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Darkness
+Card No.:KS/W55-E009S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:S-Something... crazy…!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.

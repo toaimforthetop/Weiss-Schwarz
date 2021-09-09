@@ -1,0 +1,17 @@
+Card Name:
+English Name:Giant Monkey
+Card No.:BNJ/SX01-046
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have "Monkey Horde" in your waiting room, 【REST】 this card.
+Text:【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When "Bat Swarm" is placed on your climax area, you may pay the cost. If you do, choose 1 "Batman: Blast From the Past" in your hand, and put it on the stage position that this card was on.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Student Council President, Otonashi
+Card No.:AB/W31-E115
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Then stop whining and do something about it. You have something you want to do, right?
+Trigger:
+Special Attribute:Death・Student Council
+Text:[AUTO] Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)

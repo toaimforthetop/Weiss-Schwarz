@@ -1,0 +1,16 @@
+Card Name:
+English Name:Expectant Gaze, Ereshkigal
+Card No.:FGO/S75-E064
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Okay!
+Trigger:Soul
+Special Attribute:Babylonia・Goddess
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Chaldea》 or 《Babylonia》 character in your waiting room, and return it to your hand. 【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.", '

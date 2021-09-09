@@ -1,0 +1,16 @@
+Card Name:
+English Name:Daughter of a Japanese Confectionery, Honoka
+Card No.:LL/W24-TE02
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Mom?
+Trigger:
+Special Attribute:Music・Sweets
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Music》 character in your waiting room, and return it to your hand.

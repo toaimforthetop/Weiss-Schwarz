@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Masked Demon" Vanir
+Card No.:KS/W55-E027
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Welcome to my dungeon, adventurers!
+Trigger:
+Special Attribute:Mask・Magic
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is cost 0 or lower, you may put that character into your opponent\'s stock. If you do, put the bottom card of your opponent\'s stock into his or her waiting room.
+Text:【AUTO】 [(3) Put a climax from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose up to one card named ""Power of the Mask" Darkness" in your hand, and put it on any position of your stage as 【REST】.

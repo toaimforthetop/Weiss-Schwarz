@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Bride For A Day" Saya Yamabuki
+Card No.:BD/W54-E057SSP
+Rarity:SSP
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:No flavor text
+Trigger:Soul
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【ACT】 [【REST】 one of your other characters and this card] If there is an event card in your waiting room, choose one of your characters, and until end of turn, that character gets +500 power and the following ability. "【CONT】 During this card\'s battle, your opponent cannot play event cards and "Backup" from hand."

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Subaru Shining Under the Night Sky
+Card No.:RZ/S68-E023
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Youre all going to try to find Subaru together.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 This card gets +500 power for each of your other 《Memory Snow》 characters.
+Text:【AUTO】 Memory When this card is placed on the stage from your hand, if you have 2 or more "Leave Everything to Me, Rem" in your memory, choose 1 of your characters, and that character gets +3000 power until end of turn.

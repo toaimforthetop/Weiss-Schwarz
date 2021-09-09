@@ -1,0 +1,16 @@
+Card Name:
+English Name:Demon King, Jaldabaoth
+Card No.:OVL/S62-E008S
+Rarity:SR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:How else, indeed.
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room, choose up to 1 of your opponent\'s level X or lower characters, and put it into his or her waiting room. X is equal to the level of the revealed card. (Climax are regarded as level 0)【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if "Operation Gehenna" is in your climax area, you may pay the cost. If you do, choose up to 1 character in your waiting room, return it to your hand, and this card gets the following ability until the end of turn. "【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent." (Damage may be canceled)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Radiant Smile" Megumin
+Card No.:KS/W55-E056
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Were friends, aren't we?
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 Your other 《Adventurer》 or 《Magic》 character in the middle position of the center stage gets +1500 power.
+Text:【AUTO】 【CXCOMBO】 [Put a card named "In the Bath" from your climax area into your clock] At the beginning of your encore step, you may pay the cost. If you do, put up to one card from the top of your deck into your stock, choose up to one 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.

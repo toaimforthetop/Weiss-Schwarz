@@ -1,0 +1,16 @@
+Card Name:
+English Name:Natural-Born Lady, Kaoruko Hanayagi
+Card No.:RSL/S56-TE04
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Karen: "...working daily to improve their skills in elocution."
+Trigger:
+Special Attribute:Revue・Nihon Buyo
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use "【AUTO】 Encore" until end of turn. (You cannot use the "【AUTO】 Encore [(3)]" rule either)

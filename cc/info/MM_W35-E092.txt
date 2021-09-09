@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sayaka & Madoka in Winter Days
+Card No.:MM/W35-E092
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Love
+Text:

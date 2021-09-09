@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Depraved Dragon" Fafnir
+Card No.:APO/S53-E008
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Dragon・Homunculus
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent." Then, at the beginning of your encore step, put this card face down into your memory. (This damage may be canceled)

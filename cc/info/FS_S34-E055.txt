@@ -1,0 +1,18 @@
+Card Name:
+English Name:As a Mage, Rin
+Card No.:FS/S34-E055
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"You dont have to go to such extremes to help others!
+Trigger:
+Special Attribute:Master・Jewel
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. "Choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."
+Text:【CONT】 All of your other characters with "Rin(凛)" or "Archer(アーチャー)" in its card name gets "【AUTO】 Encore [Put the top card of your deck into your clock]".

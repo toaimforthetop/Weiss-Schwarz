@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Sunny Day Song” Nico Yazawa
+Card No.:LL/EN-W02-E049
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card attacks, choose one of your other characters, and that character gets +2500 power until the end of your opponent's next turn.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"A Sparkling Stage" Hina Hikawa
+Card No.:BD/EN-W03-015H
+Rarity:HR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"And now, its time! Let's come up with our next game plan!
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】When this card attacks, choose 1 of your 《Music》 characters, and that character gets +1 level and +1000 power until end of turn.

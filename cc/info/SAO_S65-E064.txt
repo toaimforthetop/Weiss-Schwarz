@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sword Automaton" Sword Golem
+Card No.:SAO/S65-E064
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:3
+Power:9000
+Soul:0
+Flavor Text:Administrator: "Each of its swords has the Priority Level of a Divine Object. Do you think you can defeat this Sword Golem?"
+Trigger:Soul
+Special Attribute:Fluctlight・Weapon
+Text:【CONT】 If you have another character with "Administrator(アドミニストレータ)" or "Quinella(クィネラ)" in its card name, this card gets +1500 power.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.

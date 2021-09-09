@@ -1,0 +1,17 @@
+Card Name:
+English Name:Short Break, Mash
+Card No.:FGO/S75-E086
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Then, I, Mash Kyrielight, will tell the first tale!
+Trigger:
+Special Attribute:Chaldea・Shielder
+Text:【CONT】 This card gets +500 power for each of your other 《Chaldea》 or 《Babylonia》 characters.
+Text:【ACT】 [Put 1 climax from your hand into your waiting room] This card gets +1000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may draw 1 card."

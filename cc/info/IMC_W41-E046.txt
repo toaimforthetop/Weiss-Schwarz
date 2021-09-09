@@ -1,0 +1,18 @@
+Card Name:
+English Name:Sae Kobayakawa
+Card No.:IMC/W41-E046
+Rarity:R
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:How girlish.
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 When you use this card\'s "Backup", if you have a 《Music》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those card, 【REST】 this card.', "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card.", '

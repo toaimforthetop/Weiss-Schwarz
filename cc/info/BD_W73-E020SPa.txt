@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Supreme DREAMS" LOCK
+Card No.:BD/W73-E020SPa
+Rarity:SP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 If you have 4 or more 《RAISE A SUILEN》 characters, this card gets -1 level while in your hand.
+Text:【CONT】 If you have 2 or more other 《RAISE A SUILEN》 characters, this card gets +1000 power.
+Text:【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] During the turn that this card is placed on the stage from your hand, at the beginning of your climax phase, you may pay the cost. If you do, this card gets +1500 power and the following ability until end of turn. "【AUTO】 When this card attacks, search your deck for up to 2 《RAISE A SUILEN》 characters or "Yes!! You Guys Are the Best!!", reveal them to your opponent, put them into your hand, and shuffle your deck."

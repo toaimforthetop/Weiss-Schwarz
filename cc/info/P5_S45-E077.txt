@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yusuke as FOX & Goemon
+Card No.:P5/S45-E077
+Rarity:RR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:I am thou, thou art I...The world is filled with both beauty and vice...It is time you teach people which is which!
+Trigger:Soul
+Special Attribute:Thief・-
+Text:【AUTO】 [(1) Put a 《Thief》 character from your hand into your waiting room] When this card attacks, if you have another 《Thief》 character, you may pay the cost. If you do, put the top card of your clock into your waiting room.
+Text:【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.", '

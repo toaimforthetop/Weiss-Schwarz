@@ -1,0 +1,16 @@
+Card Name:
+English Name:Daughter of the Chairman, Kotori
+Card No.:LL/W24-TE03
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:I thought my mom would be pretty sad, too…
+Trigger:
+Special Attribute:Music・-
+Text:-

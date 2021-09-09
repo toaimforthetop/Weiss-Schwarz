@@ -1,0 +1,17 @@
+Card Name:
+English Name:Miracle from Ancestors, Lizard Priest
+Card No.:GBS/S63-E014
+Rarity:C
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:O horns and claws of the father, Iguanodon, be four limbs and walk upon this earth with two legs!
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【CONT】 All of your other "Soldier from Dragon Bones, Dragontooth Warrior" get +2000 power.
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Dragon Bones" in your waiting room, and return it to your hand.

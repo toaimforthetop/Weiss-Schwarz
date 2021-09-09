@@ -1,0 +1,18 @@
+Card Name:
+English Name:Communication Error, Sora
+Card No.:NGL/S58-E012
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:SHIIIIRRROOOOOOO!!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 If you do not have another "Psyche Breakdown, Shiro", this card cannot attack.
+Text:【AUTO】 [Put 1 《Game》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 "Psyche Breakdown, Shiro", reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When your other "Psyche Breakdown, Shiro" is put into your waiting room from the stage, put this card into your waiting room.

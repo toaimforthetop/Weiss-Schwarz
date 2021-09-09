@@ -1,0 +1,17 @@
+Card Name:
+English Name:SD Kingu
+Card No.:FGO/S75-E103
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Babylonia・New Humanity
+Text:【CONT】 Assist All of your 《Chaldea》 or 《Babylonia》 characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Chaldea》 or 《Babylonia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

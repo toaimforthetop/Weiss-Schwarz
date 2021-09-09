@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The First Steps of Fate" Sieg
+Card No.:APO/S53-TE15
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Homunculus・-
+Text:【CONT】 This card cannot side attack.

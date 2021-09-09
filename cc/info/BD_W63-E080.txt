@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Tears Overflowing" Yukina Minato
+Card No.:BD/W63-E080
+Rarity:R
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:If this keeps up, I might lose everything...
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:【CONT】 Experience If ""Tears Overflowing" Yukina Minato" is in your level, this card gets -1 level while in your hand.
+Text:【CONT】 If all of your characters are 《Roselia》, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Everything About Me
+Card No.:BM/S15-TE14
+Rarity:TD
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:
+Trigger:Soul・Soul
+Special Attribute:
+Text:[CONT] All of your characters get +2 soul.

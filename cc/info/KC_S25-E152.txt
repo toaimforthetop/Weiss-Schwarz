@@ -1,0 +1,17 @@
+Card Name:
+English Name:4th Asashio-class Destroyer, Arashio
+Card No.:KC/S25-E152
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Arashio, heading out in style!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【ACT】[(1)] Draw a card, choose a card in your hand, and put it into your waiting room.

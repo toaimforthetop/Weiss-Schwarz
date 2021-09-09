@@ -1,0 +1,16 @@
+Card Name:
+English Name:Aesthetics of Evil, Valvatorez
+Card No.:DG/EN-S03-TE08
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:How many times do I have to tell you!? A proud demon like myself would never break a promise!!
+Trigger:
+Special Attribute:Demon・Blood
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Demon》 characters, and that character gets +2000 power until end of turn.

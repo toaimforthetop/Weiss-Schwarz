@@ -1,0 +1,17 @@
+Card Name:
+English Name:"My Popular Phase is Here!" Kazuma
+Card No.:KS/W76-E009S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Its all right, dear. You can leave the world and the Devil King to me.
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent's characters, and return it to his or her hand.
+Text:【AUTO】 [Put 1 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2000 power and +1 soul until end of turn.", '

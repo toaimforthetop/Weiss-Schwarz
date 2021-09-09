@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shingantsu Surpassing Tengantsu, Sanageyama
+Card No.:KLK/S27-E084
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:I can see the inner workings of your mind as clear as day.
+Trigger:Soul
+Special Attribute:Clothes・Sports
+Text:【AUTO】 [Put a card from your hand into your waiting room] When a card named "Honnouji Academy Elite Four, Ultimate Battle Regalia!" is placed in your climax area, if this card is in your center stage, you may pay the cost. If you do, look at up to two cards from the top of your opponent\'s deck, choose up to one card and put it on the bottom of your opponent\'s deck. Put the rest of the cards on the top of your opponent\'s deck in any order, and this card gets +4000 power until end of turn.

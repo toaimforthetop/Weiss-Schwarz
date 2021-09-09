@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Call My Name" Puck
+Card No.:RZ/SE35-E21
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:This time, you remembered to call my name right at the start.
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If your level is 2 or higher, this card gets the following ability. "【ACT】 [(1) Put this card and 1 "Emilia All Alone" from your stage into your memory] Choose 1 ""Just" Emilia" in your waiting room, and put it on the stage position that this card was on."【AUTO】 [Put 1 card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle during your opponent\'s turn, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.

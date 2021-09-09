@@ -1,0 +1,17 @@
+Card Name:
+English Name:"I Love Fluffy Mascots!" Kokoro Tsurumaki
+Card No.:BD/W63-E021
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Mmm~! I cant wait!
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Hello, Happy World!》 character, draw up to 1 card, choose 1 card in your hand, put it into your waiting room, and put up to 1 card from the top of your deck into your stock.
+Text:【AUTO】 Change [(1) Put 2 《Hello, Happy World!》 characters from your hand into your waiting room & Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 ""A Happy Revolution!" Kokoro Tsurumaki" in your waiting room, and put it on the stage position that this card was on.

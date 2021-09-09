@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bored Spectator, Beatrice
+Card No.:RZ/S68-E045
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Sheesh... He is unbelievable, I suppose.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:-

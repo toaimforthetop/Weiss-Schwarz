@@ -1,0 +1,17 @@
+Card Name:
+English Name:Towards the Final Singularity, Mash
+Card No.:FGO/S75-E076SP
+Rarity:SP
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Chaldea・Shielder
+Text:【CONT】 Your other character in the middle position of the center stage gets +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Chaldea》 or 《Babylonia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

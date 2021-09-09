@@ -1,0 +1,17 @@
+Card Name:
+English Name:Daughter of a Bakery, Saya
+Card No.:BD/W47-TE01
+Rarity:TD
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Bread
+Text:【CONT】 All of your other cards named "Nervous Self-introduction, Rimi" get +1000 power.
+Text:【AUTO】 Bond/"Nervous Self-introduction, Rimi" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Nervous Self-introduction, Rimi" in your waiting room, and return it to your hand.)

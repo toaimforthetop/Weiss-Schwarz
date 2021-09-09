@@ -1,0 +1,17 @@
+Card Name:
+English Name:6th Floor Guardian, Mare
+Card No.:OVL/S62-TE01
+Rarity:TD
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I’m hurrying!
+Trigger:
+Special Attribute:Humanoid Race・Nazarick
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 "6th Floor Guardian, Aura", put it on any position of your stage, and shuffle your deck.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Titania Erza
+Card No.:FT/EN-S02-002R
+Rarity:RRR
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"So youre the one who harmed our master.
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:【CONT】 The character facing this card gets -1 soul.
+Text:【CONT】 Memory During your turn, if the number of cards in your memory is two or more, this card gets +1500 power.
+Text:【AUTO】 [(2) Put a card named "Heaven\'s Wheel, Scattered Petals" from your hand into your waiting room] This ability activates up to one time per turn. When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.

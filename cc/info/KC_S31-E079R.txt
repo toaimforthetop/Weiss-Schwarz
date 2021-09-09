@@ -1,0 +1,16 @@
+Card Name:
+English Name:Obstinate Class Leader, Shiratsuyu-Kai
+Card No.:KC/S31-E079R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Hey… Just you wait!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 At the beginning of your opponent's attack phase, if this card is in your center stage, put the top card of your deck into your waiting room. If that card is level 1 or higher, put this card into your waiting room. If that card is level 0 or lower, you may move this card to an open position of your center stage. (Climax are regarded as level 0)", '【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna Joins a Party
+Card No.:SAO/S47-E008
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Okay, lets see how far we can go.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have another character with "Yuuki(ユウキ)" or "Sleeping Knights(スリーピング・ナイツ)" in its card name, this card gets +1500 power.

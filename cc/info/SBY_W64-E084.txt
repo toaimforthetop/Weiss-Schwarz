@@ -1,0 +1,16 @@
+Card Name:
+English Name:Study Session, Shoko Makinohara
+Card No.:SBY/W64-E084
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Id be delighted to have what Kaede-san is having.
+Trigger:
+Special Attribute:Adolescence・Mystery
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Adolescence》 character in your waiting room, and return it to your hand.

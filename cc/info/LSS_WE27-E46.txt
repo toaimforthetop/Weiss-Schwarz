@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Welcome to Aqours!" Dia Kurosawa
+Card No.:LSS/WE27-E46
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Huh? Im the school council president. I'm much too busy…
+Trigger:Soul
+Special Attribute:Music・Student Council
+Text:【CONT】 Memory If a card named "Thinking For the Other" is in your memory, this card gets +4500 power.

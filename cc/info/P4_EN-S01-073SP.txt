@@ -1,0 +1,19 @@
+Card Name:
+English Name:"The 2000-IQ Killjoy Detective" Naoto Shirogane
+Card No.:P4/EN-S01-073SP
+Rarity:SP
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Male Impersonator・Detective
+Text:【CONT】 If the number of other 《Male Impersonator》 or 《Female Impersonator》 characters you have is three or more, this card gets +1000 power and the following ability. "【AUTO】 When this card\'s level 2 or higher battle opponent becomes  【REVERSE】, you may draw a card."
+Text:
+Text:【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand and put it into your waiting room.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, put the top card of your deck into your waiting room. If that card is a 《Male Impersonator》 or 《Female Impersonator》 character, you may put the top card of your clock into your waiting room.

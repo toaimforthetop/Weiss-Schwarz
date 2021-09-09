@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dissatisfied Pitohui
+Card No.:GGO/S59-E081
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Jeez. I wanted to kill him…
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn.

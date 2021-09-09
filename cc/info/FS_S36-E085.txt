@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Swallow Reversal” Assassin
+Card No.:FS/S36-E085
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I will break open that belief of yours with brute force.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When a card named "Swallow Reversal" is placed on your climax area, if this card is in your center stage, put the top three cards of your deck into your waiting room. If there is a climax among those cards, you may choose a level 1 or lower character facing this card, and put it on the bottom of your opponent\'s deck.

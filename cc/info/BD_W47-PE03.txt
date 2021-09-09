@@ -1,0 +1,16 @@
+Card Name:
+English Name:Winter Uniform, Kasumi Toyama
+Card No.:BD/W47-PE03
+Rarity:PR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Star
+Text:【AUTO】When another of your ≪Music≫ character attacks, this card gets +1000 power until end of turn.

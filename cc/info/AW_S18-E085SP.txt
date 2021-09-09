@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fuko Kurasaki
+Card No.:AW/S18-E085SP
+Rarity:SP
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Net・-
+Text:【AUTO】 When this card is placed on the stagre from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【ACT】 [(1) 【REST】 two of your 《Avatar》 characters] This card gets +2000 power until the end of your opponent's next turn.", '

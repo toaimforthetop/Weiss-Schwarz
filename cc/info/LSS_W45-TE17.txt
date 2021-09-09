@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Midsummer Aquarium" Dia Kurosawa
+Card No.:LSS/W45-TE17
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:-

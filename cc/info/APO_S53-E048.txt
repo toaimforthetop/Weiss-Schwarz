@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Crying Warmonger" Berserker of Red
+Card No.:APO/S53-E048
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:You cannot stop my iron will!
+Trigger:
+Special Attribute:Servant・Muscle
+Text:【CONT】 This card cannot side attack.
+Text:【CONT】 This card gets +1000 power for each marker underneath this card.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if you are level 2 or lower, put the top card of your stock underneath this card as a marker, and 【REST】 this card. If you do not, choose three cards in your hand, put them into your waiting room, deal X damage to your opponent, and put this card into your waiting room. X is equal to the number of markers underneath this card. (This damage may be canceled)

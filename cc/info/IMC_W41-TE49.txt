@@ -1,0 +1,16 @@
+Card Name:
+English Name:Facing the Debut, Minami
+Card No.:IMC/W41-TE49
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Theres nothing,", 'and that kind of makes me worry…
+Trigger:
+Special Attribute:Music・Sports
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

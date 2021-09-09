@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Cotton Kimono” Umi Sonoda
+Card No.:LL/EN-W02-E089
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Is it really that hot? If you can distract yourself, then youll be able to ignore the heat a bit……
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 This ability activates up to one time per turn. When you use 【ACT】, this card gets +2000 power until end of turn.

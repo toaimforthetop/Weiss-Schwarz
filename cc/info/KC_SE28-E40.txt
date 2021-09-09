@@ -1,0 +1,17 @@
+Card Name:
+English Name:Battleship Princess in the Deep Sea
+Card No.:KC/SE28-E40
+Rarity:U/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Please sink in… Ironbottom… Sound…
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Princess in the Deep Sea
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named "Please sink!" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent\'s cost 1 or lower characters, and put it on the bottom of his or her deck.
+Text:【AUTO】 [Put this card into your waiting room] When another of your 《Fleet in the Deep Sea》 characters is frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +3000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Actually Having Fun? Beatrice
+Card No.:RZ/S68-E024
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Bubby insisted.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 This card gets +500 power for each of your other 《Memory Snow》 characters.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if "Participating in the Snow Festival!" is in your climax area, you may pay the cost. If you do, choose 1 《Memory Snow》 character with a level equal to or less than your level +1 in your waiting room, put it on any position of your stage as 【REST】, and this card gets +2000 power until end of turn.

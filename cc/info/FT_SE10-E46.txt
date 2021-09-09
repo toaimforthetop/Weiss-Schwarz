@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Maiden of the Sky" Wendy
+Card No.:FT/SE10-E46
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Hi. I.... Uh.. I’m sorry I got here so late.
+Trigger:Soul
+Special Attribute:Magic・Dragon
+Text:【ACT】 If the number of cards in your hand is five or more, this card gets +1000 power.

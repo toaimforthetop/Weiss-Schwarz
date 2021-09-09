@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swimsuit Eris
+Card No.:KS/W55-E081
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Have a safe trip.
+Trigger:
+Special Attribute:Goddess・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 character, put it into your hand. (If it is not, return the revealed card to its original place)

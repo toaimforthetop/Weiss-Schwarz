@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sliding Action! Emilia
+Card No.:RZ/SE35-E07
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Keep it coming!
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 [Put this card into your waiting room] When your other character with "Emilia (エミリア)" in its card name is put into your waiting room from the stage, if this card is on your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.
+Text:【ACT】 [【REST】 this card] Choose 1 of your characters with "Emilia(エミリア)" in its card name, and that character gets +1500 power until end of turn.

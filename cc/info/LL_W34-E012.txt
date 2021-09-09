@@ -1,0 +1,18 @@
+Card Name:
+English Name:Frozen Nico
+Card No.:LL/W34-E012
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:You guys...
+Trigger:
+Special Attribute:Music・Otaku
+Text:【CONT】 All of your other characters get +500 power. 
+Text:【ACT】 [【REST】 this card] Choose one of your characters with "Nico(にこ)" in its card name, and that character gets +1000 power until end of turn.
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "“Happy Maker!” Nico Yazawa" in your waiting room, and put it on the stage position that this card was on.

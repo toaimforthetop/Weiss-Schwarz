@@ -1,0 +1,17 @@
+Card Name:
+English Name:Protective Shadow, Rio Futaba
+Card No.:SBY/W64-E090
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I am cheering for him.
+Trigger:
+Special Attribute:Adolescence・Science
+Text:【CONT】 During your turn, all of your other "Basketball Club, Yuma Kunimi" get +2000 power.
+Text:【AUTO】 Bond/"Basketball Club, Yuma Kunimi" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 "Basketball Club, Yuma Kunimi" in your waiting room, and return it to your hand)

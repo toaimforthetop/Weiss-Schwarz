@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kyoko's Multi-segment Spear
+Card No.:MM/W17-E064
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:Who the hell are you? Whose side are you on, anyway?
+Trigger:Soul
+Special Attribute:Magic・Sweets
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist".
+Text:【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Magic》 character in your waiting room, and return it to your hand. 
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kyon & Koizumi
+Card No.:SY/WE09-E01
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Koizumi: "The world is at peace."
+Trigger:
+Special Attribute:Psychic Ability・SOS Brigade
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Tokyo? Coordinate" Hanamaru Kunikida
+Card No.:LSS/W45-E020
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im ready… for the treacherous gorges of Shibuya, zura!
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 [【REST】 one of your other 【STAND】 《Music》 characters and this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck into your stock.

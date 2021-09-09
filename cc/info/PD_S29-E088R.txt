@@ -1,0 +1,17 @@
+Card Name:
+English Name:"To Wherever You May Be" Hatsune Miku
+Card No.:PD/S29-E088R
+Rarity:RRR
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:かがやく、はじける、未来へ。
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 Assist All of your 《Music》 characters in front of this card get +1 level and +500 power.
+Text:【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck.

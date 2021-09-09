@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Sayaka
+Card No.:MM/W35-E106
+Rarity:PR
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Yeah, I guess? Maybe this means Ive gained some life experience?
+Trigger:Soul
+Special Attribute:Magic・Love
+Text:【CONT】 All of your other "SD Kyoko" get +2000 power.

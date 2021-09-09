@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Page" Ronie
+Card No.:SAO/S65-E041
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Kirito: "If it\'s any other trajectory, they\'ll change their footing for sure, so after seeing that, you\'ll still have time to block it."
+Trigger:
+Special Attribute:Fluctlight・Noble
+Text:【CONT】 If your level is 3 or higher, this card gets the following ability. "【ACT】 [Put this card into your waiting room] Choose up to 1 ""Lost Child of Vecta" Kirito" in your hand, and put it on the stage position that this card was on."

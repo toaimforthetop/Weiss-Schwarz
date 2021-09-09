@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Roommate
+Card No.:MR/W80-E097
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Welcome to Mikazuki Villa, Tamaki.
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Yachiyo(やちよ)" in its card name, this card cannot be played from your hand.If your waiting room has 1 character with "Iroha(いろは)" in its card name, 1 other character with "Yachiyo(やちよ)" in its card name, 1 other character with "Tsuruno(鶴乃)" in its card name, 1 other character with "Felicia(フェリシア)" in its card name, and 1 other character with "Sana(さな)" in its card name, choose 1 of your characters, and that character gets +5000 power and the following ability until the end of your opponent\'s next turn. "【CONT】 During this card\'s battle, your opponent cannot play "Backup" from hand."

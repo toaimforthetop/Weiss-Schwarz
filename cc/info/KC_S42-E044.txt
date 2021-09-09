@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Furutaka-class Heavy Cruiser, Furutaka Kai-II
+Card No.:KC/S42-E044
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"I can boast even to Mikawa Fleets comrades.
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】 When this card is placed on the stage from your hand, you may reveal your hand. If you do, and there is a climax among those cards, choose a character in your opponent's center stage, and that character gets -2000 power until end of turn.", '

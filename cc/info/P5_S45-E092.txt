@@ -1,0 +1,16 @@
+Card Name:
+English Name:Futaba: Hacking in Session
+Card No.:P5/S45-E092
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Thief・Net
+Text:【CONT】 If the number of 《Thief》 or 《Coffee》 characters you have is two or less, this card cannot be played from your hand.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Brains of the Party, Yui
+Card No.:SAO/S47-E090
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I"ll lock on to the coordinates!
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.

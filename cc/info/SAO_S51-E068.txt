@@ -1,0 +1,16 @@
+Card Name:
+English Name:Former Formidable Foe
+Card No.:SAO/S51-E068
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Event
+Color:Red
+Level:3
+Cost:3
+Power:
+Soul:0
+Flavor Text:Kirito: "The boss monster from floor 10 in Aincrad, Kagachi the Samurai Lord!"Asuna: "He looks exactly like the SAO boss……"
+Trigger:
+Special Attribute:
+Text:Deal four damage to your opponent. (This damage may be canceled)

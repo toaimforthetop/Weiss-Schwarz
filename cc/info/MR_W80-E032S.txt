@@ -1,0 +1,16 @@
+Card Name:
+English Name:Iroha & Madoka
+Card No.:MR/W80-E032S
+Rarity:SR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 At the beginning of the attack phase, choose 1 character in your center stage, and if all of your characters in your center stage are the same level as the chosen character, this card gets +500 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."【AUTO】 When this card attacks, choose 1 of your other 《Magic》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Magic》 characters you have ×500.

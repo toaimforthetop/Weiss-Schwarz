@@ -1,0 +1,16 @@
+Card Name:
+English Name:In My Hero's Arms, Rem
+Card No.:RZ/S46-E084
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Subaru-kun...
+Trigger:
+Special Attribute:Magic・Maid
+Text:-

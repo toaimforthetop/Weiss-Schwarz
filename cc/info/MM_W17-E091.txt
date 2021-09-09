@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sayaka's Confrontation
+Card No.:MM/W17-E091
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"What about the people itll attack……? Are you just going to sit back and let them get killed!?
+Trigger:
+Special Attribute:Magic・Love
+Text:【AUTO】 Bond／"Kyoko Wishes for a Miracle" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kyoko Wishes for a Miracle" in your waiting room, and return it to your hand.) 

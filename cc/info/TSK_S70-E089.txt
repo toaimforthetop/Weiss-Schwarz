@@ -1,0 +1,16 @@
+Card Name:
+English Name:Desperate Battle, Gobta
+Card No.:TSK/S70-E089
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Anything but that!
+Trigger:
+Special Attribute:Demon Continent・-
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, all players reveal the top card of their deck. Of the cards revealed by this effect, if your card has level higher than your opponent\'s  card, choose 1 "Weapons Made in Tempest" in your waiting room, and return it to your hand. If your card has level lower than your opponent\'s card, choose 1 "Shion\'s Home Cooking" in your waiting room, and return it to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reigen: Life Advice
+Card No.:MOB/SX02-007S
+Rarity:SR
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Master・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into your opponent's memory, and your opponent puts that character from your opponent's memory on any position of his or her stage.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Esper》 or 《Spirit》 or 《Master》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

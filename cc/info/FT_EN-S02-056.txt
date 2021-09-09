@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Place to Return to, Natsu
+Card No.:FT/EN-S02-056
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Cause everyone in the guild is supposed to be considered family!!!!!
+Trigger:Soul
+Special Attribute:Magic・Dragon
+Text:【CONT】 This card gets +500 power for each of your other 《Magic》 characters.

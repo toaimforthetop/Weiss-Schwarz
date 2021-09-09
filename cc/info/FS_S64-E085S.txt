@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mad Warrior's Howl, Berserker
+Card No.:FS/S64-E085S
+Rarity:SR
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 If you do not have another character with "Illya (イリヤ)" in its card name, this card cannot 【STAND】 during your stand phase.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

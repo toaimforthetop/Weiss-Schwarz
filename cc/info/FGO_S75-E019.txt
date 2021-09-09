@@ -1,0 +1,16 @@
+Card Name:
+English Name:Terrorizing Gaze
+Card No.:FGO/S75-E019
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you do not have a 《Chaldea》 or 《Babylonia》 character, this card cannot be played from your hand.Choose 1 of your opponent\'s level 3 or lower characters, and that character gets the following 2 abilities until the end of your opponent\'s next turn. "【CONT】 This card cannot move to another position on the stage." "【CONT】 This card cannot 【STAND】 during your stand phase."

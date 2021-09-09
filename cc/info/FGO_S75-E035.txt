@@ -1,0 +1,16 @@
+Card Name:
+English Name:Halving With a Single Stroke, Gilgamesh
+Card No.:FGO/S75-E035
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Babylonia・Wise King
+Text:【AUTO】 【CXCOMBO】 [Put 1 "The Will of Uruk to Continue Fighting" or "Belief in Her "Choice"" from your hand into your waiting room]  When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "The Will of Uruk to Continue Fighting" or "Belief in Her "Choice"" in your waiting room, and return it to your hand. 【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.

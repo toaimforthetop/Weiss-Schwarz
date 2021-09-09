@@ -1,0 +1,16 @@
+Card Name:
+English Name:Xmas Party, Haruhi & Kyon
+Card No.:SY/W08-E051
+Rarity:RR
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:2
+Power:5500
+Soul:1
+Flavor Text:Kyon! Something showed up!
+Trigger:Soul
+Special Attribute:Brigade Leader・SOS Brigade
+Text:【CONT】 All of your other 《Brigade Leader》 characters get +1000 power.

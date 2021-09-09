@@ -1,0 +1,17 @@
+Card Name:
+English Name:Dot Rem [Memory Snow]
+Card No.:RZ/S68-E103
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Subaru-kun, look at this!
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 Assist All of your 《Memory Snow》 characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 When your character direct attacks, choose 1 of your characters, and that character gets +1000 power until end of turn.", '

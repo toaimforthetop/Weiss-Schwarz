@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ready-made Nui
+Card No.:KLK/S27-E030
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Mon mignon pret-a-porter!
+Trigger:
+Special Attribute:Clothes・Eye Patch
+Text:【CONT】 If the number of other 《Clothes》 characters you have is two or more, this card gets +1000 power.
+Text:【AUTO】 Encore ［Put the top card of your deck into your clock］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

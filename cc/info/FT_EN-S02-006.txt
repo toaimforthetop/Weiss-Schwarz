@@ -1,0 +1,16 @@
+Card Name:
+English Name:Childhood Erza
+Card No.:FT/EN-S02-006
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text: -
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【CONT】 Memory If the number of 《Magic》 characters in your memory is two or more, this card gets +1500 power.

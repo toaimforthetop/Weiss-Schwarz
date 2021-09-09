@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Frank Disposition" Hange
+Card No.:AOT/S35-E037S
+Rarity:SR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"……Dont be scared, big guy. I won't hurt you.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] All of your other 《Corps》 characters get +1000 power.
+Text:[AUTO] When a card named "Truth" is placed on your climax area, reveal the top card of your deck. If that card is a 《Corps》 character, all of your characters get +2000 power until end of turn. (The revealed card is returned to its original place)

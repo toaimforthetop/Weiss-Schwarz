@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maid Outfit Hanayo
+Card No.:LL/W24-E090
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Were going to Akiba dressed like this?!
+Trigger:
+Special Attribute:Music・Maid
+Text:【CONT】 If this card is on your center stage, this card cannot 【STAND】 during your stand phase.

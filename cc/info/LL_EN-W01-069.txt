@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Let's Go Out Together♪" Nico
+Card No.:LL/EN-W01-069
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Are you all prepared?
+Trigger:
+Special Attribute:Music・Otaku
+Text:-

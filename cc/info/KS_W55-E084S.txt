@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Aqua
+Card No.:KS/W55-E084S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Hey, you can probably just leave it to me!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 If you have another card named ""Troublemaker" Aqua", this card gets +3000 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Rhapsodic Lisbeth
+Card No.:SAO/S51-E066
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:"Ill join in too then!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +1000 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Intense Spirit, Klein
+Card No.:SAO/S47-E117
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Freyja--!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +1500 power until end of turn.
+Text:【AUTO】 When a climax is put on your climax area, this card gets +1500 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Team DAI-GURREN's Leader, Simon
+Card No.:GL/S52-E062
+Rarity:RR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"My Bro is dead! Hes gone!!
+Trigger:Soul
+Special Attribute:Team DAI-GURREN・Drill
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, if a card named "On My Back, In My Heart," is in your climax area, you may pay the cost. If you do, deal four damage to your opponent. (This damage may be canceled)【ACT】 [(1) Put a card named "Kamina" from your memory face up underneath this card as a marker] Until the end of your opponent\'s next turn, this card gets +2500 power and the following ability. "【CONT】 During this card\'s battle, your opponent cannot play "Backup" from hand."

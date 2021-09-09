@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Eugeo's Partner" Kirito
+Card No.:SAO/S65-E069SP
+Rarity:SP
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fluctlight・Weapon
+Text:【CONT】 Experience If the total level of cards in your level is 5 or higher, this card gets "【CONT】 Assist All of your characters in front of this card get +500 power".
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over the top 4 cards of your deck, and put them into your waiting room. For each climax card revealed among them, search your deck for up to 1 《Fluctlight》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

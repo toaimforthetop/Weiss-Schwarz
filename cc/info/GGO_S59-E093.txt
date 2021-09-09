@@ -1,0 +1,16 @@
+Card Name:
+English Name:Incensed Pitohui
+Card No.:GGO/S59-E093
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:You bastard! And you call yourself a warrior?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your characters get the following ability. "【CONT】 This card cannot side attack."【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn.

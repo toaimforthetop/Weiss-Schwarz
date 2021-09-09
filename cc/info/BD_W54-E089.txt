@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Connected Pair" Lisa Imai
+Card No.:BD/W54-E089
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"... Oh, I guess that means Roselia will have to take a day off for next years Tanabata, too.
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.
+Text:【AUTO】 Bond/""Birdcage Diva" Yukina Minato" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Birdcage Diva" Yukina Minato" in your waiting room, and return it to your hand.)

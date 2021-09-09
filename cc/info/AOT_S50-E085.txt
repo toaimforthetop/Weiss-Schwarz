@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Strength Assessment" Beast Titan
+Card No.:AOT/S50-E085
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Ymir: "That monkey Beast Titan is what caused this recent fiasco. It made Titans rise up from within the wall."
+Trigger:
+Special Attribute:Titan・-
+Text:【AUTO】 [Put a card named ""Predation" Titan" from your hand into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a level 1 or lower character in your opponent\'s center stage, and put it on the bottom of his or her deck.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to two cards named ""Predation" Titan" in your waiting room, and return them to your hand.

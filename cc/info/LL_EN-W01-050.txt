@@ -1,0 +1,16 @@
+Card Name:
+English Name:Slump
+Card No.:LL/EN-W01-050
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:All of your characters get +1 soul until end of turn.

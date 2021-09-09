@@ -1,0 +1,17 @@
+Card Name:
+English Name:Affiliated Girls' High SchoolRhythmic Gymnastics Club Leader, Saki
+Card No.:GGO/S59-E006
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:All right, ladies. Cut the chatter.
+Trigger:
+Special Attribute:Net・Sports
+Text:【CONT】 Your other character in the middle position of the center stage gets +500 power.
+Text:【ACT】 【CXCOMBO】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 5 cards from the top of your deck, and put it into your waiting room. For each ""Operation Sweets" A Major Success!" or "Course of the Last Battle" revealed among them, choose up to 1 character in your waiting room, and return it to your hand.

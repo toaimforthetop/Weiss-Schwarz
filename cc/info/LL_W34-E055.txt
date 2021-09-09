@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Anemone Heart" Umi Sonada 
+Card No.:LL/W34-E055
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If all of your characters have "Umi(海未)" in its card name, this card gets +2000 power.

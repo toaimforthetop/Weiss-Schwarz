@@ -1,0 +1,17 @@
+Card Name:
+English Name:Jake: Let's Play!
+Card No.:AT/WX02-102
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×1000.
+Text:【ACT】 [(1)] This card gets +2000 power until end of turn.

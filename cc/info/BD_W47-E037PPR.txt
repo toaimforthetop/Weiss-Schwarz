@@ -1,0 +1,17 @@
+Card Name:
+English Name:Starrin'PARTY, Rimi Ushigome
+Card No.:BD/W47-E037PPR
+Rarity:PPR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Choco Cornet
+Text:【AUTO】  When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】  【CXCOMBO】  When this card attacks, if a card named "We Are Poppin\'Party" is in your climax area, all of your characters get +X power and +1 soul until end of turn. X is equal to 1000 multiplied by the number of your opponent\'s 【STAND】  characters.

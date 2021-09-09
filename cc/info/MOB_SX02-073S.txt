@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ritsu: Concentrating
+Card No.:MOB/SX02-073S
+Rarity:SR
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Psychic powers arent that cheap!
+Trigger:
+Special Attribute:Student Council・-
+Text:【AUTO】 When a blue climax is placed on your climax area, choose 1 of your characters, and that character gets +1500 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room."

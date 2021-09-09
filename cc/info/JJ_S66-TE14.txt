@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sudden Fury, Fugo
+Card No.:JJ/S66-TE14
+Rarity:TD
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:You stupid delinquent! Are you messing with me?
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Golden Wind》 characters, and that character gets +1500 power until end of turn.

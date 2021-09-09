@@ -1,0 +1,16 @@
+Card Name:
+English Name:Concealed Tactics, Goblin Slayer
+Card No.:GBS/S63-TE02
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:This is a scout. This is the right way.
+Trigger:
+Special Attribute:Order・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

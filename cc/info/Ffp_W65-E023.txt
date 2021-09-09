@@ -1,0 +1,16 @@
+Card Name:
+English Name:High School Girl from Jindai High, Kaname
+Card No.:Ffp/W65-E023
+Rarity:RR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"As I thought, youre strange.
+Trigger:
+Special Attribute:Fantasia Bunko・Whispered・Honor Student
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into the waiting room from your stage, you may pay the cost. If you do, search your deck for up to 1 cost 0 or lower 《Fantasia Bunko》 or 《Whispered》 character equal to or lower than your level, put it on any postion of your stage as 【REST】, and shuffle your deck.

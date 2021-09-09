@@ -1,0 +1,16 @@
+Card Name:
+English Name:Red Player, 《Death Gun》
+Card No.:SAO/SE23-E11
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Its showtime.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 At the beginning of your draw phase, deal one damage to yourself. (This damage may be canceled)

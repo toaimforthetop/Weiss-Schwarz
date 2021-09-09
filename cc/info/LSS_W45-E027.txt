@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Actually an Angel?" Hanamaru Kunikida
+Card No.:LSS/W45-E027
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Zura~!
+Trigger:Soul
+Special Attribute:Music
+Text:【CONT】 If the number of characters in your back stage is one or less, this card cannot attack.

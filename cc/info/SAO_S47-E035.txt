@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Imp》 Girl, Yuuki
+Card No.:SAO/S47-E035
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:"Whats up! Y'next?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When you use this card\'s "Backup", look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

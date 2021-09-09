@@ -1,0 +1,16 @@
+Card Name:
+English Name:Girl With No Weight
+Card No.:BM/S15-E049
+Rarity:CC
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-
+Trigger:Soul・Soul
+Special Attribute:
+Text:[AUTO] When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

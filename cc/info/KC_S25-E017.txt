@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Agano-class Light Cruiser, Agano
+Card No.:KC/S25-E017
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Its almost time for Agano's entrance. Eh heh heh, I've been waiting for this moment.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:-

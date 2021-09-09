@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Reliable Companion" Arisa Ichigaya
+Card No.:BD/W54-E079
+Rarity:U
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:If I feel like it!
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 This card gets 《Bonsai》 while in your hand.
+Text:【AUTO】 When your other 《Music》 character or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)
+Text:【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn.

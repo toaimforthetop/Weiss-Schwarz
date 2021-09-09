@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hinano Miyako
+Card No.:MR/W59-E051
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:A social life? Blow it to pieces with ethanol!
+Trigger:Soul
+Special Attribute:Magic・Support
+Text:【CONT】 If you have 4 or more 《Magic》 characters, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets -2 level while on the stage.

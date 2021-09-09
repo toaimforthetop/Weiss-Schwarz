@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sergeant First Class Natsuki Aki
+Card No.:SAO/S65-E022
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:3
+Cost:1
+Power:
+Soul:0
+Flavor Text:I pledge to protect young Kirigaya, life and limb, with full responsibility! And so on!
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you do not have a 《Fluctlight》 character, this card cannot be played from your hand. You may put the top card of your clock into your waiting room. Choose 1 of your characters, and that character gets +2500 power until end of turn. Put this card into your memory.

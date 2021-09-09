@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Liar"
+Card No.:PD/S29-E011
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1)] At the beginning of your opponent\'s attack phase, you may pay the cost. If you do, choose one of your other cards named "Kagamine Rin "Faker"", and move it to an open position of your back stage.

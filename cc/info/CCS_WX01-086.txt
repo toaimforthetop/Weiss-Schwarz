@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sakura: Lunch Break
+Card No.:CCS/WX01-086
+Rarity:U
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Sakura: "Before Hong Kong, she was in France. Before that, Germany, and... uh…"
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 "Akiho: Just Visiting", put it on any position of your stage, and shuffle your deck.

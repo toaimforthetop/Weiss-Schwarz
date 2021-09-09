@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Vittorio Veneto-class Battleship, Littorio
+Card No.:KC/S42-E086
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"With this, I even wont lose to Roma! Eh heh heh♪
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【CONT】 If your level is three or higher, this card gets the following ability. "【ACT】 [(1) Put this card into your waiting room] Choose a card named "2nd Vittorio Veneto-class Battleship, Italia" in your waiting room, and put it on the stage position that this card was on."【AUTO】 【CXCOMBO】 When a card named "Let me show you Italia\'s true power!" is placed on your climax area, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, put it into your hand. (If it is not, return the revealed card to its original place)

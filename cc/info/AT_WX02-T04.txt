@@ -1,0 +1,17 @@
+Card Name:
+English Name:BMO: Movie Filming Time
+Card No.:AT/WX02-T04
+Rarity:TD
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.

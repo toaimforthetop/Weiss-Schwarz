@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nico in Regular Clothes
+Card No.:LL/EN-W01-068
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:I want you to take me somewhere to play. What do you say-?
+Trigger:
+Special Attribute:Music・Otaku
+Text:【CONT】 If the number of cards in your stock is three or less, this card gets +1500 power.

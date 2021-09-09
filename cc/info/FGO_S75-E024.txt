@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dignity of a Goddess
+Card No.:FGO/S75-E024
+Rarity:CC
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"I dont even understand what the souls are saying! Even then, I will...
+Trigger:Soul・Return
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Innocent Girl, Ilya
+Card No.:FZ/S17-E016
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:There it is! I found one, too!
+Trigger:
+Special Attribute:Homunculus・-
+Text:【CONT】 All of your other 《Master》 or 《Homunculus》 characters get +500 power. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sword Strike
+Card No.:RZ/S55-E025
+Rarity:CC
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

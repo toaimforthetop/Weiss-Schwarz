@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sightseeing in the Crimson Demon Village!" Aqua
+Card No.:KS/W76-E079S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Is something wrong, Kazuma-san-who-tried-to-mess-with-Megumin-while-she-was-sleeping?
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Adventurer》 or 《Goddess》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Floating Fortress
+Card No.:KC/SE28-E16
+Rarity:C
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Fortress
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Fleet in the Deep Sea》 characters, and that character gets +1500 power until end of turn.

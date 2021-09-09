@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kero: Euphoria
+Card No.:CCS/WX01-T08R
+Rarity:RRR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Tomoeda》 or 《Magic》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Takao-class Heavy Cruiser, Maya
+Card No.:KC/S25-E072
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:1000
+Soul:2
+Flavor Text:"Alright, Im really pumped up! Let's do this!
+Trigger:Soul
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【ACT】【COUNTER】Backup 4000, Level 2 [(2) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +4000 power until end of turn.)

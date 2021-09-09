@@ -1,0 +1,18 @@
+Card Name:
+English Name:Starrin'PARTY, Tae Hanazono
+Card No.:BD/W47-E092PPR
+Rarity:PPR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Rabbit
+Text:【AUTO】  When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.
+Text:【AUTO】  When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】  【CXCOMBO】  At the beginning of your attack phase, if a card named "We Are Poppin\'Party" is in your climax area and this card is in your center stage, put up to two cards from the top of your deck into your stock, and this card gets +3000 power until end of turn.

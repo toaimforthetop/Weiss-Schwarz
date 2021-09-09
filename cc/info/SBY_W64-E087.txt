@@ -1,0 +1,16 @@
+Card Name:
+English Name:Basketball Club, Yuma Kunimi
+Card No.:SBY/W64-E087
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, if your stock has 3 or less cards, you may put that character on the top of your opponent's deck.", '

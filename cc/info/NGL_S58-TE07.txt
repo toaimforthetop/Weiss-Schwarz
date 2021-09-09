@@ -1,0 +1,17 @@
+Card Name:
+English Name:Spy Wipeout, Sora
+Card No.:NGL/S58-TE07
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Okay, here goes.
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【CONT】 All of your other 《Game》 characters get +1000 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

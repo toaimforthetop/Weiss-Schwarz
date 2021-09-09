@@ -1,0 +1,17 @@
+Card Name:
+English Name:My Own Shine, Claudine Saijo
+Card No.:RSL/S56-E069STR
+Rarity:STR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +2000 power.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room]When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, and return it to your hand.

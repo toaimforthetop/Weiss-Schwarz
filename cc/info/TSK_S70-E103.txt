@@ -1,0 +1,16 @@
+Card Name:
+English Name:Splendid Transformation! Milim
+Card No.:TSK/S70-E103
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:Transform!
+Trigger:Soul
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 When this card is placed on the stage from your hand, put 3 cards from the top of your deck into your waiting room. If there is a climax revealed among those cards, you may choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room.", '

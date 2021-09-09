@@ -1,0 +1,19 @@
+Card Name:
+English Name:Teddie & Kintoki-Douji
+Card No.:P4/EN-S01-087
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"…whats wrong with being a shadow! There must be something that only I can do!
+Trigger:
+Special Attribute:Shadow・Animal
+Text:【AUTO】 Change [(3) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Teddie & Kamui" in your waiting room, and put it on the stage position this card was on.
+Text:
+Text:【ACT】【COUNTER】 Backup 1500 Level 1 ［Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.

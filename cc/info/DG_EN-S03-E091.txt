@@ -1,0 +1,16 @@
+Card Name:
+English Name:Laharl & Mao
+Card No.:DG/EN-S03-E091
+Rarity:RR
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Laharl: "Whoever loses is the real legendary Overlord! Got it !?"', 'Mao: "Bring it!"
+Trigger:
+Special Attribute:Demon・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a climax in your opponent\'s waiting room, and return it to his or her deck. If you do, shuffle your opponent\'s deck, and this card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand."

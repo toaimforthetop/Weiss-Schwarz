@@ -1,0 +1,16 @@
+Card Name:
+English Name:Source of The Curse
+Card No.:RZ/S55-E050
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you have 2 or less 《Magic》 or 《Weapon》 characters, this card cannot be played from your hand.Draw up to 2 cards, choose 2 cards in your hand, put them into your waiting room, choose 1 of your opponent's characters, that character gets -1000 power until end of turn, choose 1 of your characters, and that character gets +1000 power until end of turn.", '

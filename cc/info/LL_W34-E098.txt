@@ -1,0 +1,18 @@
+Card Name:
+English Name:Nap Time Maki
+Card No.:LL/W34-E098
+Rarity:CR
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:
+Trigger:Draw
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul. 
+Text:(: When this card triggers, you may draw a card.)
+Text:Put the top card of your deck into your clock. If that card is a character with "Maki(真姫)" in its card name, draw up to three cards, choose a card in your hand, put it into your waiting room, choose one of your characters, and that character gets +2000 power until end of turn.

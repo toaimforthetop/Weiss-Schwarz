@@ -1,0 +1,16 @@
+Card Name:
+English Name:Promised Pendant
+Card No.:NK/W30-E046
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Raku: "……Is it all right if I just ask you one thing……"
+Trigger:
+Special Attribute:
+Text:If you do not have a 《Key》 character, this card cannot be played from hand.Choose one of your characters, and that character gets +3500 power until end of your opponent's next turn. Put this card into your memory.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:After School with Friends, Miyu
+Card No.:PI/EN-S04-E071
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:…Ah～.
+Trigger:
+Special Attribute:Master・Magic
+Text:【CONT】 All of your other cards named "After School with Friends, Illya" and "After School with Friends, Miyu" get +1000 power.

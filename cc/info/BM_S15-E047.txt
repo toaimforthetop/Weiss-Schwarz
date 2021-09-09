@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rainy Devil
+Card No.:BM/S15-E047
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:
+Trigger:
+Special Attribute:
+Text:Choose up to one of your opponent's characters, and that character gets -3000 power until end of turn.

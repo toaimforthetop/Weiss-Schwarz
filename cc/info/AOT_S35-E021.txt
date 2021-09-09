@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Memories of the Past" Eren
+Card No.:AOT/S35-E021
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Armin: "I can\'t count the number of times they\'ve come to my rescue. But I was always so weak. I could never reciprocate the favor."
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] This card cannot side attack.

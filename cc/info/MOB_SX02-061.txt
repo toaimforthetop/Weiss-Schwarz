@@ -1,0 +1,17 @@
+Card Name:
+English Name:Terada
+Card No.:MOB/SX02-061
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Youll pay with your lives for trampling all over my pride!
+Trigger:
+Special Attribute:Esper・Claw
+Text:【CONT】 The character facing this card cannot move to another position of the stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, if your opponent's waiting room has 5 or more climax, 【REST】 this card.", '

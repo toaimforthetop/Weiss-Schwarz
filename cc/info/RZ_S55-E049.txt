@@ -1,0 +1,16 @@
+Card Name:
+English Name:Oni's Blood Relative, Ram
+Card No.:RZ/S55-E049
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:-

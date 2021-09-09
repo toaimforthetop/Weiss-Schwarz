@@ -1,0 +1,16 @@
+Card Name:
+English Name:Classmate, Suzuka
+Card No.:PI/EN-S04-E067
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:My, my. Did you see that, Nanaki.
+Trigger:
+Special Attribute:Glasses・Otaku
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck.

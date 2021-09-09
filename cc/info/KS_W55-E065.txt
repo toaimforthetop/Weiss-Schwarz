@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Challenge Accepted" Megumin
+Card No.:KS/W55-E065
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Now then, come at me as you will!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 This ability activates up to three times per turn. When your other character is placed on the stage from your waiting room, this card gets +2000 power until end of turn.

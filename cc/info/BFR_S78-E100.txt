@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hex, Maple
+Card No.:BFR/S78-E100
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Never heard of that status effect.
+Trigger:
+Special Attribute:Game・Shield
+Text:【CONT】 This card cannot move to another position of the stage.
+Text:【CONT】 All of your characters get the following ability. "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck."

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Battle Within the Field, Saber
+Card No.:FS/S34-E010
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card attacks, choose one of your characters, and that character gets +4000 power until end of turn.
+Text:【AUTO】 Resonate [(1) Reveal a card named "Activating a Command Seal, Shirou" in your hand] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Armor Release" is in your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +5000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:《SHINC》, Anna
+Card No.:GGO/S59-E024
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:"Shes tiny!
+Trigger:
+Special Attribute:Avatar・SHINC
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you cannot use "【AUTO】 Encore" until end of turn. (You cannot use the "【AUTO】 Encore [(3)]" rule either)

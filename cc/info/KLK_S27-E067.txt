@@ -1,0 +1,16 @@
+Card Name:
+English Name:Seki Tekko
+Card No.:KLK/S27-E067
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Mikisugi: "It will make it easier for you to provide it with blood."
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room, and return them to your hand.

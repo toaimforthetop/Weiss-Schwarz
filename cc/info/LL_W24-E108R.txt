@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Wonderful Rush" Kotori Minami
+Card No.:LL/W24-E108R
+Rarity:RRR
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:2000
+Soul:1
+Flavor Text:Hanayo, having a lovely August?
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 During your turn, your other character in the middle position of your center stage gets +500 power.
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power. 

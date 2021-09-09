@@ -1,0 +1,17 @@
+Card Name:
+English Name:An Ordinary Piece, Guild Girl
+Card No.:GBS/S63-E105
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Guild Girl
+Trigger:
+Special Attribute:Order・Guild
+Text:【CONT】 If all of your characters are 《Order》, this card gets +2000 power.
+Text:【ACT】 [(1)] This card gets +2000 power until end of turn.

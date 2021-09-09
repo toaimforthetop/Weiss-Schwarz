@@ -1,0 +1,18 @@
+Card Name:
+English Name:Honoka in Pajamas
+Card No.:LL/EN-W01-080
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Look at my pajamas! What do you think? What do you think?
+Trigger:Soul
+Special Attribute:Music・Pajamas
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""I\'m Gonna Eat It!" Honoka" in your waiting room, and put it on the stage position that this card was on.
+Text:【CONT】 If the number of your other characters is two or less, this card gets +1500 power.

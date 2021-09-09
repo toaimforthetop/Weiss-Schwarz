@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shinji Kamuro
+Card No.:MOB/SX02-083
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I see... a peaceful school, eh?
+Trigger:
+Special Attribute:Student Council・-
+Text:【CONT】 If you have another "Ritsu: Concentrating" on your back stage, this card gets +500 power and the following ability. "【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】."

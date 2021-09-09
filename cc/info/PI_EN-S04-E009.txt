@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kaleido Ruby, Rin
+Card No.:PI/EN-S04-E009
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Now, then… Shall we get this show started?
+Trigger:
+Special Attribute:Jewel・Magic
+Text:【CONT】 Your other character in the middle position of your center stage gets +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Choose a character in your waiting room, and return it to your hand.

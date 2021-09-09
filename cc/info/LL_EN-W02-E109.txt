@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Open Wide♪” Kotori Minami
+Card No.:LL/EN-W02-E109
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Cooking is so interesting. Hearing the pot bubble... Waiting for it to be ready... Its so much fun♪
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 During this card\'s battle, all players cannot play "Backup" from hand.
+Text:【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.

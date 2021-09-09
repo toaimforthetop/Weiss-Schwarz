@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Kagero-class Destroyer, Kuroshio
+Card No.:KC/S25-E023
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Its Kuroshio, pleased to meet'cha.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:-

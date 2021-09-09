@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fairy King, Oberon
+Card No.:SAO/S20-E041
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"Its just a fake body. It won't hurt anything. Don't you want to enjoy yourself a little?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:-

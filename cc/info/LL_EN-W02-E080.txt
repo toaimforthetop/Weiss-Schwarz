@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Christmas Date” Honoka Kosaka
+Card No.:LL/EN-W02-E080
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Wow, its cold~ Mind if I get a little closer to you?
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 [(1)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a card named ""Happy Maker!" Honoka Kosaka" in your waiting room, and return it to your hand.

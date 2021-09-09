@@ -1,0 +1,16 @@
+Card Name:
+English Name:Finn & Jake: Rainy Day Daydream
+Card No.:AT/WX02-A06
+Rarity:DD
+Expansion:【Demo Deck】 Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Ill kill you, troll!
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.

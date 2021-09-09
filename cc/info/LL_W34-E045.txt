@@ -1,0 +1,18 @@
+Card Name:
+English Name:Image Change, Honoka
+Card No.:LL/W34-E045
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"The ace of returning your feelings! Im Honoka Kosaka!
+Trigger:Soul
+Special Attribute:Music・Sports
+Text:【CONT】 All of your other characters with "Honoka(穂乃果)" in its card name get +1000 power. 
+Text:【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [(1)] When a card named "Nap Time Kotori" is placed on your climax area, you may pay the cost. If you do,  until the end of your opponent\'s next turn,all of your characters get +1500 power and the following ability. "【CONT】 During this card\'s battle, all players cannot play "Backup" from hand."

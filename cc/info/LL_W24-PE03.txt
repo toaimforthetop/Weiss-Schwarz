@@ -1,0 +1,16 @@
+Card Name:
+English Name:Preparations for X'mas, Kotori & Honoka & Umi
+Card No.:LL/W24-PE03
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Honoka: "Will Santa pay a visit to Honoka～?"
+Trigger:
+Special Attribute:Music・Sweets
+Text:【CONT】  This card cannot be 【REVERSE】 by your opponent character's 【AUTO】  effects.", '

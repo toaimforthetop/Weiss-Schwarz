@@ -1,0 +1,16 @@
+Card Name:
+English Name:P-1 Grand Prix Host! General Teddie
+Card No.:P4/EN-S01-030
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:May the manliest of all men come on down--!!
+Trigger:
+Special Attribute:Shadow・Weapon
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one level 2 or higher character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards

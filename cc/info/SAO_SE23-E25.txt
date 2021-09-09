@@ -1,0 +1,16 @@
+Card Name:
+English Name:Basic Knowledge of Guns, Sinon
+Card No.:SAO/SE23-E25
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:《Five-seven》. The caliber size.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you do not have any other characters on your center stage, this card gets +1000 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

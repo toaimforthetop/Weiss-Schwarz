@@ -1,0 +1,16 @@
+Card Name:
+English Name:To the Highest Stage, Kosaki
+Card No.:NK/W30-PE05
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:0
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Key・Music
+Text:【ACT】 【COUNT】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)

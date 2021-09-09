@@ -1,0 +1,16 @@
+Card Name:
+English Name:Eli in Pajamas
+Card No.:LL/EN-W01-070
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Its a little strange, wearing pajamas in front of others.
+Trigger:Soul
+Special Attribute:Music・Pajamas
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Sun Shower" Eli" in your waiting room, and put it on the stage position that this card was on.

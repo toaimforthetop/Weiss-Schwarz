@@ -1,0 +1,16 @@
+Card Name:
+English Name:Winged Slayer
+Card No.:DG/EN-S03-E081
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:A devastating strike from the sky
+Trigger:
+Special Attribute:
+Text:Perform the following action until you level up. "Put the top card of your deck into your clock."', "All of your opponent's characters get -3000 power until end of turn.", '

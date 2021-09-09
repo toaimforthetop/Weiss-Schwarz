@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Sendai-class Light Cruiser, Jintsu-Kai-Ni
+Card No.:KC/S31-E038
+Rarity:R
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Beam the search lights... Going in for a raid. Follow me!
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【AUTO】 [Put the top card of your deck into your clock] When?this?card?attacks, if a card named "Jintsu, sallying forth!" is in your climax area, you may pay the cost. If you do, all of your other characters get +3500 power and +1 soul until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Furutaka-class Heavy Cruiser, Kako Kai-II
+Card No.:KC/S42-E052
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:7000
+Soul:1
+Flavor Text:"Hmm, very well! So its my turn. Let's go-!
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】 When this card is frontal attacked, put this card into your waiting room. (Even though there is no battle opponent, the attack does not becomes a direct attack)

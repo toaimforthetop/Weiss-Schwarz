@@ -1,0 +1,17 @@
+Card Name:
+English Name:Laplace's Demon, Tomoe Koga
+Card No.:SBY/W64-E035
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:So, what was it?
+Trigger:
+Special Attribute:Adolescence・Smartphone
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 When this card attacks, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn.

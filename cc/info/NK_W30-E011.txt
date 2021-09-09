@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Chitoge
+Card No.:NK/W30-E011
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Oh, thats totally fine with me! I do love exercising!
+Trigger:Soul
+Special Attribute:Heiress・Key
+Text:【CONT】 Memory This card gets +1000 power for each card named "Promised Pendant" in your memory.

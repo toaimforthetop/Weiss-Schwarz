@@ -1,0 +1,16 @@
+Card Name:
+English Name:Megurine Luka "VF Suit"
+Card No.:PD/S29-E077
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:-

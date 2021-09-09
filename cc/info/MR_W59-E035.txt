@@ -1,0 +1,16 @@
+Card Name:
+English Name:Konoha Shizumi
+Card No.:MR/W59-E035
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Stay out of it. That one is our prey.
+Trigger:
+Special Attribute:Magic・Balance
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Those Days are Gone" is in your climax area, this card gets +1000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose up to 1 "Hazuki Yusa" and up to 1 "Ayame Mikuri" in your waiting room, and put them into your stock in any order."

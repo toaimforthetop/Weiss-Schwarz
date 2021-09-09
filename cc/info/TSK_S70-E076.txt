@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sensible Rigur
+Card No.:TSK/S70-E076
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I see! Now I understand!
+Trigger:
+Special Attribute:Demon Continent・-
+Text:【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Demon Continent》 characters you have.

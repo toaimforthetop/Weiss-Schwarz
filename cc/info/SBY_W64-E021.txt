@@ -1,0 +1,16 @@
+Card Name:
+English Name:Panda Pajamas
+Card No.:SBY/W64-E021
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Mai: "Why don\'t you try it on?"
+Trigger:
+Special Attribute:
+Text:Experience If the total level of cards in your level is 3 or higher, choose up to 2 characters in your waiting room, return them to your hand, choose 1 card in your hand, put it into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn.

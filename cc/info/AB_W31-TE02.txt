@@ -1,0 +1,16 @@
+Card Name:
+English Name:Big Fan of Gldemo, Yui
+Card No.:AB/W31-TE02
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Girls Dead Monster is amazing, its Gldemo for short!
+Trigger:
+Special Attribute:Death・Music
+Text:[CONT] During your turn, this card gets +1000 power.

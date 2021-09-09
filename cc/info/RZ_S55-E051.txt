@@ -1,0 +1,16 @@
+Card Name:
+English Name:Forbidden Library
+Card No.:RZ/S55-E051
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Exactly what sort of relationship do you think we have, I suppose?
+Trigger:
+Special Attribute:
+Text:【REST】 1 of your 【STAND】 characters with "Beatrice(ベアトリス)" in its card name. If you do, you may choose 1 of your level 2 characters with "Beatrice(ベアトリス)" in its card name, and return it to your hand. If you do, choose up to 1 character in your hand with "Beatrice(ベアトリス)" in its card name, put it on any position of your stage, and that character gets +1000 power until end of turn. Put this card into your memory.

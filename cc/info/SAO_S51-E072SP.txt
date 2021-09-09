@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Link Strike" Sinon
+Card No.:SAO/S51-E072SP
+Rarity:SP
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of 《Avatar》 or 《Net》 characters you have is four or more, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named ""Link Strike" Kirito", draw up to one card, and this card gets +2000 power until end of turn.
+Text:【AUTO】 [(1) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When the character in the middle position of your center stage attacks, you may pay the cost. If you do, put the top three cards of your deck into your waiting room. If there is a climax among those cards, 【STAND】 this card.

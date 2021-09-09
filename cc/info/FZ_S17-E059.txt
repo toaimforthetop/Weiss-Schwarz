@@ -1,0 +1,18 @@
+Card Name:
+English Name:Bloodthirsty Beast, Berserker
+Card No.:FZ/S17-E059
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:…… ar…… ur……!!
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】[Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "Arondight" in your waiting room, and return it to your hand.
+Text:【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Curse Incarnate, Berserker" in your waiting room, and put it on the stage position that this card was on.
+Text:【AUTO】［Put this card into your waiting room］ When a card named "Identity of the Fallen Knight" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on. 

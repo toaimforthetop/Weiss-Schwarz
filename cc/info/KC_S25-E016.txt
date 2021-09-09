@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Junsen Otsu-class Type Kai Ⅱ Submarine, I-58
+Card No.:KC/S25-E016
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Greetings from the sea! Its Goya!
+Trigger:
+Special Attribute:Fleet Girl・Submarine
+Text:【AUTO】When this card side attacks, this card gets +1 soul until end of turn.
+Text:【AUTO】Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】\' />, you may pay the cost. If you do, choose a card named "3rd Junsen Otsu-class Type Kai Ⅱ Submarine, I-58-Kai" in your waiting room, and put it on the stage position that this card was on.

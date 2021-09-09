@@ -1,0 +1,16 @@
+Card Name:
+English Name:Benevolent Overlord, Ainz
+Card No.:OVL/S62-TE14R
+Rarity:RRR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Hey, Albedo. Weren’t you listening?  I said “all of you”.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Grotesque Race》 or 《Nazarick》 characters, this card gets +2000 power until end of turn.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Asuna's Gentle Appearance
+Card No.:SAO/S26-E010
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Sorry for involving you in that.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 【REST】 characters.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist".', "【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card in your opponent's waiting room, and return that card to your opponent's deck. Shuffle your opponent's deck afterwards.", '

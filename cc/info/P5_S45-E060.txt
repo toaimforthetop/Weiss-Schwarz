@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ann: It's a Deal
+Card No.:P5/S45-E060
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Ill do whatever it takes!
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Thief》 character in your waiting room, and return it to your hand.

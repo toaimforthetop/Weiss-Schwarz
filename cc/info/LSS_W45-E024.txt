@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Fallen Angel Yohane's Demon Eyes" Yoshiko Tsushima
+Card No.:LSS/W45-E024
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:I will bestow upon all my little demons! The powers of the fallen!!
+Trigger:
+Special Attribute:Music・Demon
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card is placed on the stage from your waiting room, if the number of your other 《Music》 characters is two or more, until end of turn, this card gets +2500 power, and all of your other characters get 《Little Demon》.
+Text:【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Fallen Angel Mode Release" Yoshiko Tsushima" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)\u3000

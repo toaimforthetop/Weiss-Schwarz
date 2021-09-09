@@ -1,0 +1,16 @@
+Card Name:
+English Name:12th Kagero-class Destroyer, Isokaze-Kai
+Card No.:KC/S31-E004
+Rarity:R
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Isokaze from the Seventeenth Destroyer Division reporting.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 This card gets +1 level and +1500 power for each marker underneath this card. ', "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose a 《Fleet Girl》 character in your waiting room, and put it face down underneath this card as a marker.", '

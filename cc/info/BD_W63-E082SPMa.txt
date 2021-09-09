@@ -1,0 +1,17 @@
+Card Name:
+English Name:"A Real Challenge" Lisa Imai
+Card No.:BD/W63-E082SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】 All of your other 《Music》  characters get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.

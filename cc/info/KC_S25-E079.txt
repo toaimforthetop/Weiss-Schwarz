@@ -1,0 +1,16 @@
+Card Name:
+English Name:It's Akatsuki's turn, pay close attention!
+Card No.:KC/S25-E079
+Rarity:CC
+Expansion:Kancolle
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Akatsuki, torpedo squadron, heading out!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】All of your characters get +2 soul.

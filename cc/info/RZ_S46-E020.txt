@@ -1,0 +1,17 @@
+Card Name:
+English Name:Priscilla's Knight, Aldebaran
+Card No.:RZ/S46-E020
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Hey. Thats where we're supposed to stand.
+Trigger:
+Special Attribute:Weapon・Knight
+Text:【CONT】 If you have another card named "Royal Election Candidate, Priscilla", this card gets +3000 power.
+Text:【CONT】 If this card is on the center stage, all of your other cards named "Royal Election Candidate, Priscilla" get +1 level and +1500 power.

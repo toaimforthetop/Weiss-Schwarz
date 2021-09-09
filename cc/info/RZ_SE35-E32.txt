@@ -1,0 +1,17 @@
+Card Name:
+English Name:Life in the Forest, Emilia
+Card No.:RZ/SE35-E32
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Hey, Puck...
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If your stock has 6 or more cards, this card gets +3000 power.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this character to its previous stage position as 【REST】)

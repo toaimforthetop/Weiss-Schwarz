@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Christmas Bells” Rin Hoshizora
+Card No.:LL/EN-W02-E153
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Huh～? You havent put up a Christmas tree yet!? I want to come and help you!
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1) Put a card named ""Happy Maker!" Rin Hoshizora" from your hand into your waiting room] At the beginning of your opponent\'s attack phase, if this card is in your center stage, you may pay the cost. If you do, choose one of your other characters and this card, and those cards get +3000 power until end of turn.

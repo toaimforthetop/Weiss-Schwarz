@@ -1,0 +1,18 @@
+Card Name:
+English Name:Together with Anzu, Kirari
+Card No.:IMC/W41-TE13a
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Power~
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Anzu: "……living off royalties."
+Trigger:Soul
+Special Attribute:Music・Happy Happy
+Text:【CONT】 During your turn, this card gets +500 power for each of your other yellow characters.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【CONT】 All of your other 《Music》 characters get +1000 power.', "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +1 soul until end of turn.", '

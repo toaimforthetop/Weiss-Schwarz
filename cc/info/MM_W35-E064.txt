@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Magical Girls' Tea Party” Kyoko
+Card No.:MM/W35-E064
+Rarity:R
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I am the apple♪ The round cake loves Bebe♪
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose a character in your waiting room, and you may return it to your hand."

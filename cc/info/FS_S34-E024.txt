@@ -1,0 +1,16 @@
+Card Name:
+English Name:Usual Morning, Shirou
+Card No.:FS/S34-E024
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Morning, Fuji-nee.
+Trigger:
+Special Attribute:Master・-
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, 【REST】 this card. (The revealed card is returned to its original place)

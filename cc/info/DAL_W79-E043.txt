@@ -1,0 +1,17 @@
+Card Name:
+English Name:Date Support, Yoshino
+Card No.:DAL/W79-E043
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Im... sorry…
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, this card gets +2000 power until end of turn.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sol of the Earth
+Card No.:FT/EN-S02-044
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Non, non, non, non, non, non, non!
+Trigger:
+Special Attribute:Magic・Element
+Text:【CONT】 If the number of cards in your stock is three or more, this card gets +1000 power.

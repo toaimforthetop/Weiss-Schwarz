@@ -1,0 +1,17 @@
+Card Name:
+English Name:Marika in Yukata
+Card No.:NK/W30-E063
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Now, then, its finally show time.
+Trigger:
+Special Attribute:Police・Key
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Key》 characters, and that character gets +500 power until end of turn.

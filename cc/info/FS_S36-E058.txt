@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Ideal Existence” Archer
+Card No.:FS/S36-E058
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:As long as I am your ideal, Shirou Emiya must deny me more than anyone.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "“Caladbolg II”" in your waiting room, and return it to your hand.
+Text:【ACT】 [【REST】 two of your 《Master》 or 《Servant》 characters] Choose one of your characters, and that character gets +2000 power until end of turn.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to one 《Weapon》 character in your hand with level equal to or lower than your level, and put it on any position of your stage.', "【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 3 or lower character in your opponent's center stage, and put it into his or her waiting room.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Violet-Haired Suave Man" Eldrie Synthesis Thirty-One
+Card No.:SAO/S65-E043
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"I am just a novice, without my own territory... Perhaps youll be so kind as to forgive that?
+Trigger:
+Special Attribute:Fluctlight・Integrity Knight
+Text:【CONT】 If there is a marker underneath this card, this card gets +4000 power and the following ability. "【AUTO】 [Put 1 《Fluctlight》 character from your hand into your waiting room] At the beginning of your climax phase, if there is no opponent character facing this card, you may pay the cost. If you do, choose 1 of your opponent\'s characters, and move it to the stage position facing this card."【AUTO】 When this card is placed on the stage from your hand, you may choose 1 "An Unexpected Welcome, Alice" in your waiting room, and put it face up underneath this card as a marker.

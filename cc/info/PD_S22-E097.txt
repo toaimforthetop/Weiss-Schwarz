@@ -1,0 +1,16 @@
+Card Name:
+English Name:Freely Tomorrow
+Card No.:PD/S22-E097
+Rarity:CR
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:心ごと\u3000体ごと\u3000全部記憶の中の幻', '本当の\u3000愛情が\u3000指先から流れ出した
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul. 

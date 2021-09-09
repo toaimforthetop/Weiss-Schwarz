@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Onstage" Lisa Imai
+Card No.:BD/W54-TE10
+Rarity:TD
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:I\'m really touched by your passion, you know.That\'s "fully devoting yourself to Roselia!"
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.

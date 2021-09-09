@@ -1,0 +1,16 @@
+Card Name:
+English Name:Up Up Down Down Left Right Left Right! There you go!
+Card No.:KS/W76-E024
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Crap. I got so anxious, I put the password in. Still…
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Kazuma(カズマ)" in its card name, this card cannot be played from your hand. Choose 1 of the following effects and perform it."Choose 1 character in your waiting room, and return it to your hand.""Choose 1 character on your opponent\'s center stage, and return it to his or her hand.""If there are 5 or more cards in your opponent\'s memory, your opponent puts all characters in your opponent\'s memory into his or her waiting room."

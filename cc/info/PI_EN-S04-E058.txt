@@ -1,0 +1,16 @@
+Card Name:
+English Name:Trainer, Sella
+Card No.:PI/EN-S04-E058
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"I always knew youd do that one day!
+Trigger:Soul
+Special Attribute:Homunculus・Maid
+Text:【CONT】 Experience If the total level of the cards in your level is five or higher, all of your other characters get +1000 power.

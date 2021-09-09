@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mighty Warrior, Shion
+Card No.:TSK/S70-E008
+Rarity:R
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:This will be the first, you see!
+Trigger:
+Special Attribute:Demon Continent・Secretary
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters you have ×500.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Overwhelming Blow" is in your climax area, search your deck for up to 1 《Demon Continent》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

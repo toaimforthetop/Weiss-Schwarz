@@ -1,0 +1,18 @@
+Card Name:
+English Name:Simplified Full Control Encounter
+Card No.:LH/SE20-E50
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Naotsugu: "All these facts she\'s tracking has her fighting just like Shiro!"
+Trigger:Draw
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul. 
+Text:(: When this card triggers, you may draw a card.) 
+Text:【COUNTER】 Choose one of your 《Weapon》 or 《Magic》 characters, and that character gets +3500 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:He Who Slays Goblins, Goblin Slayer
+Card No.:GBS/S63-TE03
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Is the last one a woman? Looks like they dragged her in deeper.
+Trigger:
+Special Attribute:Order・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [Put the top card of your deck into your clock] When this card attacks, if "Rhythmical Extermination" is in your climax area, you may pay the cost. If you do, choose 1 of your other characters and this card, and both characters get the following abilities until end of turn. "【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent\'s characters." "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand."

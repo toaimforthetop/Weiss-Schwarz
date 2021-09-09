@@ -1,0 +1,16 @@
+Card Name:
+English Name:Takamatsu Not Taking Off Enough
+Card No.:AB/W31-E094
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Ill take my pants off next…
+Trigger:
+Special Attribute:Death・Glasses
+Text:[AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)

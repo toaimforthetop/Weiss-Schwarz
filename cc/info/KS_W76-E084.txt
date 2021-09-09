@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Women and Men's Feelings" Sylvia
+Card No.:KS/W76-E084
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I need to teach you how to understand women a bit better.
+Trigger:
+Special Attribute:Devil King Army・-
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Devil King Army》 characters or characters with "Kazuma(カズマ)" in its card name, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax card revealed among those cards, search your deck for up to 1  《Devil King Army》 character or character with "Kazuma(カズマ)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.

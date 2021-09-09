@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Heart-racing Bath Time” Nana
+Card No.:TL/W37-TE18
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Wah!?
+Trigger:
+Special Attribute:Alien・Animal
+Text:【AUTO】[(1)] When a card named "Friends" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

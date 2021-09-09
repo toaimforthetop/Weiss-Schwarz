@@ -1,0 +1,16 @@
+Card Name:
+English Name:Suguha Out of the Bath
+Card No.:SAO/S20-E038
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Brother, the baths ready-
+Trigger:
+Special Attribute:Net・Sports
+Text:-

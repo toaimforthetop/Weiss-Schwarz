@@ -1,0 +1,17 @@
+Card Name:
+English Name:Glowing Insignia, Felt
+Card No.:RZ/S55-E002
+Rarity:RR
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Weapon・Fang Teeth
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [Put 3 yellow characters from your stage into your waiting room] At the beginning of your encore step, if "I\'ll Do Your Royal Election" is in your climax area, and this card is on your center stage, you may pay the cost. If you do, choose up to 1 "Sword Saint, Reinhard" in your waiting room, put it on any position of your stage as 【REST】, and deal 1 damage to your opponent. (Damage may be canceled)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Eureka! Steph
+Card No.:NGL/S58-E060
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:So then, we can make her play a fair match, one without any cheating, right?!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 All of your other 《Game》 characters get +500 power.
+Text:【AUTO】 [Put 1 《Game》 character from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.", '

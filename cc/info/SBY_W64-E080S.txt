@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unspoken Significance, Shoko Makinohara
+Card No.:SBY/W64-E080S
+Rarity:SR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Adolescence・Mystery
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Adolescence》 characters, and that character gets +1500 power until end of turn.

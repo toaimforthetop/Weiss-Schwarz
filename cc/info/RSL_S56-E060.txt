@@ -1,0 +1,17 @@
+Card Name:
+English Name:Our Promise, Hikari Kagura
+Card No.:RSL/S56-E060
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"Someday, Ill give you a tour.
+Trigger:Soul
+Special Attribute:Revue・Barrette
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, and put it into your waiting room.", '

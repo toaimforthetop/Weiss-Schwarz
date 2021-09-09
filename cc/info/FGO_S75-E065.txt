@@ -1,0 +1,17 @@
+Card Name:
+English Name:Great Warrior, Benkei
+Card No.:FGO/S75-E065
+Rarity:C
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Mash: "I didn\'t realize King Gilgamesh had already summoned Servants. Such reliable allies, Senpai!"
+Trigger:
+Special Attribute:Babylonia・Hero
+Text:【CONT】 During your turn, all of your other "Storied Hero, Ushiwakamaru" get +2000 power.
+Text:【ACT】 [【REST】 this card] Choose 1 of your 《Chaldea》 or 《Babylonia》 characters, and that character gets +1500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Wonderful Rush" Eli Ayase
+Card No.:LL/W24-E103
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:I have decided to believe in everyone and work hard.
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn.

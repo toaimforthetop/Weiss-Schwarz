@@ -1,0 +1,17 @@
+Card Name:
+English Name:Somehow Seeming Lonely, Kazuto
+Card No.:SAO/S51-E094
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:9500
+Soul:1
+Flavor Text:…
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 This card gets -2 level while on the stage.
+Text:【AUTO】 When a climax is put on your climax area, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:9th Ayanami-class Destroyer, Sazanami
+Card No.:KC/S25-E060
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You cannot escape! Sazanami can be really persistant!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 0 or lower characters in the center stage. That character cannot 【STAND】during your opponent's next stand phase.", '

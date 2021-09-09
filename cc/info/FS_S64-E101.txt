@@ -1,0 +1,16 @@
+Card Name:
+English Name:petit Shirou
+Card No.:FS/S64-E101
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:If you do something bad, I'll admonish you.
+Trigger:
+Special Attribute:Master・Teacher
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.

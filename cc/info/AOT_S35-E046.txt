@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Uplifting Moment" Hange
+Card No.:AOT/S35-E046
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Im on pins and needles. We bag an Abnormal, I'll burst with tears of joy-!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:

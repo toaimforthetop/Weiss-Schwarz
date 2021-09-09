@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Until the Dying Breath" Levi
+Card No.:AOT/S50-E030
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Hey. Get moving.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card attacks, if you have another character with "Levi(リヴァイ)" or "Hange(ハンジ)" or "Erwin(エルヴィン)" in its card name, this card gets +3000 power until end of turn.
+Text:【AUTO】 When this cards\' battle opponent becomes 【REVERSE】, draw a card, choose a card in your hand, and put it into your waiting room.

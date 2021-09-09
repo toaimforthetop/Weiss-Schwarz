@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Providing Magic” Aqua
+Card No.:KS/W49-E085
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Hey, Megumin, are you finished? I think youve absorbed more than enough already!
+Trigger:Soul
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 All of your other cards named "“Crimson Demon” Megumin" get the following ability. "【AUTO】 At the beginning of your encore step, you may put the top card of your opponent\'s deck into your opponent\'s waiting room. If you do, choose a card in your opponent\'s waiting room, and put it on the top of his or her deck."【CONT】 All of your other 《Adventurer》 or 《Goddess》 characters get +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]."

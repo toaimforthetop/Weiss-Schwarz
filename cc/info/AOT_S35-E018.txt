@@ -1,0 +1,17 @@
+Card Name:
+English Name:"104th Cadet Corps Class" Conny
+Card No.:AOT/S35-E018
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Keith: "Conny Springer. Agile on the switchbacks. Few sandwiches shy of a picnic……"
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] If your opponent does not have any climax in the waiting room, this card gets +1 soul.
+Text:[AUTO] [(1)] When damage dealt by this card is canceled, you may pay the cost. If you do, draw a card.

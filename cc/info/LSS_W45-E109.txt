@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Mari
+Card No.:LSS/W45-E109
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【AUTO】 During this card's battle, when the damage you received is not canceled, this card gets +1500 power until end of turn.", '

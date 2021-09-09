@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Kongo-class Battleship, Hiei
+Card No.:KC/S25-E083
+Rarity:RR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Lets move out! With lots of fighting spirit!
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】When this card is placed on the stage from your hand, you may choose a 《Fleet Girl》 character in your waiting room, and return it to your hand.
+Text:【ACT】[【REST】two of your other 《Fleet Girl》 characters & Put this card into your waiting room] Choose a card named "2nd Kongo-class Battleship, Hiei-Kai-Ni" in your waiting room, put it on the stage position this card was on, and that character gets +1000 power until end of turn.

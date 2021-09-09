@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Forever and Ever" Nozomi Tojo
+Card No.:LL/W34-E007S
+Rarity:SR
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power. 
+Text:【AUTO】 At the beginning of your main phase, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. ", '【AUTO】 [(1)] When a card named "When These 9 People are Around" is placed on your climax area, you may pay the cost. If you do, all of your characters get +2000 power until end of turn.

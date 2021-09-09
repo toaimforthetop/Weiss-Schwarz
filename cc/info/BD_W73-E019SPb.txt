@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Our DREAMS" Tsugumi Hazawa
+Card No.:BD/W73-E019SPb
+Rarity:SP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:5500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Afterglow
+Text:【CONT】 All of your other 《Afterglow》 characters get +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CLOCK】 Alarm [(1)] At the beginning of your main phase, if this card is the top card of your clock, you may pay the cost. If you do, choose 1 "An Eternal Sunset" in your waiting room, and return it to your hand.

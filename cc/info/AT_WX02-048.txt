@@ -1,0 +1,17 @@
+Card Name:
+English Name:Marceline: What Was Missing
+Card No.:AT/WX02-048
+Rarity:R
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Vampire
+Text:【CONT】 During this card\'s battle, your opponent cannot play event cards from his or her hand.
+Text:【AUTO】 [(2) Put 1 card from your hand into your waiting room & Put 1 other character from your stage into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose 1 "Princess Bubblegum: What Was Missing" in your waiting room, and put it on any position of your stage.

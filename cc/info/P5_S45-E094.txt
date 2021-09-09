@@ -1,0 +1,16 @@
+Card Name:
+English Name:Igor: Master of the Velvet Room
+Card No.:P5/S45-E094
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:I am Igor, the master of this place. Remember it well.
+Trigger:Soul
+Special Attribute:
+Text:【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your main phase, look at your opponent's hand.", '

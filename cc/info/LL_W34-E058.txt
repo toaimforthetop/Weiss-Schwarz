@@ -1,0 +1,16 @@
+Card Name:
+English Name:Startling Fact, Honoka
+Card No.:LL/W34-E058
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:No way~~!!
+Trigger:
+Special Attribute:Music・Student Council
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character with "Honoka(穂乃果)" in its card name in your waiting room, and return it to your hand.

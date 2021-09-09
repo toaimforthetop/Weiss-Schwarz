@@ -1,0 +1,18 @@
+Card Name:
+English Name:Loves Junes! Nanako
+Card No.:P4/EN-S01-004
+Rarity:R
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Huh? We can buy one? At Junes?
+Trigger:Soul
+Special Attribute:Junes・TV
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '
+Text:【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "Junes" in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes  【REVERSE】, if this card's battle opponent is level 0 or lower, return your opponent's battle character into your opponent's hand, your opponent chooses a card in his or her hand and puts it into your opponent's waiting room.", '

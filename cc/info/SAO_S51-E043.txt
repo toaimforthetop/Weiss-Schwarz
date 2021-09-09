@@ -1,0 +1,16 @@
+Card Name:
+English Name:Stable Sister, Leafa
+Card No.:SAO/S51-E043
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Are you sure youre all right?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Avatar》 or 《Net》 characters you have.

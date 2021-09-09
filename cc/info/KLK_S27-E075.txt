@@ -1,0 +1,17 @@
+Card Name:
+English Name:Genius Hacker, Inumuta
+Card No.:KLK/S27-E075
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Now, now, what\'s with all the "yakking" about "konnyaku".
+Trigger:
+Special Attribute:Clothes・Glasses
+Text:【CONT】 Assist All of your 《Clothes》 characters in front of this card get +1 level and +500 power.
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, draw up to two cards, choose a card from your hand, and put it into your waiting room.

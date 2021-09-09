@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Important Moment" Saya Yamabuki
+Card No.:BD/W63-E060
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I was just thinking... Im happy to have joined a band with friends who can really go nuts and enjoy themselves.
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【AUTO】 At the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 2 of your characters) Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

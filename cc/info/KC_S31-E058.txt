@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ayanami will protect you!
+Card No.:KC/S31-E058
+Rarity:CC
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:I did it.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

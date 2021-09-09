@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Safekeeping" Sasha
+Card No.:AOT/S50-E076
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:7000
+Soul:1
+Flavor Text:Hange: "Message……? Thank you, good work."
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 This card cannot side attack.
+Text:【CONT】 The character facing this card gets +1 soul, and this card gets 《Potato》.

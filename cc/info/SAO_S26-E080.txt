@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reunion with Yui
+Card No.:SAO/S26-E080
+Rarity:CC
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:4
+Cost:
+Power:
+Soul:0
+Flavor Text:Kirito: "Ah……!?"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

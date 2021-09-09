@@ -1,0 +1,18 @@
+Card Name:
+English Name:Sachiko Koshimizu
+Card No.:IMC/W41-E049
+Rarity:R
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Although it was because Im cute~?
+Trigger:
+Special Attribute:Music・Cute
+Text:【CONT】 This card gets +1 level. 
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your deck into your clock, and 【REST】 this card.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Result of Going All Out" is in your climax area, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand."

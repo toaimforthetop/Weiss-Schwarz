@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pioneer of Fate, Narancia
+Card No.:JJ/S66-E104
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Ill go! I'll go, too! I'm coming with you!
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.", '

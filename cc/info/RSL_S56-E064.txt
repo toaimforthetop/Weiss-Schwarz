@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Stage Continues Nonetheless
+Card No.:RSL/S56-E064
+Rarity:CR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:－
+Cost:－
+Power:－
+Soul:0
+Flavor Text:Karen: "Let\'s do it, Hikari-chan!"Hikari: "Mm!"
+Trigger:Comeback
+Special Attribute:－・－
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Gentle Goddess” Eris
+Card No.:KS/W49-E074
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Your life in this world……is now over……
+Trigger:
+Special Attribute:Goddess・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Adventurer》 or 《Goddess》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [Return this card to your hand] When a climax is put on your climax area, you may pay the cost. If you do, draw a card, choose a card in your hand, and put it into your waiting room.

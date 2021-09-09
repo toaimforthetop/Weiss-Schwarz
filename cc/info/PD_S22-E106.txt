@@ -1,0 +1,16 @@
+Card Name:
+English Name:Black★Rock Shooter
+Card No.:PD/S22-E106
+Rarity:TD
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:ブラックロックシューター\u3000見ていてくれる', '今からはじまるの\u3000わたしの物語
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

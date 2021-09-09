@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Seidhr Magic" Bixlow
+Card No.:FT/EN-S02-018
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Yo, what dya say we have some fun, huh?
+Trigger:
+Special Attribute:Magic・Puppet
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(2)] Search your deck for up to one level 0 or lower 《Magic》 character, and put it on any position of your stage. Shuffle your deck afterwards

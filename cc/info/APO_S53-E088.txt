@@ -1,0 +1,16 @@
+Card Name:
+English Name:"On the Phone" Assassin of Black
+Card No.:APO/S53-E088
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Umm, hello? Is it you, Mommy?
+Trigger:
+Special Attribute:Servant・Mist
+Text:【AUTO】 [Put a blue character from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is a blue character, put it into your hand. (If it is not, return the revealed card to its original place)

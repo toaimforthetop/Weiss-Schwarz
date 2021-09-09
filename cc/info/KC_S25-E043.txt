@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Ise-class Aviation Battleship, Hyuga-Kai
+Card No.:KC/S25-E043
+Rarity:R
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Feel the true power of an aviation battleship!
+Trigger:Soul
+Special Attribute:Fleet Girl・Aviation Battleship
+Text:【CONT】All of your other "1st Ise-class Aviation Battleship, Ise-Kai" get +1000 power.
+Text:【AUTO】[Put a card from your hand into your waiting room] When this card is placed on the stage from your hand or by the 【AUTO】effect of "2nd Ise-class Battleship, Hyuga", you may pay the cost. If you do, until end of turn, this card gets +1000 power and the following ability. "【AUTO】When this card\'s battle opponent becomes 【Reverse】, you may put that character into your opponent\'s clock."【AUTO】This ability activates up to one time per turn. When you use an 【ACT】\' />, this card gets +1000 power until end of turn.

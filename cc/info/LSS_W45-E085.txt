@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Unconveyed Feelings" Mari Ohara
+Card No.:LSS/W45-E085
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Dia…
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.

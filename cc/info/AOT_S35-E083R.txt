@@ -1,0 +1,17 @@
+Card Name:
+English Name:The World the Girl Saw
+Card No.:AOT/S35-E083
+Rarity:RRR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:……I think so.
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)

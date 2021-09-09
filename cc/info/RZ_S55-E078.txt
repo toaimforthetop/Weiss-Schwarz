@@ -1,0 +1,17 @@
+Card Name:
+English Name:White Whale Hunt, Rem
+Card No.:RZ/S55-E078
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When your other "Blue-Haired Maid, Rem" with a marker becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, 【REST】 that character, and draw 1 card.

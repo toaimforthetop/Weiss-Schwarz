@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Stage of Fate, Nana Daiba
+Card No.:RSL/S56-TE06
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Let\'s put on the best show we can, okay? Like when we did "Starlight" before ♪
+Trigger:Soul
+Special Attribute:Revue・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2500 power and +1 soul until the end of your opponent's next turn.", '

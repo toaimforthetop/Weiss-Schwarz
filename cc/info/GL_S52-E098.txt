@@ -1,0 +1,16 @@
+Card Name:
+English Name:Death Spiral Machine
+Card No.:GL/S52-E098
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:3
+Cost:2
+Power:
+Soul:0
+Flavor Text:Anti-Spiral: "The Spiral graveyard…"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose two of your opponent's characters not in battle, and exchange them as 【STAND】.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Everyone at the Beach
+Card No.:LL/W24-E046
+Rarity:U
+Expansion:Love Live!
+Side:Weiss
+Type:Event
+Color:Green
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Umi: "P-Please don\'t do that, Nozomi… Nozomi!!"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of cards in your stock.

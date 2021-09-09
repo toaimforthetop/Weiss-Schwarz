@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Next Starlight, Claudine Saijo
+Card No.:RSL/S56-E087
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Nothing matters but the "shine" of the Top Star…
+Trigger:
+Special Attribute:Revue・Child Actor
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Revue》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.

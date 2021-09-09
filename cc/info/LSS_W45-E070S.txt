@@ -1,0 +1,17 @@
+Card Name:
+English Name:Dia Kurosawa
+Card No.:LSS/W45-E070S
+Rarity:SR
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【AUTO】 When your opponent uses "Brainstorm", if a climax is put into the waiting room by that effect, you may draw a card. If you do, choose a card in your hand, and put it into your waiting room.

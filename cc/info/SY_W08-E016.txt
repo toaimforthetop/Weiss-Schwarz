@@ -1,0 +1,16 @@
+Card Name:
+English Name:Classmate Taniguchi
+Card No.:SY/W08-E016
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"If you have the hots for her, I wont say anything bad, but forget it.
+Trigger:
+Special Attribute:
+Text:【CONT】 During your turn, this card gets +1000 power.

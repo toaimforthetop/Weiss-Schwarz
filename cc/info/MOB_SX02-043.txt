@@ -1,0 +1,18 @@
+Card Name:
+English Name:(LOL) Cult Member
+Card No.:MOB/SX02-043
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Religion・(LOL)
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.
+Text:【CONT】 This card gets +1000 power for each of your other "(LOL) Cult Member".
+Text:【AUTO】 Resonate [Reveal a card named "Dimple: (LOL) Cult Leader" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1000 power until the end of your opponent\'s next turn.

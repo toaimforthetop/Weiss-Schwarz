@@ -1,0 +1,17 @@
+Card Name:
+English Name:New Life! Marika
+Card No.:NK/WE22-E23
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Good morning to you~~!!
+Trigger:Soul
+Special Attribute:Police・Key
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 2 or lower, you may 【REVERSE】 that character.
+Text:【ACT】 [(1)] Until end of turn, this card gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent\'s deck."

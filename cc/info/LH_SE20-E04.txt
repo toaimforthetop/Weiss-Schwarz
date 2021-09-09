@@ -1,0 +1,16 @@
+Card Name:
+English Name:Crescent Moon Alliance, Serara
+Card No.:LH/SE20-E04
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I need to look after all the new players we have, now, so…… Um……
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Weapon》 or 《Magic》 characters, and that character gets +1500 power until end of turn. 

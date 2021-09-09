@@ -1,0 +1,19 @@
+Card Name:
+English Name:Chie & Suzuka Gongen
+Card No.:P4/EN-S01-028
+Rarity:R
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:"Dont think, feel!
+Trigger:Soul
+Special Attribute:Sports・Glasses
+Text:【AUTO】 When this card attacks, if a card named "God\'s Hand" is in your climax area, choose a card in your waiting room, put it into your stock, and this card gets +2500 power until end of turn.
+Text:
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 [(3) Put this card into your memory] When this card is placed on stage from your hand, you may pay the cost. If you do, choose up to one card named ""The Raging Bull of Destruction" Shadow Labrys" in your hand, put it on any position of your stage, at the beginning of your next draw phase, choose a card named "Destined Confrontation, Labrys" in your memory, and put it on any position of your stage.

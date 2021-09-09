@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ryuji: It's a Deal
+Card No.:P5/S45-E011
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Im countin' on you!Don't worry; I'm hypedabout this too!
+Trigger:
+Special Attribute:Thief・Sports
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Calling Card" in your waiting room, and return it to your hand.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Infinity Robe" Erza
+Card No.:FT/EN-S02-007S
+Rarity:SR
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:"Dont listen to him.. The light inside you is brighter than ever before.
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:【CONT】 If the number of other 《Magic》 characters you have is three or more, this card gets +1000 power.
+Text:【AUTO】 When a card named "And more importantly, live with an open heart" is placed on your climax area, if this card is on the center stage, choose up to two cards in your opponent\'s waiting room, and return those cards to your opponent\'s deck. Shuffle your opponent\'s deck afterwards.

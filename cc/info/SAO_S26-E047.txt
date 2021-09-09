@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rika Shinozaki
+Card No.:SAO/S26-E047
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Are you going to the meeting today?
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand.

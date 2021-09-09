@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Swimming Trio" Himari Uehara
+Card No.:BD/W54-E030SPb
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until end of turn.
+Text:【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and the number of 《Music》 characters you have is four or more, at the beginning of your climax phase, you may choose a character in your waiting room, and return it to your hand. If you do, choose a card in your hand, and put it into your waiting room.

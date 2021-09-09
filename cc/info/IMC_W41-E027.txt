@@ -1,0 +1,18 @@
+Card Name:
+English Name:Akane Hino
+Card No.:IMC/W41-E027
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:8000
+Soul:1
+Flavor Text:"Lets do our all to make this a hot concert!
+Trigger:
+Special Attribute:Music・Hot-blooded
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 At the beginning of your encore step, put this card into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, put this card into your waiting room. (The revealed card is returned to its original place)

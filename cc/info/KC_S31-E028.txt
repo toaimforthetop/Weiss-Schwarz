@@ -1,0 +1,16 @@
+Card Name:
+English Name:Medal
+Card No.:KC/S31-E028
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:This is given as "proof" of the admiral\'s victory during the dawn of the horizon. As a material, by collecting multiple copies you can exchange them for a remodeling blueprint.
+Trigger:
+Special Attribute:
+Text:Search your deck for up to three cards named "Medal", put them into your waiting room, search your deck for up to one card named "Remodeling Blueprint", reveal it to your opponent, put it into your hand, and shuffle your deck.

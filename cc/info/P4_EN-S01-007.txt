@@ -1,0 +1,19 @@
+Card Name:
+English Name:Liquor Store's Daughter, Saki Konishi
+Card No.:P4/EN-S01-007
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"He doesnt have too many friends, so I hope you two get along good.
+Trigger:Soul
+Special Attribute:Junes・Liquor
+Text:【CONT】 All of your other 《Junes》 characters get +1000 power.
+Text:
+Text:【CONT】 Alarm When this card is the top card of your clock, all of your 《Junes》 characters get +1000 power.
+Text:【AUTO】 When this card attacks, put the top three cards of your deck into your waiting room. If there is one or more 《Junes》 characters among those cards, this card gets +2000 power until end of turn. If there are two or more 《Junes》 characters among those cards, you may put the top card of your clock into your waiting room. If there are three or more 《Junes》 characters among those cards, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.", '

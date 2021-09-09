@@ -1,0 +1,17 @@
+Card Name:
+English Name:Roommate of a Free Spirit, Eugeo
+Card No.:SAO/S65-E070S
+Rarity:SR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I was sure that you would have exploded before me.
+Trigger:
+Special Attribute:Fluctlight・Weapon
+Text:【AUTO】 When this card attacks, choose 1 of your other characters with "Kirito(キリト)" in its card name, and that character gets +1000 power until end of turn.
+Text:【AUTO】 At the beginning of your opponent\'s attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Fluctlight》 character, you may move this card to an open position of your center stage.

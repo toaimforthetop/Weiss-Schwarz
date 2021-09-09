@@ -1,0 +1,18 @@
+Card Name:
+English Name:In Lesson, Kirari
+Card No.:IMC/W41-TE03
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Power~
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Happy Happy
+Text:【AUTO】 When this character is placed on the stage from your hand, choose one of your level 1 or higher characters, and that character gets +1 soul until end of turn.
+Text:【AUTO】 When this card is put into your waiting room from the stage, you may put the top three cards of your deck into your waiting room.
+Text:【ACT】【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

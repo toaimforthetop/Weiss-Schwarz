@@ -1,0 +1,16 @@
+Card Name:
+English Name:"A Crucial Member" Lisa Imai
+Card No.:BD/W63-E095
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Im feeling a bit more confident, all thanks to you, Yukina!
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:

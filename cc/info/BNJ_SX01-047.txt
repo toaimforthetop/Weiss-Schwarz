@@ -1,0 +1,17 @@
+Card Name:
+English Name:Harley Quinn: Party in the Clouds
+Card No.:BNJ/SX01-047
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Sengoku・Villain
+Text:【CONT】 Assist All of your 《Villain》 characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 【CXCOMBO】 When "Delirious Damsel" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Villain》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."

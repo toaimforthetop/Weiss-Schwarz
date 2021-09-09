@@ -1,0 +1,18 @@
+Card Name:
+English Name:Receiving New Flesh, Archer
+Card No.:FZ/S17-E091
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:You really are quite a difficult man.
+Trigger:Soul
+Special Attribute:Servant・Royalty
+Text:【CONT】 If the number of other 《Master》 or 《Servant》 characters you have is three or more, this unit gets "【AUTO】 Encore ［Put a character from your hand into your waiting room］".
+Text:【ACT】［(1)] Choose one of your 《Servant》 characters, and that character gets +1500 power until end of turn. 
+Text:【AUTO】 When a card named "Prank of Fate" is placed on your climax area, if this card is on the center stage, search your deck for up to one level 0 or lower character, and put it on any position of your stage. Shuffle your deck afterwards. 

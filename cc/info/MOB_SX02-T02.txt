@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reigen: Banishing Salt Punch!
+Card No.:MOB/SX02-T02
+Rarity:TD
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Banishing Salt Punch!
+Trigger:
+Special Attribute:Master・-
+Text:【CONT】 Experience During your turn, if the total level of the cards in your level is 2 or higher, this card gets +4000 power.
+Text:【ACT】 [【REST】 2 of your characters] Choose 1 card in your level and 1 card in your waiting room, and exchange them.

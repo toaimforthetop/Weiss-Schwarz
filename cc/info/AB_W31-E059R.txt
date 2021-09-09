@@ -1,0 +1,17 @@
+Card Name:
+English Name:Winter Yuri
+Card No.:AB/W31-E059R
+Rarity:RRR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Man, this stinks…
+Trigger:
+Special Attribute:Death・Weapon
+Text:[AUTO] When this card is placed on stage from your hand, look at the top card of your deck, and put it on top of your deck or into your waiting room.
+Text:[AUTO] Bond/"Pink Cape, Kanade" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Pink Cape, Kanade" in your waiting room, and return it to your hand.)

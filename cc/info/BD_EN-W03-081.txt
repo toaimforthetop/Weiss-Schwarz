@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Everybody's Sister" Saya Yamabuki
+Card No.:BD/EN-W03-081
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:I do my best through all of the craziness.
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】When this card is placed on the stage from your hand, if you have other 《Music》 characters, this card gets +2000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Store Manager's Son, Yosuke
+Card No.:P4/EN-S01-005
+Rarity:R
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Welcome, one and all! Choice salmon, 59 yen a slice, just as advertised!
+Trigger:Soul
+Special Attribute:Junes・Magic
+Text:【AUTO】 When this card attacks, put the top three cards of your deck into your waiting room. If there is one or more 《Junes》 characters among those cards, this card gets +2000 power until end of turn. If there are two or more 《Junes》 characters among those cards, you may put the top card of your clock into your waiting room. If there are three or more 《Junes》 characters among those cards, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.", '

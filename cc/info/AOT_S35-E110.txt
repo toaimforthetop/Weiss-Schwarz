@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chimi Jean
+Card No.:AOT/S35-E110
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Were all about to be Titan chow. You expect me to sing you a goddamn song!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another character with "Mikasa(ミカサ)" in its card name, this card gets +2000 power until end of turn.

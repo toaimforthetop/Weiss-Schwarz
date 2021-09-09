@@ -1,0 +1,16 @@
+Card Name:
+English Name:On Keyboards, Nanana
+Card No.:BD/W47-E014
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:Recognize me now?
+Trigger:
+Special Attribute:Music・Student Council
+Text:【AUTO】  When this card is placed on the stage from your hand, choose a character in your opponent's center stage, and that character gets +1000 power until the end of your opponent's next turn.

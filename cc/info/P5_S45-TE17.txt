@@ -1,0 +1,16 @@
+Card Name:
+English Name:We Will Promptly Shut Them Up!
+Card No.:P5/S45-TE17
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Come...!Zorro!
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)

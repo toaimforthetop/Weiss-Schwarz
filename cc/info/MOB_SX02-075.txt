@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ritsu: Guilty Conscience
+Card No.:MOB/SX02-075
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Kamuro: "You open up Onigawara\'s desk."
+Trigger:
+Special Attribute:Esper・Student Council
+Text:【AUTO】 Experience When this card attacks, if the total level of the cards in your level is 2 or higher, choose 1 of your characters, and that character gets +2000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if you have another blue or 《Esper》 character, you may look at the top card of your deck. If you do, put that card underneath 1 of your other "MOB: Gratitude Towards His Master" as a marker.

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Rise & Himiko
+Card No.:P4/EN-S01-025SP
+Rarity:SP
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Ch-Chie! Quick, someone heal her!
+Trigger:
+Special Attribute:Music・Glasses
+Text:【AUTO】 When this card is placed on stage from your hand, choose another of your characters, and that character gets +1500 power until end of turn.
+Text:
+Text:【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Rise & Kanzeon" in your waiting room, and put it on the stage position that this card was on.
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

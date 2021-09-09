@@ -1,0 +1,17 @@
+Card Name:
+English Name:Party in Full Swing, Selka
+Card No.:SAO/S65-E005
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:But chopping down the demon tree is amazing, huh?
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Fluctlight》 character in your waiting room, and return it to your hand.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reigen: Accepting a Client's Request
+Card No.:MOB/SX02-T03
+Rarity:TD
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:As for my fees…
+Trigger:Soul
+Special Attribute:Master・-
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 [(3) Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)

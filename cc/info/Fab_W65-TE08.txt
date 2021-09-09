@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maple Kitchen, Latifah
+Card No.:Fab/W65-TE08
+Rarity:TD
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Oh, it looks like youre having fun~♪
+Trigger:
+Special Attribute:Fantasia Bunko・AmaBri・Princess
+Text:【CONT】 You cannot play event cards or "Backup" from hand.

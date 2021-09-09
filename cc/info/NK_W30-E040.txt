@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kosaki in Yukata
+Card No.:NK/W30-E040
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"……I wish I couldve stayed with him a little longer……
+Trigger:
+Special Attribute:Sweets・Key
+Text:【AUTO】 When this card attacks, if the number of cards in your hand is five or more, choose one of your 《Key》 characters, and that character gets +1500 power until end of turn.

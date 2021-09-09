@@ -1,0 +1,17 @@
+Card Name:
+English Name:Taking Every Last Ounce of Courage, LLENN
+Card No.:GGO/S59-E009S
+Rarity:SRSRSR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Come and get me, Pitohui!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Serious Battle" is in your climax area, put up to 2 cards from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)

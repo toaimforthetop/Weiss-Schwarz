@@ -1,0 +1,17 @@
+Card Name:
+English Name:Honest Smile, Rem
+Card No.:RZ/S55-E063
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Knowing you, it must be because youve had another great idea!
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 All of your other characters with "Ram(ラム)" or "Rem(レム)" in its card name get +500 power.
+Text:【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +500 power until end of turn.

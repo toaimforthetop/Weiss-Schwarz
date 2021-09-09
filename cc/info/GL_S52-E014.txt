@@ -1,0 +1,16 @@
+Card Name:
+English Name:Setting Off from Adai Village, Rossiu
+Card No.:GL/S52-E014
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Team DAI-GURREN》 characters, and that character gets +1500 power until end of turn.

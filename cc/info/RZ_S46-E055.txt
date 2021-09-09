@@ -1,0 +1,16 @@
+Card Name:
+English Name:As the Older Sister
+Card No.:RZ/S46-E055
+Rarity:CC
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:What do you know about Rem and me?!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

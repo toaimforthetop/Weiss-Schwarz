@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Brightening Eyes" Megumin
+Card No.:KS/W55-E049
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Lets go to the hot springs right away!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Magic》 characters.

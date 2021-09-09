@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Stage of Fate, Futaba Isurugi
+Card No.:RSL/S56-TE01R
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Cut it out with that half-asleep talk!
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.

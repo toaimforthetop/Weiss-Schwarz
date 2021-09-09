@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rental Goa
+Card No.:RZ/S55-E022
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Rental Goa!
+Trigger:
+Special Attribute:
+Text:You may choose 1 character on your stage with level lower than or equal to your level, and put it into your waiting room. If you do, search your deck for up to 1 character with the same level as that character, put it on any position of your stage, and shuffle your deck.

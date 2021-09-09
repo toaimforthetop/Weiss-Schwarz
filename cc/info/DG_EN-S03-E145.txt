@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unusual Frog, Tink
+Card No.:DG/EN-S03-E145
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Eh...? What was I doing...?
+Trigger:Soul
+Special Attribute:Demon・Frog
+Text:【CONT】 If the number of climax in your waiting room is four or more, this card gets +2000 power.', "【ACT】 [(3) Put this card into your waiting room] Choose one of your opponent's level 2 or lower characters in the center stage, and put it on the bottom of his or her deck.", '

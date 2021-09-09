@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ann as PANTHER & Carmen
+Card No.:P5/S45-E055S
+Rarity:SR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:I am thou, thou art I...We can finally forge a contract…
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 [Exchange a 【STAND】 character in your center stage and this card] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

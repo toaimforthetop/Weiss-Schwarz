@@ -1,0 +1,17 @@
+Card Name:
+English Name:Beautiful Avatar, Kirito
+Card No.:SAO/SE23-E30
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:Root for me, okay?♪
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist".
+Text:【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.

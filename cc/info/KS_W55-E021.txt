@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Impromptu Butler" Kazuma
+Card No.:KS/W55-E021
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:My wish is for your happiness, milady.
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 All of your other characters on your center stage with "Darkness(ダクネス)" in its card name get +1000 power and the following ability. "【CONT】 This card cannot 【STAND】 during your stand phase."【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 2000 multiplied by the number of  trigger icons revealed among those cards.

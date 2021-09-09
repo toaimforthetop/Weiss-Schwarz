@@ -1,0 +1,16 @@
+Card Name:
+English Name:“STAR BEAT!” Kasumi Toyama
+Card No.:BD/W47-TE08
+Rarity:TD
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・Star
+Text:【AUTO】 This ability activates up to two times per turn. When another of your 《Music》 characters is placed on the stage from your hand, you may put the top card of your deck into your waiting room. If that card is a 《Music》 character, this card gets +3000 power until end of turn.

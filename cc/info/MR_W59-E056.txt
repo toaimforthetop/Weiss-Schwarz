@@ -1,0 +1,16 @@
+Card Name:
+English Name:Those Days are Gone
+Card No.:MR/W59-E056
+Rarity:CC
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-This photo is from a time when we were loved by someone...-
+Trigger:Stock
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: When this card triggers, you may put the top card of your deck into your stock)

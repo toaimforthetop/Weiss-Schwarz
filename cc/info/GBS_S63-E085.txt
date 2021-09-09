@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hoping to Repay, Apprentice Cleric
+Card No.:GBS/S63-E085
+Rarity:C
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Yeah… He did help us out, too.
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【CONT】 All of your other "A New Experience, Greenhorn Warrior" get +500 power and the following ability. "【AUTO】 [Put this card into your waiting room] When your other 《Order》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1500 power until end of turn.
+Text:【AUTO】 Bond/"A New Experience, Greenhorn Warrior" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "A New Experience, Greenhorn Warrior" in your waiting room, and return it to your hand)

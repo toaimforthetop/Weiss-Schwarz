@@ -1,0 +1,16 @@
+Card Name:
+English Name:Heart Race in the Bath, Niko 
+Card No.:AW/S18-E064
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:"But p-please dont stare at me like that... It makes me uncomfortable-
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card.

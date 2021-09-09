@@ -1,0 +1,19 @@
+Card Name:
+English Name:"The Heartless Armed Angel" Aigis
+Card No.:P4/EN-S01-024S
+Rarity:SR
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im on a mission!
+Trigger:
+Special Attribute:Mecha・Weapon
+Text:【CONT】 If you do not have any other characters, this card gets +2000 power.
+Text:
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. "Choose a card in your clock, return it to your hand, and put the top card of your deck into your clock."
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

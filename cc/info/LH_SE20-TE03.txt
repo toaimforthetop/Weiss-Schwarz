@@ -1,0 +1,16 @@
+Card Name:
+English Name:Marielle Using Telepathy
+Card No.:LH/SE20-TE03
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hi, Shiro! Where are you?
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

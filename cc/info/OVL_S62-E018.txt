@@ -1,0 +1,16 @@
+Card Name:
+English Name:Embodiment of Justice, Sebas
+Card No.:OVL/S62-E018
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:I have a few complaints that need to be addressed personally.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have "Where Happiness Is, Tuare" in your waiting room, 【REST】 this card.

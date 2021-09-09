@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakine Meiko "Original"
+Card No.:PD/S29-E062
+Rarity:R
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.
+Text:【AUTO】 When a climax is placed on your opponent's climax area, you may put this card into your stock.", '

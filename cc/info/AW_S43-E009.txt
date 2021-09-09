@@ -1,0 +1,16 @@
+Card Name:
+English Name:Looking Flushed After a Bath, Kuroyukihime
+Card No.:AW/S43-E009
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Niko: "When this chick takes off her clothes,', 'she\'s actually…..."Niko: "When this chick takes off her clothes,', 'she\'s actually…..."
+Trigger:
+Special Attribute:Student Council・Net
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.

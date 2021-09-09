@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Shoho-class Light Aircraft Carrier, Zuiho-Kai
+Card No.:KC/S31-E093
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:9500
+Soul:1
+Flavor Text:"Yeah, lets press the attack!
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Aircraft Carrier
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card.

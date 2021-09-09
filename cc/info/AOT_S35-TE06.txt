@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Hope in the Darkness of Despair" Armin
+Card No.:AOT/S35-TE06
+Rarity:TD
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] During your turn, this card gets +1000 power.

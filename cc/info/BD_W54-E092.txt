@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Onstage" Eve Wakamiya
+Card No.:BD/W54-E092
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Bandmates…...!
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of colors of your characters on stage.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

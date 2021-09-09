@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Readiness" Eren
+Card No.:AOT/S35-E007
+Rarity:R
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Yes, Sir!
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] During your turn, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul.
+Text:[AUTO] Encore [Put a character ｆｒｏm your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

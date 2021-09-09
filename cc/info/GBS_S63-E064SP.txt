@@ -1,0 +1,18 @@
+Card Name:
+English Name:Pure Aide, Priestess
+Card No.:GBS/S63-E064SP
+Rarity:SP
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:0
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 If "True Bonds, Goblin Slayer" is in your clock, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Extensive Divine Protection" is in your climax area, reveal the top card of your deck. If that card is an 《Order》 character or an event card, this card gets +1500 power and the following ability until the end of your opponent\'s next turn. "【AUTO】 At the beginning of your opponent\'s attack phase, all of your opponent\'s characters get -1 soul until end of turn." (Return the revealed card to its original place)

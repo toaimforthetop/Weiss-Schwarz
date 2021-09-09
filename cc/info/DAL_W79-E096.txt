@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit, Tohka
+Card No.:DAL/W79-E096
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:What about this one, Shido?!
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Date》 or 《Celestial Spirit》 character, this card gets +2000 power and the following ability until the end of your opponent\'s next turn. "【CONT】 This card and the character facing this card cannot side attack."

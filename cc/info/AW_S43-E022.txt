@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reasonable 《Acceleration》, Haruyuki
+Card No.:AW/S43-E022
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Kuroyukihime: "Ah, you’re here."
+Trigger:
+Special Attribute:Net・Game
+Text:【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1000 power.

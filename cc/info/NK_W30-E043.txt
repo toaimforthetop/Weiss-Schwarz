@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gentle Smile, Kosaki
+Card No.:NK/W30-E043
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Oh, Ill help, too!
+Trigger:
+Special Attribute:Sweets・Key
+Text:-

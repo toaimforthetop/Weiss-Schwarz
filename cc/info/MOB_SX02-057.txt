@@ -1,0 +1,17 @@
+Card Name:
+English Name:Miyagawa
+Card No.:MOB/SX02-057
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Ill turn you to ash.
+Trigger:
+Special Attribute:Esper・Claw
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 When damage dealt by this card is not canceled, this card gets +6000 power until end of turn.

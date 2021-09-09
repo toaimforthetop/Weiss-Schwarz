@@ -1,0 +1,17 @@
+Card Name:
+English Name:Incomprehensible, Chitoge
+Card No.:NK/W30-E069
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Eh.
+Trigger:Soul
+Special Attribute:Heiress・Key
+Text:【AUTO】 When another of your 《Key》 or 《Weapon》 character attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【Reverse】, you may pay the cost. If you do, search your deck for up to one 《Key》 or 《Weapon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Chitoge Out of the Bath
+Card No.:NK/W30-E007
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:……I wonder if my heart started racing, too, back then……
+Trigger:
+Special Attribute:Heiress・Key
+Text:【CONT】 If the number of your other 《Key》 characters is two or more, this card gets +1000 power.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

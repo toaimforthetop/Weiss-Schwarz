@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ram in a Hakama
+Card No.:RZ/SE35-E43SP
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Lets go.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 If you have 2 or more other characters with "Ram(ラム)" or "Rem(レム)" in its card name, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Subaru Natsuki\'s Decoy Tactic" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 "Pink-Haired Maid, Ram" in your waiting room, and return it to your hand.

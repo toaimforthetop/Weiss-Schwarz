@@ -1,0 +1,17 @@
+Card Name:
+English Name:Happy Incoming Message, Origami
+Card No.:DAL/W79-E034
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Date・AST
+Text:【AUTO】 When this card is placed on the stage from your hand, you may reveal your hand. If you do, and there is a climax among those cards, all characters in your opponent's center stage get -500 power until end of turn.
+Text:【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.", '

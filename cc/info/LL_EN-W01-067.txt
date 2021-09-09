@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nozomi in Regular Clothes
+Card No.:LL/EN-W01-067
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Are you looking for something? If its the goddess of fortune, she's right here♪
+Trigger:
+Special Attribute:Music・Fortune Telling
+Text:-

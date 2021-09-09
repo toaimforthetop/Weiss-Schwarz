@@ -1,0 +1,16 @@
+Card Name:
+English Name:Protagonist (P5)
+Card No.:P5/S45-TE03R
+Rarity:RRR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Igor: "You will be training thepower of Persona, whichyou have awakened to."
+Trigger:
+Special Attribute:Thief・Glasses
+Text:【AUTO】 When this card attacks, choose one of your other 《Thief》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Thief》 characters you have.

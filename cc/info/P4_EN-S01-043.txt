@@ -1,0 +1,19 @@
+Card Name:
+English Name:King's Game
+Card No.:P4/EN-S01-043
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Times like this, adults play the Kings Game. It's the law… *hic*
+Trigger:
+Special Attribute:
+Text:Choose a character in your clock, return it to your hand, and put the top card of your deck into your clock.
+Text:
+Text:If your opponent does not have any 【STAND】 characters, put this card into your stock.
+Text:【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)

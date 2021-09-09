@@ -1,0 +1,17 @@
+Card Name:
+English Name:Exploding! High Elf Archer
+Card No.:GBS/S63-E010
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:---!!
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【CONT】 If your clock has 0 cards, this card cannot attack.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Order》 characters revealed among those cards ×1000.

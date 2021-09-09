@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Roommate, Mahiru Tsuyuzaki
+Card No.:RSL/S56-E059
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:What?!
+Trigger:
+Special Attribute:Revue・Baton
+Text:【ACT】 [Put 1 "New Roommate, Karen Aijo" from your hand into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 character with "Karen(華恋)" or "Mahiru(まひる)" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

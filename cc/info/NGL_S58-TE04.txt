@@ -1,0 +1,16 @@
+Card Name:
+English Name:Battle Orders, Sora
+Card No.:NGL/S58-TE04
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Cavalry Squad 2! Dont waste the chance the pawns have given you!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Game》 characters revealed among those cards ×1000.

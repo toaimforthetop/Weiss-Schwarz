@@ -1,0 +1,16 @@
+Card Name:
+English Name:Godsend
+Card No.:SAO/S65-E021
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:3
+Cost:1
+Power:
+Soul:0
+Flavor Text:Alice: "Why would you keep something like that in your pocket?"
+Trigger:
+Special Attribute:
+Text:Search your deck for up to 1 character with "Alice(アリス)" in its card name and up to 1 character with "Kirito(キリト)" in its card name, reveal them to your opponent, put them into your hand, and shuffle your deck. Put this card into your memory.

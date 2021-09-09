@@ -1,0 +1,16 @@
+Card Name:
+English Name:Madoka from the New World
+Card No.:MM/W35-E030
+Rarity:R
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I should have a different form, a different role.
+Trigger:
+Special Attribute:Magic
+Text:【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.

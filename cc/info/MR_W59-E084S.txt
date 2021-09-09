@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Past and Future" Yachiyo
+Card No.:MR/W59-E084S
+Rarity:SR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:So my past does not lose its meaning...
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +1500 power and the following ability. "【AUTO】 When this card is put into your waiting room from the stage, choose 1 card in your hand, and put it into your waiting room. If you do, return this card to your hand."【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

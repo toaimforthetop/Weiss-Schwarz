@@ -1,0 +1,17 @@
+Card Name:
+English Name:Breath of Mental Manipulation, Aura
+Card No.:OVL/S62-E106
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:So stupid.  What kind of Vampire let’s herself get mind controlled?
+Trigger:Soul
+Special Attribute:Humanoid Race・Nazarick
+Text:【AUTO】 [(4) Put 1 《Grotesque Race》 or 《Nazarick》 character from your hand into your waiting room] When you use this card\'s "Backup", you may pay the cost. If you do, choose 1 of your opponent\'s characters, and 【REST】 it.
+Text:【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

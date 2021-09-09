@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Autumn With Books” Eli Ayase
+Card No.:LL/EN-W02-E033
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"I love going to the library. Its just so quiet and comfortable there…... It's so refreshing.
+Trigger:
+Special Attribute:Music・Book
+Text:【AUTO】 [Put a card named ""Happy Maker!" Eli Ayase" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

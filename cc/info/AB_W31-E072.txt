@@ -1,0 +1,17 @@
+Card Name:
+English Name:Like a Villian, Yuri
+Card No.:AB/W31-E072
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Everyone is desperate since theyre terrifiedof a penalty game worse than death…
+Trigger:
+Special Attribute:Death・Weapon
+Text:[AUTO] When you level up, put this card into your waiting room.
+Text:[ACT] [(1)] Choose a level 0 or lower character on your opponent's center stage, and put it into your opponent's waiting room.

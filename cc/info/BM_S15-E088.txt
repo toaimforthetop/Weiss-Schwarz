@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ambush, Nadeko Sengoku
+Card No.:BM/S15-E088
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Ah…… Big Brother Koyomi. Ive been waiting for you.
+Trigger:Soul
+Special Attribute:Strange・-
+Text:[AUTO] Change ［(1) Put this card into your clock］ At the beginning of your encore step, if this card is [REST], you may pay the cost. If you do, choose a card named "Girl Bound By a Snake, Nadeko Sengoku" in your waiting room, and put it on the stage position that this card was on.

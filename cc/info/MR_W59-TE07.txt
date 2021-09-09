@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Love Smells Like This" Rika
+Card No.:MR/W59-TE07
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:"-Its okay if I'm only dreaming, or even if it's all an illusion-
+Trigger:Soul
+Special Attribute:Magic・Ability
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Magic》  characters you have ×1000.
+Text:【AUTO】 Encore [Put 1 《Magic》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost.  If you do, return this card to its previous stage position as 【REST】)

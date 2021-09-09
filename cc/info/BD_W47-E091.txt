@@ -1,0 +1,17 @@
+Card Name:
+English Name:Starrin'PARTY, Arisa Ichigaya
+Card No.:BD/W47-E091
+Rarity:R
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:……Y-Yay.
+Trigger:Soul
+Special Attribute:Music・Bonsai
+Text:【CONT】  Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【AUTO】  【CXCOMBO】  When a card named "We Are Poppin\'Party" is placed on your climax area, if your level is 3 or higher, choose one of your other characters, 【STAND】  it, and that character gets +1500 power until end of turn.

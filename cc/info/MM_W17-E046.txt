@@ -1,0 +1,18 @@
+Card Name:
+English Name:Second-year of Mitakihara Middle School, Madoka
+Card No.:MM/W17-E046
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I-I was called to him. I heard his voice inside my head.
+Trigger:
+Special Attribute:Magic
+Text:【AUTO】【CLOCK】 Shift, Level 1 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)
+Text:【ACT】 Brainstorm ［(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Magic》 characters, and that character gets +2000 power until end of turn. 
+Text:-

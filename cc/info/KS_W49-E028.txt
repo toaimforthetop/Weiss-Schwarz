@@ -1,0 +1,16 @@
+Card Name:
+English Name:Freeze
+Card No.:KS/W49-E028
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:I messed up!!
+Trigger:
+Special Attribute:
+Text:If your level is 2 or lower and your opponent's level is 1 or lower, you may choose three cards in your hand, and put them into your waiting room. If you do, put this card into your level, and you get one more turn.", '

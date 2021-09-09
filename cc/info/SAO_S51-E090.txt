@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kirito Seeking a Lead
+Card No.:SAO/S51-E090
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:……What am I supposed to do?
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of cards in your hand is five or more, this card gets +2500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

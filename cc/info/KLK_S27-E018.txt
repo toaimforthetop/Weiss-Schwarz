@@ -1,0 +1,16 @@
+Card Name:
+English Name:Classic Trap
+Card No.:KLK/S27-E018
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Ryuko: "Mako! Look out!"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters, and return it to your hand.

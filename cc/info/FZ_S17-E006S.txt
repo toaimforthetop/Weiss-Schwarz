@@ -1,0 +1,16 @@
+Card Name:
+English Name:Beautiful King of Knights, Saber
+Card No.:FZ/S17-E006S
+Rarity:SR
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:SECRET
+Trigger:
+Special Attribute:Servant・Royalty
+Text:【CONT】 If the number of characters your opponent has is three or less, this card gets +1000 power. 

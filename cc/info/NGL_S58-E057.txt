@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Gift from the Former King, Steph
+Card No.:NGL/S58-E057
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:I want to give you something.
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "All of the Trust in Humanity" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 "Key of Hope" in your waiting room, and return it to your hand.

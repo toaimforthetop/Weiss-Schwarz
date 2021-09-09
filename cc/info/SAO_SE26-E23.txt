@@ -1,0 +1,18 @@
+Card Name:
+English Name:Trusted Skills, Lisbeth
+Card No.:SAO/SE26-E23
+Rarity:R
+Expansion:Sword Art Online Ⅱ Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Your weapons are all restored and ready for action!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, until end of turn, this card gets +1 level and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand."
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

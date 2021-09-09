@@ -1,0 +1,16 @@
+Card Name:
+English Name:A World Tampered With
+Card No.:MM/W35-E076
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:The world is being rewritten. Does this mean a new principle has been born into this universe?
+Trigger:
+Special Attribute:
+Text:Each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.

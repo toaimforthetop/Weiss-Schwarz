@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Bond of Trust” Lala
+Card No.:TL/W37-E073
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"But if youre here, I'm sure everything will work out.
+Trigger:Soul
+Special Attribute:Alien・Science
+Text:【AUTO】 Resonate [Reveal a card named "“Sitting” Lala" in your hand] When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is higher than your opponent\'s level, you may pay the cost. If you do, 【REVERSE】 that battle opponent.

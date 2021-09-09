@@ -1,0 +1,16 @@
+Card Name:
+English Name:Operation Tornado
+Card No.:AB/W31-E098
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:I had no idea… buying time could be so intense…
+Trigger:
+Special Attribute:
+Text:Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. Choose one level X or lower 《Death》 character in your waiting room, and return it to your hand. X is equal to the number of 《Death》 characters revealed among those cards.

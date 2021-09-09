@@ -1,0 +1,16 @@
+Card Name:
+English Name:Man Who Ran from Fate, Kariya
+Card No.:FZ/S17-E078
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Ill never forgive you…… You unfeeling mages……!
+Trigger:Soul
+Special Attribute:Master・Insect
+Text:-

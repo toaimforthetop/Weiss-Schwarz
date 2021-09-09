@@ -1,0 +1,17 @@
+Card Name:
+English Name:Forbidden Weapon
+Card No.:KS/W76-E070
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:4
+Power:
+Soul:0
+Flavor Text:Kazuma: "I am Sa―"Komekko: "Boom!"
+Trigger:
+Special Attribute:
+Text:If you have a character with "Kazuma(カズマ)" in its card name, put this card into your memory.
+Text:【AUTO】 Memory [(2) Put all "Forbidden Weapon" in your memory into your waiting room] At the end of your opponent\'s turn, if this card is in your memory, you may pay the cost. If you do, choose up to 2 cards in your opponent\'s waiting room, put them on the top of his or her deck in any order, and deal 5 damage to your opponent. When you pay the cost for this ability, you may choose 1 ""Receiving Guests" Komekko" in your hand, and put it into your waiting room instead of 2 cards from your stock. (Damage may be canceled)

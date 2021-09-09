@@ -1,0 +1,17 @@
+Card Name:
+English Name:Absolute Loyalty, Demiurge
+Card No.:OVL/S62-E039
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Everyone in this world will know of your greatness, and fear your undying wrath.
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."

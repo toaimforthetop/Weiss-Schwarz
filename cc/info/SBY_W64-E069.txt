@@ -1,0 +1,17 @@
+Card Name:
+English Name:On Set, Mai Sakurajima
+Card No.:SBY/W64-E069
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Why are you here, Sakuta?
+Trigger:Soul
+Special Attribute:Adolescence・Cooking
+Text:【CONT】 This card cannot be chosen by your opponent's effects.
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may 【REVERSE】 that character.", '

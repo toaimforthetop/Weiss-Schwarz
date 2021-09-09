@@ -1,0 +1,17 @@
+Card Name:
+English Name:Summer Festival, Fuko
+Card No.:AW/S43-E082
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Summer Night\'s Slumber" is in your climax area, and you have another 《Avatar》 or 《Net》 character, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.

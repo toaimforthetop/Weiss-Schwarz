@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yuri's Powerful Draw?
+Card No.:AB/W31-TE23
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:I got number one!
+Trigger:Soul
+Special Attribute:Death・Weapon
+Text:[AUTO] When you use this card\'s "Backup", if the number of 《Death》 characters you have is two or more, choose one of your characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by your level.
+Text:[ACT][COUNTER] Backup 1500, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Invitation, Saya
+Card No.:BD/W47-E060
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Tae: "Come."
+Trigger:
+Special Attribute:Music・Bread
+Text:

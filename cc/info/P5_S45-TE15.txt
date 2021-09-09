@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ann as PANTHER: First Infiltration
+Card No.:P5/S45-TE15
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Maybe... "Panther"?That sounds pretty cool, doesn\'t it?
+Trigger:
+Special Attribute:Thief・-
+Text:【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +1000 power.

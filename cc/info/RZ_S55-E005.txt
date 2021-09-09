@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unacceptable Situation, Felt
+Card No.:RZ/S55-E005
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Reinhard…
+Trigger:
+Special Attribute:Weapon・Fang Teeth
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Mistral Maiden" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn.

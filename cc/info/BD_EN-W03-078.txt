@@ -1,0 +1,16 @@
+Card Name:
+English Name:"I Love Chocolate" Rimi Ushigome
+Card No.:BD/EN-W03-078
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Ah! Why am I talking about chocolate? This is supposed to be about the band…
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】When your other 《Music》 character attacks, this card gets+ 1500 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Things Good Friends Do, Yachiyo
+Card No.:MR/W80-E094
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Were good friends, which is why I'll stop you with force if I have to.
+Trigger:Soul
+Special Attribute:Magic・Model
+Text:【CONT】 All of your other 《Magic》 characters get +500 power.
+Text:【AUTO】 [Put 1 "Meal Invitation, Yachiyo" from your memory into your waiting room & 【REST】 this card] At the beginning of your climax phase, you may pay the cost. If you do, put the top card of your deck into your stock.

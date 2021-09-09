@@ -1,0 +1,16 @@
+Card Name:
+English Name:Feeling of Uneasiness, LLENN
+Card No.:GGO/S59-E044
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:"Even if I went by myself at full speed,I wouldnt make it.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have "Bold Tactic, Fukaziroh" in your waiting room, 【REST】 this card.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:[Hydra] Maple
+Card No.:BFR/S78-E074
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:500
+Soul:1
+Flavor Text:[Hydr
+Trigger:Soul
+Special Attribute:Game・Shield
+Text:【AUTO】 When this card is placed on the stage from your hand, all of your opponent's characters get -1000 power until end of turn.

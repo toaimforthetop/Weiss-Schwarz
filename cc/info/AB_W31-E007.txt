@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Good Understanding, Iwasawa & Hisako
+Card No.:AB/W31-E007
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Iwasawa: "This is my life…"
+Trigger:
+Special Attribute:Death・Music
+Text:[CONT] Memory If you have a card in your memory, this card gets +1500 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Bushido!" Eve Wakamiya
+Card No.:BD/EN-W03-073
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"There is still a lot that I dont know...But I will hold on to the spirit of bushido…And show the world that I can do it!
+Trigger:Soul
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】During your turn, if you have 2 or more other 《Music》 characters, this card gets +4000 power.

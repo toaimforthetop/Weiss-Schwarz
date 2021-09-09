@@ -1,0 +1,17 @@
+Card Name:
+English Name:Exchange of Sarcasm, Romani
+Card No.:FGO/S75-E093
+Rarity:C
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"You hadnt done anything all the way to the Seventh Singularity. What are you talking about?
+Trigger:Soul
+Special Attribute:Chaldea・Doctor
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.

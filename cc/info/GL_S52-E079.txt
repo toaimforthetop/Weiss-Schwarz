@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mass-Production Model, Grapearl
+Card No.:GL/S52-E079
+Rarity:C
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:-

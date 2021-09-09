@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kero: Beast Mode
+Card No.:CCS/WX01-064
+Rarity:R
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Look at me now and say I’m a runt, I dare ya!
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 This card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters on your back stage.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Hunger Overwhelming" is in your climax area, and you have 4 or more other 《Tomoeda》 or 《Magic》 characters, draw up to 1 card, choose up to 1 character in your waiting room, and return it to your hand.

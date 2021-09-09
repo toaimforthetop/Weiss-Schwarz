@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Tauropolos" Archer of Red
+Card No.:APO/S53-E046
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・-
+Text:【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.
+Text:【ACT】 [【REST】 this card] Choose one of your characters, and that character gets the following ability until the end of your opponent\'s next turn. "【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent\'s characters."

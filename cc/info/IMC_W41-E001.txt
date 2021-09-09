@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mio Honda
+Card No.:IMC/W41-E001
+Rarity:RR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Im not running away again!", "I'll make everyone watching us smile!
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 The character facing this card cannot move to another position on the stage.', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.", '

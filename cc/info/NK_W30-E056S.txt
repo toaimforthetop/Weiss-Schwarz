@@ -1,0 +1,16 @@
+Card Name:
+English Name:Marika's Ordeal
+Card No.:NK/W30-E056S
+Rarity:SR
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"……Well, considering whos more appropriate for Master Raku, it's only natural, I think.
+Trigger:
+Special Attribute:Police・Key
+Text:【AUTO】 When this card\'s battle opponent becomes 【Reverse】, if a card named "Feelings for the Last 10 Years" is in your climax area, you may choose a character in your waiting room, and return it to your hand.

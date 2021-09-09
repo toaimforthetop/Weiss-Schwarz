@@ -1,0 +1,16 @@
+Card Name:
+English Name:"SPACE" Owner, Shizen Tsuzuki
+Card No.:BD/W47-E095
+Rarity:U
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"This isnt a rehearsal studio.
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】  When this card is placed on the stage from your hand, you may choose and perform one of the following effects. "You may put the top two cards of your stock into your waiting room. If you do, choose a level 1 or lower character in your waiting room, and put it on any position of your stage." "You may put the top card of your stock into your waiting room. If you do, choose a level 0 or lower character in your waiting room, and put it on any position of your stage."

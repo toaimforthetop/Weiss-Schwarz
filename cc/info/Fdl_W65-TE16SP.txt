@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mysterious Girl, Tohka
+Card No.:Fdl/W65-TE16SP
+Rarity:SP
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fantasia Bunko・Celestial Spirit・Swordsmanship
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that charcacter gets +1000 power until end of turn.

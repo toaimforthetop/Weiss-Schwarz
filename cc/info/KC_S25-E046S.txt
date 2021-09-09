@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Akatsuki-class Destroyer, Akatsuki
+Card No.:KC/S25-E046S
+Rarity:SR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:No matter how you look at this, Akatsuki is always the best!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】When this card attacks, if a card named "It\'s Akatsuki\'s turn, pay close attention!" is in your climax area, all of your other level 1 or lower characters get +2000 power until end of turn.

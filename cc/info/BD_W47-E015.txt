@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Club Show" Yuri
+Card No.:BD/W47-E015
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Sports
+Text:【AUTO】  When this card becomes 【REVERSE】  in battle, put the top card of your deck into your clock, and 【REST】  this card.

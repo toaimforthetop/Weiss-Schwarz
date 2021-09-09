@@ -1,0 +1,16 @@
+Card Name:
+English Name:Clarent
+Card No.:APO/S53-E059
+Rarity:CR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:I have just one wish, Assassin…
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand)

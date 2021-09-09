@@ -1,0 +1,16 @@
+Card Name:
+English Name:Extreme Love, Renner
+Card No.:OVL/S62-E089
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Renner: I’ll kill her. Just like the rest.
+Trigger:
+Special Attribute:Humanoid Race・Royalty
+Text:【CONT】 All of your other "Struggles of the Untalented, Climb" get +1500 power and the following 3 abilities. "【CONT】 This card cannot be chosen by your opponent\'s effects or become 【REVERSE】 by your opponent\'s 【AUTO】 effects." "【CONT】 During this card\'s battle, your opponent cannot play event or "Backup" from their hand." "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s memory."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Novice Burst Linker, Silver Crow
+Card No.:AW/S18-TE02
+Rarity:TD
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Is that…… Is this……. thing me!
+Trigger:
+Special Attribute:Avatar・-
+Text:【AUTO】 When this card attacks, all of your characters get +500 power until end of turn.

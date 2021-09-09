@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Sana
+Card No.:MR/W59-E103
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 yellow character, reveal it to your opponent, put it into your hand, and shuffle your deck.

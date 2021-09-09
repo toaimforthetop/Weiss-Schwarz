@@ -1,0 +1,17 @@
+Card Name:
+English Name:Girl in Glasses, Ruri
+Card No.:NK/W30-E082
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"You have a crush on him, dont you? On Ichijo.
+Trigger:Soul
+Special Attribute:Glasses・Sports
+Text:【CONT】 This card gets +500 power for each of your other 《Sweets》 or 《Sports》 characters.
+Text:【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets the following ability. "【AUTO】 When this card\'s battle opponent becomes 【Reverse】, you may draw a card."

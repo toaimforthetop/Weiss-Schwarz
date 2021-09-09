@@ -1,0 +1,16 @@
+Card Name:
+English Name:4th Kuma-class Torpedo Cruiser, Oi-Kai-Ni
+Card No.:KC/S25-E088
+Rarity:R
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Once I hear gunfire assault…… I get all worked up!
+Trigger:Soul
+Special Attribute:Fleet Girl・Torpedo Cruiser
+Text:【AUTO】When a card named "Torpedo ships, heading out!" is placed on your climax area, if this card is in your center stage, put two cards from the top of your deck into your waiting room. If there is a climax among those cards, deal X damage to your opponent. X is equal to the number of your other 《Torpedo Cruiser》 characters. (This damage may be canceled)

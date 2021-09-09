@@ -1,0 +1,16 @@
+Card Name:
+English Name:Precise Battle Orders, Asuna
+Card No.:SAO/S51-PE02
+Rarity:PR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:A wide-range attack is coming! Get down!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have another 《Avatar》 or 《Net》 character, put this card into your waiting room.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Model Mode" Eve Wakamiya
+Card No.:BD/W54-E002SSP
+Rarity:SSP
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 【CXCOMBO】 When a card named "Samurai Help Each Other" is placed on your climax area, choose one of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, look at up to four cards from the top of your deck, choose up to one 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over X cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. X is equal to the number of colors of your characters on stage +1.

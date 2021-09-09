@@ -1,0 +1,16 @@
+Card Name:
+English Name:Super Alloy Great Flonzor X
+Card No.:DG/EN-S03-E057
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Archangel Flonne: "To protect the beautiful blue Earth! It comes from another dimension! The unstoppable power of love and prayers!!"
+Trigger:Soul
+Special Attribute:Mecha・Love
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of cards in your deck is five or less, return all cards in your waiting room to your deck. If you do, shuffle your deck, and this card gets +3000 power until the end of your opponent's next turn.", '

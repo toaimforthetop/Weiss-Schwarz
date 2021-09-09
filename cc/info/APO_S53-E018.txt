@@ -1,0 +1,17 @@
+Card Name:
+English Name:Laetitia
+Card No.:APO/S53-E018
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:...Ahh…
+Trigger:
+Special Attribute:
+Text:【CONT】 If your level is 3 or higher, the character facing this card gets -1 soul.
+Text:【ACT】 [Put this card at the bottom of your deck] Choose up to one card in your hand named ""Luminosité  Eternelle" Ruler" with level equal to or lower than your level, and put it on any position of your stage.

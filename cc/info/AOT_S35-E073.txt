@@ -1,0 +1,16 @@
+Card Name:
+English Name:"104th Cadet Corps Class" Ymir
+Card No.:AOT/S35-E073
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"If youre gonna keep crying, then don't stay.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 Bond／""Healing Goddess" Christa" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Healing Goddess" Christa" in your waiting room, and return it to your hand.)

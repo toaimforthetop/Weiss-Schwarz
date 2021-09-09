@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Weapon Born for Battle” Mea
+Card No.:TL/W37-E013
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:Yes, I know that, Master.
+Trigger:Soul
+Special Attribute:Trans・Sweets
+Text:【CONT】 If a card named "Yami" is in your clock, this card gets -1 level while in your hand.
+Text:【CONT】 If the number of  other 《Trans》 or 《Housework》 characters you have is three or more, this card gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".

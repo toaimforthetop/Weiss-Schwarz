@@ -1,0 +1,17 @@
+Card Name:
+English Name:Devoted Magician, Yuna
+Card No.:Fmr/W65-E024
+Rarity:RR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Whats wrong?
+Trigger:
+Special Attribute:Fantasia Bunko・Magic・Heroine
+Text:【CONT】 This card gets +500 power for each of your other 《Fantasia Bunko》 or 《Magic》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Secrets Inherited from Mother to Child" is in your climax area, put up to 2 cards from the top of your deck into your stock.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Master of Great Tomb of Nazarick, Ainz
+Card No.:OVL/S62-E026
+Rarity:RR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:First, I shall express my gratitude to you for assisting in my experiment.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest of the cards into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.", '

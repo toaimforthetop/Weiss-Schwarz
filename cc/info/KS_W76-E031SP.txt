@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sentiments Toward Explosion Magic" Megumin
+Card No.:KS/W76-E031SP
+Rarity:SP
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When "Teasing" is placed on your climax area, if you have another 《Adventurer》 or 《Magic》 character, this card gets the following 2 abilities until the end of your opponent\'s next turn. "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step." "【AUTO】 When this card is frontal attacked, you may return this card to your hand."

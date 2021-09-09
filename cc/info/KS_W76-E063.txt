@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Extreme Misunderstanding" Yunyun
+Card No.:KS/W76-E063
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Arue, you dummy!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:0

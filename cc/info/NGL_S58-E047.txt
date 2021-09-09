@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Promise Long Ago
+Card No.:NGL/S58-E047
+Rarity:CR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Kurami: "Fi… Don\'t be nice to me anymore. If you treat a slave like me as a friend…"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to 2 of your green characters, and those characters get +3000 power and +1 soul until end of turn.

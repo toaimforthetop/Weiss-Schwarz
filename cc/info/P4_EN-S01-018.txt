@@ -1,0 +1,16 @@
+Card Name:
+English Name:Emerged Izanagi
+Card No.:P4/EN-S01-018
+Rarity:CC
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:I am thou…, thou art I… open thine eyes and call forth what is within.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Trainer of Prinnies, Valvatorez
+Card No.:DG/EN-S03-E102
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:What a splendid idea! I shall show them! What a fighting Prinny Instructor can do!!
+Trigger:
+Special Attribute:Demon・Blood
+Text:【CONT】 All of your other 《Prinny》 characters get +500 power.', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

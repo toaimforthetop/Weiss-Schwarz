@@ -1,0 +1,17 @@
+Card Name:
+English Name:Interested in VR, Karen
+Card No.:GGO/S59-E005S
+Rarity:SR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Link start.
+Trigger:
+Special Attribute:Net・Music
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Avatar》 or 《Net》 characters revealed among those cards ×1000.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Avatar》 or 《Net》 character in your clock, return it to your hand, and put the top card of your deck into your clock.

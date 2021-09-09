@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sulking Beatrice
+Card No.:RZ/S46-E048
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Hmph.
+Trigger:
+Special Attribute:Magic・Book
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card.", '

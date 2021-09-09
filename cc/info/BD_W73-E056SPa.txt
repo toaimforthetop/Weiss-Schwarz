@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Interweaving DREAMS" Maya Yamato
+Card No.:BD/W73-E056SPa
+Rarity:SP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:6000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 All of your other 《Pastel＊Palettes》 characters get +X power. X is equal to the total number of colors your characters on stage have ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Pastel＊Palettes》 character in your waiting room, and return it to your hand.
+Text:【ACT】 [【REST】 2 of your 《Pastel＊Palettes》 characters] Choose 1 card in your hand and 1 card in your level, and exchange them.

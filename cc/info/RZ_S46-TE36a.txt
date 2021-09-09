@@ -1,0 +1,17 @@
+Card Name:
+English Name:Death Stare, Rem
+Card No.:RZ/S46-TE36a
+Rarity:TD
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:My sister is too kind.
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of other 《Magic》 or 《Weapon》 characters you have.

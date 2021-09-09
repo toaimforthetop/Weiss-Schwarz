@@ -1,0 +1,17 @@
+Card Name:
+English Name:True Vampire Ancestor, Shalltear
+Card No.:OVL/S62-E062
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:My, my. It appears I’m the first to arrive.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When your other character\'s battle opponent becomes 【REVERSE】, choose 1 of your 《Grotesque Race》 or 《Nazarick》 characters, and that character gets +1500 power until end of turn.
+Text:【ACT】 [Put 1 "Vampire Bride" from your waiting room into your clock] This ability can be used up to 3 times per turn. Draw 1 card.

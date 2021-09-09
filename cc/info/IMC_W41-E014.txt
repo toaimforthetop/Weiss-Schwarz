@@ -1,0 +1,18 @@
+Card Name:
+English Name:Taking a Step Once More, Mio
+Card No.:IMC/W41-E014
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I want to continue being idols together!
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Music》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Music》 characters you have.
+Text:【AUTO】 When this card attacks, if a card named "Fan Letter" is in your climax area, you may choose one of your other 【REST】 characters, and return it to your hand.
+Text:【CONT】 During your turn, if the character facing this card is level 3 or higher, this card gets +4000 power and +1 soul.

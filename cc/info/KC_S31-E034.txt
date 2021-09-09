@@ -1,0 +1,18 @@
+Card Name:
+English Name:Glorious First Carrier Division, Kaga
+Card No.:KC/S31-E034
+Rarity:RR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"You have something to discuss with me? Im fine with that.
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters. 
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Fleet Girl》 character in your clock, and put it on any position of your stage. If you do, put the top card of your deck into your clock.
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

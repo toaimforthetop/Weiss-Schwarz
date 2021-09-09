@@ -1,0 +1,16 @@
+Card Name:
+English Name:Heart-racing Approach
+Card No.:TL/W37-E082
+Rarity:CR
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Stay still?
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)

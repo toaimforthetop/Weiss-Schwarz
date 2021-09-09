@@ -1,0 +1,18 @@
+Card Name:
+English Name:Archery Club Captain, Mitsuzuri
+Card No.:FS/S34-E018
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Well, I need to go to the faculty room.
+Trigger:Soul
+Special Attribute:Sports・-
+Text:【CONT】 If there is a marker underneath this card, this card gets +3500 power.
+Text:【ACT】 [Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your next draw phase, choose a card named "Archery Club Captain, Ayako" in your memory, put it on any position of your stage, and put the top card of your deck underneath that character as a marker.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it.

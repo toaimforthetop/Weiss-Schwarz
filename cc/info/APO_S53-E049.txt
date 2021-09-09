@@ -1,0 +1,16 @@
+Card Name:
+English Name:"In the Gardens" Assassin of Red
+Card No.:APO/S53-E049
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Servant・Poison
+Text:

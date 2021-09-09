@@ -1,0 +1,16 @@
+Card Name:
+English Name:Codename Takeyama
+Card No.:AB/W31-E090
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:…3421170679 8214808651 3282306647\u30000938446095 5058223172 5359408128\u30004811174502 8410270193 8521105559…
+Trigger:
+Special Attribute:Death・Glasses
+Text:[CONT] If this card is on the stage, this card\'s card name will also be regarded as "Christ".

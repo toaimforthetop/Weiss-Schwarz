@@ -1,0 +1,17 @@
+Card Name:
+English Name:Quiet Anger, Souei
+Card No.:TSK/S70-E073
+Rarity:R
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Making enemies of the Kijin will be your greatest regret.
+Trigger:Soul
+Special Attribute:Demon Continent・Shinobi
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card attacks, choose 1 of your 《Demon Continent》 characters, and that character gets +X power until end of turn. X is equal to the number of 《Demon Continent》 characters you have ×500.

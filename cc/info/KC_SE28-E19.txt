@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chi-class Torpedo Cruiser
+Card No.:KC/SE28-E19
+Rarity:C
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0 
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Torpedo Cruiser
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, choose one of your opponent's characters, and that character gets -1000 power until end of turn. (The revealed card is returned to its original place)", '

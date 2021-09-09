@@ -1,0 +1,17 @@
+Card Name:
+English Name:Super Speed, Dread
+Card No.:BFR/S78-E097
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"I wont be holding back.
+Trigger:
+Special Attribute:Game・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Game》 character, this card gets +1 level and +1500 power until end of turn.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock]  When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 《Game》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room.

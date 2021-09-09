@@ -1,0 +1,17 @@
+Card Name:
+English Name:Colossal Titan
+Card No.:AOT/S35-TE22
+Rarity:PR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Titan・-
+Text:[CONT] During your opponent's turn, this card gets +5000 power.
+Text:[CONT] If the number of cards in your hand is five or more, this card gets +1000 power.

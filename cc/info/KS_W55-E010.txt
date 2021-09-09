@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Herald" Darkness
+Card No.:KS/W55-E010
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Hm…
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 When this card attacks, choose one of your other 《Adventurer》 or 《Magic》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Adventurer》 or 《Magic》 characters you have.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

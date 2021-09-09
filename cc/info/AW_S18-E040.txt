@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ash Roller
+Card No.:AW/S18-E040
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Hah ha ha ha ha! Ready to dance some more----?!
+Trigger:
+Special Attribute:Avatar・Bike
+Text:【CONT】 If the number of cards in your stock is three or less, this card gets +1000 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Insufficient Magic Power" Megumin
+Card No.:KS/W55-E067
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Kazuma! I dont have enough magic power to activate my explosion magic!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:-

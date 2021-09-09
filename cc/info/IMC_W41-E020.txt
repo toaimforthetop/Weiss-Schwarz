@@ -1,0 +1,18 @@
+Card Name:
+English Name:Feeling Worried, Kirari
+Card No.:IMC/W41-E020
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:When I think that some of the girls are nervous about doing both well…
+Trigger:
+Special Attribute:Music・Happy Happy
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 [(1)] At the beginning of your opponent's attack phase, if all of your characters are 《Music》, you may pay the cost. If you do, move this card to an open position of your back stage.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Oh ,Love & Peace!" μ's
+Card No.:LL/W24-E110
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Lets go! Towards a new future!
+Trigger:
+Special Attribute:Music・-
+Text:【ACT】 When this card attacks, if a card name "Wonderful Rush" is in your climax area, you may pay the cost. If you do, choose one of your 《Music》 characters, and that character gets +5000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Today's Explosion Magic" Megumin
+Card No.:KS/W76-E056
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Well, would you still call that a joke spell?!
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 【CXCOMBO】 When this card is placed on the stage from your hand, choose up to 1 "An Explosion A Day" in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [Put all cards in your hand and stock into your waiting room & Put 1 "An Explosion A Day" from your climax area into your waiting room] At the beginning of your attack phase, if this card is 【STAND】 on your center stage, you may pay the cost. If 8 or more cards were put into your waiting room by this ability\'s cost, put all of your opponent\'s level 3 or lower characters into his or her waiting room, your opponent puts all cards in their deck into his or her waiting room, deal X damage to your opponent, and 【REST】 this card. X is equal to the number of ""Today\'s Explosion Magic" Megumin" in your level. (Damage may be canceled)

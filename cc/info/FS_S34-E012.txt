@@ -1,0 +1,18 @@
+Card Name:
+English Name:Past Hero, Saber
+Card No.:FS/S34-E012
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Rin: "Servants are basically always', 'with you in spirit form, and should the need arise, you can materialize them and make them fight."
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 When this card attacks, if a card named "A Fateful Night" is in your climax area, you may choose one of your other characters, and return it to your hand.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Armor Release" is in your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +5000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lord El-Melloi II
+Card No.:APO/S53-E013
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:They want their first fireworks to be grand.
+Trigger:Soul
+Special Attribute:Teacher・-
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses a climax in your opponent's waiting room, returns all cards in your opponent's waiting room except that card into your opponent's deck, and shuffles his or her deck.", '

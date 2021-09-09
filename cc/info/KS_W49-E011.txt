@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Imperial Capital Prosecutor” Sena
+Card No.:KS/W49-E011
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Adventurer Satou Kazuma! You are currently suspected of the crime of subversion to the state!
+Trigger:
+Special Attribute:Glasses・-
+Text:【AUTO】 [Put a character with "Kazuma(カズマ)" in its card name from your stage into your waiting room] When this card attacks, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Glasses》 character, put it into your hand. (If it is not, return the revealed card to its original place)

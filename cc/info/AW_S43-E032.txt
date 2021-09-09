@@ -1,0 +1,16 @@
+Card Name:
+English Name:Quiet Love, Rin
+Card No.:AW/S43-E032
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:……
+Trigger:
+Special Attribute:Net・Bike
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, 【REST】 this card.

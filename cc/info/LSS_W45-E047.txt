@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Daisuki Dattara Daijoubu!" Chika Takami
+Card No.:LSS/W45-E047
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Music》 characters, and that character gets +1500 power until end of turn.

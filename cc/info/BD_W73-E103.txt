@@ -1,0 +1,17 @@
+Card Name:
+English Name:Never-Ending Music, LAYER
+Card No.:BD/W73-E103
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or fewer characters on his or her center stage, choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of his or her deck.
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Music》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×500.

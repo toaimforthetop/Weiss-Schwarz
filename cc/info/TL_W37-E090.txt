@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mio Sawada
+Card No.:TL/W37-E090
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Welcome?
+Trigger:
+Special Attribute:Glasses・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Animal》 or 《Worries》 characters you have.

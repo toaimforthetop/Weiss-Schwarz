@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nozomi Tojo
+Card No.:LL/W24-E020
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:-

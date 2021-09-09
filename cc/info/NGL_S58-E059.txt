@@ -1,0 +1,17 @@
+Card Name:
+English Name:True Form of the Game, Jibril
+Card No.:NGL/S58-E059
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Sora: "Even if you erase people\'s memories, the fact remains that they lost."
+Trigger:
+Special Attribute:Game・Fl?gel
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, draw 1 card.", '

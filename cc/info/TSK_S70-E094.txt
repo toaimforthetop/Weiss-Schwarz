@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Shadow Movement" Ranga
+Card No.:TSK/S70-E094
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:You called, Master?
+Trigger:Soul
+Special Attribute:Demon Continent・Shadow
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 ""Shadow Movement" Ranga" in your memory, and put it on any position on your stage.

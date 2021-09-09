@@ -1,0 +1,16 @@
+Card Name:
+English Name:Avant-Garde Sculpture
+Card No.:RZ/S68-E094
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Puck: "This is me?"
+Trigger:
+Special Attribute:
+Text:If you do not have a 《Memory Snow》 character, this card cannot be played from your hand.Choose 1 of the following effects and perform it."You may put the top 2 cards of your stock into your waiting room. If you do, search your deck for up to 2 《Memory Snow》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.""You may choose 1 "Unsatisfied With the Grading, Emilia" in your hand, and put it into your waiting room. If you do, search your deck for up to 2 《Memory Snow》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."

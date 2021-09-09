@@ -1,0 +1,17 @@
+Card Name:
+English Name:Muraki
+Card No.:MOB/SX02-063
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Esper・Claw
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [(2)]".
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 "Muraki", put it on any position of your stage, and shuffle your deck.

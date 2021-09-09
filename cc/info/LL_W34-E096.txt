@@ -1,0 +1,18 @@
+Card Name:
+English Name:Golden Rice Temptation
+Card No.:LL/W34-E096
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:*Heavy panting*!!!
+Trigger:
+Special Attribute:
+Text:Look at the top card of your deck, and put it on the top or the bottom of your deck. 
+Text:Choose one of your character with "Hanayo(花陽)" in its card name, and that character gets +1 level and +4000 power until the end of your opponent\'s next turn.
+Text:Put the top card of your deck into your clock. If that card is a character with "Maki(真姫)" in its card name, draw up to three cards, choose a card in your hand, put it into your waiting room, choose one of your characters, and that character gets +2000 power until end of turn.

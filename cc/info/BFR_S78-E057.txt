@@ -1,0 +1,17 @@
+Card Name:
+English Name:Walking Fortress, Maple
+Card No.:BFR/S78-E057
+Rarity:RR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"All right, lets go!
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [Put 1 "Walking Fortress, Maple" from your hand into your waiting room & Put 1 "Showdown Between Guild Masters" from your climax area into your waiting room] At the beginning of your attack phase, if this card is in your center stage, you may pay the cost. If you do, choose up to 1 of your other 《Game》 characters, 【STAND】 it, choose up to 1 character in your waiting room, and return it to your hand.

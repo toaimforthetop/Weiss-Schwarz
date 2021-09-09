@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Summer Festival Date” Eli Ayase
+Card No.:LL/EN-W02-E004SP
+Rarity:SP
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Ill be so much happier if I'm with you during the summer festival♪ Let's just have fun today☆
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Music》 character, you may move this card to an open position of your center stage.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Elementary Student, Mayoi Hachikuji
+Card No.:BM/S15-TE07
+Rarity:TD
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:And Ms. Senjyogahara, on the', 'other hand, is your girlfriend.
+Trigger:Soul
+Special Attribute:Strange・Spirit
+Text:[CONT] If the number of other ?Strange? characters you have is two or more, this card gets +1000 power.

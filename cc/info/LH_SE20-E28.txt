@@ -1,0 +1,16 @@
+Card Name:
+English Name:Log Horizon's Representative, Shiroe
+Card No.:LH/SE20-E28
+Rarity:RR
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:3000
+Soul:2
+Flavor Text:"……If you cant help them both, then don't. Focus on what you can, it'll help.
+Trigger:Soul
+Special Attribute:Magic・Glasses
+Text:【CONT】 You cannot take damage from your opponent character's 【AUTO】 effects. ", "【CONT】 Assist All of your 《Weapon》 or 《Magic》 characters in front of this card get +X power. X is equal to 1000 multiplied by that character's level. ", '【AUTO】 [(1) 【REST】 this card] During your turn, when another of your character\'s battle opponent becomes 【REVERSE】, if this card is STAND@, you may pay the cost. If you do, choose one of your characters in battle, and that character gets the following ability until the end of your opponent\'s next turn. "【CONT】 The character facing this card gets -2 soul."

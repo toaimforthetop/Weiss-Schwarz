@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Myoko-class Heavy Cruiser, Ashigara Kai-II
+Card No.:KC/S42-E082
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Like I said!I can take care of my own equipment…… Eh, thats not it?
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】 [(3) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for three cards, reveal them to your opponent, if all those cards are characters with the same card name, put them into your hand, shuffle your deck, and if they are not, shuffle your deck.

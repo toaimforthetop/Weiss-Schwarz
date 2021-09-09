@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rousing Battlecry, Kuroyukihime
+Card No.:AW/S43-E007
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:Take up your swords and raise your torches high!! For the time to fight… has come!!
+Trigger:
+Special Attribute:Student Council・Avatar
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.

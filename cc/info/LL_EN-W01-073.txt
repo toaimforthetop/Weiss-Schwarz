@@ -1,0 +1,16 @@
+Card Name:
+English Name:"School idol festival" Honoka
+Card No.:LL/EN-W01-073
+Rarity:R
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:You can count on me!
+Trigger:
+Special Attribute:Music・Sweets
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with "Change", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

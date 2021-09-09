@@ -1,0 +1,17 @@
+Card Name:
+English Name:Same Feelings! Mako
+Card No.:KLK/S27-E054
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:After all, the reason you wear Senketsu is because you love him best, right!?
+Trigger:Soul
+Special Attribute:Family・-
+Text:【CONT】 If there is a marker underneath this card, this card gets +1500 power and 《Clothes》.
+Text:【AUTO】 When this card is placed on stage from your hand, you may choose a card named "Only Clothing Ryuko Has, Senketsu" in your waiting room, and put it face down underneath this card as a marker.

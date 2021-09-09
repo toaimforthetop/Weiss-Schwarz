@@ -1,0 +1,16 @@
+Card Name:
+English Name:Buns For Luck
+Card No.:BD/W54-E065
+Rarity:U
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:We baked these especially for you, to help cheer you up, Rimi-rin.
+Trigger:
+Special Attribute:
+Text:Put all cards in your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of your opponent's deck into his or her stock.

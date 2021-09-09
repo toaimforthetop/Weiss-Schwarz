@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Mijuku DREAMER" Riko Sakurauchi
+Card No.:LSS/WE27-E25
+Rarity:R
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have.
+Text:【AUTO】 [【REST】 one of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses a climax in your opponent's waiting room, returns all cards in your opponent's waiting room except that card into your opponent's deck, and shuffles his or her deck.
+Text:【ACT】 [Put a card from your hand into your waiting room] Choose one of your 《Music》 characters, and that character gets +2500 power until end of turn.", '

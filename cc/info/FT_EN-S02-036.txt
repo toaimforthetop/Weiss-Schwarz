@@ -1,0 +1,16 @@
+Card Name:
+English Name:With Special Friends, Lucy
+Card No.:FT/EN-S02-036
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Blue Pegasus, Lamia Scale, its certainly been a wild ride..
+Trigger:
+Special Attribute:Magic・Key
+Text:【CONT】 All of your other 《Key》 characters get +500 power.

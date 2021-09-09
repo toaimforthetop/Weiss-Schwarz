@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Midsummer Aquarium" You Watanabe
+Card No.:LSS/W45-TE12
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:-

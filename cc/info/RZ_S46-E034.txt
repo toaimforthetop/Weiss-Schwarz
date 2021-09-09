@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Maid Saw! Ram
+Card No.:RZ/S46-E034
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Cover up that sorry thing.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 The card names of all of your other characters with "Subaru(スバル)" in its card name are also regarded as "Barusu(バルス)".
+Text:【AUTO】 Bond/"Dim Light Seen With Those Eyes, Rem" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Dim Light Seen With Those Eyes, Rem" in your waiting room, and return it to your hand)【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one character in your waiting room, and return it to your hand.

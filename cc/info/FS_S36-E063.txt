@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Full Power Pitch” Rin
+Card No.:FS/S36-E063
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:"Dont hold back, I'm using everything I've got.
+Trigger:Soul
+Special Attribute:Master・Jewel
+Text:【CONT】 All of your other characters with "Shirou(士郎)" or "Saber(セイバー)" in its card name get +500 power.
+Text:【ACT】 [【REST】 this card] Choose a character in your waiting room with "Shirou(士郎)" or "Saber(セイバー)" in its card name, and put it into your stock.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Master》 or 《Servant》 characters you have.

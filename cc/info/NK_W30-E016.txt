@@ -1,0 +1,16 @@
+Card Name:
+English Name:Transfer Student, Chitoge
+Card No.:NK/W30-E016
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Hello, everybody!Im Chitoge Kirisaki, and I transferred here from the U.S.
+Trigger:
+Special Attribute:Heiress・Key
+Text:-

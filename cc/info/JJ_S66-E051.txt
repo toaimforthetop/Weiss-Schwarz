@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spinner of Lies, T.M
+Card No.:JJ/S66-E051
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Kekeke!
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may choose 1 character on your opponent's center stage, and move it to an open position of his or her center stage.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Seraph Lamington
+Card No.:DG/EN-S03-E080
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:Demons certainly have love inside of them.', "They just haven't found it yet.
+Trigger:Soul
+Special Attribute:Angel・Love
+Text:-

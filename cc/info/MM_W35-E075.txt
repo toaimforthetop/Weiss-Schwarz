@@ -1,0 +1,16 @@
+Card Name:
+English Name:A New Morning, Kyoko
+Card No.:MM/W35-E075
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named "New Days" is in your climax area, you may pay the cost. If you do, until the end of your opponent\'s next turn, this card gets +3000 power and the following ability. "【CONT】 This card cannot become 【REVERSE】 from your opponent character\'s 【AUTO】 effects."

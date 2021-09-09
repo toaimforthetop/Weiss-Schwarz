@@ -1,0 +1,16 @@
+Card Name:
+English Name:Seaplane bomber force, go-!
+Card No.:KC/S31-E060R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Chitose: "Even if you hide it is no use!"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn. 

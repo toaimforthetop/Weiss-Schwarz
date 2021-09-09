@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fearless Smile, Illyasviel
+Card No.:FS/S64-E086
+Rarity:R
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:－
+Trigger:Soul
+Special Attribute:Master・Homunculus
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck.", '

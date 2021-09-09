@@ -1,0 +1,17 @@
+Card Name:
+English Name:Nation Unified by Force, Nobuna
+Card No.:Foy/W65-E001
+Rarity:RR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I, Oda Nobuna, have become the ruler of the country.
+Trigger:
+Special Attribute:Fantasia Bunko・Sengoku・Princess General
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 [(3)] When this card is placed on the stage from your hand, you may pay the cost. If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.", '

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"True" Power, 《Death Gun》
+Card No.:SAO/SE23-TE06
+Rarity:TD
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:My name, and the name of this gun, is 《Death Gun》!!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If all of your characters are 《Avatar》 or 《Net》, this card gets +1000 power.
+Text:【CONT】 The character facing this card gets 《Target》.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When a card named "Power of 《Death Gun》" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose one of your opponent\'s cost 1 or less 《Target》 characters, and put it into your opponent\'s waiting room.

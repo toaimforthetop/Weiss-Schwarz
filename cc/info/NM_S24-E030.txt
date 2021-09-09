@@ -1,0 +1,18 @@
+Card Name:
+English Name:Sharp Intuition, Hitagi Senjyogahara
+Card No.:NM/S24-E030
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Or maybe its five? The number of girls you've played with today.
+Trigger:
+Special Attribute:Strange
+Text:【CONT】 Experience If the total level of the cards in your level is two or higher, this card gets +1000.
+Text:【ACT】 [【REST】 two of your characters] Choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes Reverse@, you may put the top card of your deck into your stock."
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your opponent's characters, and that character gets -500 power until end of turn.", '【ACT】 [【REST】 this card] Choose one of your opponent\'s characters, and that character gets the following ability until end of turn. "【CONT】 During this card\'s battle, you cannot play event cards and "Backup"from your hand."

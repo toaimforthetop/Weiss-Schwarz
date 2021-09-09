@@ -1,0 +1,17 @@
+Card Name:
+English Name:Leader of Pleiades, Sebas
+Card No.:OVL/S62-E064
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:By your command, my lord.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.
+Text:【AUTO】 【CLOCK】 Alarm At the beginning of your climax phase, if this card is the top card of your clock, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.

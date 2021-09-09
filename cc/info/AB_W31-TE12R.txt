@@ -1,0 +1,16 @@
+Card Name:
+English Name:Operation Tornado feat. Yui
+Card No.:AB/W31-TE12R
+Rarity:RRR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Listen to me sing before you judge me.
+Trigger:Soul・Soul
+Special Attribute:
+Text:[AUTO] When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

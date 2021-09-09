@@ -1,0 +1,17 @@
+Card Name:
+English Name:<<Lead Group>> Kirito
+Card No.:SAO/S20-E102
+Rarity:TD
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Unless we do our best, it isnt fair to the merchants and others who are supporting us.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power.
+Text:【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 

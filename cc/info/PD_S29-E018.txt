@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kagamine Rin "Cheerful Candy"
+Card No.:PD/S29-E018
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 If this card\'s total number of colors is two or more, this card gets +1500 power.
+Text:【CONT】 All of your other "Hatsune Miku "Colorful Gumdrop"" get +1500 power and red.

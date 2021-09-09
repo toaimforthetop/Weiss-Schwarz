@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reunion with Brother, Shiro
+Card No.:NGL/S58-E091
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Imanity
+Text:-

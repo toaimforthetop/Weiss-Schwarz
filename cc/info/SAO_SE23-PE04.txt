@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kazuto & Asuna in Uniform
+Card No.:SAO/SE23-PE04
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 When another of your 《Avatar》 or 《Net》 character attacks, this card gets +1000 power until end of turn.

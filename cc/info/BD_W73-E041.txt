@@ -1,0 +1,17 @@
+Card Name:
+English Name:RAISE YOUR HANDS, MASKING
+Card No.:BD/W73-E041
+Rarity:C
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:"PAREOs worried about you.
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".
+Text:【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of the climax phase, if you have another 《Music》 character, you may pay the cost. If you do, this card gets +3500 power until end of turn.

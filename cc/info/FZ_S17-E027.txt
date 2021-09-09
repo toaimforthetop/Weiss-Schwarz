@@ -1,0 +1,18 @@
+Card Name:
+English Name:Einzbern Castle
+Card No.:FZ/S17-E027
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:I hereby swear. That I shall be all the good in the world.
+Trigger:
+Special Attribute:
+Text:If the number of climax cards in your waiting room is one or less, this card cannot be played from your hand.
+Text:Search your deck for up to one 《Weapon》 or 《Alchemy》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 
+Text:【COUNTER】 Each player returns all cards in his or her waiting room into his or her deck. Each player shuffles his or her deck afterwards. Choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +2000 power until end of turn. 

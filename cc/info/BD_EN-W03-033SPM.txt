@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Rock and Glow" Tsugumi Hazawa
+Card No.:BD/EN-W03-033SPM
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【CONT】【CLOCK】Alarm If this card is the top card of your clock, all of your 《Afterglow》 characters get the following ability. "【AUTO】[(1)] When this card attacks, you may pay the cost. If you do, look at the top card of your opponent\'s deck, and put it on the top or at the bottom of his or her deck."
+Text:【AUTO】[(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your clock, return it to hand, and put the top card of your deck into your clock.

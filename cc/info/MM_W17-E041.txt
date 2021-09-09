@@ -1,0 +1,16 @@
+Card Name:
+English Name:Homura Cares for Madoka
+Card No.:MM/W17-E041
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I will finish every last witch myself.
+Trigger:
+Special Attribute:Magic・Time
+Text:【CONT】 If you have another character with "Madoka" in its card name, this card gets +1500 power. 

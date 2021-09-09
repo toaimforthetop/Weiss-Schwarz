@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mismatched Pair
+Card No.:IMC/W41-E108
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:3
+Power:－
+Soul:0
+Flavor Text:Miku: "We\'re through nya!"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If the number of red characters and blue characters you have is two or more for each color, choose one of your opponent's characters, and 【REST】 it.", '

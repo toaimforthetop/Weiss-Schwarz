@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Unryu-class Aircraft Carrier, Unryu
+Card No.:KC/S31-E019
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Aircraft Carrier Unryu, heading out.
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【ACT】 [(1)] Choose one of your 《Fleet Girl》 characters, and that character gets the following ability until end of turn. "【AUTO】 When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is lower than or equal to the level of this card, you may put that character into your opponent\'s stock."

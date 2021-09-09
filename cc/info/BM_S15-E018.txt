@@ -1,0 +1,16 @@
+Card Name:
+English Name:Likes Donuts, Shinobu Oshino
+Card No.:BM/S15-E018
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Strange・Blood
+Text:

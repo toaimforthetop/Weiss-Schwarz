@@ -1,0 +1,17 @@
+Card Name:
+English Name:Knowledge Esteeming Race, Jibril
+Card No.:NGL/S58-E054S
+Rarity:SR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:A mystery that as-yet remains unknown! Such is the stuff from which new knowledge is born!
+Trigger:
+Special Attribute:Game・Fl?gel
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose 1 card in your opponent's waiting room, and put it on the top of his or her deck.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Game》 character in your waiting room, and return it to your hand.", '

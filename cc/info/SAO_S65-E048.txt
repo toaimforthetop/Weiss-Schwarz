@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cardinal's Dagger
+Card No.:SAO/S65-E048
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Cardinal: "Meaning that any sacred arts I use will affect her without fail."
+Trigger:
+Special Attribute:
+Text:If you have 2 or less 《Fluctlight》 characters, this card cannot be played from your hand.Choose up to 1 ""The Sage of the Library" Cardinal" in your hand, and put it on any position of your stage.

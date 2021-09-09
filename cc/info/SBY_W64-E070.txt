@@ -1,0 +1,18 @@
+Card Name:
+English Name:Confidence to Face Tomorrow, Kaede Azusagawa
+Card No.:SBY/W64-E070
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Now, there is a feeling that it can be accomplished.
+Trigger:Soul
+Special Attribute:Adolescence・Animal
+Text:【CONT】 This card cannot be chosen by your opponent's effects.
+Text:【CONT】 All your other 《Adolescence》 characters get +1000 power.
+Text:【ACT】 [【REST】 2 of your characters] Choose 1 card in your level and 1 card in your waiting room, and exchange them.", '

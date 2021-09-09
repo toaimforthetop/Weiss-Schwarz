@@ -1,0 +1,18 @@
+Card Name:
+English Name:Elusive, Artina
+Card No.:DG/EN-S03-E072
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Hmhmhm. Good day, everyone.
+Trigger:Soul
+Special Attribute:Angel・Thief
+Text:【CONT】 Your other character in the middle position of your center stage gets +1000 power.
+Text:【AUTO】 At the beginning of your encore step, if you have a card named "Demon and Angel Bond" in your climax area, 【REST】 this card, and move it to any position of your stage. (You may choose the current position)
+Text:-

@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Unlimited Blade Works” Shirou
+Card No.:FS/S36-E003
+Rarity:RR
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:I create a world that contains an infinite number of swords. That is the only magic', 'allowed to Shirou Emiya.
+Trigger:Soul
+Special Attribute:Master・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, draw up to one card, and this card gets +2000 power until end of turn.
+Text:【AUTO】 [(2) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, if a card named "Unlimited Blade Works" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room with the same level as that battle opponent, put it on any position of your stage, and at the beginning of your encore step, if that character is on the stage, put that character into your memory.
+Text:【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn.

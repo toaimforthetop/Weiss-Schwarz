@@ -1,0 +1,16 @@
+Card Name:
+English Name:Power Awakens
+Card No.:P5/S45-TE10
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

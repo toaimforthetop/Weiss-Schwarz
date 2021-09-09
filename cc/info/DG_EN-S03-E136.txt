@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Ding-Dong-Ditches” Axel
+Card No.:DG/EN-S03-E136
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Youll learn to fear Dark Heores when you suffer so many ding-dong-ditches and prank phone calls, you'll never be able to sleep!
+Trigger:
+Special Attribute:Demon・Dark Hero
+Text:【ACT】 [(1) Put this card into your waiting room] Return all cards in your opponent's waiting room to his or her deck. Shuffle your opponent's deck afterwards.", '

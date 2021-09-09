@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shalltear's Resurrection
+Card No.:OVL/S62-E074R
+Rarity:RRR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Shalltear: "How did I get back to Nazarick when I was just hunting humans in the woods?"
+Trigger:Soul・Standby
+Special Attribute:
+Text:【AUTO】 When this card is placed on the climax area from your hand, perform .(: When this card triggers, you may choose 1 character in your waiting room with level equal to or lower than your level +1, and put it on any stage position as 【REST】)

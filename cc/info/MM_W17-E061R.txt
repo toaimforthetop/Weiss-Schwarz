@@ -1,0 +1,18 @@
+Card Name:
+English Name:Aggressively Hostile Kyoko
+Card No.:MM/W17-E061R
+Rarity:RRR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:SECRET
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)
+Text:【ACT】［【REST】 one of your 《Magic》 characters] This card gets +1500 power until end of turn. 
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

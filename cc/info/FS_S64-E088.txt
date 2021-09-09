@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rule Breaker, Caster
+Card No.:FS/S64-E088
+Rarity:U
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Youre the true Assassin?
+Trigger:
+Special Attribute:Servant・Master
+Text:【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent's characters, put it into your opponent's memory, your opponent puts that character from your opponent's memory on any position of his or her stage.", '

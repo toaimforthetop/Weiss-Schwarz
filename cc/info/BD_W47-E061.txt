@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sprin'PARTY, Rimi Ushigome
+Card No.:BD/W47-E061
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Waah～ Ill get nervous～
+Trigger:
+Special Attribute:Music・Choco Cornet
+Text:【AUTO】  When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.

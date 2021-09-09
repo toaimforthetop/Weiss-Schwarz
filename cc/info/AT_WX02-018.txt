@@ -1,0 +1,17 @@
+Card Name:
+English Name:BMO: Professor Pants
+Card No.:AT/WX02-018
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【CONT】 All of your other 《Ooo》 characters get +500 power.
+Text:【AUTO】 [(1)] When your character's trigger check reveals a climax, if that card's trigger icon is , you may pay the cost. If you do, draw 1 card.", '

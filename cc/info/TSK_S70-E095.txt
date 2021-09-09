@@ -1,0 +1,17 @@
+Card Name:
+English Name:Anti-Magic Mask
+Card No.:TSK/S70-E095
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Shizu-san, Ill take good care of this keepsake of you.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose 1 of your 《Demon Continent》 characters, and that character gets +2500 power until end of turn. Put this card into your memory.
+Text:【AUTO】 Memory [Put 1 climax from your hand into your waiting room] At the beginning of your main phase, if this card is in your memory, you may pay the cost. If you do, return this card to your hand.

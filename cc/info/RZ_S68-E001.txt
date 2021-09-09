@@ -1,0 +1,16 @@
+Card Name:
+English Name:Snow Bunny
+Card No.:RZ/S68-E001
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Petra: "Wow! It\'s really a rabbit now!"
+Trigger:
+Special Attribute:Memory Snow・-
+Text:【AUTO】 [(1) Put the top card of your deck into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

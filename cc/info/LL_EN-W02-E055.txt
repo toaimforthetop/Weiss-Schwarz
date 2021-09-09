@@ -1,0 +1,16 @@
+Card Name:
+English Name:Happy Valentine
+Card No.:LL/EN-W02-E055
+Rarity:CC
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Thanks for the chocolates♪ Ill be sure to give you plenty in return♪
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

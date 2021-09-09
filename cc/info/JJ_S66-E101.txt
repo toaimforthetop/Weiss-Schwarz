@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pioneer of Fate, Mista
+Card No.:JJ/S66-E101
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Considering my skills… Id say I'm next in line to become capo.
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Golden Wind》 characters, and that character gets +1500 power until end of turn.

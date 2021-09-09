@@ -1,0 +1,16 @@
+Card Name:
+English Name:Invitation to School, Erena
+Card No.:LL/W34-E053
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If you have other cards named "Invitation to School, Tsubasa" and "Invitation to School, Anju" in your center stage, this card gets +2500 power.

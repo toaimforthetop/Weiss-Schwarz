@@ -1,0 +1,16 @@
+Card Name:
+English Name:7th Mutsuki-class Destroyer, Fumiduki
+Card No.:KC/S25-E102
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Heading out! Time to show off my talents.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[【REST】one of your other 【STAND】《Destroyer》 characters and this card] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your deck into your stock.

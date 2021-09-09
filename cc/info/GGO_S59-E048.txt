@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bond with P-chan, LLENN
+Card No.:GGO/S59-E048
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Ram em!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [(4) Put 1 "Chatting P-chan" from your hand into your waiting room] When a climax is placed on your opponent\'s climax area, you may pay the cost. If you do, choose 1 character facing this card, and put that card into your opponent\'s memory.

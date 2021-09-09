@@ -1,0 +1,17 @@
+Card Name:
+English Name:Flame Princess
+Card No.:AT/WX02-012S
+Rarity:SR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【CONT】 During your turn, all of your other characters with "Finn" in its card name get +1000 power.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Scarlet, the Golden Sword of Battle" in your waiting room, and return it to your hand.

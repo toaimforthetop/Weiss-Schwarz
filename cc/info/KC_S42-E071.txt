@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mizuho-class Seaplane Tender, Mizuho
+Card No.:KC/S42-E071
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Did you call for Mizuho? Im so happy.
+Trigger:Soul
+Special Attribute:Fleet Girl・Seaplane Tender
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Fleet Girl》 characters you have is four or more, you may put the top card of your deck into your stock.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, choose a 《Fleet Girl》 character in your waiting room, and return it to your hand.

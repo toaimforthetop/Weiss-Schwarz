@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Friendly Sisters" Dia Kurosawa
+Card No.:LSS/W45-E080
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:I thought this might happen, given how school idols are these days……
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If the number of cards in your stock is four or more, this card gets +1000 power.
+Text:【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power.

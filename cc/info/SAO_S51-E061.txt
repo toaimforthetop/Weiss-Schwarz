@@ -1,0 +1,17 @@
+Card Name:
+English Name:Taking On the Boss Battle, Lisbeth
+Card No.:SAO/S51-E061
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your turn, all of your other cards named "Taking On the Boss Battle, Silica" get +2000 power.
+Text:【AUTO】 Bond/"Taking On the Boss Battle, Silica" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “Taking On the Boss Battle, Silica” in your waiting room, and return it to your hand.)

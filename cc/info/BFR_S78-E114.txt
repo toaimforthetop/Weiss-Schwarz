@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Equipment, Sally
+Card No.:BFR/S78-E114
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:I can party with you!
+Trigger:Soul
+Special Attribute:Game・Weapon
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose 1 "New Equipment, Sally" in your memory, and put it on any position of your stage.

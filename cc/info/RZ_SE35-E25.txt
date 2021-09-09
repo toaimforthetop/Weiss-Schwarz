@@ -1,0 +1,17 @@
+Card Name:
+English Name:Emilia Reminiscing the Past
+Card No.:RZ/SE35-E25
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"I was just remembering something that happened long ago, thats all.
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 All of your other 《Magic》 or 《Weapon》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Look at the top card of your deck. (Return the card you saw to its original place)

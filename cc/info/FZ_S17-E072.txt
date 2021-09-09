@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kariya Matou
+Card No.:FZ/S17-E072
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:My insects, devour him, feast on his flesh!!
+Trigger:
+Special Attribute:Master・Insect
+Text:【CONT】 All of your other 《Servant》 characters get +500 power. 

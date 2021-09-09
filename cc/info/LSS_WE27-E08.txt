@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Aim to Shine" Hanamaru Kunikida
+Card No.:LSS/WE27-E08
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [Put this card into your waiting room] When your other 《Music》 character is put into your waiting room from the stage, if this card is on your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.
+Text:【AUTO】 Bond/""Aozora Jumping Heart" Ruby Kurosawa" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Aozora Jumping Heart" Ruby Kurosawa" in your waiting room, and return it to your hand)

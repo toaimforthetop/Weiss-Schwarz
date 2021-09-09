@@ -1,0 +1,16 @@
+Card Name:
+English Name:Class Card, Archer
+Card No.:PI/EN-S04-E084R
+Rarity:CC
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Miyu: "I can\'t believe it… That form, that combat ability."
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

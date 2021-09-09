@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mami is "No Longer Alone"
+Card No.:MM/W17-E008
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I feel so light today. This is the first time Ive felt so happy during a fight.
+Trigger:
+Special Attribute:Magic・Tea
+Text:【AUTO】 When this card frontal attacks, if a card named "I\'m not afraid of anything anymore" is in your climax area, reveal the top card of your deck. If the revealed card is a climax, this card gets -4500 power until end of turn. If it is not, this card gets +4500 power until end of turn. （The revealed card is returned to its original place.）

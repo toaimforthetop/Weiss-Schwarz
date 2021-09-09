@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna's Veteran Cooking Skill
+Card No.:SAO/S20-E020
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:"Lets see…… Then let's make a stew.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your turn, if the number of other 《Avatar》 characters you have is two or more, this card gets +1 level and +1500 power. 

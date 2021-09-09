@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Aimed Journey" Chisato Shirasagi"Aimed Journey" Chisato Shirasagi
+Card No.:BD/W54-E091
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:A lot of the work I have done in the past has been by myself, so doing something in a group like this is a refreshing change.
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Music》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [Put this card into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named ""Place Of Purity" Chisato Shirasagi" in your waiting room, and put it on the stage position that this card was on.

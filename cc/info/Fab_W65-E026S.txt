@@ -1,0 +1,18 @@
+Card Name:
+English Name:First Princess of Maple Land, Latifah
+Card No.:Fab/W65-E026S
+Rarity:SR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Kanie-sama… I yearn for you…
+Trigger:
+Special Attribute:Fantasia Bunko・AmaBri・Princess
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When you level up, put all markers underneath this card into your waiting room.
+Text:【ACT】 [【REST】 this card] Look at the top card of your deck, and put it face down underneath this card as a marker. Choose 1 of your characters, and that character gets +X power until end of turn. X is equal to the number of markers underneath this card ×1000.

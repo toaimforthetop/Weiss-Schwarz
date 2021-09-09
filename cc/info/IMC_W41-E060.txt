@@ -1,0 +1,18 @@
+Card Name:
+English Name:CANDY ISLAND, Anzu
+Card No.:IMC/W41-E060
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:Please support "CANDY ISLAND"!
+Trigger:Soul
+Special Attribute:Music・Candy
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have other cards named "CANDY ISLAND, Kanako" and "CANDY ISLAND, Chieri", you may put the top card of your deck into your stock.
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of cards named "Happy×2 Days" in your waiting room is three or more, you may put the top card of your deck into your stock.
+Text:【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kyoji Protecting Shino
+Card No.:SAO/SE23-TE02
+Rarity:TD
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:……Are you all right, Asada?
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 If the number of other characters you have is one or less,  this card gets +1 level and +1000 power.
+Text:【CONT】 The character facing this card gets 《Target》.

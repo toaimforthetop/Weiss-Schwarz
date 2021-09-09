@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Overlord, Laharl
+Card No.:DG/EN-S03-E117
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Dont hold back. Take everything!
+Trigger:Soul
+Special Attribute:Demon・Weapon
+Text:-

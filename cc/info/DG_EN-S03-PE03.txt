@@ -1,0 +1,16 @@
+Card Name:
+English Name:Disgaea D2
+Card No.:DG/EN-S03-PE03
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Event
+Color:Red
+Level:3
+Cost:3
+Power:－
+Soul:0
+Flavor Text:
+Trigger:
+Special Attribute:
+Text:Choose two of your characters, and 【REST】 them. If you 【REST】 two characters, deal X damage to your opponent.  X is equal to the total level of the those characters. (This damage may be canceled)

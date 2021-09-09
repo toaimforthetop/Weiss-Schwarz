@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Red King》Scarlet Rain
+Card No.:AW/S18-E062
+Rarity:R
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Lets go, Enhanced Armament---!! 
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card attacks, if a card named "Hailstorm Domination" is in your climax area, you may pay the cost. If you do, choose one of your opponent\'s level 3 or lower characters, and put it into his or her waiting room.

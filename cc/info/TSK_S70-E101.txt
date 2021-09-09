@@ -1,0 +1,17 @@
+Card Name:
+English Name:Life Amongst Bountiful Valleys, Rimuru
+Card No.:TSK/S70-E101
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:This must be paradise!
+Trigger:Soul
+Special Attribute:Demon Continent・Worries
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)

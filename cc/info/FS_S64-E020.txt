@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Servant's Power Sealed Within
+Card No.:FS/S64-E020
+Rarity:R
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:－
+Soul:0
+Flavor Text:"Of course youre surprised that I look like this.
+Trigger:
+Special Attribute:－・－
+Text:Search your deck for up to 1 "Justice On Behalf of Another, Shirou", reveal it to your opponent, put it into your hand, and shuffle your deck. Put this card into your memory.
+Text:【CONT】 Memory If this card is in your memory, all of your "Justice On Behalf of Another, Shirou" get the following ability. "【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, choose 1 card in your hand, put it into your waiting room, and shuffle your deck."

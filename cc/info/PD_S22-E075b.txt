@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rin-chan Now!
+Card No.:PD/S22-E075b
+Rarity:CC
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:リンちゃんがいつまでたっても敬語なので、', 'そのたびに「そんな緊張しなくていいよ」', '「はっ、はい」みたいな会話を毎回やりたい。
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:If You Doubt Yourself, Kamina
+Card No.:GL/S52-E015
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Lets see you grit those teeth!!
+Trigger:
+Special Attribute:Team DAI-GURREN・Sunglasses
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Team DAI-GURREN》 characters revealed among those cards.

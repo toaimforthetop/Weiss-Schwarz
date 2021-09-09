@@ -1,0 +1,16 @@
+Card Name:
+English Name:Full Control Encounter, Shiroe
+Card No.:LH/SE20-E29
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Naotsugu: "If I were to hazard a guess, I\'d say he was fighting by looking thirty seconds ahead."
+Trigger:
+Special Attribute:Magic・Glasses
+Text:【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.", '【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card. 

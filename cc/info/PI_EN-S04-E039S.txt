@@ -1,0 +1,17 @@
+Card Name:
+English Name:Maid Outfit Miyu
+Card No.:PI/EN-S04-E039S
+Rarity:R
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:You can just use my first name, too…
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【AUTO】 When you use this card\'s "Backup", choose one of your characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of characters you have with "Illya(イリヤ)" or "Miyu(美遊)" in its card name.
+Text:【ACT】 【COUNTER】 Backup 500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +500 power until end of turn)

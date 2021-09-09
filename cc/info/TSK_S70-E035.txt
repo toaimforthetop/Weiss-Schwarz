@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Blow from Above, Rimuru
+Card No.:TSK/S70-E035
+Rarity:R
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Demon Continent・Slime
+Text:【AUTO】 When this card is placed on the stage from your hand, put 2 cards from the top of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.
+Text:【AUTO】 [(1) Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.", '

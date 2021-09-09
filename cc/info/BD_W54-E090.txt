@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Pajama Party" Tae Hanazono
+Card No.:BD/W54-E090
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:And then... a bit more of a smile... Kinda like this.
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, choose one of your characters, and that character gets +1500 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Genius Mage & Swordswoman, Lina
+Card No.:Fsl/W65-E046
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im Lina. Lina Inverse. As you can see, I'm a mage.
+Trigger:
+Special Attribute:Fantasia Bunko・Magic・Genius
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 0 or lower, you may 【REVERSE】 that character.
+Text:【ACT】 [Put 1 climax from your hand into your waiting room] This card gets +1000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may draw 1 card."

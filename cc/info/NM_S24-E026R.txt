@@ -1,0 +1,18 @@
+Card Name:
+English Name:Someone to Protect, Hitagi Senjyogahara
+Card No.:NM/S24-E026R
+Rarity:RRR
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"If you want to get past me, youll have to defeat me――", 'Can you do that?
+Trigger:Soul
+Special Attribute:Strange
+Text:【CONT】 Experience If the total level of the cards in your level is five or higher, this card gets +1500 power and the following ability. "【AUTO】 When this card attacks, choose one of your other 《Strange》 characters, and that character gets +1000 power until the end of your opponent\'s next turn."
+Text:【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Girl Who Knows Anything" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Strange》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

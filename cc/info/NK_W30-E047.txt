@@ -1,0 +1,16 @@
+Card Name:
+English Name:Poker Face!?
+Card No.:NK/W30-E047
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Event
+Color:Green
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Hah wah wah wah……
+Trigger:
+Special Attribute:
+Text:Search your deck for up to two 《Sweets》 or 《Animal》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards.

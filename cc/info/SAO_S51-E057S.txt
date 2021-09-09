@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Link Strike" Lisbeth
+Card No.:SAO/S51-E057S
+Rarity:SR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Hey, you!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named ""Link Strike" Kirito", you may choose an 《Avatar》 or 《Net》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 [Put two cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maid Clothes Asuna
+Card No.:SAO/S51-PE03
+Rarity:PR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Ill go make us some tea.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your other 《Avatar》 or 《Net》 characters, and return it to your hand.

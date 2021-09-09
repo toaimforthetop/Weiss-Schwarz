@@ -1,0 +1,17 @@
+Card Name:
+English Name:The One Who Did the Work, Rem
+Card No.:RZ/S68-E089
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Yes, I believe this is the best work my sisters direction and my meager abilities could produce.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 All of your other "Magnificent Subawaal Sculpture" get +1000 power.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.

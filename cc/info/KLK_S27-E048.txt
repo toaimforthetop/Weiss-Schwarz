@@ -1,0 +1,18 @@
+Card Name:
+English Name:War Declaration! Ryuko
+Card No.:KLK/S27-E048
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"…well have a leisurely chat another day, Satsuki Kiryuin!
+Trigger:Soul
+Special Attribute:Clothes・Weapon
+Text:【CONT】 All of your other 《Clothes》 characters get +1000 power.
+Text:【AUTO】 When this card is placed on stage from your hand, 【REST】 this card.
+Text:【AUTO】 When a card named "Battle of Fate" is placed on your climax area, if this card is in your center stage, 【STAND】 this card, choose up to one level 1 or lower character in your waiting room, and return it to your hand.

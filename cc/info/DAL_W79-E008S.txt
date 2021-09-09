@@ -1,0 +1,17 @@
+Card Name:
+English Name:Under the Azure Skies, Kurumi
+Card No.:DAL/W79-E008S
+Rarity:SR
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 If ""Frenzied Nightmare" Kurumi" is in your clock, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Date》 or 《Celestial Spirit》 characters you have.

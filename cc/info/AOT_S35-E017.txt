@@ -1,0 +1,16 @@
+Card Name:
+English Name:"104th Cadet Corps Class" Eren
+Card No.:AOT/S35-E017
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Keith: "Eren Jaeger. Lackluster in the classroom, marginally better in the field…… But. Driven by a sense of purpose that’s almost terrifying……"
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[AUTO] [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.

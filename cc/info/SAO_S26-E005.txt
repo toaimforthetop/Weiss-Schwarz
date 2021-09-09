@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna In a Birdcage
+Card No.:SAO/S26-E005
+Rarity:R
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:I still do……
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have another "Kirito - Two Worlds", this card gets +2000 power.

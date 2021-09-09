@@ -1,0 +1,17 @@
+Card Name:
+English Name:Confrontation With Spirits, Origami
+Card No.:DAL/W79-TE17
+Rarity:TD
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."Shido: "T-Tobiichi!"', 'Origami: "I\'m glad I got here in time."
+Trigger:Soul
+Special Attribute:Date・AST
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, if you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, you may pay the cost. If you do, choose 1 cost 1 or lower character in your opponent's back stage, and put it at the bottom of their deck.", '

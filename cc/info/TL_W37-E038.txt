@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Regretting a Little?” Yui
+Card No.:TL/W37-E038
+Rarity:R
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"I always watch Magical Kyoko." …should I have said that?
+Trigger:
+Special Attribute:Discipline Committee・Animal
+Text:【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.
+Text:【AUTO】 When a card named "Heart-racing Voice" is placed on your climax area, this card gets +1500 power until the end of your opponent\'s next turn.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck underneath this card as a marker.

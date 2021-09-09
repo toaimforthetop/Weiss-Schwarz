@@ -1,0 +1,17 @@
+Card Name:
+English Name:Creator of Disboard, Tet
+Card No.:NGL/S58-E014
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"But theyre coming. Coming to my very doorstep.
+Trigger:
+Special Attribute:Game・One True God
+Text:【AUTO】 When your other 《Game》 character attacks, this card gets +1500 power until end of turn.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

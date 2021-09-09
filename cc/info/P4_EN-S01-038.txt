@@ -1,0 +1,19 @@
+Card Name:
+English Name:Golden Right Leg, Chie
+Card No.:P4/EN-S01-038
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:He just came in and then, and then… h-he fainted all of a sudden.
+Trigger:Soul
+Special Attribute:Sports・Magic
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Chie\'s Pursuit" is in your climax area, you may pay the cost. If you do, choose one of your opponent\'s characters, and that character gets -1000 power until end of turn, and if your opponent does not have any 【STAND】 characters, choose one of your opponent\'s characters, and that character gets -1000 power for that turn.
+Text:
+Text:【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Chie & Suzuka Gongen" in your waiting room, and put it on the stage position that this card was on.
+Text:【ACT】 [【REST】 two of your characters] This card gets +2000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cold Reading, Sora
+Card No.:NGL/S58-E007
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Ive learned the tricks of your games, and here's your chance to wipe my memory.
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent\'s deck, and put them on the top of his or her deck in the original order.
+Text:【AUTO】 【CXCOMBO】 When "Checkmate" is placed on your climax area, if this card is on your center stage, choose 1 character on your center stage, and that character gets the following 2 abilities until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck." "【AUTO】 When this card becomes 【REVERSE】 in battle, put all your characters into your waiting room."

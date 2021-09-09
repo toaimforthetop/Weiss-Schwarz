@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Foothold》
+Card No.:AW/S43-E073
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Event
+Color:Red
+Level:3
+Cost:3
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose one of your characters, and until end of turn, that character gets +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may deal five damage to your opponent." (This damage may be canceled)

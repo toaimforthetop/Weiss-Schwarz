@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unseen Threat, Petelgeuse
+Card No.:RZ/S55-E010
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Proof of love! Authority of Sloth! Unseen Hand!
+Trigger:
+Special Attribute:Witch Cult・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Witch Cult》 character, this card gets +2000 power until end of turn.
+Text:【AUTO】 [(1) 【REST】 1 of your other 【STAND】 《Witch Cult》 characters] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Witch Cult》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

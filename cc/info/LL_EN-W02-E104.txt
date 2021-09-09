@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Homura's Star” Honoka Kosaka
+Card No.:LL/EN-W02-E104
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:2
+Power:8500
+Soul:1
+Flavor Text:"The steamed buns are really hot, so you have to blow on them. But theyre so delicious! I recommend them～The steamed buns are really hot, so you have to blow on them. But they're so delicious! I recommend them～The steamed buns are really hot, so you have to blow on them. But they're so delicious! I recommend them～The steamed buns are really hot, so you have to blow on them. But they're so delicious! I recommend them～The steamed buns are really hot, so you have to blow on them. But they're so delicious! I recommend them～The steamed buns are really hot, so you have to blow on them. But they're so delicious! I recommend them～The steamed buns are really hot, so you have to blow on them. But they're so delicious! I recommend them～
+Trigger:
+Special Attribute:Music・-
+Text:-

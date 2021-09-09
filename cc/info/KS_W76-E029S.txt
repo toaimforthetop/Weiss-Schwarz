@@ -1,0 +1,17 @@
+Card Name:
+English Name:"To the Crimson Demon Village!" Megumin & Yunyun
+Card No.:KS/W76-E029S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Megumin: "I just remembered some business I had back home."
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When a climax is placed on your climax area, if that card's trigger icon is , choose 1 of your characters, and that character gets +1 soul until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Demon King's Love
+Card No.:Fdl/W65-E099
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Become delicious. Moe moe kyun.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose 1 trait of a character on your opponent's stage, and all of your opponent's characters lose that trait until end of turn.", '

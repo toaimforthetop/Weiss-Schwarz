@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Shared Pain” Kuro
+Card No.:PI/EN-S04-E017
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:I at least have to!
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【AUTO】 When your opponent levels up, put this card into your waiting room.

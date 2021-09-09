@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mob Hunting Together, Lisbeth
+Card No.:SAO/SE23-E14
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Chest-!!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 [(1)] When this card frontal attacks, you may pay the cost. If you do, choose one of your opponent's characters, and that character gets -1 level until end of turn.", '

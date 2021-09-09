@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Bewitching Mermaid” Eli Ayase
+Card No.:LL/W36-TE15
+Rarity:TD
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"Im pretty confident in my swimming abilities♪ Do you think my long legs make me better?
+Trigger:Soul
+Special Attribute:Music・Swimsuit
+Text:【CONT】 All of your other 《Music》 characters get +1000 power.
+Text:【ACT】[(1) 【STAND】 this card] Choose one of your 《Music》 characters, and that character gets +1 soul until end of turn.
+Text:

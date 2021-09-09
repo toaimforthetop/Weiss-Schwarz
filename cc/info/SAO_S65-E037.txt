@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Page" Tiese
+Card No.:SAO/S65-E037
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Eugeo: "So, Tiese, you come from a noble family, right? I thought all the nobles\' mansions were in District Three and Four."
+Trigger:
+Special Attribute:Fluctlight・Noble
+Text:【AUTO】 [Put this card into your waiting room] When your other card with "Eugeo(ユージオ)" in its card name becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, 【REST】 that character.
+Text:【AUTO】 Bond/"Fate Beginning to Change, Eugeo" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Fate Beginning to Change, Eugeo" in your waiting room, and return it to your hand)

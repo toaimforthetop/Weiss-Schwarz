@@ -1,0 +1,16 @@
+Card Name:
+English Name:"World Class Faker" Arisa Ichigaya
+Card No.:BD/EN-W03-116
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Ever since meeting Kasumi, I just got caught up in her whirlwind.
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:

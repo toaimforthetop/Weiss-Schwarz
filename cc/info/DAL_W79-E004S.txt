@@ -1,0 +1,18 @@
+Card Name:
+English Name:Transfer Student, Kurumi
+Card No.:DAL/W79-E004S
+Rarity:SR
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Since Im new, I wanted someone to show me around the school after class.
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 All of your other 《Date》 or 《Celestial Spirit》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose up to 2 《Date》 or 《Celestial Spirit》 characters in your clock, and put them into your memory. At the end of the turn, choose 2 characters in your memory, and put them at the bottom of your clock in any order.
+Text:【ACT】 [【REST】 this card] Choose 2 《Date》 or 《Celestial Spirit》 characters in your waiting room, and put them at the bottom of your clock in any order. If you put 2 cards into your clock, at the end of the turn, put 2 cards from the bottom of your clock into your waiting room.

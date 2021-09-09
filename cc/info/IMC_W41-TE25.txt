@@ -1,0 +1,16 @@
+Card Name:
+English Name:Smiling Double Peace, Uzuki
+Card No.:IMC/W41-TE25
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Smile~
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"My smiles the one thing", 'I have confidence in! V!
+Trigger:
+Special Attribute:Music・-
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Koini Naritai AQUARIUM" Hanamaru Kunikida
+Card No.:LSS/W45-E004
+Rarity:R
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.

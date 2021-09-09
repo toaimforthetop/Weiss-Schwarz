@@ -1,0 +1,17 @@
+Card Name:
+English Name:Autumn Walk, Kazuto
+Card No.:SAO/SE23-E27
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Hey, Asuna.
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is on the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.

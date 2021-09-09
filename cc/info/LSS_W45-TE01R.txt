@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Kimino Kokorowa Kagayaiterukai?" Ruby Kurosawa
+Card No.:LSS/W45-TE01R
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 All of your other cards named ""Midsummer Aquarium" Hanamaru Kunikida" get +1 level and +500 power.
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

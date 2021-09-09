@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Finishing" Move, Assassin
+Card No.:FS/S34-E085
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Ultimate Technique, Swallow Reversal
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【CONT】 This card gets +1000 power for each of your other ""Finishing" Move, Assassin".
+Text:【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to two ""Finishing" Move, Assassin", and put them on separate positions of your stage. Shuffle your deck afterwards.
+Text:【AUTO】 When this card attacks, if a card named "Illya\'s Magic, Storch Ritter" is in your climax area and the number of your other 《Master》 or 《Servant》 characters is three or more, you may draw up to two cards. If you do, choose a card in your hand, and put it into your waiting room.

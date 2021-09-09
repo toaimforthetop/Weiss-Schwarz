@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yuki Himekawa
+Card No.:IMC/W41-E026
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text: She covers a lot of territory…!
+Trigger:
+Special Attribute:Music・Sports
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, put this card into your waiting room. (The revealed card is returned to its original place)

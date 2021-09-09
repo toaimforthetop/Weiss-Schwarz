@@ -1,0 +1,16 @@
+Card Name:
+English Name:Magical Girl Appears
+Card No.:MM/W17-E078
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Ill put the new girl out of commission. Permanently.
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room, return them to your hand, and choose a card in your hand, and put it into your waiting room. 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Collecting Medals, Maple
+Card No.:BFR/S78-E047
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 [(1) Put this card into your waiting room] When your other 《Game》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock]  (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Sweets Fairy” Maki Nishikino
+Card No.:LL/EN-W02-E129S
+Rarity:SR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"How about I just watch and learn this time? Its not like it's for anyone anyway.
+Trigger:Soul
+Special Attribute:Music・Sweets
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +3000 power until the end of your opponent's next turn.", '

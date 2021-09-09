@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: Not a Polyglot
+Card No.:CCS/WX01-044
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Ahhhh…!!
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Tomoeda》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 Bond/"Syaoran: Ice God, Come Forth!" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Syaoran: Ice God, Come Forth!" in your waiting room, and return it to your hand)

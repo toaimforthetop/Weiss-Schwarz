@@ -1,0 +1,16 @@
+Card Name:
+English Name:School Nursing, Karen
+Card No.:PI/EN-S04-E020
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:…What? Did one of your organs fall out?
+Trigger:
+Special Attribute:Infirmary・Teacher
+Text:【CONT】 If the number of cards in your opponent's clock is four or more, this card gets +1000 power.", '

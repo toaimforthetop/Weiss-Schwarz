@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Smile I Wanted to Protect, Yuna
+Card No.:SAO/S51-E041
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:At the very least, I can cheer him up.
+Trigger:
+Special Attribute:Avatar・Music
+Text:-

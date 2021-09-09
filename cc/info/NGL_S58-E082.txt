@@ -1,0 +1,17 @@
+Card Name:
+English Name:Prodigy of Ingenuity, Shiro
+Card No.:NGL/S58-E082
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Sora: "…Shiro"
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Donning the Mask
+Card No.:BNJ/SX01-095
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:2
+Power:
+Soul:0
+Flavor Text:I swear, their faith in me will not be squandered.
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Batman" in its card name, this card cannot be played from your hand.Search your deck for up to 2 《Weapon》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

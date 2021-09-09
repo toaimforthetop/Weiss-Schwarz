@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Summer Uniform” Rin Hoshizora
+Card No.:LL/W36-TE13
+Rarity:TD
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:I have so much energy in the summer! Maybe my dancing can chase away the summer heat.
+Trigger:
+Special Attribute:Music
+Text:

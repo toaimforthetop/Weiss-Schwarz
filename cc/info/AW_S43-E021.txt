@@ -1,0 +1,16 @@
+Card Name:
+English Name:Armed to the Teeth, Haruyuki
+Card No.:AW/S43-E021
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Ooooooohhh!!
+Trigger:
+Special Attribute:Avatar・Animal
+Text:【AUTO】 When you level up, this card gets "【AUTO】 Encore [(1)]" until end of turn.

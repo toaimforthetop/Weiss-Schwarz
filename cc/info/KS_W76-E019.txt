@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Vigorous Assertion" Kazuma
+Card No.:KS/W76-E019
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Fool! Im obviously gonna try something if we're all alone! I've even got your parents' approval!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent\'s characters, and that character gets the following ability until the end of your opponent\'s next turn. "【CONT】 This card cannot move to another position on the stage."

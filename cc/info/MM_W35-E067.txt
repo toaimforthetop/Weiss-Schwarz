@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Puella Magi Holy Quintet” Kyoko
+Card No.:MM/W35-E067
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Magic・Sweets
+Text:【CONT】 Assist All of your 《Magic》 characters in front of this card get +1 level and +500 power.
+Text:【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Unyielding Girl, Kyoko" in your waiting room, and put it on the stage position that this card was on.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose a character in your waiting room, and you may return it to your hand."

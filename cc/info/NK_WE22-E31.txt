@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sisters Taking a Bath, Haru
+Card No.:NK/WE22-E31
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"I dont get it. What makesyou think he's a good person?
+Trigger:
+Special Attribute:Sweets・-
+Text:【CONT】 If you do not have another character with "Kosaki(小咲)" in its card name, this card cannot Stand@ during your stand phase.{小と咲の間のスペースを消してください}

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unbelievably Good Luck, Felicia
+Card No.:MR/W80-E096
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:9000
+Soul:2
+Flavor Text:"Weve got it! Luck is on our side!
+Trigger:Soul
+Special Attribute:Magic・Mercenary
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 At the beginning of your encore step, if this card is in your center stage, return this card to your hand, choose up to 1 level 0 or lower character in your hand, and put it on the stage position that this card was on as 【REST】.

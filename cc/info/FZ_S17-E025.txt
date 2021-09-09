@@ -1,0 +1,16 @@
+Card Name:
+English Name:Search for Chestnut Bud
+Card No.:FZ/S17-E025
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Im so high up!
+Trigger:
+Special Attribute:
+Text:Each player puts the top three cards of his or her deck into the waiting room. If the number of level 1 or less characters put into your waiting room with this effect is more than the number of level 0 or less characters put into your opponent's waiting room with this effect, you may draw a card.", 'Put this card into your stock. 

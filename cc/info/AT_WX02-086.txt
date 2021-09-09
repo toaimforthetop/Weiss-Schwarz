@@ -1,0 +1,18 @@
+Card Name:
+English Name:Earl of Lemongrab
+Card No.:AT/WX02-086
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Shivering from Disparagement" Darkness
+Card No.:KS/W76-E006S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Hah… Aah…
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Magic》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Orc Invasion!" is in your climax area, and you have 2 or more other 《Adventurer》 or 《Magic》 characters, choose 1 of the following effects and perform it. "Choose 1 ""Fierce Battle" Vanir" or ""A Break in the Forest" Darkness" in your waiting room, and return it to your hand." "Search your deck for up to 1 ""Fierce Battle" Vanir" or ""A Break in the Forest" Darkness", reveal it to your opponent, put it into your hand, and shuffle your deck."

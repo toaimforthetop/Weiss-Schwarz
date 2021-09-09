@@ -1,0 +1,17 @@
+Card Name:
+English Name:Acting Director of Chaldea, Romani
+Card No.:FGO/S75-TE13
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Fujimaru, Mash... Now that both of you are here, lets start the briefing.
+Trigger:
+Special Attribute:Chaldea・Doctor
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.

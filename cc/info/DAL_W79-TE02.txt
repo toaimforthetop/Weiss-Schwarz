@@ -1,0 +1,16 @@
+Card Name:
+English Name:Worst Awakening Method, Kotori
+Card No.:DAL/W79-TE02
+Rarity:TD
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Wake up, wake up! Wake up, big brother!
+Trigger:
+Special Attribute:Date・-
+Text:【CONT】 If your level is 1 or higher, this card gets the following ability. "【ACT】 [Put this card into your waiting room] Choose 1 "Commander of Ratatoskr, Kotori" in your waiting room, and put it on the stage position that this card was on."【CONT】 All of your other 《Date》 or 《Celestial Spirit》 characters get +500 power.

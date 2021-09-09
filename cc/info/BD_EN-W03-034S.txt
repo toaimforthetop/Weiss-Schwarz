@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Full Support" Aya Maruyama
+Card No.:BD/EN-W03-034S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:I had never seen her trying so hard before, so it made me want to help her more than ever.
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】When a climax is placed on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】【CXCOMBO】When this card attacks, if "Shuwarin☆Dreaming" is in your climax area, reveal the top card of your deck. If that card is a 《Pastel＊Palettes》 character, put it into your hand. (Otherwise, return it to its original place)

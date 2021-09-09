@@ -1,0 +1,16 @@
+Card Name:
+English Name:Proof That One Cannot Die, Kanade
+Card No.:AB/W31-PE01
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:Hand Sonic
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] The character facing this card gets "【AUTO】 Encore ［Put a character from your hand into your waiting room］"

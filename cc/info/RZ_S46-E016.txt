@@ -1,0 +1,19 @@
+Card Name:
+English Name:Sloth Sin Archbishop, Petelgeuse
+Card No.:RZ/S46-E016
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:If you really meant it, you would pay no heed to the gazes of others.
+Trigger:
+Special Attribute:Witch Cult・Magic
+Text:【CONT】 If this card is on the stage, this card gets 《Sloth》 and 《Diligence》, and the character facing this card gets 《Sloth》.
+Text:【CONT】 This card cannot direct attack.
+Text:【CONT】 This card gets +1000 power for each marker underneath this card.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of markers underneath this card is ten or less, put the top card of your stock underneath this card as a marker. If you do, 【REST】 this card.

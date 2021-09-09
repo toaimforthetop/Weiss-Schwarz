@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Eternal Ice and the Rose" Eugeo
+Card No.:SAO/S65-E078
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Eternal ice has the ability to freeze everything. And the roses ability is...
+Trigger:Soul
+Special Attribute:Fluctlight・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(3) Put 1 "Blue Rose Sword" from your hand into your waiting room] At the beginning of your opponent\'s climax phase, you may pay the cost. If you do, choose 1 character facing this card, deal X damage to your opponent, and that character gets the following ability until end of turn. "【CONT】 This card cannot deal damage to a player." X is equal to that character\'s soul. (Damage may be canceled)

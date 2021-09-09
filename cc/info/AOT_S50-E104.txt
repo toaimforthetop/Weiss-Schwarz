@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Mischievous Battle" Chimi Colossal Titan
+Card No.:AOT/S50-E104
+Rarity:PR
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Hange: "It\'s a threat to all of humanity!"
+Trigger:
+Special Attribute:Titan・-
+Text:【CONT】 During the attack phase, you cannot return characters from your waiting room to your hand by your card's effects.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Beloved Archbishop, Sword Maiden
+Card No.:GBS/S63-E062
+Rarity:RR
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:People are… Women are weak creatures.
+Trigger:
+Special Attribute:Order・Archbishop
+Text:【AUTO】 When this card attacks, choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do,  【REST】 this card.

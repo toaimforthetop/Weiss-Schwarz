@@ -1,0 +1,17 @@
+Card Name:
+English Name:Firm Passion, MASKING
+Card No.:BD/W73-TE03
+Rarity:TD
+Expansion:BanG Dream! [RAISE A SUILEN]
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I guess.
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.

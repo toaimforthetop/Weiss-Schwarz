@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Night Stall-Hopping♪” Hanayo Koizumi
+Card No.:LL/EN-W02-E139
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I want to try harvesting rice sometime. Would you like to come with me?
+Trigger:Soul
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Music》 characters, and that character gets +3000 power until end of turn.
+Text:【AUTO】 Change [(2) Put this card into your clock] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "“Summer Festival Date” Hanayo Koizumi" in your waiting room, and put it on the stage position that this card was on.

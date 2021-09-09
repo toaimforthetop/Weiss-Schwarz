@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Shoho-class Light Aircraft Carrier, Shoho
+Card No.:KC/S25-E146
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Im an aircraft carrier too. I'll do it!
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Aircraft Carrier
+Text:【AUTO】When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn.", '

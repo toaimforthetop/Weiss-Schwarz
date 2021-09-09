@@ -1,0 +1,16 @@
+Card Name:
+English Name:Solitary Return
+Card No.:FS/S64-E022
+Rarity:CC
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:－
+Cost:－
+Power:－
+Soul:0
+Flavor Text:"Im sorry. And… I'm home, Sakura.
+Trigger:Soul・Soul
+Special Attribute:－・－
+Text:【CONT】 All of your characters get +2 soul.

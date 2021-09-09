@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Mikan
+Card No.:TL/W37-E103
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Hah--
+Trigger:
+Special Attribute:Housework・Bag
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Trans》 or 《Housework》 characters, and that character gets +1500 power until end of turn.

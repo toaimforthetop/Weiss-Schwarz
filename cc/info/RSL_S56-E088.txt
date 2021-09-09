@@ -1,0 +1,16 @@
+Card Name:
+English Name:Excessive Self-Practice, Junna Hoshimi
+Card No.:RSL/S56-E088
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:Nana: "Junna-chan!"
+Trigger:
+Special Attribute:Revue・Glasses
+Text:【AUTO】 At the beginning of your encore step, put the top card of your deck into your waiting room. If that card is level 1 or higher, put this card into your waiting room. (Climax are regarded as level 0)

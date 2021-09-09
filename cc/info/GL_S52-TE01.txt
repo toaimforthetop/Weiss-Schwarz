@@ -1,0 +1,17 @@
+Card Name:
+English Name:Support Role, Yoko
+Card No.:GL/S52-TE01
+Rarity:TD
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Now we can remain in contact with each other during a fight.
+Trigger:
+Special Attribute:Team DAI-GURREN・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn.

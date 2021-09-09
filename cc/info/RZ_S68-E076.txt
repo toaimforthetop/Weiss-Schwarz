@@ -1,0 +1,17 @@
+Card Name:
+English Name:Magic-Release Season Strategy Meeting, Puck
+Card No.:RZ/S68-E076
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:The last time was probably when I fought that lady in black in the capital. I actually ran out of mana.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 All characters without 《Memory Snow》 get -1000 power for every 2 markers underneath this card.
+Text:【AUTO】 【CXCOMBO】 When "It\'s Magic-Release Season!" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Memory Snow》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."

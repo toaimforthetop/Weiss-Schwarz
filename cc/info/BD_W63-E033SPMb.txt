@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sign of Youth" Tomoe Udagawa
+Card No.:BD/W63-E033SPMb
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Music》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card attacks, 【REST】 all of your other 【STAND】 characters.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Makoto as QUEEN: The Phantom Tactician
+Card No.:P5/S45-E028
+Rarity:R
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I will not lose heart again, ever.I will go full speed, non-stop!
+Trigger:
+Special Attribute:Thief・Student Council
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Thief》 or 《Student Council》 or 《Prosecutor》 characters, and that character gets +1 level and +1000 power until end of turn.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Thief》 or 《Student Council》 or 《Prosecutor》 character in your clock, return it to your hand, and put the top card of your deck into your clock.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"First Live" Kanan Matsuura
+Card No.:LSS/W45-E091
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【CONT】 If all of your characters are 《Music》, this card gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 When this card attacks, if the number of your other 《Music》 characters is three or more, this card gets +2000 power until end of turn.
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card.

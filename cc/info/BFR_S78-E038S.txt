@@ -1,0 +1,17 @@
+Card Name:
+English Name:Rumored Player in Blue, Sally
+Card No.:BFR/S78-E038S
+Rarity:SR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Game・Weapon
+Text:【CONT】 Experience If the total level of the cards in your level is 6 or higher, this card gets +1500 power.
+Text:【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room] When this card attacks, if "Azure Gleam of Her Eyes" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to the level of the card put into your waiting room by this ability\'s cost. (Climax are regarded as level 0. Damage may be canceled)

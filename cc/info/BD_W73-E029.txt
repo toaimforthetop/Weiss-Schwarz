@@ -1,0 +1,17 @@
+Card Name:
+English Name:RAISE YOUR HANDS, LAYER
+Card No.:BD/W73-E029
+Rarity:U
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"I got to see her again... Thats enough.
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《RAISE A SUILEN》 characters.
+Text:【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2500 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose 1 "RAISE YOUR HANDS, LAYER" or "Playing a Melody, Tae Hanazono" in your waiting room, and return it to your hand."

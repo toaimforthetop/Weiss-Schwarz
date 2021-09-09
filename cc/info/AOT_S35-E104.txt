@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chimi Annie
+Card No.:AOT/S35-E104
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:"The only person Im looking out for is myself.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【CONT】 This card cannot side attack.

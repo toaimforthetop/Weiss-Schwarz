@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Akatsuki
+Card No.:LH/SE20-E20
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Do not call me "pip squeak"!
+Trigger:
+Special Attribute:Weapon・Shinobi
+Text:

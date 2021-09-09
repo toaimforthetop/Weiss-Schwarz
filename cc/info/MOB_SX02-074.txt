@@ -1,0 +1,17 @@
+Card Name:
+English Name:MOB: Puppy Love
+Card No.:MOB/SX02-074
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Esper・First Love
+Text:【CONT】 Experience If the total level of the cards in your level is 2 or higher, this card gets +1000 power.
+Text:【CONT】 Memory If "Explosion Counter" is in your memory, this card gets the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."

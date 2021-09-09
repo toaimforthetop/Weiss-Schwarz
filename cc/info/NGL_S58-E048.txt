@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Final Piece
+Card No.:NGL/S58-E048
+Rarity:CC
+Expansion:No Game No Life
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Jibril: "Now, Kurami and Master know everything about each other, and can trust each other."
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)

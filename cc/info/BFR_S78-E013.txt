@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit, May
+Card No.:BFR/S78-E013
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Dont forget us! Splash!
+Trigger:
+Special Attribute:Game・Twins
+Text:【AUTO】 [Put 2 《Game》 characters from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your stock in any order.

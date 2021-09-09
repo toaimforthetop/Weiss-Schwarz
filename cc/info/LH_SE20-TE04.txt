@@ -1,0 +1,16 @@
+Card Name:
+English Name:Revealed Beauty, Akatsuki
+Card No.:LH/SE20-TE04
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Naotsugu: "Aw-yeah! S’up, girl. Babe city, seriously."
+Trigger:
+Special Attribute:Weapon・Shinobi
+Text:-

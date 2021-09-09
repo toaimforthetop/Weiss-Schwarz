@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Hidden Truth" Ymir
+Card No.:AOT/S50-E064b
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:When I opened my eyes, what I saw was freedom spread out before me. If there was such a thing as fate, I can only laugh at how fickle it can be.
+Trigger:
+Special Attribute:Titan・Corps
+Text:【CONT】 During your turn, if the number of other characters you have with "Christa(クリスタ)" in its card name is two or more, this card gets +4000 power.
+Text:【AUTO】 Change [(1) Put this card into your clock] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named "Ymir Titan" in your waiting room, and put it on the stage position that this card was on.

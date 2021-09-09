@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Magic of Smiles" Kanon Matsubara
+Card No.:BD/EN-W03-009S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:The world is a large place. There are so many possibilities…
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】All of your other yellow characters get +500 power.
+Text:【AUTO】When your other yellow character or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)

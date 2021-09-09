@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fighting Against Fate, Mami
+Card No.:MM/W17-PE04
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"You were just having a bad dream, thats all.
+Trigger:
+Special Attribute:Magic・Tea
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

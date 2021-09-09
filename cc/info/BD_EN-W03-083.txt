@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Now I'm Nervous" Rimi Ushigome
+Card No.:BD/EN-W03-083
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Not to mention the number of people in the audience! I thought my heart was going to explode!
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】When your other 《Music》 character attacks, this card gets+ 1000 power until end of turn.
+Text:【AUTO】[(1)] At the beginning of the encore step, if you do not have another【REST】character on your center stage, you may pay the cost. If you do,【REST】this card.

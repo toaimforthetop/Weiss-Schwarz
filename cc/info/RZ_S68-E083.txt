@@ -1,0 +1,16 @@
+Card Name:
+English Name:Can't Get Enough of This, Subaru
+Card No.:RZ/S68-E083
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Oh, damn it! Shes so cute!
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 When this card attacks, choose 1 of your 《Memory Snow》 characters, and that character gets +1 level and +1000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pioneer of Fate, Bucciarati
+Card No.:JJ/S66-E105
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:This is what true happiness is…
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】 ability, choose 1 of your 《Golden Wind》 characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 [(1)] Draw 1 card, choose 1 card in your hand, and put it into your waiting room.

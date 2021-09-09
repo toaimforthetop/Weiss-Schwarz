@@ -1,0 +1,16 @@
+Card Name:
+English Name:Just Out of the Bath Subaru
+Card No.:RZ/S55-E047
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:"I wasnt thinking about that!
+Trigger:
+Special Attribute:Death・Magic
+Text:【AUTO】 When this card is frontal attacked, reveal the top card of your deck. If that card is a climax, put this card into your waiting room. (Return the revealed card to its original place)

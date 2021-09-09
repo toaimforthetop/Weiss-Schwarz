@@ -1,0 +1,17 @@
+Card Name:
+English Name:The World Reflected in Her Eyes, Emilia
+Card No.:RZ/S68-E056S
+Rarity:SR
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:It might be a bit bland, but I think it looks just like you.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 Memory If you have 2 or more "Leave Everything to Me, Rem" in your memory, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (Otherwise, return it to its original place)【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

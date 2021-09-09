@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gentle Smile, Umi
+Card No.:LL/W34-E048
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Hehe
+Trigger:
+Special Attribute:Music・Student Council
+Text:【AUTO】 [(1) Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a climax in your waiting room, and return it to your hand.

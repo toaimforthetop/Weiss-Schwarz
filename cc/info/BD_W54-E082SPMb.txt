@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Perfect Smile" Chisato Shirasagi
+Card No.:BD/W54-E082SPMb
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, you may put it face down underneath this card as a marker. (If it is not, return the revealed card to its original position)

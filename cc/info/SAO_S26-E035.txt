@@ -1,0 +1,16 @@
+Card Name:
+English Name:Game Master, Oberon
+Card No.:SAO/S26-E035
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Hurts, doesnt it? I'll gradually let the pain increase, so you have something to look forward to.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【ACT】 [(1)] Choose a character in your opponent's center stage, and that character gets -1000 power until end of turn.", '

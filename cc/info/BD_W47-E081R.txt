@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tae Staring at the Stage
+Card No.:BD/W47-E081R
+Rarity:RRR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Rabbit
+Text:【AUTO】  When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】  【CXCOMBO】  [(1)] When this card\'s battle opponent becomes 【REVERSE】 , if a card named "Real Intentions" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Music》 character, and up to one card named "Hearing a Guitar for the First Time", reveal it to your opponent, put it into your hand, and shuffle your deck.

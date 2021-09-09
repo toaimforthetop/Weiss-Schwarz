@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sky Dragon Roar
+Card No.:FT/EN-S02-098
+Rarity:CR
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level: -
+Cost: -
+Power: -
+Soul:0
+Flavor Text:Sky Dragon Roar..!!!
+Trigger:Soul・Soul
+Special Attribute: -・ -
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

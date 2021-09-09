@@ -1,0 +1,17 @@
+Card Name:
+English Name:〈Berserk〉of the Whirlwind, Kaguya & Yuzuru
+Card No.:Fdl/W65-E091
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Kaguya: "Shall we do it?"Yuzuru: "Affirmative. Let\'s do it."
+Trigger:
+Special Attribute:Fantasia Bunko・Celestial Spirit・Bow and Arrow
+Text:【CONT】 All of your other 《Fantasia Bunko》 or 《Celestial Spirit》 characters get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on top or at the bottom of your deck.

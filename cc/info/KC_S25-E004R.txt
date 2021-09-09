@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Shokaku-class Aircraft Carrier, Zuikaku
+Card No.:KC/S25-E004R
+Rarity:RR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"This is the Fifth Carrier Divisions true power!
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【AUTO】 When a card named "All planes, take off!" is placed on your climax area, choose one of your characters with "Aircraft" in its trait, and that character gets the following ability until end of turn. "【AUTO】 [(1)] This ability activates up to one time per turn. When damage dealt by this card is canceled, you may pay the cost. If you do, deal one damage to your opponent." (This damage may be canceled)【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +3000 power until end of turn.

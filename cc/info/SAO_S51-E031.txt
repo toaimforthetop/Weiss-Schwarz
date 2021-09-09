@@ -1,0 +1,17 @@
+Card Name:
+English Name:Confident Profile, Eiji
+Card No.:SAO/S51-E031
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Im not who I was before…
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a face up card in your opponent's memory, and put it face down. If you do, at the end of your turn, put it face up.
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's characters, and move it to an open position of his or her stage.", '

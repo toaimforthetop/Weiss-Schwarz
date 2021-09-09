@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Pina's Heart》
+Card No.:SAO/S20-E065
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Kirito: "Don\'t cry. If 《Pina\'s Heart》 is still here, you can revive her."
+Trigger:
+Special Attribute:Familiar・Dragon
+Text:【CONT】 Your other character in the middle position of the center stage with "Silica" in its card name gets +1000 power.
+Text:【AUTO】 When another of your characters becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn. 

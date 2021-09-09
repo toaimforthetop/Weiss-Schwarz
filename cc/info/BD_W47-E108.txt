@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yesterday's Events, Arisa
+Card No.:BD/W47-E108
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【CONT】  If you do not have another character with "Kasumi(香澄)" in its card name, this card cannot 【STAND】  during your stand phase.
+Text:【AUTO】  When this card becomes 【REVERSE】  in battle, put this card on the bottom of your deck.

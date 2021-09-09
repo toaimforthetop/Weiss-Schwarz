@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kendo Girl, Suguha
+Card No.:SAO/S20-E034
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Sei!
+Trigger:
+Special Attribute:Net・Sports
+Text:【ACT】 Brainstorm [(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, this card gets +3000 power until end of turn.

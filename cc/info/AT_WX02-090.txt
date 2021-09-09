@@ -1,0 +1,17 @@
+Card Name:
+English Name:Gunter: Demonic Wishing Eye
+Card No.:AT/WX02-090
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【AUTO】 Bond/"Kitten" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Kitten" in your waiting room, and return it to your hand)
+Text:【ACT】 [【REST】 this card] Choose 1 character on your opponent\'s center stage, and that character gets -1000 power until end of turn.

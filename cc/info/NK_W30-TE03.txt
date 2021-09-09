@@ -1,0 +1,16 @@
+Card Name:
+English Name:First Date, Chitoge
+Card No.:NK/W30-TE03
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:What the…! Who are you to talk to me like that……!
+Trigger:
+Special Attribute:Heiress・Key
+Text:【CONT】 During your turn, this card gets +1000 power.

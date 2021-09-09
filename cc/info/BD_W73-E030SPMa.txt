@@ -1,0 +1,16 @@
+Card Name:
+English Name:My Own Pace, Moca Aoba
+Card No.:BD/W73-E030SPMa
+Rarity:SPM
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 【CXCOMBO】 When "The View on That Day" is placed on your climax area, if this card is in your center stage, and you have another 《Afterglow》 character, choose 1 of the following abilities, and this card gains that ability until end of turn. "【AUTO】 When this card attacks, you may put the top card of your deck into your stock." "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand."

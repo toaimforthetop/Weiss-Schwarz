@@ -1,0 +1,16 @@
+Card Name:
+English Name:MAX Tension, Shiina
+Card No.:AB/W31-E114
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Cute---!!
+Trigger:
+Special Attribute:Death・Weapon
+Text:[AUTO] [(1) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, choose a card in your opponent's waiting room, and put that character on top of your opponent's deck.

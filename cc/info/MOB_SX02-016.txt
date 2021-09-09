@@ -1,0 +1,17 @@
+Card Name:
+English Name:Go Asahi
+Card No.:MOB/SX02-016
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:Ignite! Ig—There we go! Oh, it went out.
+Trigger:Soul
+Special Attribute:Esper・-
+Text:【CONT】 This card gets -2 level while on the stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, you may deal 1 damage to your opponent. (Damage may be canceled)

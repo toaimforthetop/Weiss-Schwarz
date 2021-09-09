@@ -1,0 +1,16 @@
+Card Name:
+English Name:ACUTE
+Card No.:PD/S22-E098b
+Rarity:CR
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:悪魔の声は\u3000突き刺さり消えない', '仮面の裏を\u3000さあ引き 剥がして
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 。

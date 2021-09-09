@@ -1,0 +1,17 @@
+Card Name:
+English Name:For the Sake of Smiles, Kokoro Tsurumaki
+Card No.:BD/W73-E003SPMa
+Rarity:SPM
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】 When this card is placed on the stage from your hand or when this card becomes 【REVERSE】 in battle, you may look at the top card of your opponent's deck. (Return the card you saw to its original place)
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Hello, Happy World!》 character in your waiting room, and return it to your hand.

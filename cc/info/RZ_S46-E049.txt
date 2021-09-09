@@ -1,0 +1,18 @@
+Card Name:
+English Name:A Flower in Each Arm, Ram
+Card No.:RZ/S46-E049
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"But Im going with you. You'll have a pretty flower on each arm, Barusu.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 All of your other cards named "A Flower in Each Arm, Rem" get +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, choose up to one card named "A Flower in Each Arm, Rem" from among them, put it on any position of your stage, and put the rest into your waiting room.
+Text:【AUTO】 When this card attacks, if you have another card named "A Flower in Each Arm, Rem", this card gets +2000 power until end of turn.

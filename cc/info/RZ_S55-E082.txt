@@ -1,0 +1,17 @@
+Card Name:
+English Name:Oni's Blood Relative, Rem
+Card No.:RZ/S55-E082
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Maid
+Text:【AUTO】 This ability activates up to 1 time per turn. When your other "Oni\'s Blood Relative, Ram" is placed on the stage from your hand, you may put the top card of your deck into your stock.
+Text:【AUTO】 Bond/"Oni\'s Blood Relative, Ram" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Oni\'s Blood Relative, Ram" in your waiting room, and return it to your hand)

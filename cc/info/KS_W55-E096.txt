@@ -1,0 +1,16 @@
+Card Name:
+English Name:Seizure of Private Property
+Card No.:KS/W55-E096
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:3
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Put all of your opponent's stock into your opponent's waiting room, and at the end of the turn, your opponent puts the same number of cards from the top of his or her deck into the stock.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Member of Levi Squad" Gunther
+Card No.:AOT/S35-E044
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Eren: "Gunther Schultz. Seven kills; forty assists."
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] All of your other ""Humanity\'s Strongest Soldier" Levi" get +1000 power.
+Text:[CONT] If you have another ""Member of Levi Squad" Eld", all of your other 《Corps》 characters get +1 level.

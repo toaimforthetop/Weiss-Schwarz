@@ -1,0 +1,17 @@
+Card Name:
+English Name:Non-stop Attacks, Marika
+Card No.:NK/W30-E077
+Rarity:RR
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:It was full speed ahead for me to become the ideal woman that you were seeking.
+Trigger:Soul
+Special Attribute:Police・Key
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card attacks, if a card named "Exchanged Promises" is in your climax area, draw up to two cards, choose two cards in your hand, put them into your waiting room, and until end of your opponent\'s next turn, this card gets the following ability. "【CONT】 The character facing this card gets -1 soul."

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kamina
+Card No.:GL/S52-E002
+Rarity:RR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Who the hell do you think I am?!
+Trigger:
+Special Attribute:Team DAI-GURREN・Sunglasses
+Text:【CONT】 During your turn, if you have another 《Team DAI-GURREN》 character, this card gets +1500 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Later, Buddy" is in your climax area, and you have another 《Team DAI-GURREN》 character, search your deck for up to one 《Team DAI-GURREN》 character, reveal it to your opponent, put it into your hand, shuffle your deck, and this card gets the following ability until the end of your opponent\'s next turn. "【AUTO】 When this card is attacked, if the number of cards in your memory is two or less, put this card into your memory."

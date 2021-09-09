@@ -1,0 +1,16 @@
+Card Name:
+English Name:Message from Michelle
+Card No.:BD/W63-E022
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Misaki: "Ahaha... Thanks, Hagumi."
+Trigger:
+Special Attribute:
+Text:If you have 2 or less 《Hello, Happy World!》 characters, this card cannot be played from your hand.Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)

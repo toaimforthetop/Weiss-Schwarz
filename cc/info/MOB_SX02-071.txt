@@ -1,0 +1,18 @@
+Card Name:
+English Name:Ritsu: Psychic Powers
+Card No.:MOB/SX02-071
+Rarity:RR
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Esper・Student Council
+Text:【CONT】 If "Ritsu Kageyama" is in your clock, this card gets -1 level while in your hand.
+Text:【CONT】 If this card is on your center stage, all of your 《Esper》 or 《Spirit》 characters get +1500 power.
+Text:【AUTO】 【CXCOMBO】 Experience When this card attacks, if "Together With These Guys..." is in your climax area, and the total level of the cards in your level is 6 or higher, this card gets +1000 power and the following ability until the end of your opponent\'s next turn. "【AUTO】 At the beginning of your opponent\'s attack phase, choose up to 2 of your opponent\'s characters, and those characters get -1 soul until end of turn."

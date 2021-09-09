@@ -1,0 +1,17 @@
+Card Name:
+English Name:Caramel-chan
+Card No.:MOB/SX02-042
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Spirit・Claw
+Text:【AUTO】 [(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose 1 of your 《Spirit》 or 《Claw》 characters and this card, and exchange them as 【STAND】.
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.", '

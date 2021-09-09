@@ -1,0 +1,17 @@
+Card Name:
+English Name:Inherited Sword Skill, Asuna
+Card No.:SAO/S47-E101
+Rarity:RR
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Your sword will live on until the end of time.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, this card get +1500 power until end of turn.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Demise of 《Zekken》" is in your climax area, and the number of other 《Avatar》 or 《Net》 characters you have is three or more, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Anchorage Ogre in the Deep Sea
+Card No.:KC/SE28-E26
+Rarity:RR/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0 
+Power:1000
+Soul:1
+Flavor Text:You shall not… proceed any further…
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Ogre in the Deep Sea
+Text:【CONT】 Your other character in the middle position of your center stage gets +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

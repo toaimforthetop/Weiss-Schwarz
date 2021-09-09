@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Little Kindness, Witch
+Card No.:GBS/S63-E039
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"There arent any… quests.
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

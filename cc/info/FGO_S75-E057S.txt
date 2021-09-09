@@ -1,0 +1,17 @@
+Card Name:
+English Name:Bringing the Underworld Beneath Uruk! Ereshkigal
+Card No.:FGO/S75-E057S
+Rarity:SR
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:We just need to dig a hole!
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【CONT】 If you have 2 or more other 《Chaldea》 or 《Babylonia》 characters, this card gets +2000 power.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

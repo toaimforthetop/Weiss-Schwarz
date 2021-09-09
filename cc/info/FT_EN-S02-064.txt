@@ -1,0 +1,16 @@
+Card Name:
+English Name:Great Fire Totomaru
+Card No.:FT/EN-S02-064
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:9500
+Soul:1
+Flavor Text:Yes, and any form of fire is my plaything to do with as I please.
+Trigger:Soul
+Special Attribute:Magic・Element
+Text:【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.

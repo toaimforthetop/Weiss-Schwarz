@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hatsune Miku "Rosa Bianca"
+Card No.:PD/S29-E090b
+Rarity:R
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Rose
+Text:【CONT】 If the number of cards in your hand is five or more, this card gets +2000 power.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】,if a card named "Cantarella ～Grace Edition～" is in your climax area, you may draw a card.

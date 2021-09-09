@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kagamine Rin "Original"(F 2nd)
+Card No.:PD/S29-E001X
+Rarity:XR
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power.
+Text:【AUTO】 This ability activates up to one time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)【AUTO】 [(1)] When this card attacks. if a card named "Kokoro" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.

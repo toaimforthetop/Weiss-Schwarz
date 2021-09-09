@@ -1,0 +1,17 @@
+Card Name:
+English Name:"A Break in the Forest" Darkness
+Card No.:KS/W76-E003
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:We only just started this journey.
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [Put 1 ""A Break in the Forest" Darkness" from your hand into your waiting room & 【REST】 this card] Choose 1 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Companion on a Journey, Margaret
+Card No.:P4/EN-S01-084
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"Hence, Block Fro……… I didnt mispronounce it.
+Trigger:Soul
+Special Attribute:Gag・Book
+Text:【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.
+Text:
+Text:【AUTO】 [(1)] When this card is placed on stage from hand, you may pay the cost. If you do, choose a card named "Aria of the Soul" in your waiting room, and return it to your hand.
+Text:【AUTO】 [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, each player returns all cards in the waiting room to his or her deck. Each player shuffles his or her deck afterwards.

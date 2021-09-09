@@ -1,0 +1,16 @@
+Card Name:
+English Name:Madoka's Notebook
+Card No.:MR/W59-E052
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-Before she knew it, being a Magical Girl had become a dream for Madoka-
+Trigger:
+Special Attribute:
+Text:If your level is 1, choose 1 《Magic》 character in your waiting room, and return it to your hand.If your level is 2, choose 1 of your opponent's characters, and return it to their hand.If your level is 3, choose 1 《Magic》 character in your clock, and return it to your hand.", '

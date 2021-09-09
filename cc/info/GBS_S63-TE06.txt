@@ -1,0 +1,17 @@
+Card Name:
+English Name:Like a Parent, Goblin Slayer
+Card No.:GBS/S63-TE06
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I see.
+Trigger:Soul
+Special Attribute:Order・Weapon
+Text:【CONT】 During your turn, if you have another "Like a Child, Priestess", this card gets +4000 power.
+Text:【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Like a Child, Priestess" in your waiting room, and put it on any position of your stage.

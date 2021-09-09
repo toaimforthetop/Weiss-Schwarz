@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Twice Ovelapping" Assassin of Black
+Card No.:APO/S53-E083
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Reina: "Even if I\'m not around, you will be all right."
+Trigger:Soul
+Special Attribute:Servant・Mist
+Text:【CONT】 This card gets +5000 power for each marker underneath this card.
+Text:【ACT】 [Put two cards from your hand into your waiting room & Put two face up cards in your level face down] Look at the top card of your deck, and put it face down underneath this card as a marker.

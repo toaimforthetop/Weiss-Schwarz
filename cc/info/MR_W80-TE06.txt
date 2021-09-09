@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reunion, Kaede
+Card No.:MR/W80-TE06
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:Rena, whenever you feel sad, you always transform into Momoko.
+Trigger:Soul
+Special Attribute:Magic・Plant
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

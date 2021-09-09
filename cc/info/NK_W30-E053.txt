@@ -1,0 +1,17 @@
+Card Name:
+English Name:Surprising Side, Chitoge
+Card No.:NK/W30-E053
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Shut up! If you tell anybody, Ill make you pay!
+Trigger:
+Special Attribute:Heiress・Key
+Text:【AUTO】 When this card becomes 【Reverse】, if this card's battle opponent is level 0 or lower, you may 【Reverse】 that character.
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.", '

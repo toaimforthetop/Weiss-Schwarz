@@ -1,0 +1,17 @@
+Card Name:
+English Name:Imanity's Representative, Sora
+Card No.:NGL/S58-E003SP
+Rarity:SP
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Overthrowing A God" is in your climax area, you may put the bottom card of your stock into your waiting room. If that card is level 3 or higher, deal 2 damage to your opponent. (Climax are regarded as level 0. Damage may be canceled)

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Fallen Angel Flonne
+Card No.:DG/EN-S03-E013
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:Sir Laharl, do your best for the things that were stolen from us!
+Trigger:Soul
+Special Attribute:Angel・Demon
+Text:【CONT】 Assist All of your 《Demon》 characters in front of this card get +1 level and +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Demon》 characters, that character gets +1000 power and +1 soul until end of turn.
+Text:【AUTO】 Bond/"Overlord Mao" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Overlord Mao" in your waiting room, and return it to your hand.)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Intertwining Hearts
+Card No.:CCS/WX01-055Ra
+Rarity:RRR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:a:Now I’m back. and I can stay in Tomoeda forever.b:So that means I get the real you, not just letters and phone calls anymore?
+Trigger:Pool
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【POOL】: When this card triggers, you may put the top card of your deck into your stock)

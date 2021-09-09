@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pretty Face and Fair-Skinned, Mafuyu
+Card No.:Fsi/W65-E058
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I think that Mafuyu was in love with Senpai.
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Student Council・Otaku
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card gets +2000 power.
+Text:【ACT】 [(2) 【REST】 2 of your characters] Put the top card of your clock into your waiting room.

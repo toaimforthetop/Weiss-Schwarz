@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Plan of Capture" Female Titan
+Card No.:AOT/S35-E089
+Rarity:R
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Soldier: "Don\'t let her get away!"
+Trigger:Soul
+Special Attribute:Titan・-
+Text:【CONT】 The character facing this card gets -1 soul.
+Text:【AUTO】 When this card attacks, if a card named "Subjugation" is in your climax area and all of your characters are 《Titan》, draw a card, and this card gets the following ability until the end of your opponent\'s next turn. "【CONT】 The character facing this card gets -1 soul."
+Text:【AUTO】 [Put a 《Titan》 character from your hand into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, this card gets +2500 power until end of turn.

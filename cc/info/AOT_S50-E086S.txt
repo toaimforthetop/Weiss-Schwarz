@@ -1,0 +1,17 @@
+Card Name:
+English Name:Beast Titan
+Card No.:AOT/S50-E086S
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Ah, well…… Ill just take it back with me.
+Trigger:Soul
+Special Attribute:Titan・-
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Put a card named ""Predation" Titan" from your hand into your waiting room] When this card attacks, if a card named "Sentience" is in your climax area, and you have another 《Titan》 character, you may pay the cost. If you do, deal four damage to your opponent. (This damage may be canceled)

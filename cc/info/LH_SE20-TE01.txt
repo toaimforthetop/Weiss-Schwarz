@@ -1,0 +1,16 @@
+Card Name:
+English Name:Druid, Serara
+Card No.:LH/SE20-TE01
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Come on! You gotta get healthy faster than that!
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

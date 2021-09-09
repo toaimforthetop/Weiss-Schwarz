@@ -1,0 +1,16 @@
+Card Name:
+English Name:Magical Stick, Sapphire
+Card No.:PI/EN-S04-E057
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"To translate, both of them were informed that neither could return to the Mages Association until they learned to cooperate.
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 All of your other 《Magic》 characters get +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

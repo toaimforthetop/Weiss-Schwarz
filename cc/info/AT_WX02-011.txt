@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cake the Cat
+Card No.:AT/WX02-011
+Rarity:R
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Fanfiction・-
+Text:【CONT】 All of your other "Fionna the Human" get the following ability. "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+Text:【CONT】 During your turn, all of your other 《Fanfiction》 characters get +2000 power.

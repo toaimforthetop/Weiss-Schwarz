@@ -1,0 +1,16 @@
+Card Name:
+English Name:Operation Marduk Blitz
+Card No.:FGO/S75-E047
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Ughhhhhh!!
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Quetzalcoatl(ケツァル・コアトル)" in its card name, this card cannot be played from your hand.Choose 1 of your opponent\'s characters, that character gets -6000 power until end of turn, choose 1 of your characters, and that character gets -6000 power until end of turn.

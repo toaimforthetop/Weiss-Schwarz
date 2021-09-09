@@ -1,0 +1,16 @@
+Card Name:
+English Name:Keiko in Uniform
+Card No.:SAO/S26-E052
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"You shouldnt be watching.
+Trigger:
+Special Attribute:Net・Animal
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

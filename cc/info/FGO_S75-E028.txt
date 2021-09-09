@@ -1,0 +1,17 @@
+Card Name:
+English Name:The High Priestess of Uruk, Siduri
+Card No.:FGO/S75-E028
+Rarity:R
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"The city of Kutha is currently part of the area under Goddess Ishtars control.
+Trigger:
+Special Attribute:Babylonia・High Priestess
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 card in your clock, return it to your hand, put the top card of your deck into your clock, choose 1 of your characters, and that character gets +500 power until end of turn.

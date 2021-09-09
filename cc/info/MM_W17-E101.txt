@@ -1,0 +1,16 @@
+Card Name:
+English Name:Battle with Walpurgisnacht, Homura
+Card No.:MM/W17-E101
+Rarity:TD
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"This time, Ill put an end to you.
+Trigger:
+Special Attribute:Magic
+Text:【AUTO】 When this card attacks, look at up to two cards from the top of your deck, choose a card from among them, and put it on top of your deck. Put the rest into your waiting room.

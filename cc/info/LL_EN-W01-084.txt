@@ -1,0 +1,16 @@
+Card Name:
+English Name:Student Council President, Honoka
+Card No.:LL/EN-W01-084
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Being the student council president is hard work～!
+Trigger:
+Special Attribute:Music・Sweets
+Text:【AUTO】 When this  card becomes 【Reverse】 in battle, if the number of other 《Music》 characters you have is one or less, put this card into your clock.

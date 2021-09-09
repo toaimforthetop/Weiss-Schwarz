@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Humanity's Salvation" Shirou Kotomine
+Card No.:APO/S53-E030
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:And now, the people shall be saved.
+Trigger:
+Special Attribute:Master・Servant
+Text:【AUTO】 When your other character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 [【REST】 two of your characters] Choose a card in your level and a card in your waiting room, and exchange them.

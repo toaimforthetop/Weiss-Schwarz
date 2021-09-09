@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Looking Ahead" Kanan Matsuura
+Card No.:LSS/W45-E083
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・Sports
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【ACT】 [【REST】 two of your 《Music》 characters] Draw a card, choose a card in your hand, and put it into your waiting room.

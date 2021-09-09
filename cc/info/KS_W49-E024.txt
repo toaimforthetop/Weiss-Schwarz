@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Charge Attack!” Darkness
+Card No.:KS/W49-E024
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:Woaahhhh!!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 When this card attacks, put the top two cards of your deck into your waiting room. If there is a climax among those cards, this card gets -2 soul until end of turn. 【AUTO】 During this card's battle, when the damage you received is not canceled, this card gets +1500 power until end of turn.", '

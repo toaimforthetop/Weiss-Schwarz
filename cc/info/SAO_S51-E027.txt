@@ -1,0 +1,17 @@
+Card Name:
+English Name:Inviting Provocation, Eiji
+Card No.:SAO/S51-E027
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Do you really think you can beat me, the No. 2 ranked player?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 【CXCombo】 [Put a card named "Ordinal Number 2" from your climax area into your clock] When this card attacks, you may pay the cost. If you do, choose up to four 《Avatar》 or 《Net》 characters in your waiting room, put them into your stock in any order, and this card gets +1 soul until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory.

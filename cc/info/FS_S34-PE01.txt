@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Ones Fighting Against Fate
+Card No.:FS/S34-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Master・-
+Text:【CONT】 If you have another 《Servant》 character, this card gets +1500 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Kimino Kokorowa Kagayaiterukai?" Chika Takami
+Card No.:LSS/W45-TE10SP
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【AUTO】 When you use this card\'s "Backup", reveal the top card of your deck. If that card is a 《Music》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn. (The revealed card is returned to its original place)【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

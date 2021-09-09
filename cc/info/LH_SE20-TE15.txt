@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shiroe
+Card No.:LH/SE20-TE15
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Because it’s not. This is...Our new reality!
+Trigger:Soul
+Special Attribute:Magic・Glasses
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, draw a card.", '

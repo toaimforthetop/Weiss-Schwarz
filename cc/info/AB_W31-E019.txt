@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kanade's Innocent Eyes
+Card No.:AB/W31-E019
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Hmm…
+Trigger:
+Special Attribute:Death・Student Council
+Text:[AUTO] When this card attacks, choose one of your other 《Death》 characters, and that character gets +1000 power until end of turn.

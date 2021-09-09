@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pledge Severed, Ereshkigal
+Card No.:FGO/S75-E003
+Rarity:R
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hey, Fujimaru, I—
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 6 cards from the top of your deck, and put them into your waiting room. If there is a climax with [[return.gif]] in its trigger icon revealed among those cards, choose 1 《Chaldea》 or 《Babylonia》 character in your waiting room, and return it to your hand.", '

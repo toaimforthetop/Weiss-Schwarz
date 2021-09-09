@@ -1,0 +1,17 @@
+Card Name:
+English Name:"DREAMS of Smiles" Hagumi Kitazawa
+Card No.:BD/W73-E001SSP
+Rarity:SSP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】 When your characters' trigger check reveals a level 2 or higher card, choose 1 of your characters, and that character gets +1000 power until end of turn. (Climax are regarded as level 0)
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Hello, Happy World!》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

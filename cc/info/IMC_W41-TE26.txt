@@ -1,0 +1,16 @@
+Card Name:
+English Name:Plotting Anzu
+Card No.:IMC/W41-TE26
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Smile~
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"You fell for it! Im occupying this", 'room now!
+Trigger:
+Special Attribute:Music・Candy
+Text:-

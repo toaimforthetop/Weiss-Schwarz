@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tongue Twister
+Card No.:BM/S15-E022
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Then, say: "Nama-mumi, nama-mome,', 'nama-mamamo" three times.
+Trigger:
+Special Attribute:
+Text:Search your deck for up to one 《Strange》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 

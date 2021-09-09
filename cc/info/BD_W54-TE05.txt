@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Onstage" Rinko Shirokane
+Card No.:BD/W54-TE05
+Rarity:TD
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:The whole time…... I was making these outfits, I…... I was thinking about Roselia…... about your singing…
+Trigger:
+Special Attribute:Music・Roselia
+Text:【ACT】 [【REST】 this card] Choose one of your 《Music》 characters, and that character gets +1500 power until end of turn.

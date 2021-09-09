@@ -1,0 +1,16 @@
+Card Name:
+English Name:Death Knight
+Card No.:OVL/S62-E032
+Rarity:R
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Uoooooooaaaaaah!!
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of "Overlord, Ainz", this card gets +X power until end of turn. X is equal to the number of 《Grotesque Race》 or 《Nazarick》 characters you have ×500.

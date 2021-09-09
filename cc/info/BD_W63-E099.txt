@@ -1,0 +1,16 @@
+Card Name:
+English Name:Temporary Club Member
+Card No.:BD/W63-E099
+Rarity:CR
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:0
+Cost:0
+Power:
+Soul:0
+Flavor Text:"I-Ive been listening to classical music... since I was little…
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)

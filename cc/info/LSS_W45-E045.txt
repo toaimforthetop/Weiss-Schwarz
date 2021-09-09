@@ -1,0 +1,16 @@
+Card Name:
+English Name:"High Dive" You Watanabe
+Card No.:LSS/W45-E045
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Sports
+Text:【CONT】 This card cannot direct attack.

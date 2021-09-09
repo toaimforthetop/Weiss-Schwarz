@@ -1,0 +1,16 @@
+Card Name:
+English Name:Raise Both Hands! Arisa
+Card No.:BD/W47-TE15
+Rarity:TD
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【CONT】 This card cannot side attack.

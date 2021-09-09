@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sword Skill" Administrator
+Card No.:SAO/S65-E059
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:On your knees! Offer me your head! Submit to me!
+Trigger:Soul
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:4th Vittorio Veneto-class Battleship, Roma Kai
+Card No.:KC/S42-E087
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Roma of the Vittorio Veneto-class. Advance! Im going all out, follow me!
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 [Put a card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, this card gets -1 level and +3000 power until end of turn.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Innocent Girl, Nagisa
+Card No.:MM/W35-E018
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:Ah ha ha!
+Trigger:Soul
+Special Attribute:Magic・Cheese
+Text:【CONT】 During your turn, all of your other characters get +1000 power.', "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn.", '

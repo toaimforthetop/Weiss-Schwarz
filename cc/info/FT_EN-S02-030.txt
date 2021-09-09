@@ -1,0 +1,18 @@
+Card Name:
+English Name:Celestial Wizard, Lucy
+Card No.:FT/EN-S02-030
+Rarity:RR
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Im the greatest Celestial Wizard Fairy Tail’s got. So, why don't you just leave it to me!
+Trigger:Soul
+Special Attribute:Magic・Key
+Text:【CONT】 The character facing this card gets -1 soul.
+Text:【CONT】 Memory If the number of cards in your memory is four or more, this card gets the following ability. "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 When a card named "Forced Gate Closure" is placed on your climax area, if this card is on your center stage, all of your characters get +3000 power until end of turn.

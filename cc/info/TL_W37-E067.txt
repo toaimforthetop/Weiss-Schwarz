@@ -1,0 +1,16 @@
+Card Name:
+English Name:“True Friends” Nana
+Card No.:TL/W37-E067
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:The important thing is… our feelings, right!!
+Trigger:
+Special Attribute:Alien・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put this card into your stock. (The revealed card is returned to its original place)

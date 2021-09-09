@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Now Then, Where Shall We Go?" Yoshiko Tsushima
+Card No.:LSS/W53-TE02
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card attacks, if the number of other 《Music》 characters you have is two or more, this card gets +2000 power until end of turn.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

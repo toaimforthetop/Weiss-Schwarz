@@ -1,0 +1,16 @@
+Card Name:
+English Name:Satsuki Looking Up At the Sky
+Card No.:KLK/S27-E062
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Yes, I am now free of the past karma of the Kiryuins.
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:-

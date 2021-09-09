@@ -1,0 +1,16 @@
+Card Name:
+English Name:During the Festival, Hamakaze
+Card No.:KC/S42-E021
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:Admiral, Autumn Festivals mean… Mm, munch, mm, munch, munch, very delicious things. Hamakaze, is really enjoying them.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 During this card's battle, when the damage you received is not canceled, put this card into your waiting room.", '

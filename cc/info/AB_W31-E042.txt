@@ -1,0 +1,16 @@
+Card Name:
+English Name:Irie & Hisako
+Card No.:AB/W31-E042
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:She really was a horrible vocalist.
+Trigger:
+Special Attribute:Death・Music
+Text:

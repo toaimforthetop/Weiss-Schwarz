@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yusuke: It's a Deal
+Card No.:P5/S45-E090
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I was the one who was ableto bring it to life, all thanksto your assistance.You have my sincerest gratitude.
+Trigger:
+Special Attribute:Thief・-
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1 level and +2500 power.

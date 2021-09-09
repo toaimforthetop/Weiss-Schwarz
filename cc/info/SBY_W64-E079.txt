@@ -1,0 +1,18 @@
+Card Name:
+English Name:Logical Witch, Rio Futaba
+Card No.:SBY/W64-E079
+Rarity:RR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"Well then, Im going to put my socks on.
+Trigger:Soul
+Special Attribute:Adolescence・Science
+Text:【CONT】 If you have 2 or more other 《Adolescence》 characters, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. When this card\'s battle opponent becomes 【REVERSE】, if "Adolescence Paradox" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.

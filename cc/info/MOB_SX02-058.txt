@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yusuke: Having to Face Reality
+Card No.:MOB/SX02-058
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"What? Whats with that look?
+Trigger:
+Special Attribute:Esper・Claw
+Text:【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Esper》 or 《Claw》 characters, this card gets +2000 power until end of turn.

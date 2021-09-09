@@ -1,0 +1,17 @@
+Card Name:
+English Name:Dazzling Gold, Alice
+Card No.:SAO/S65-TE02
+Rarity:TD
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Hey! What are you two whispering about?
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.

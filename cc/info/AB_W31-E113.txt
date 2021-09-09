@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yuri Nakamura
+Card No.:AB/W31-E113
+Rarity:RR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Should I be happy…? Or get mad…?
+Trigger:Soul
+Special Attribute:Death・Weapon
+Text:[AUTO] When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:[AUTO] When this card attacks, if you have a card named "Heart of the World" on your climax area, deal one damage to your opponent, and this card gets +1500 power until end of your opponent\'s next turn. (This damage may be canceled)

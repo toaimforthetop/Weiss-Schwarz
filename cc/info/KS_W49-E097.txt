@@ -1,0 +1,16 @@
+Card Name:
+English Name:Senpai Appears
+Card No.:KS/W49-E097
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Th-This voice… Aqua-senpai!? Is it really you!?
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you do not have a 《Goddess》 character, this card cannot be played from your hand.Choose up to two of your 《Adventurer》 or 《Goddess》 characters, and they get the following ability until end of turn. "【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】."

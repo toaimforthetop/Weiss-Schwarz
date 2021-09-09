@@ -1,0 +1,16 @@
+Card Name:
+English Name:Releasing Oneself, Takamatsu
+Card No.:AB/W31-TE17
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:Hinata: "Whatever, just get dressed."
+Trigger:Soul
+Special Attribute:Death・Muscle
+Text:[ACT][COUNTER] Backup 2000, Level 1 ［(1) Put this card from your hand into your waiting room］ (Choose one of your characters that is being frontal attacked, and that character gets +2000 power until end of turn.)

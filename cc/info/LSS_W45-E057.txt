@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Daisuki Dattara Daijoubu!" You Watanabe
+Card No.:LSS/W45-E057
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card attacks, if the number of other characters you have with "Chika(千歌)" or "Riko(梨子)" in its card name is two or more, this card gets +2000 power until end of turn.

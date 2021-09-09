@@ -1,0 +1,17 @@
+Card Name:
+English Name:Event Bonus, Sally
+Card No.:BFR/S78-E036S
+Rarity:SR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Weapon
+Text:【CONT】 You cannot play event cards or "Backup" from your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Game》 characters among those cards ×1000.

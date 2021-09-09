@@ -1,0 +1,17 @@
+Card Name:
+English Name:Resolved Conflict, Yuri
+Card No.:AB/W31-E057R
+Rarity:RRR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Its finally over…
+Trigger:
+Special Attribute:Death・Weapon
+Text:[CONT] All of your other 《Death》 characters get +500 power.
+Text:[AUTO] When another of your 《Death》 characters becomes [REVERSE] in battle, choose one of your characters, and that character gets +500 power until end of turn.

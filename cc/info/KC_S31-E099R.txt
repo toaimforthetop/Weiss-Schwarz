@@ -1,0 +1,16 @@
+Card Name:
+English Name:From which ship do I start to repair?
+Card No.:KC/S31-E099R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:I can repair even more now! Thank you very much!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul. 

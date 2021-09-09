@@ -1,0 +1,17 @@
+Card Name:
+English Name:Adolescent Shiro
+Card No.:NGL/S58-E094
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:...You really... are empty...
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【CONT】 This card gets +2000 power for each of your other "Adolescent Shiro" on your center stage.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Promise Between the Two" is in your climax area, draw up to 1 card, and put up to 1 card from the top of your deck into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Innocent Insult, Mare
+Card No.:OVL/S62-TE05
+Rarity:TD
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:I’m trying to find the most important person in the mansion. Is that you, lady?
+Trigger:Soul
+Special Attribute:Humanoid Race・Nazarick
+Text:【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

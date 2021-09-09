@@ -1,0 +1,16 @@
+Card Name:
+English Name:Welcome to Banbanzai
+Card No.:MR/W80-E026
+Rarity:CC
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Welcome to Chinese Restaurant Banbanzai!
+Trigger:Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.([[return.gif]]: When this card triggers, you may choose 1 of your opponent's characters, and return it to their hand)", '

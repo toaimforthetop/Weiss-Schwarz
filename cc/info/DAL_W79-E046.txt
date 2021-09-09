@@ -1,0 +1,16 @@
+Card Name:
+English Name:Choosing a Swimsuit, Yoshino
+Card No.:DAL/W79-E046
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 【CLOCK】 Alarm [(1) Put 1 card from your hand into your waiting room] At the beginning of your main phase, if this card is the top card of your clock, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck.

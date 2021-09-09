@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Winter Moment, Ikaduchi
+Card No.:KC/S31-E046
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Yes. You can depend on me more-!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 When?this?card?attacks, choose one of your 《Fleet Girl》 characters, and that character gets +1 level and +1000 power until end of turn.

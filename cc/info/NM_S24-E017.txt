@@ -1,0 +1,16 @@
+Card Name:
+English Name:Being Bashful, Mayoi Hachikuji
+Card No.:NM/S24-E017
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2 
+Power:9000
+Soul:2
+Flavor Text:I was bashful!
+Trigger:Soul
+Special Attribute:Strange・Spirit
+Text:-

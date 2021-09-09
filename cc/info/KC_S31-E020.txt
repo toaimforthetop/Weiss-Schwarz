@@ -1,0 +1,18 @@
+Card Name:
+English Name:Type 3 Submergence Transport Vehicle, Maruyu-Kai
+Card No.:KC/S31-E020
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Im not a mole. My name is Maruyu!
+Trigger:
+Special Attribute:Fleet Girl・Submarine
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck. 
+Text:【AUTO】 Experience When this card is placed on the stage from your hand, draw up to X cards, choose X cards in your hand, and put them into your waiting room. X is equal to the number of "Type 3 Submergence Transport Vehicle, Maruyu-Kai" in your level.
+Text:【ACT】 [(1)] Choose one of your 《Fleet Girl》 characters, and that character gets the following ability until end of turn. "【AUTO】 When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is lower than or equal to the level of this card, you may put that character into your opponent\'s stock"

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mea Kurosaki
+Card No.:TL/W37-E002
+Rarity:RR
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"…That\'s wonderful?"
+Trigger:Soul
+Special Attribute:Trans・Sweets
+Text:【CONT】 During your turn, this card gets +1000 power for each of your other 《Trans》 or 《Housework》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of your 《Trans》 or 《Housework》 characters.

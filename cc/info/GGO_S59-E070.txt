@@ -1,0 +1,17 @@
+Card Name:
+English Name:Obstinate Death Wish, Pitohui
+Card No.:GGO/S59-E070
+Rarity:RR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Are you enjoying life and death, too? Hey, hey!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [Put the top card of your stock into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 cost 0 or lower 《Avatar》 or 《Net》 character with level equal to or lower than your level, put it on any position of your stage, and shuffle your deck.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

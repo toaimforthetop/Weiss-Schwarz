@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Osmanthus Knight" Alice Synthesis Thirty
+Card No.:SAO/S65-TE05
+Rarity:TD
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:I am the overseer of the capital city of Centoria,an Integrity Knight of the Axiom Church… Alice Synthesis Thirty.
+Trigger:Soul
+Special Attribute:Fluctlight・Integrity Knight
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Fluctlight》 characters you have ×1000.

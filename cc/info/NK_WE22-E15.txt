@@ -1,0 +1,17 @@
+Card Name:
+English Name:Clue, Haru
+Card No.:NK/WE22-E15
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:My prince……!
+Trigger:
+Special Attribute:Sweets・-
+Text:【CONT】 All of your other 《Sweets》 characters get +500 power.
+Text:【CONT】 Memory This card gets the following ability for each card named "Promised Pendant" in your opponent\'s memory. "【CONT】 All of your other 《Sweets》 characters get +500 power."

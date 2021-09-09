@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Self-Taught Survival" Maya Yamato
+Card No.:BD/W63-E057SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When "Serious Survivor" is placed in your climax area, you may pay the cost. If you do, choose up to 1 ""What an Idol Is" Maya Yamato" in your hand, and put it on the stage position that this card was on.

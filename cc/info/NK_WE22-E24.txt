@@ -1,0 +1,17 @@
+Card Name:
+English Name:Draw of the Shop, Haru
+Card No.:NK/WE22-E24
+Rarity:R
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:You know, I really love their daifuku, too……!
+Trigger:
+Special Attribute:Sweets・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Sweets》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

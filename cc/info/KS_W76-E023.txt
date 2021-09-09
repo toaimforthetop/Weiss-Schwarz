@@ -1,0 +1,16 @@
+Card Name:
+English Name:"To the Crimson Demon Village!" Darkness
+Card No.:KS/W76-E023
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:12000
+Soul:0
+Flavor Text:Wait! Orcs are supposed to be the natural predators of lady knights! Male orcs! Renowned for their libido, attacking women the second they see them!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:0

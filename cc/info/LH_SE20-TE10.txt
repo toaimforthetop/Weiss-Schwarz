@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chef, Nyan-ta
+Card No.:LH/SE20-TE10
+Rarity:TD
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I have mastered the gentlemanly art of being a chef.
+Trigger:
+Special Attribute:Weapon・Cook
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 

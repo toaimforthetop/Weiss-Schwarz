@@ -1,0 +1,17 @@
+Card Name:
+English Name:Final Battle, Female Swordmaster
+Card No.:GBS/S63-E020
+Rarity:C
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Everyones in the same boat! We all have someone dear to us and things we want to do.
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 During your turn, if you have another "Final Battle, Female Hero", this card gets +4000 power.
+Text:【AUTO】 When this card attacks, choose 1 of your other "Final Battle, Female Hero", and that card gets +2500 power until end of turn.

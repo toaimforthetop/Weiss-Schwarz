@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Important Opportunity" Hina Hikawa
+Card No.:BD/W63-E061
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"In that case, I guess Ill stick around until that happens. I've got a feeling it's gonna be interesting!
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 When this card attacks, choose up to 2 of your 《Music》 characters, and those characters get +500 power until end of turn.
+Text:【AUTO】 Bond/""If I Could Be Myself..." Chisato Shirasagi" [(1)] (When this card is played and placed on the stage from your hand, you may pay the cost. If you do, choose 1 ""If I Could Be Myself..." Chisato Shirasagi" from your waiting room, and return it to your hand)

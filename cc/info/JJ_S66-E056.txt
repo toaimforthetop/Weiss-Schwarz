@@ -1,0 +1,16 @@
+Card Name:
+English Name:10 Hours Ago, Pericolo
+Card No.:JJ/S66-E056
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"We mustnt leave any kind of evidence.
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【ACT】 [(1) 【REST】 this card] Look at up to 2 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into the waiting room. (Climax are regarded as level 0)【ACT】 [Put 1 card from your hand into your waiting room & Put this card into your waiting room] Choose 1 《Golden Wind》 character in your waiting room, and return it to your hand.

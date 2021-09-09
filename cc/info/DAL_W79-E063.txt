@@ -1,0 +1,16 @@
+Card Name:
+English Name:Analyst of Ratatoskr, Reine
+Card No.:DAL/W79-E063
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im not certified, but I can perform simple first aid.
+Trigger:
+Special Attribute:Date・Ratatoskr
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2500 power until end of turn.

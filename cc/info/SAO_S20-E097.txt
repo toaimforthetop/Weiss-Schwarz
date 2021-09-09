@@ -1,0 +1,16 @@
+Card Name:
+English Name:Thank you, goodbye
+Card No.:SAO/S20-E097
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:
+Text:Choose one of your opponent's level 3 or lower characters, and that character cannot 【STAND】 during your opponent's next stand phase.", '

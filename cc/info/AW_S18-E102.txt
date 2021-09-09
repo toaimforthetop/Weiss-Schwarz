@@ -1,0 +1,17 @@
+Card Name:
+English Name:Miraculous Survival, Kuroyukihime
+Card No.:AW/S18-E102
+Rarity:TD
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:…...I was surrounded by a dark void…...and all I could hear was your voice.  
+Trigger:Soul
+Special Attribute:Student Council・Avatar
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【ACT】 [(1) 【REST】 this card] Choose one of your opponent's level 0 or lower characters, and return it to his or her hand.

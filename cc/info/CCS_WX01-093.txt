@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: Topsy-Turvy
+Card No.:CCS/WX01-093
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:Ah..!
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 character on your opponent's center stage, and that character gets +3000 power until end of turn.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

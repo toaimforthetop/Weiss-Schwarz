@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Polite” Yunyun
+Card No.:KS/W49-E039
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Thank you.
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 If you do not have any other characters, this card gets +2000 power.
+Text:【AUTO】 Bond/"Megumin" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Megumin" in your waiting room, and return it to your hand.)

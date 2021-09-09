@@ -1,0 +1,16 @@
+Card Name:
+English Name:Armored Aircraft Carrier Ogre in the Deep Sea
+Card No.:KC/SE28-E07
+Rarity:R
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Ogre in the Deep Sea
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Fleet in the Deep Sea》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Fleet in the Deep Sea》 characters you have.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yuri Defying God
+Card No.:AB/W31-TE18
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Right! Lets go!
+Trigger:Soul
+Special Attribute:Death・Weapon
+Text:[AUTO] When this card attacks, if a card named "Battle with Shadows" is in your climax area, you may choose a character in your waiting room, and return it to your hand.

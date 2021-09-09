@@ -1,0 +1,16 @@
+Card Name:
+English Name:5th Generation Chrome Disaster
+Card No.:AW/S18-E073
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:--I will eat you alive. All of you.
+Trigger:
+Special Attribute:Avatar・-
+Text:

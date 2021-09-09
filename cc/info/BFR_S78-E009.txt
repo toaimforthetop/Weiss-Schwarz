@@ -1,0 +1,17 @@
+Card Name:
+English Name:Battle-Ready Force, Yui
+Card No.:BFR/S78-E009
+Rarity:R
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Twins
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《Game》 characters.
+Text:【AUTO】 【CXCOMBO】 When your opponent levels up, if "Destroyer" is in your climax area, and this card is in your center stage, choose up to 1 《Game》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is a 《Game》 character, put it into your hand. (Otherwise, return it to its original place)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Childhood Friends" Moca Aoba
+Card No.:BD/EN-W03-039
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hehe, I kinda miss those days~. We used to hide together like that all the time. Mhm, mhm.
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【CONT】All of your other ""Cool Friends" Ran Mitake" get +1000 power.
+Text:【ACT】[Put 1 ""Cool Friends" Ran Mitake" from your hand into your waiting room] Choose 1 《Afterglow》 character in your clock, return it to your hand, and put the top card of your deck at the bottom of your clock.

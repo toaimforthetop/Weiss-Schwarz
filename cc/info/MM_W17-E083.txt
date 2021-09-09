@@ -1,0 +1,18 @@
+Card Name:
+English Name:Sayaka Fights for Others
+Card No.:MM/W17-E083
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I dont regret making my wish for someone else's sake.
+Trigger:
+Special Attribute:Magic・Love
+Text:【CONT】 All of your other characters named "Howling Kyoko" get +500 power and "【AUTO】 Encore ［Put a character from your hand into your waiting room］".
+Text:【CONT】 Assist All of your characters in front of this card get +500 power. 
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

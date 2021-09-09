@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tea Time, Kotori & Hanayo
+Card No.:LL/EN-W02-E002
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Kotori: "I wish that everyone can enjoy themselves."
+Trigger:
+Special Attribute:Music・Sweets
+Text:【AUTO】 [(1)Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

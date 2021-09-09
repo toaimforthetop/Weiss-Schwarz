@@ -1,0 +1,18 @@
+Card Name:
+English Name:Guardian, Naotsugu
+Card No.:LH/SE20-E34
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:……Toya, the job of a front-line tank is to absorb all the enemy hits, and to trust his companions to back him up when he needs it.
+Trigger:Soul
+Special Attribute:Weapon・-
+Text:【CONT】 This card gets +500 power for each of your other 《Weapon》 or 《Magic》 characters. 
+Text:【CONT】 Great Performance (When your opponent attacks, if this card is in the middle position of your center stage and not 【REVERSE】, your opponent frontal attacks this card instead)
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card from your opponent's hand, and puts it into his or her waiting room. ", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:High-Class Charms, Rias
+Card No.:Fdd/W65-TE09R
+Rarity:RRR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Ufufu, you really say things that make me happy.
+Trigger:
+Special Attribute:Fantasia Bunko・Demon・King
+Text:【CONT】 This card gets +500 power for each of your other 《Fantasia Bunko》 or 《Demon》 characters.

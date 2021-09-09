@@ -1,0 +1,16 @@
+Card Name:
+English Name:To the Cave in the North, Alice
+Card No.:SAO/S65-E001
+Rarity:RR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Well, we have no choice but to go in now, right?
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose 1 card from among them, put it into your clock, and put the rest into your waiting room. If you put 1 card into your clock, choose 1 《Fluctlight》 character in your waiting room, and return it to your hand.

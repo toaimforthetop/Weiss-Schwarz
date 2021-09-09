@@ -1,0 +1,16 @@
+Card Name:
+English Name:Return to Reality
+Card No.:AW/S43-E050
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Yeah, theyre my friends.
+Trigger:
+Special Attribute:
+Text:All of your characters get "【AUTO】 Encore [(1)]" until end of turn.Put this card into your stock.

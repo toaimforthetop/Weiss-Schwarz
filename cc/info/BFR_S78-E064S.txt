@@ -1,0 +1,17 @@
+Card Name:
+English Name:Flame Emperor, Mii
+Card No.:BFR/S78-E064S
+Rarity:SR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Game・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [Put 3 《Game》 characters from your hand into your waiting room] When this card is placed on the stage by the effect of "Guild Master of Flame Emperors", you may pay the cost. If you do, 【STAND】 this card. (This ability can also be used when this card is placed on the stage by the  effect of "Guild Master of Flame Emperors" that was revealed during trigger check)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Hero Possession" Sieg
+Card No.:APO/S53-E012
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Grrk…..
+Trigger:Soul
+Special Attribute:Homunculus・Master
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a level 0 or lower character, put it into your stock. (If it is not, return the revealed card to its original place)
+Text:【ACT】 [(2) Put a face up card in your level face down & Put this card into your memory] Choose up to one card named ""Volition" Saber of Black" in your hand, put it on the stage position that this card was on, and at the beginning of the encore step, return that character to your hand, choose a card named ""Hero Possession" Sieg" in your memory, and put it on the stage position that that character was on.

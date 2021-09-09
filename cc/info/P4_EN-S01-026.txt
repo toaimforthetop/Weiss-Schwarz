@@ -1,0 +1,19 @@
+Card Name:
+English Name:Fox of Tatsuhime Shrine
+Card No.:P4/EN-S01-026
+Rarity:R
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:*Yip!*
+Trigger:Soul
+Special Attribute:Animal・God
+Text:【CONT】 If the number of cards in your stock is five or more, all of your other characters get "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:
+Text:【AUTO】 [【REST】 this card] When another of your characters with 《Glasses》 or "Protagonist(主人公)" in its card name is placed on stage from your hand, if this card is 【STAND】, you may pay the cost. If you do, put the top card of your deck into your stock.
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

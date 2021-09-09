@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tomoyo: Best Friend
+Card No.:CCS/WX01-061
+Rarity:R
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Oh?
+Trigger:
+Special Attribute:Tomoeda・Video Camera
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Tomoeda》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [Return this card to your hand] When "Dress Designer\'s Delight" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand."

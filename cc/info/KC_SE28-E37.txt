@@ -1,0 +1,17 @@
+Card Name:
+English Name:Light Cruiser Ogre in the Deep Sea
+Card No.:KC/SE28-E37
+Rarity:U
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Sink… to the deep…… and not being able to surface again!
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Ogre in the Deep Sea
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room. If that card is a climax, put this card into your stock.
+Text:【AUTO】 [Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named "Final Mode, Light Cruiser Ogre in the Deep Sea" in your hand, and put it on this card\'s stage position as the defending character.

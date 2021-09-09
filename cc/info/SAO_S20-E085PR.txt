@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kirito's Strong Bond
+Card No.:SAO/S20-E085PR
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other characters with "Asuna" in its card name get +500 power. ', "【CONT】 During your opponent's turn, all of your other characters get +500 power. ", '

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Hanako
+Card No.:IMC/W41-TE55
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Event
+Color:Blue
+Level:3
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 You may put the top card of your clock into your waiting room.
+Text:Choose one of your characters, and that character gets +2000 power until end of turn. Put this card into your memory.
+Text:-

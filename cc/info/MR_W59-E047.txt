@@ -1,0 +1,16 @@
+Card Name:
+English Name:Emiri Kisaki
+Card No.:MR/W59-E047
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:We should totally do this! It’s fun!
+Trigger:
+Special Attribute:Magic・Support
+Text:【CONT】 If you have 1 or less other characters, this card gets +1500 power.

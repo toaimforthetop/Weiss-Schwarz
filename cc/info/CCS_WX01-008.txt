@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sakura: Not Very Effective
+Card No.:CCS/WX01-008
+Rarity:R
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:It’s no use.
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters you have ×500.

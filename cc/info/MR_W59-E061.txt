@@ -1,0 +1,17 @@
+Card Name:
+English Name:Confirmation of Feelings, Rena
+Card No.:MR/W59-E061
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"From now on… Ill fight alongside you!
+Trigger:
+Special Attribute:Magic・Attack
+Text:【CONT】 If all of your characters are 《Magic》, this card gets +1500 power and "【AUTO】 Encore [Put 1 character from your hand into your waiting room".
+Text:【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, look at the top card of your deck, put it on the top of your deck or into your waiting room, choose up to 1 red character in your waiting room, and put it into your stock.

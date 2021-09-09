@@ -1,0 +1,16 @@
+Card Name:
+English Name:“The Unconquerable Snow Black” Yukiko Amagi
+Card No.:P4/EN-S01-055
+Rarity:R
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Please escort me to the ring, my prince!"
+Trigger:
+Special Attribute:Fan・Magic
+Text:【CONT】 If the number of other 《Fan》 or 《Japanese Clothes》 characters you have is three or more, this card gets +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

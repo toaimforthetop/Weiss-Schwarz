@@ -1,0 +1,17 @@
+Card Name:
+English Name:Command Mantra, Demiurge
+Card No.:OVL/S62-E042
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Do try to enjoy your last few hours, okay?
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 All of your other "As a Warrior, Cocytus" get +1500 power and "【AUTO】 Encore [Put 1 《Grotesque Race》 or 《Nazarick》 character from your hand into your waiting room]".
+Text:【AUTO】 Bond/"As a Warrior, Cocytus" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "As a Warrior, Cocytus" in your waiting room, and return it to your hand)

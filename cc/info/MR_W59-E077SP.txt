@@ -1,0 +1,17 @@
+Card Name:
+English Name:Battle Alongside Friends, Yachiyo
+Card No.:MR/W59-E077SP
+Rarity:SP
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Kamihama City\'s Magical Girl" is in your climax area, search your deck for up to 1 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

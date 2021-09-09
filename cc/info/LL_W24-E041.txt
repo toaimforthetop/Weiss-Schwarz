@@ -1,0 +1,18 @@
+Card Name:
+English Name:Plotting Secretly, Nico
+Card No.:LL/W24-E041
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"……I thought this might happen, so Ive already picked out an easily high-scoring song…
+Trigger:
+Special Attribute:Music・Otaku
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 Change ［(3) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Our LIVE, the LIFE with You" Nico Yazawa" in your waiting room, and put it on the stage position that this card was on.
+Text:-

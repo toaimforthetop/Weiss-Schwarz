@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ice Cannon
+Card No.:FT/EN-S02-099
+Rarity:CC
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level: -
+Cost: -
+Power: -
+Soul:0
+Flavor Text: -
+Trigger:Soul・Soul
+Special Attribute: -・ -
+Text:【CONT】 All of your characters get +2 soul.

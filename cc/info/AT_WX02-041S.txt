@@ -1,0 +1,17 @@
+Card Name:
+English Name:Princess Bubblegum: Sending Off on a Quest
+Card No.:AT/WX02-041S
+Rarity:SR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:3000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Royalty
+Text:【CONT】 Assist All of your characters in front of this card get +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s memory."
+Text:【AUTO】 When this card is placed on the stage from your hand, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent\'s characters, and return it to his or her hand.

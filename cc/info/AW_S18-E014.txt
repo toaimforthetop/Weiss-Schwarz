@@ -1,0 +1,17 @@
+Card Name:
+English Name:Real Strength, Kuroyukihime
+Card No.:AW/S18-E014
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:……Strength isn’t solely defined by the number of victories you have won.  
+Trigger:Soul
+Special Attribute:Student Council・Net
+Text:【AUTO】 Change [(2) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named "Kuroyukihime" or "Black Lotus" in your waiting room, and put it on the stage position that this card was on.
+Text:【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1500 power until end of turn.

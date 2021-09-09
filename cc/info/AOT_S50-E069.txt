@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Smile I Want to Protect" Christa
+Card No.:AOT/S50-E069
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Reiner: "You might think I\'m joking, but is it that hard for you to believe that we might want the best for Christa as well?"
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 All of your other cards named ""Until the Dying Breath" Ymir" get +2000 power.
+Text:【ACT】 [Put a card named ""Until the Dying Breath" Ymir" from your hand into your waiting room] Look at up to four cards from the top of your deck, choose up to one 《Corps》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

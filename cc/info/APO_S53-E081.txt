@@ -1,0 +1,18 @@
+Card Name:
+English Name:Golem Keter Malkuth
+Card No.:APO/S53-E081
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:5000
+Soul:2
+Flavor Text:Caules: "Is that perhaps the golem Caster was talking about?!"
+Trigger:Soul
+Special Attribute:
+Text:【CONT】 This card gets +1500 power for each marker underneath this card.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Homunculus》 character or a card named "Roche Frain Yggdmillennia" in your waiting room, and put it face up underneath this card as a marker.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put the top card of your deck underneath this card as a marker, and 【REST】 this card.

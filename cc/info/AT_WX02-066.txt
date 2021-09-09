@@ -1,0 +1,17 @@
+Card Name:
+English Name:Skeleton Princess
+Card No.:AT/WX02-066
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【CONT】 If your stock has 2 or less cards, this card gets +1500 power.
+Text:【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.

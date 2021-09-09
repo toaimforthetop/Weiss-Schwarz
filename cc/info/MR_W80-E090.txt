@@ -1,0 +1,17 @@
+Card Name:
+English Name:Magical Girl from Mitakihara City, Sayaka
+Card No.:MR/W80-E090
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Love
+Text:【CONT】 All of your other characters with "Sayaka(さやか)" or "Kyoko(杏子)" in its card name get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other characters with "Sayaka(さやか)" or "Kyoko(杏子)" in its card name, and that character gets +1000 power until end of turn.

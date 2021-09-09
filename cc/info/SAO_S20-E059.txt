@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cute Mischief, Silica
+Card No.:SAO/S20-E059
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:Ah!?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 At the beginning of your climax phase, reveal the top card of your deck. If the revealed card is a climax, choose another of your characters, and put it into your waiting room. （The revealed cards are returned to their original place.)

@@ -1,0 +1,18 @@
+Card Name:
+English Name:President Raspberyl
+Card No.:DG/EN-S03-E028
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:My manifisto requires everyone to do one good turn daily!', 'Soon enough, this Netherworld is gonna be filled with delinquents!!
+Trigger:Soul
+Special Attribute:Demon・Delinquent
+Text:【AUTO】 When you use "Brainstorm", if a climax is put into the waiting room by that effect, this card gets +2000 power until end of turn.
+Text:【AUTO】 When damage dealt by this card is canceled, this card gets +3000 power until end of turn.
+Text:-

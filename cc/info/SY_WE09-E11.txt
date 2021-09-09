@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cicada Capturing Competition, Mikuru
+Card No.:SY/WE09-E11
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Haruhi: "This will be the SOS Brigade\'s Cicada Capturing Competition!"
+Trigger:Soul
+Special Attribute:Time・SOS Brigade
+Text:【CONT】 If the number of other 《Time》 or 《SOS Brigade》 characters you have is three or more, this card gets +1000 power.

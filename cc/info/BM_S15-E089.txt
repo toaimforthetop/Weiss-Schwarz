@@ -1,0 +1,17 @@
+Card Name:
+English Name:Koyomi Araragi Running Around
+Card No.:BM/S15-E089
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Thats an idea that Oshino had, too……", "But we don't know what the root of her stress is, remember?
+Trigger:
+Special Attribute:Strange・Blood
+Text:[CONT] During your opponent's turn, all of your other 《Class Representative》 characters get +500 power.
+Text:[AUTO] Bond／"Tsubasa Hanekawa" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Tsubasa Hanekawa" in your waiting room, and return it to your hand.) 

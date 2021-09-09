@@ -1,0 +1,16 @@
+Card Name:
+English Name:Akira Himi
+Card No.:AW/S43-E081S
+Rarity:SR
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Net・Glasses
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Royal Election Candidate, Priscilla
+Card No.:RZ/S46-E022
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"I dont want drooling commoners following me around.
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【CONT】 During this card\'s battle, if the level of this card\'s battle opponent is lower than the level of this card, this card gets +2000 power.
+Text:【CONT】 The character facing this card gets the following ability. "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack."

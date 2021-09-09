@@ -1,0 +1,19 @@
+Card Name:
+English Name:"The Raging Bull of Destruction" Shadow Labrys
+Card No.:P4/EN-S01-022SP
+Rarity:SP
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Shadow・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.
+Text:
+Text:【AUTO】 [(1)] When this card\'s level 2 or higher battle opponent becomes  【REVERSE】, if a card named "Arrival of Asterius" is in your climax area, you may pay the cost. If you do, choose one of your opponent\'s level 2 or lower characters on the center stage, and put it into your opponent\'s clock.
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

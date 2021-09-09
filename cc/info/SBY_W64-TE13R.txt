@@ -1,0 +1,17 @@
+Card Name:
+English Name:Building Trust, Nodoka Toyohama
+Card No.:SBY/W64-TE13R
+Rarity:RRR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I think I understand it a bit now.
+Trigger:
+Special Attribute:Adolescence・Fashionable
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

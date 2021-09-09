@@ -1,0 +1,16 @@
+Card Name:
+English Name:Aim for New York? Dine
+Card No.:RZ/S68-E005
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:He called it a town swirling with love and desire!
+Trigger:
+Special Attribute:Memory Snow・-
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Memory Snow》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Memory Snow》 characters you have ×500.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Invincible Hero" Kokoro Tsurumaki
+Card No.:BD/W54-E015
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Actually, I love everyone Ive ever met!
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1 soul.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

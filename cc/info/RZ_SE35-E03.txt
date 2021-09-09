@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The Frozen Bond" Puck & Emilia
+Card No.:RZ/SE35-E03
+Rarity:RR
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Puck: "I\'m here because you summoned me."
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 【CXCOMBO】 [Put 1 green card from your hand into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, if "Sacred Dialogue" is in your climax area, and you have another 《Magic》 or 《Weapon》 character, you may pay the cost. If you do, search your deck for up to 2 《Magic》 or 《Weapon》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

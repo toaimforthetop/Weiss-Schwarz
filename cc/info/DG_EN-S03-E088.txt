@@ -1,0 +1,16 @@
+Card Name:
+English Name:Assassin from Celestia
+Card No.:DG/EN-S03-E088
+Rarity:CC
+Expansion:Disgaea
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Ｎｉｃｅ\u3000ｔｏ\u3000ｍｅｅｔ\u3000ｙｏｕ．\u3000Ｉ’ｍ\u3000ａｎ\u3000ａｓｓａｓｓｉｎ~
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

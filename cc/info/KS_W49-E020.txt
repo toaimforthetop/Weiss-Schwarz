@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mitsurugi
+Card No.:KS/W49-E020
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Wooaaahhhhh～～!!
+Trigger:
+Special Attribute:Adventurer・Weapon
+Text:【CONT】 If there is a marker underneath this card, this card gets +3000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a card named "“Quest Clear” Aqua" in your waiting room, and put it face down underneath this card as a marker.
+Text:【AUTO】 When this card\'s battle oppponent becomes 【REVERSE】, choose one of your other 《Adventurer》 or 《Goddess》 characters, 【REST】 it, and move it to an open position of your back stage.

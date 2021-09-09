@@ -1,0 +1,16 @@
+Card Name:
+English Name:Like a Girl, Kirito
+Card No.:SAO/SE23-TE09
+Rarity:TD
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Id like to go to a cheap weapons shop, and also someplace called the Administrative Building……
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

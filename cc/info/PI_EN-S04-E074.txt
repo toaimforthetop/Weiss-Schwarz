@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Saber” Install, Miyu
+Card No.:PI/EN-S04-E074
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Kuro: "Impressive, Miyu."
+Trigger:
+Special Attribute:Master・Magic
+Text:【CONT】 This card gets +1 level and +2500 power for each marker underneath this card.
+Text:【AUTO】 When this card attacks, choose up to one climax in your hand, reveal it to your opponent, and put it face down underneath this card as a marker.

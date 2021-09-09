@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Agano-class Light Cruiser, Yahagi
+Card No.:KC/S25-E010
+Rarity:R
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Do not take the Agano-class lightly just because they are light cruisers.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【AUTO】Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】' />)【ACT】[【REST】two of your 《Fleet Girl》 characters] This card gets +2500 power until end of turn.", '

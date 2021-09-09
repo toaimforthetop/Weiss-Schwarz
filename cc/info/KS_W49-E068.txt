@@ -1,0 +1,16 @@
+Card Name:
+English Name:Megumin's Rival
+Card No.:KS/W49-E068
+Rarity:CR
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Now, Megumin. Please have a duel with me!!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn.

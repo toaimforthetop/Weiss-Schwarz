@@ -1,0 +1,16 @@
+Card Name:
+English Name:17th Yugumo-class Destroyer, Hayashimo
+Card No.:KC/S31-E012
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"You want a piece of me? Thats fine, I'll be your opponent.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use "【AUTO】 Encore". (You cannot use the "【AUTO】 Encore [(3)]" rule either)

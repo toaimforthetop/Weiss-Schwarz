@@ -1,0 +1,17 @@
+Card Name:
+English Name:Satisfying Conclusion, Puck
+Card No.:RZ/S68-E068
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Theres still hope even for you, Subaru.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 All of your other 《Memory Snow》 characters get +500 power.
+Text:【ACT】 [(1)] Choose 1 level 0 or lower character in your opponent's center stage, and put it at the bottom of his or her deck.", '

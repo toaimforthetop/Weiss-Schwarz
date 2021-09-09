@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Overlord” Sicily
+Card No.:DG/EN-S03-E029
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Yes! That means Im the Overlord now, right?
+Trigger:Soul
+Special Attribute:Angel・Magic
+Text:【CONT】 If the number of other 《Demon》 or 《Angel》 characters you have is three or more, this card gets +1000 power and "【AUTO】 Encore [Put a character from your hand into your waiting room].

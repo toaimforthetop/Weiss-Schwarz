@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kindness and Strength, Rumia
+Card No.:Fra/W65-E081
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:If everyone can be saved… I will sacrifice this body… That is my geniune wish.
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Magic・Royalty
+Text:【CONT】 If you have 4 or more 《Fantasia Bunko》 or 《Magic》 characters, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Fantasia Bunko》 or 《Magic》 character in your clock, and put it into your memory.
+Text:【AUTO】 [(1) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's power.", '

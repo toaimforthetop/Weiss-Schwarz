@@ -1,0 +1,16 @@
+Card Name:
+English Name:Golden Dream, Giorno & Bucciarati
+Card No.:JJ/BSF2020-02
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:"Ill wager on your golden dream, Giorno Giovanna.
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When you use this card\'s "Backup", reveal the top card of your deck. If that card is a 《Golden Wind》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

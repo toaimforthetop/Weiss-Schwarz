@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Mischievous Battle" Chimi Armin
+Card No.:AOT/S50-E101
+Rarity:PR
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Dont do it! You can't win in a slugfest! Run this way!
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【CONT】 This card cannot be chosen by your opponent's effects.
+Text:【CONT】 Assist All of your 《Corps》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '

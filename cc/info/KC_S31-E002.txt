@@ -1,0 +1,18 @@
+Card Name:
+English Name:2nd Yamato-class Battleship, Musashi-Kai
+Card No.:KC/S31-E002
+Rarity:RR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Musashi is here! Theres no need to fear.
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. 
+Text:【AUTO】 [(1)] When a card named "The main guns of Musashi, are not just for show." is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose a character in your waiting room, return it to your deck, and shuffle your deck.
+Text:【ACT】[(1)] Choose one of your 《Fleet Girl》 characters, and that character gets +1500 power until end of turn.

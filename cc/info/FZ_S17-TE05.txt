@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Invisible Air" Saber
+Card No.:FZ/S17-TE05
+Rarity:TD
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】[Reveal any number of climax cards in your hand] At the beginning of your battle step of this card's battle, you may pay the cost. If you do, this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards revealed.(The revealed cards are returned to hand)", '

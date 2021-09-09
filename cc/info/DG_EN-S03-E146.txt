@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rozalin & Sapphire
+Card No.:DG/EN-S03-E146
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:How can a noble better justify squandering time than with the pursuit of knowledge?
+Trigger:Soul
+Special Attribute:Demon・Royalty
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Oversleeping Claudine Saijo
+Card No.:RSL/S56-E089
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Oh, my～～ I, of all people, unfortunately overslept.
+Trigger:Soul
+Special Attribute:Revue・Child Actor
+Text:【CONT】 Assist All of your 《Revue》 characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【ACT】 [【REST】 this card] Choose 1 of your 《Revue》 characters, and that character gets +1000 power until end of turn.", '

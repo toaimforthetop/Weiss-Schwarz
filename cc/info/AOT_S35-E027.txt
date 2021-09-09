@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Titan's Power"
+Card No.:AOT/S35-E027
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:[COUNTER] Choose one of your 《Corps》 characters, until end of turn, that character gets +4000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s memory."

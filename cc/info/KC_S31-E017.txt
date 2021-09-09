@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Oyodo-class Light Cruiser, Oyodo-Kai
+Card No.:KC/S31-E017
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Flagship Oyodo, will be going all out. Heading out!
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:

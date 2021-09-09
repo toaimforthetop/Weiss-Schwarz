@@ -1,0 +1,16 @@
+Card Name:
+English Name:I'll Miku-Miku You♪ (For Reals)
+Card No.:PD/S29-E039
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:みくみくにしてやんよだからちょっと油断をしてあげて
+Trigger:
+Special Attribute:
+Text:Choose one of your characters with "Miku(ミク)" in its card name, and until end of turn, that character gets +3939 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, search your deck for up to one character with "Miku(ミク)" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards."

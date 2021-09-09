@@ -1,0 +1,16 @@
+Card Name:
+English Name:Familiar's Work, Archer
+Card No.:FS/S34-TE17
+Rarity:TD
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"You are quite the slob, arent you, girl?
+Trigger:Soul・Soul
+Special Attribute:Servant・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

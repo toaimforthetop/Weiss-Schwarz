@@ -1,0 +1,17 @@
+Card Name:
+English Name:Childhood Natsu & Happy
+Card No.:FT/EN-S02-T14
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Natsu: "Happy the dragon."
+Trigger:
+Special Attribute:Magic・Dragon
+Text:【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named "Dragon Power, Natsu" in your waiting room, and put it on the stage position that this card was on.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Dragon》 characters, and that character gets +1000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sensing Surreptitiously, Rem
+Card No.:RZ/S55-E058
+Rarity:RR
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 During your turn, if you have another 《Magic》 or 《Weapon》 character, this card gets +3000 power.
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Magic》 or 《Weapon》 characters, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.

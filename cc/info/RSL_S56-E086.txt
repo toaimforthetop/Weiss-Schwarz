@@ -1,0 +1,16 @@
+Card Name:
+English Name:"99th Seisho Festival" Claudine Saijo
+Card No.:RSL/S56-E086
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Revue・Child Actor
+Text:－

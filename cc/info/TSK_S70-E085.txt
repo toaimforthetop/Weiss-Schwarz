@@ -1,0 +1,17 @@
+Card Name:
+English Name:Into the Midst of Battle, Ranga
+Card No.:TSK/S70-E085
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Demon Continent・Shadow
+Text:【CONT】 All of your other 《Demon Continent》 characters get +500 power.
+Text:【AUTO】 【CXCOMBO】 When "Squaring off Against a Spirit" is placed on your climax area, reveal the top card of your deck. If that card is a 《Demon Continent》 character, choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card attacks, during that attack, perform a trigger check 2 times on the trigger step." (Return the revealed card to its original place)

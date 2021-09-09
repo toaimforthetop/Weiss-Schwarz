@@ -1,0 +1,16 @@
+Card Name:
+English Name:6th Floor Guardian, Aura
+Card No.:OVL/S62-TE02
+Rarity:TD
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hah!
+Trigger:
+Special Attribute:Humanoid Race・Nazarick
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.", '

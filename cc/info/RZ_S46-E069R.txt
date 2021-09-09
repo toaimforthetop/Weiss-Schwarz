@@ -1,0 +1,17 @@
+Card Name:
+English Name:Modest Request, Rem
+Card No.:RZ/S46-E069R
+Rarity:RRR
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:5500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【CONT】 Assist All of your characters in front of this card with "Ram(ラム)" or "Rem(レム)" or "Subaru(スバル)" in its card name get +2000 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named "Demon\'s Demeanor, Rem", draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.
+Text:【AUTO】 【CXCOMBO】 [Put a character from your hand into your waiting room & Put a card named "Oni\'s Smile" from your climax area into your waiting room] At the end of your turn, you may pay the cost. If you do, return the top card of your clock to your hand.

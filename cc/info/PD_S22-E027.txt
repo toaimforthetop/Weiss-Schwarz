@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hatsune Miku"Factory Tyrant"
+Card No.:PD/S22-E027
+Rarity:RR
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:『次に手を抜いたら\u3000生きてここを出られなくなるから', 'そのつもりで……ね？』
+Trigger:Soul
+Special Attribute:Music・Factory
+Text:【AUTO】 When this card is placed on stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if you have a card named "Sadistic.Music∞Factory" in your climax area, you may put that character into your opponent\'s clock.

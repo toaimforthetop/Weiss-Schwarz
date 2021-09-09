@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Club Show" Rimi
+Card No.:BD/W47-E064
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Choco Cornet
+Text:【AUTO】  When this card attacks, if the number of other 《Music》 characters you have is two or more, this card gets +2000 power until end of turn.

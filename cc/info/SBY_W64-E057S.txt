@@ -1,0 +1,17 @@
+Card Name:
+English Name:Schooling High School Idol, Nodoka Toyohama
+Card No.:SBY/W64-E057S
+Rarity:SR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:All you need to think about is Big Sister.
+Trigger:Soul
+Special Attribute:Adolescence・Fashionable
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, draw 1 card, choose 1 card in your hand, put it into your waiting room, choose up to 1 of your opponent\'s characters, and return it to his or her hand.
+Text:【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if "A Sparkling Stage" is in your climax area, and you have another 《Adolescence》 character, you may pay the cost. If you do, look at up to 4 cards from the top of your opponent\'s deck, choose up to 4 cards from among them, put them into your opponent\'s waiting room, return the rest to your opponent\'s deck, your opponent shuffles his or her deck, and this card gets +1000 power until end of turn.

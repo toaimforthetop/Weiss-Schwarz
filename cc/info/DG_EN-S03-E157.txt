@@ -1,0 +1,16 @@
+Card Name:
+English Name:Home Economics Teacher, Mr. Champloo
+Card No.:DG/EN-S03-E157
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Follow the path of taste!', 'Young one, go forth on high heat!
+Trigger:Soul
+Special Attribute:Teacher・Cook
+Text:【AUTO】 During your opponent's turn, when this card's battle opponent becomes 【REVERSE】, you may draw a card.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:My Best Friends In The World
+Card No.:AT/WX02-071
+Rarity:CR
+Expansion:Adventure Time
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"♪ Im gonna sing a song to you, and I refuse to make it fake ♫
+Trigger:Soul・Standby
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, perform the  effect.(: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)

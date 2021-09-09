@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kotori in Pajamas
+Card No.:LL/EN-W01-081
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:I really like these pajamas… But when you stare at me like that, I get embarrassed…
+Trigger:Soul
+Special Attribute:Music・Pajamas
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""The Sheep\'s Feelings" Kotori" in your waiting room, and put it on the stage position that this card was on.
+Text:【CONT】 If the number of your other characters is two or less, this card gets +1500 power.

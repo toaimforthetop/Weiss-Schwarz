@@ -1,0 +1,18 @@
+Card Name:
+English Name:Investigation Team, Yosuke
+Card No.:P4/EN-S01-T02
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Its fun to have everyone around the table. More so if they are all friends.
+Trigger:
+Special Attribute:Junes・Headphone
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Junes》 characters, and that character gets +500 power until end of turn.
+Text:【CONT】 If you have a character chosen by this card's effect, this card gets +2000 power.", '【AUTO】 When this card is placed on stage, choose one of your other characters.', "【AUTO】 When this card is put into your waiting room from the stage, put the character chosen by this card's effect into your waiting room.", '

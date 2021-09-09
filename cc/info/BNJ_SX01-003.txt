@@ -1,0 +1,17 @@
+Card Name:
+English Name:Two-Face
+Card No.:BNJ/SX01-003
+Rarity:RR
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:And so it ends.
+Trigger:Soul
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if you have another 《Villain》 character, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Villain》 character, deal X damage to your opponent, and this card gets +2000 power until end of turn. X is equal to that character's soul. (Damage may be canceled. Return the revealed card to its original place)

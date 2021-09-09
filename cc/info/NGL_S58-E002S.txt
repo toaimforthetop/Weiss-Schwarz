@@ -1,0 +1,17 @@
+Card Name:
+English Name:BLANK's Victory Condition, Sora
+Card No.:NGL/S58-E002S
+Rarity:SR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:But our ultimate goal is to beat God.
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Super Healthy Space" is in your climax area, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

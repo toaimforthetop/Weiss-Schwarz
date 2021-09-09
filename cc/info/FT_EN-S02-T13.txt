@@ -1,0 +1,16 @@
+Card Name:
+English Name:Natsu's Partner, Happy
+Card No.:FT/EN-S02-T13
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"You showed him that if you mess with the Salamander, youre gonna get toasted.
+Trigger:
+Special Attribute:Magic・Animal
+Text:【CONT】 Assist All of your characters in front of this card get the following ability. "【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn."【AUTO】 Bond／"Fire Dragon Slayer, Natsu" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Fire Dragon Slayer, Natsu" in your waiting room, and return it to your hand)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Connected by Blood, Ryuko
+Card No.:KLK/S27-E064
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:I feel it, this is the real you, Senketsu!
+Trigger:Soul
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, if a card named "Life Fiber Synchronize, Kamui Senketsu!" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room, return it to your hand, and this card gets +4000 power until end of turn.
+Text:【AUTO】 Encore ［Put the top card of your deck into your clock］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

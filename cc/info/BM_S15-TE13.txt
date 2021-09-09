@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maturing Girl, Nadeko Sengoku
+Card No.:BM/S15-TE13
+Rarity:TD
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Koyomi…… and Ms. Kanbaru.', 'Could you…… turn around for a bit, please?
+Trigger:
+Special Attribute:Strange・-
+Text:

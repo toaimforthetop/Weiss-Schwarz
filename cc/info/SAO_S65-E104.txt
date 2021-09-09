@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The Other Pontifex" Cardinal
+Card No.:SAO/S65-E104
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Youre familiar with my original version, are you not?
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Fluctlight》 characters, and that character gets +2000 power until end of turn.

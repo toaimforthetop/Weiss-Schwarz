@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cool Beauty, Iwasawa
+Card No.:AB/W31-E009
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:…I couldn't sing my beloved songs……that's all.
+Trigger:So
+Special Attribute:Death・Music
+Text:[AUTO] [Put this card into your memory] When a card named "Memories of Gldemo" is placed on your climax area, you may pay the cost. If you do, choose a card named "Realizing a Dream, Yui" in your hand, and put it on the stage position that this card was on.

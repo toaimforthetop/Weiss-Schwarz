@@ -1,0 +1,17 @@
+Card Name:
+English Name:Poison Ivy Castle
+Card No.:BNJ/SX01-019
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Judoku Plant Castle! Multitudes of flowers transformation!
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【CONT】 During your turn, if this card is in the right position of your back stage, your other character in the middle position of your center stage gets +1000 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 2 of your characters]  Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.

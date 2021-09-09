@@ -1,0 +1,17 @@
+Card Name:
+English Name:Getting Fired Up! Tsuruno
+Card No.:MR/W80-E059
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:An evil that lurks in the shadows of rumors!
+Trigger:
+Special Attribute:Magic・Flame
+Text:【AUTO】 [(1) Put 1 "Shop\'s Poster Girl, Tsuruno" from your memory into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may 【REVERSE】 that character.

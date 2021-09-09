@@ -1,0 +1,17 @@
+Card Name:
+English Name:Waking from Siesta, Kuroyukihime
+Card No.:AW/S43-E018
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Student Council・Net
+Text:【CONT】 All of your other cards named "Reasonable 《Acceleration》, Haruyuki" get +500 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."
+Text:【AUTO】 Bond/"Reasonable 《Acceleration》, Haruyuki" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Reasonable 《Acceleration》, Haruyuki" in your waiting room, and return it to your hand.)

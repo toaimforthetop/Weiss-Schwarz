@@ -1,0 +1,20 @@
+Card Name:
+English Name:Japan's Largest Light Cruiser, Oyodo-Kai
+Card No.:KC/S31-E006R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Yes. Leave it to me.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】 If the number of cards in your clock is zero, this card cannot attack. 
+Text:【CONT】 If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power. 
+Text:【AUTO】 [Put a card from your hand into your waiting room] When?this?card?attacks, you may pay the cost. If you do, choose one of your other 《Fleet Girl》 characters, and return it to your hand. 
+Text:【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, put the top card of your deck into your waiting room. If that card is a level 0 or lower character, you may 【REST】 this card. 
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named "Shimakaze-class Destroyer, Shimakaze", reveal it to your opponent, and put it into your hand, shuffle your deck, and this card gets +1000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Luka Luka ★ Night Fever
+Card No.:PD/S29-E086S
+Rarity:SR
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:私はここに居るから少しでも視線を逸らしちゃダメダメよ☆
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

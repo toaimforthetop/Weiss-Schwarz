@@ -1,0 +1,16 @@
+Card Name:
+English Name:Red Hood: Dual-Wield
+Card No.:BNJ/SX01-T04
+Rarity:TD
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Weapon》 character, this card gets +2000 power until end of turn.

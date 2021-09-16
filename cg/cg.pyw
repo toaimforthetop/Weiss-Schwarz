@@ -32,12 +32,11 @@ class Window(tk.Tk):
 		self.deckeditor = deckeditor.DeckEditor(self, info=self.infobox.display)
 		self.get_pdeck()
 
-		self.udpui = udp.UDPUI(
-			self, relief='raised',
-			root=self, 
-			deck=self.pdeck, 
-			grab=self.get_odeck, 
-			set_msg=self.set_deck_msg)
+		text = ''
+		for card in self.pdeck:
+			text += '{}:{} '.format(*card.img)
+		self.udpui = udp.UDPUI(self, text, self.set_deck_msg, self.get_odeck)
+		self.udpui.withdraw()
 
 		self.sb = selectbox.SelectBox(self, info=self.infobox.display)
 		self.sb.keybind()
@@ -45,7 +44,7 @@ class Window(tk.Tk):
 	def udp_placement(self):
 		if self.udpui.winfo_ismapped():
 			self.sb.keybind()
-			self.udpui.place_forget()
+			self.udpui.withdraw()
 		else:
 			# if selected before clicking udp button it will shift the cards
 			# down to where the button is at, to solve this i place unbind 
@@ -54,7 +53,7 @@ class Window(tk.Tk):
 			# to solve this issue will be to find a way to make item not move
 			# cards on release
 			self.sb.unbind()
-			self.udpui.place(relw=0.2, relh=0.1, relx=0.4, rely=0.4)
+			self.udpui.deiconify()
 
 	def set_deck_msg(self, msg_func):
 		for card in self.pdeck:

@@ -3,7 +3,7 @@ from thread_func import threading
 import tkinter as tk
 
 BACK_IMG = '1.png'
-PIC_FILE = 'pic/{}'
+PIC_FLD = 'pic/{}'
 
 class Card(tk.Label):
 	def __init__(self, *args, img=(0, BACK_IMG), **kwargs):
@@ -87,8 +87,8 @@ class Card(tk.Label):
 			self.config(relief='flat', bg='white')
 
 	def set_img(self):
-		try: img = Image.open(PIC_FILE.format(self.cur_img))
-		except: img = Image.open(fPIC_FILE.format(BACK_IMG))
+		try: img = Image.open(PIC_FLD.format(self.cur_img))
+		except: img = Image.open(PIC_FLD.format(BACK_IMG))
 		rotate_img = img.rotate(self.angle, expand=True)
 		resize = (self.winfo_width(), self.winfo_height())
 		resize_img = rotate_img.resize(resize, Image.ANTIALIAS)
@@ -128,8 +128,8 @@ class OCard(tk.Label):
 		self.place(relx=0.94-x+0.27, rely=0.73-y+0.1086922958172549)
 
 	def set_img(self):
-		try: img = Image.open(PIC_FILE.format(self.cur_img))
-		except: img = Image.open(PIC_FILE.format(BACK_IMG))
+		try: img = Image.open(PIC_FLD.format(self.cur_img))
+		except: img = Image.open(PIC_FLD.format(BACK_IMG))
 		rotate_img = img.rotate(self.angle, expand=True)
 		resize = (self.winfo_width(), self.winfo_height())
 		resize_img = rotate_img.resize(resize, Image.ANTIALIAS)
@@ -148,8 +148,8 @@ class IMG(tk.Label):
 		self.set_img(self.winfo_width(), self.winfo_height())
 
 	def set_img(self, w, h):
-		try: img = Image.open(PIC_FILE.format(self.img))
-		except: img = Image.open(PIC_FILE.format(BACK_IMG))
+		try: img = Image.open(PIC_FLD.format(self.img))
+		except: img = Image.open(PIC_FLD.format(BACK_IMG))
 		resize = img.resize((w, h), Image.ANTIALIAS)
 		self.image = ImageTk.PhotoImage(resize)
 		self.config(image=self.image, anchor='center')

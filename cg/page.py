@@ -1,7 +1,7 @@
 import tkinter as tk
 
 class Page(tk.Frame):
-	def __init__(self, *args, cmd=None, **kwargs):
+	def __init__(self, *args, cmd=lambda *args: None, **kwargs):
 		super(Page, self).__init__(*args, **kwargs)
 		self.__cmd = cmd
 
@@ -10,9 +10,8 @@ class Page(tk.Frame):
 
 		validate = self.master.register(self.__only_numbers)
 		self.page_no = 1
-		self.cur_pg = tk.Entry(
-			self, validate='key', validatecommand=(validate, '%S'), 
-			justify='center')
+		self.cur_pg = tk.Entry(self, justify='center')
+		self.cur_pg.config(validate='key', validatecommand=(validate, '%S'))
 		self.cur_pg.place(relw=0.2, relh=1, relx=0.3, rely=0)
 		self.__insert(self.page_no)
 		self.cur_pg.bind('<Return>', lambda e: self.__load())
@@ -27,8 +26,9 @@ class Page(tk.Frame):
 		return char.isdigit()
 
 	def __state(self):
-		self.prev['state'] = 'disable' if self.page_no <= 1 else 'normal'
-		self.next['state'] = 'disable' if self.page_no >= self.max() else 'normal'
+		func = lambda l, r: 'disable' if l >= r else 'normal'
+		self.prev['state'] = func(1, self.page_no)
+		self.next['state'] = func(self.page_no, self.max())
 
 	def __load(self):
 		if self.cur_pg.get() and 1 <= int(self.cur_pg.get()) <= self.max():
@@ -54,8 +54,8 @@ class Page(tk.Frame):
 		self.cur_pg.delete(0, 'end')
 		self.cur_pg.insert(0, page_no)
 
-	def set_max(self, page_no):
-		self.max_pg['text'] = f'/{page_no}'
+	def set_max(self, max_page):
+		self.max_pg['text'] = f'/{max_page}'
 		self.__state()
 
 	def max(self):

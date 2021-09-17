@@ -69,7 +69,7 @@ class CheckBar(tk.LabelFrame):
 		return [k for k, v in self.vars.items() if v.get() == 1]
 
 class FilterSearch(tk.Toplevel):
-	def __init__(self, *args, cmd=None, **kwargs):
+	def __init__(self, *args, cmd=lambda *args: None, **kwargs):
 		super(FilterSearch, self).__init__(*args, **kwargs)
 		self.title('Filter Search')
 		self.resizable(False, False)

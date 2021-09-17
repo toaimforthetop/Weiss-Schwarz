@@ -3,6 +3,8 @@ import page
 import tkinter as tk
 import os
 
+PIC_FLD = 'pic/{}'
+
 class InfoBox(tk.Frame):
 	def __init__(self, *args, **kwargs):
 		super(InfoBox, self).__init__(*args, **kwargs)
@@ -27,8 +29,8 @@ class InfoBox(tk.Frame):
 		self.set_info('{}.txt'.format(name.rsplit('.')[0]))
 
 	def set_img(self, name):
-		try: img = Image.open(f'pic/{name}')
-		except: img = Image.open(f'pic/1.png')
+		try: img = Image.open(PIC_FLD.format(name))
+		except: img = Image.open(PIC_FLD.format('1.png'))
 		# initial image will not show, doesn't work when call from itself
 		# will show afterward when called from a input
 		# cause is due to resize not updating

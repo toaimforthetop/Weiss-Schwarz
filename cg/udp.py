@@ -40,7 +40,8 @@ class UDP(object):
 		return self.socket.recvfrom(self.__buffer)[0].decode()
 
 class UDPUI(tk.Toplevel):
-	def __init__(self, parent, player, set_msg, cmd):
+	def __init__(self, parent, player=[], set_msg=lambda *args: None, 
+		cmd=lambda *args: None):
 		super(UDPUI, self).__init__(parent)
 		self.geometry('320x120')
 		self.title('Session')
@@ -97,8 +98,7 @@ class UDPUI(tk.Toplevel):
 		self.__insert('Sent\n')
 
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
-		try: self.__cmd(opp)
-		except: pass
+		self.__cmd(opp)
 		self.recieve_messages()
 
 	def __join(self):
@@ -112,8 +112,7 @@ class UDPUI(tk.Toplevel):
 		self.__insert('Receive\n')
 
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
-		try: self.__cmd(opp)
-		except: pass
+		self.__cmd(opp)
 		self.recieve_messages()
 
 	def recieve_messages(self):

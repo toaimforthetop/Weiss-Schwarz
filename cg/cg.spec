@@ -4,8 +4,8 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\Hi\\Documents\\GitHub\\Weiss-Schwarz\\cg\\cg.pyw'],
-             pathex=['C:\\Users\\Hi\\Documents\\GitHub\\Weiss-Schwarz\\cg'],
+a = Analysis(['C:\\Users\\Hi\\Desktop\\cg\\cg.pyw'],
+             pathex=['C:\\Users\\Hi\\Desktop\\cg'],
              binaries=[],
              datas=[],
              hiddenimports=[],

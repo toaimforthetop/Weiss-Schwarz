@@ -43,7 +43,7 @@ class UDPUI(tk.Toplevel):
 	def __init__(self, parent, player, set_msg, cmd):
 		super(UDPUI, self).__init__(parent)
 		self.geometry('320x120')
-		self.title('Server')
+		self.title('Session')
 		self.resizable(False, False)
 
 		self.parent = parent

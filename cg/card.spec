@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\Hi\\Documents\\GitHub\\Weiss-Schwarz\\cg\\cg.pyw'],
+a = Analysis(['C:\\Users\\Hi\\Documents\\GitHub\\Weiss-Schwarz\\cg\\card.py'],
              pathex=['C:\\Users\\Hi\\Documents\\GitHub\\Weiss-Schwarz\\cg'],
              binaries=[],
              datas=[],
@@ -24,12 +24,12 @@ exe = EXE(pyz,
           a.scripts, 
           [],
           exclude_binaries=True,
-          name='cg',
+          name='card',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
-          console=False,
+          console=True,
           disable_windowed_traceback=False,
           target_arch=None,
           codesign_identity=None,
@@ -41,4 +41,4 @@ coll = COLLECT(exe,
                strip=False,
                upx=True,
                upx_exclude=[],
-               name='cg')
+               name='card')

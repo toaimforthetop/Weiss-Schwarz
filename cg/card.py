@@ -3,6 +3,7 @@ from thread_func import threading
 import tkinter as tk
 
 BACK_IMG = '1.png'
+PIC_FILE = 'pic/{}'
 
 class Card(tk.Label):
 	def __init__(self, *args, img=(0, BACK_IMG), **kwargs):
@@ -28,7 +29,7 @@ class Card(tk.Label):
 		self.bind('<e>', lambda e: self.flip(), add='+')
 
 	def update_image(self):
-		self.set_img(self.cur_img)
+		self.set_img()
 
 	def __rotate(self, w, h):
 		self.angle = {0:90, 90:180, 180:0}[self.angle]
@@ -38,7 +39,7 @@ class Card(tk.Label):
 		height = (w * sw / sh) if self.angle == 90 else h
 
 		self.place(relw=width, relh=height)
-		self.set_img(self.cur_img)
+		self.set_img()
 
 		self.__msg('r {} {} {} {}'.format(*self.img, width, height))
 
@@ -57,7 +58,7 @@ class Card(tk.Label):
 
 	def flip(self):
 		self.cur_img = self.img[1] if self.cur_img == BACK_IMG else BACK_IMG
-		self.set_img(self.cur_img)
+		self.set_img()
 
 	def __pressed(self, e):
 		self.focus_set()
@@ -81,13 +82,13 @@ class Card(tk.Label):
 		if self.focus_get() == self:
 			self.config(relief='raised', bg='cyan')
 		elif self.show:
-			self.config(relief='raised', bg='orange')
+			self.config(relief='raised', bg='red')
 		else:
 			self.config(relief='flat', bg='white')
 
-	def set_img(self, file_name):
-		try: img = Image.open(f'pic/{file_name}')
-		except: img = Image.open(f'pic/{BACK_IMG}')
+	def set_img(self):
+		try: img = Image.open(PIC_FILE.format(self.cur_img))
+		except: img = Image.open(fPIC_FILE.format(BACK_IMG))
 		rotate_img = img.rotate(self.angle, expand=True)
 		resize = (self.winfo_width(), self.winfo_height())
 		resize_img = rotate_img.resize(resize, Image.ANTIALIAS)
@@ -112,23 +113,23 @@ class OCard(tk.Label):
 		self.__info(self.cur_img)
 
 	def update_image(self):
-		self.set_img(self.cur_img)
+		self.set_img(s)
 
 	def rotate(self, w, h):
 		self.angle = {180:-90, -90:0, 0:180}[self.angle]
 		self.place(relw=w, relh=h)
-		self.set_img(self.cur_img)
+		self.set_img()
 
 	def flip(self):
 		self.cur_img = self.img[1] if self.cur_img == BACK_IMG else BACK_IMG
-		self.set_img(self.cur_img)
+		self.set_img()
 
 	def movement(self, x, y):
 		self.place(relx=0.94-x+0.27, rely=0.73-y+0.1086922958172549)
 
-	def set_img(self, file_name):
-		try: img = Image.open(f'pic/{file_name}')
-		except: img = Image.open(f'pic/{BACK_IMG}')
+	def set_img(self):
+		try: img = Image.open(PIC_FILE.format(self.cur_img))
+		except: img = Image.open(PIC_FILE.format(BACK_IMG))
 		rotate_img = img.rotate(self.angle, expand=True)
 		resize = (self.winfo_width(), self.winfo_height())
 		resize_img = rotate_img.resize(resize, Image.ANTIALIAS)
@@ -147,8 +148,8 @@ class IMG(tk.Label):
 		self.set_img(self.winfo_width(), self.winfo_height())
 
 	def set_img(self, w, h):
-		try: img = Image.open(f'pic/{self.img}')
-		except: img = Image.open(f'pic/{BACK_IMG}')
+		try: img = Image.open(PIC_FILE.format(self.img))
+		except: img = Image.open(PIC_FILE.format(BACK_IMG))
 		resize = img.resize((w, h), Image.ANTIALIAS)
 		self.image = ImageTk.PhotoImage(resize)
 		self.config(image=self.image, anchor='center')

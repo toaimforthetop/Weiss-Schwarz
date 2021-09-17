@@ -1,9 +1,10 @@
 import deckeditor
 import infobox
-from card import Card, OCard
-import selectbox
+from card import Card, OCard, BACK_IMG
+import multiselect
 import udp
 import tkinter as tk
+import random
 
 class Window(tk.Tk):
 	def __init__(self, *args, **kwargs):
@@ -23,27 +24,38 @@ class Window(tk.Tk):
 		self.infobox.place(relw=0.25, relh=0.97, relx=0, rely=0)
 		self.infobox.display('pic/1.png')
 
-		self.de_btn = tk.Button(self, text='DE', command=self.de_screen)
+		self.de_btn = tk.Button(self, text='Deck Editor', command=self.deckeditor_screen)
 		self.de_btn.place(relw=0.06, relh=0.03, relx=0, rely=0.97)
 
-		self.udp_btn = tk.Button(self, text='UDP', command=self.udp_placement)
+		self.udp_btn = tk.Button(self, text='HOST/JOIN', command=self.udp_placement)
 		self.udp_btn.place(relw=0.06, relh=0.03, relx=0.06, rely=0.97)
 
 		self.deckeditor = deckeditor.DeckEditor(self, info=self.infobox.display)
 		self.get_pdeck()
 
-		text = ''
-		for card in self.pdeck:
-			text += '{}:{} '.format(*card.img)
+		text = ' '.join('{}:{}'.format(*card.img) for card in self.pdeck)
 		self.udpui = udp.UDPUI(self, text, self.set_deck_msg, self.get_odeck)
 		self.udpui.withdraw()
 
-		self.sb = selectbox.SelectBox(self, info=self.infobox.display)
-		self.sb.keybind()
+		self.bind('<s>', lambda e: self.__shuffle())
+
+		# self.sb = multiselect.SelectBox(self, info=self.infobox.display)
+		# self.sb.keybind()
+
+	def __shuffle(self):
+		random.shuffle(self.pdeck)
+
+		for card in self.pdeck:
+			card.tkraise()
+			card.show = False
+			card.angle = 0
+			card.cur_img = BACK_IMG
+			card.set_img()
+			card.place(relx=0.94, rely=0.73)
 
 	def udp_placement(self):
 		if self.udpui.winfo_ismapped():
-			self.sb.keybind()
+			# self.sb.keybind()
 			self.udpui.withdraw()
 		else:
 			# if selected before clicking udp button it will shift the cards
@@ -52,12 +64,24 @@ class Window(tk.Tk):
 			# click de twice which should get it back
 			# to solve this issue will be to find a way to make item not move
 			# cards on release
-			self.sb.unbind()
+			# self.sb.unbind()
 			self.udpui.deiconify()
 
 	def set_deck_msg(self, msg_func):
 		for card in self.pdeck:
 			card.set_msg(msg_func)
+
+	def deckeditor_screen(self):
+		if self.deckeditor.winfo_ismapped():
+			self.deckeditor.place_forget()
+			self.get_pdeck()
+			# self.sb.keybind()
+		else:
+			# self.sb.unbind()
+			for card in self.pdeck:
+				card.place_forget()
+			self.deckeditor.place(relw=0.75, relh=1, relx=0.25, rely=0)
+			self.pdeck = None
 
 	def get_odeck(self, deck):
 		self.odeck = []
@@ -69,19 +93,7 @@ class Window(tk.Tk):
 			card.place(relw=self.CW, relh=self.CH, relx=0.27, rely=self.CH+0.02)
 			card.keybind(self.CW, self.CH, self.infobox.display)
 			card.update_idletasks()
-			card.set_img('1.png')
-
-	def de_screen(self):
-		if self.deckeditor.winfo_ismapped():
-			self.deckeditor.place_forget()
-			self.get_pdeck()
-			self.sb.keybind()
-		else:
-			self.sb.unbind()
-			for card in self.pdeck:
-				card.place_forget()
-			self.deckeditor.place(relw=0.75, relh=1, relx=0.25, rely=0)
-			self.pdeck = None
+			card.set_img()
 
 	def get_pdeck(self):
 		with open('misc/load.txt', 'r', encoding='utf-8') as f:
@@ -95,7 +107,7 @@ class Window(tk.Tk):
 			card.place(relw=self.CW, relh=self.CH, relx=0.94, rely=0.73)
 			card.keybind(self.CW, self.CH , self.infobox.display)
 			card.update_idletasks()
-			card.set_img('1.png')
+			card.set_img()
 
 if __name__ == '__main__':
 	rt = Window()

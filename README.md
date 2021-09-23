@@ -32,7 +32,6 @@ Originally it was just made as a quick project to play the card game, weiss schw
      - w: Pop a window out for you to select a card.
        - Right Click: It will move selected card to left bottom size of your screen.
         - If i recall it will be faced the same as the main window card.
-        - Everything will be displayed in ordered like in Deck Editor, do i know why, nope.
      - Left Click: It will just show information of selected card on main window.
     - s: Shuffle x amount of cards you selected.
   - For Single Cards Only (If i recall it should work the same for set amount of cards you selected but I'm not sure):

@@ -36,11 +36,11 @@ Originally it was just made as a quick project to play the card game, weiss schw
     - Left Click: It will just show information of selected card on main window.
    - s: Shuffle x amount of cards you selected.
   - For Single Cards Only (If i recall it should work the same for set amount of cards you selected but I'm not sure):
-   - r: Rotate Card
-   - t: Show Card to player (Opponent Only)
-   - f: Flip Card to player (Owner Only)
-   - e: Flip & Show card to both players (Owner & Opponent).
+    - r: Rotate Card
+    - t: Show Card to player (Opponent Only)
+    - f: Flip Card to player (Owner Only)
+    - e: Flip & Show card to both players (Owner & Opponent).
   - For Deck Editor:
-   - Both side LEFT CLICK, it should just display information on far left.
-   - Left side when you press RIGHT CLICK, it will remove card from deck.
-   - Right side when you press RIGHT CLICK, it will add card to deck.
+    - Both side LEFT CLICK, it should just display information on far left.
+    - Left side when you press RIGHT CLICK, it will remove card from deck.
+    - Right side when you press RIGHT CLICK, it will add card to deck.

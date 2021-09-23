@@ -40,7 +40,6 @@ Originally it was just made as a quick project to play the card game, weiss schw
      - t: Show Card to player (Opponent Only)
      - f: Flip Card to player (Owner Only)
      - e: Flip & Show card to both players (Owner & Opponent).
-     - Flip is different from Show
    - For Deck Editor:
      - Both side LEFT CLICK, it should just display information on far left.
      - Left side when you press RIGHT CLICK, it will remove card from deck.

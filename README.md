@@ -27,20 +27,20 @@ Originally it was just made as a quick project to play the card game, weiss schw
       - AB_W31-E001.txt (text file)  AB_W31-E001.jpg (image file)
       - if the examples is not enough, you can compare both file name in pic folder and info folder
   
-  Keys:
-   - For set amount of cards selected:
-     - w: Pop a window out for you to select a card.
-      - Right Click: It will move selected card to left bottom size of your screen.
-       - If i recall it will be faced the same as the main window card.
-       - Everything will be displayed in ordered like in Deck Editor, do i know why, nope.
-     - Left Click: It will just show information of selected card on main window.
-    - s: Shuffle x amount of cards you selected.
-   - For Single Cards Only (If i recall it should work the same for set amount of cards you selected but I'm not sure):
-     - r: Rotate Card
-     - t: Show Card to player (Opponent Only)
-     - f: Flip Card to player (Owner Only)
-     - e: Flip & Show card to both players (Owner & Opponent).
-   - For Deck Editor:
-     - Both side LEFT CLICK, it should just display information on far left.
-     - Left side when you press RIGHT CLICK, it will remove card from deck.
-     - Right side when you press RIGHT CLICK, it will add card to deck.
+ Keys:
+  - For set amount of cards selected:
+    - w: Pop a window out for you to select a card.
+     - Right Click: It will move selected card to left bottom size of your screen.
+      - If i recall it will be faced the same as the main window card.
+      - Everything will be displayed in ordered like in Deck Editor, do i know why, nope.
+    - Left Click: It will just show information of selected card on main window.
+   - s: Shuffle x amount of cards you selected.
+  - For Single Cards Only (If i recall it should work the same for set amount of cards you selected but I'm not sure):
+   - r: Rotate Card
+   - t: Show Card to player (Opponent Only)
+   - f: Flip Card to player (Owner Only)
+   - e: Flip & Show card to both players (Owner & Opponent).
+  - For Deck Editor:
+   - Both side LEFT CLICK, it should just display information on far left.
+   - Left side when you press RIGHT CLICK, it will remove card from deck.
+   - Right side when you press RIGHT CLICK, it will add card to deck.

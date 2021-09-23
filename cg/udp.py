@@ -41,7 +41,7 @@ class UDP(object):
 
 class UDPUI(tk.Toplevel):
 	def __init__(self, parent, player=[], set_msg=lambda *args: None, 
-		cmd=lambda *args: None):
+		cmd=lambda *args: None, recieve_msg=lambda *args: None):
 		super(UDPUI, self).__init__(parent)
 		self.geometry('320x120')
 		self.title('Session')
@@ -52,6 +52,7 @@ class UDPUI(tk.Toplevel):
 		self.__cmd = cmd
 		self.set_msg = set_msg
 		self.player = player
+		self.msg_fmt = MessageFormat(parent)
 
 		lbl = [0.15, 0.05]
 		for e, txt in enumerate(['Host IP', 'Port', 'Buffer']):
@@ -99,7 +100,7 @@ class UDPUI(tk.Toplevel):
 
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
 		self.__cmd(opp)
-		self.recieve_messages()
+		self.msg_fmt.recv_msg(self.udp)
 
 	def __join(self):
 		try:
@@ -113,34 +114,38 @@ class UDPUI(tk.Toplevel):
 
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
 		self.__cmd(opp)
-		self.recieve_messages()
+		self.msg_fmt.recv_msg(self.udp)
 
-	def recieve_messages(self):
-		def movement(number, img, x, y):
-			for c in self.parent.odeck:
-				if c.img == (number, img):
-					c.movement(float(x), float(y))
-					break
-
-		def state(number, img):
-			for c in self.parent.odeck:
-				if c.img == (number, img):
-					c.flip()
-					break
-
-		def rotate(number, img, w, h):
-			for c in self.parent.odeck:
-				if c.img == (number, img):
-					c.rotate(float(w), float(h))
-					break
-
-		msg_type = {
-		'r': rotate,
-		's': state,
-		'm': movement,
+class MessageFormat(object):
+	def __init__(self, parent):
+		self.parent = parent
+		self.msg_type = {
+		'r': self.rotate,
+		's': self.state,
+		'm': self.movement,
 		}
 
-		while socket:
-			info = self.udp.receive_msg().split(' ')
+	def movement(self, number, img, x, y):
+		for card in self.parent.odeck:
+			if card.img == (number, img):
+				card.movement(float(x), float(y))
+				break
+
+	def state(self, number, img):
+		for card in self.parent.odeck:
+			if card.img == (number, img):
+				card.flip()
+				break
+
+	def rotate(self, number, img, w, h):
+		for card in self.parent.odeck:
+			if card.img == (number, img):
+				card.rotate(float(w), float(h))
+				break
+
+	def recv_msg(self, udp):
+		while udp:
+			info = udp.receive_msg().split(' ')
 			print(*info[1:])
-			msg_type[info[0]](*info[1:])
+			self.msg_type[info[0]](*info[1:])
+

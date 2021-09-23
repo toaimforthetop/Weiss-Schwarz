@@ -1,6 +1,6 @@
 import deckeditor
 import infobox
-from card import Card, OCard, BACK_IMG
+from card import Card, OCard
 import multiselect
 import udp
 import tkinter as tk
@@ -37,25 +37,12 @@ class Window(tk.Tk):
 		self.udpui = udp.UDPUI(self, text, self.set_deck_msg, self.get_odeck)
 		self.udpui.withdraw()
 
-		self.bind('<s>', lambda e: self.__shuffle())
-
-		# self.sb = multiselect.SelectBox(self, info=self.infobox.display)
-		# self.sb.keybind()
-
-	def __shuffle(self):
-		random.shuffle(self.pdeck)
-
-		for card in self.pdeck:
-			card.tkraise()
-			card.show = False
-			card.angle = 0
-			card.cur_img = BACK_IMG
-			card.set_img()
-			card.place(relx=0.94, rely=0.73)
+		self.sb = multiselect.SelectBox(self, info=self.infobox.display)
+		self.sb.keybind()
 
 	def udp_placement(self):
 		if self.udpui.winfo_ismapped():
-			# self.sb.keybind()
+			self.sb.keybind()
 			self.udpui.withdraw()
 		else:
 			# if selected before clicking udp button it will shift the cards
@@ -64,7 +51,7 @@ class Window(tk.Tk):
 			# click de twice which should get it back
 			# to solve this issue will be to find a way to make item not move
 			# cards on release
-			# self.sb.unbind()
+			self.sb.unbind()
 			self.udpui.deiconify()
 
 	def set_deck_msg(self, msg_func):
@@ -75,9 +62,9 @@ class Window(tk.Tk):
 		if self.deckeditor.winfo_ismapped():
 			self.deckeditor.place_forget()
 			self.get_pdeck()
-			# self.sb.keybind()
+			self.sb.keybind()
 		else:
-			# self.sb.unbind()
+			self.sb.unbind()
 			for card in self.pdeck:
 				card.place_forget()
 			self.deckeditor.place(relw=0.75, relh=1, relx=0.25, rely=0)

@@ -113,7 +113,7 @@ class OCard(tk.Label):
 		self.__info(self.cur_img)
 
 	def update_image(self):
-		self.set_img(s)
+		self.set_img()
 
 	def rotate(self, w, h):
 		self.angle = {180:-90, -90:0, 0:180}[self.angle]

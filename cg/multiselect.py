@@ -79,14 +79,14 @@ class SelectBox(object):
 	def __shuffle(self):
 		if not self.items: return
 
-		random.shuffle(self.items)
+		random.shuffle(self.pdeck)
 
-		for card in self.items:
+		for card in self.pdeck:
 			card.tkraise()
-			card.state = False
-			card.flip = False
+			card.show = False
 			card.angle = 0
-			card.set_img('1.png')			
+			card.cur_img = '1.png'
+			card.set_img()
 			card.place(relx=0.94, rely=0.73)
 
 	def __pressed(self, event):

@@ -25,10 +25,19 @@ class Card(tk.Label):
 		self.bind('<f>', lambda e: self.flip())
 		self.bind('<t>', lambda e: self.state())
 		self.bind('<r>', lambda e: self.__rotate(w, h))
-		self.bind('<e>', lambda e: self.__state(), add='+')
+		self.bind('<e>', lambda e: self.state(), add='+')
 		self.bind('<e>', lambda e: self.flip(), add='+')
 
 	def update_image(self):
+		self.set_img()
+
+	def state(self):
+		self.show = not self.show
+		self.highlight()
+		self.__msg('s {} {}'.format(*self.img))
+
+	def flip(self):
+		self.cur_img = self.img[1] if self.cur_img == BACK_IMG else BACK_IMG
 		self.set_img()
 
 	def __rotate(self, w, h):
@@ -43,11 +52,6 @@ class Card(tk.Label):
 
 		self.__msg('r {} {} {} {}'.format(*self.img, width, height))
 
-	def state(self):
-		self.show = not self.show
-		self.highlight()
-		self.__msg('s {} {}'.format(*self.img))
-
 	def __focus(self):
 		if self.focus_get() == self:
 			self.master.focus()
@@ -55,10 +59,6 @@ class Card(tk.Label):
 			self.focus_set()
 
 		self.highlight()
-
-	def flip(self):
-		self.cur_img = self.img[1] if self.cur_img == BACK_IMG else BACK_IMG
-		self.set_img()
 
 	def __pressed(self, e):
 		self.focus_set()

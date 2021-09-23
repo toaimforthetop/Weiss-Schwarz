@@ -41,6 +41,8 @@ class Window(tk.Tk):
 		self.sb.keybind()
 
 	def udp_placement(self):
+		# if you close the UDPUI it will cause errors because this was made
+		# for just hiding the window and not destroy the window
 		if self.udpui.winfo_ismapped():
 			self.sb.keybind()
 			self.udpui.withdraw()
@@ -64,6 +66,7 @@ class Window(tk.Tk):
 			self.get_pdeck()
 			self.sb.keybind()
 		else:
+			self.sb.clear_items()
 			self.sb.unbind()
 			for card in self.pdeck:
 				card.place_forget()

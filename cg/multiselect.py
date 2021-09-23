@@ -31,6 +31,28 @@ class SelectBox(object):
 		self.__root.unbind('<t>')
 		self.__root.unbind('<e>')
 
+	def __view(self):
+		try: self.grab.destroy()
+		except: pass
+
+		self.grab = grabbox.GrabBox(self.__root)
+		self.grab.setup(9, 6)
+		self.grab.display(self.items, self.__info)
+		self.clear_items()
+
+	def __shuffle(self):
+		if not self.items: return
+
+		random.shuffle(self.items)
+
+		for card in self.items:
+			card.show = False
+			card.angle = 0
+			card.cur_img = '1.png'
+			card.set_img()
+			card.place(relx=0.94, rely=0.73)
+			card.tkraise()
+
 	def __flip(self):
 		for card in self.items:
 			card.flip()
@@ -39,6 +61,25 @@ class SelectBox(object):
 		for card in self.items:
 			card.state()
 
+	def __pressed(self, event):
+		if event.widget is self.__root:
+			self.__root.focus()
+			self.clear_items()
+			self.__start = (event.x, event.y)
+			self.__root.bind('<B1-Motion>', self.__box_movement)
+			self.__root.bind('<ButtonRelease-1>', lambda e: self.__box_release())
+		else:
+			self.__item_press(event)
+
+	def clear_items(self):
+		if not self.items: return
+		
+		for item in self.items:
+			item.highlight()
+			self.__root.pdeck.append(item)
+		self.items.clear()
+
+	# for selected box
 	def __draw_rect(self, end):
 		width = end[0] - self.__start[0]
 		height = end[1] - self.__start[1]
@@ -67,51 +108,15 @@ class SelectBox(object):
 		height = abs(box_y - obj_y) < abs(box_h) + obj_h
 		return width and height
 
-	def __view(self):
-		try: self.grab.destroy()
-		except: pass
-
-		self.grab = grabbox.GrabBox(self.__root)
-		self.grab.setup(9, 6)
-		self.grab.display(self.items, self.__info)
-		self.items.clear()
-
-	def __shuffle(self):
-		if not self.items: return
-
-		random.shuffle(self.pdeck)
-
-		for card in self.pdeck:
-			card.tkraise()
-			card.show = False
-			card.angle = 0
-			card.cur_img = '1.png'
-			card.set_img()
-			card.place(relx=0.94, rely=0.73)
-
-	def __pressed(self, event):
-		if event.widget is self.__root:
-			self.__root.focus()
-			self.items.clear()
-			for card in self.__root.pdeck:
-				card.highlight()
-			self.__start = (event.x, event.y)
-			self.__create_box()
-		else:
-			self.__item_press(event)
-
-	# for selected box
-	def __create_box(self):
-		self.__root.bind('<B1-Motion>', self.__box_movement)
-		self.__root.bind('<ButtonRelease-1>', lambda e: self.__box_release())
-
 	def __overlap(self, end):
 		for card in self.__root.pdeck:
 			if self.__hit_box(card, end) and card not in self.items:
-				card.config(relief='raised', bg='red')
+				card.config(relief='raised', bg='green')
 				self.items.append(card)
+				self.__root.pdeck.remove(card)
 			elif not self.__hit_box(card, end) and card in self.items:
 				self.items.remove(card)
+				self.__root.pdeck.append(card)
 				card.highlight()
 
 	def __box_movement(self, event):
@@ -126,7 +131,7 @@ class SelectBox(object):
 		for line in self.__lines:
 			line.place_forget()
 
-	# for moving item
+		# for moving item
 	def __item_press(self, event):
 		if self.items:
 			self.__root.bind(

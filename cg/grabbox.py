@@ -16,7 +16,9 @@ class GrabBox(tk.Toplevel):
 	def __grab(self, img, card):
 		img.place_forget()
 		self.cards.remove(img)
-		card.place(relx=0.27, rely=0.73)
+		card.cur_img = '1.png'
+		card.flip()
+		card.place(relx=0.9, rely=0.6)
 		self.__organize()
 
 	def __organize(self):
@@ -30,11 +32,11 @@ class GrabBox(tk.Toplevel):
 			card.place_forget()
 		self.cards.clear()
 
-	def display(self, deck, info):
+	def display(self, cards, info):
 		self.cards = [IMG(
 			self, img=card.img[1], info=info, 
 			cmd=lambda s, c=card: self.__grab(s, c)) 
-			for card in deck]
+			for card in cards]
 		self.__organize()
 		for card in self.cards:
 			card.set_img(card.winfo_width(), card.winfo_height())

@@ -12,6 +12,7 @@ class Card(tk.Label):
 		self.angle = 0
 		self.cur_img = BACK_IMG
 		self.show = False
+		self.collision = lambda *args: None
 		self.__msg = lambda *args: None
 
 	def set_msg(self, msg=print):
@@ -19,12 +20,14 @@ class Card(tk.Label):
 
 	def keybind(self, w, h, info=print):
 		self.__info = info
+		self.w = w
+		self.h = h
 		self.bind('<Configure>', lambda e: threading(self.update_image))
 		self.bind('<Button-1>', self.__pressed)
 		self.bind('<Button-3>', lambda e: self.__focus())
 		self.bind('<f>', lambda e: self.flip())
 		self.bind('<t>', lambda e: self.state())
-		self.bind('<r>', lambda e: self.__rotate(w, h))
+		self.bind('<r>', lambda e: self.rotate())
 		self.bind('<e>', lambda e: self.state(), add='+')
 		self.bind('<e>', lambda e: self.flip(), add='+')
 
@@ -40,16 +43,15 @@ class Card(tk.Label):
 		self.cur_img = self.img[1] if self.cur_img == BACK_IMG else BACK_IMG
 		self.set_img()
 
-	def __rotate(self, w, h):
+	def rotate(self):
 		self.angle = {0:90, 90:180, 180:0}[self.angle]
 
 		sh, sw = self.master.winfo_height(), self.master.winfo_width()
-		width = (h * sh / sw) if self.angle == 90 else w
-		height = (w * sw / sh) if self.angle == 90 else h
+		width = (self.h * sh / sw) if self.angle == 90 else self.w
+		height = (self.w * sw / sh) if self.angle == 90 else self.h
 
 		self.place(relw=width, relh=height)
 		self.set_img()
-
 		self.__msg('r {} {} {} {}'.format(*self.img, width, height))
 
 	def __focus(self):
@@ -71,17 +73,21 @@ class Card(tk.Label):
 	def __movement(self, e):
 		x = (self.winfo_x() - self.start[0] + e.x) / self.master.winfo_width()
 		y = (self.winfo_y() - self.start[1] + e.y) / self.master.winfo_height()
+		self.placement(x, y)
+
+	def placement(self, x, y):
 		self.place(relx=x, rely=y)
 		self.__msg('m {} {} {} {}'.format(*self.img, x, y))
 
 	def __released(self, e):
 		self.unbind('<B1-Motion>')
 		self.unbind('<ButtonRelease-1>')
+		self.collision(self)
 
 	def highlight(self):
-		if self.focus_get() == self:
+		if self.show:
 			self.config(relief='raised', bg='cyan')
-		elif self.show:
+		elif self.focus_get() == self:
 			self.config(relief='raised', bg='red')
 		else:
 			self.config(relief='flat', bg='white')
@@ -94,6 +100,24 @@ class Card(tk.Label):
 		resize_img = rotate_img.resize(resize, Image.ANTIALIAS)
 		self.image = ImageTk.PhotoImage(resize_img)
 		self.config(image=self.image, anchor='center')
+
+	def top(self):
+		return self.winfo_x()
+
+	def left(self):
+		return self.winfo_y()
+
+	def width(self):
+		return self.winfo_width()
+
+	def height(self):
+		return self.winfo_height()
+
+	def bottom(self):
+		return self.top() + self.width()
+
+	def right(self):
+		return self.left() + self.height()
 
 class OCard(tk.Label):
 	def __init__(self, *args, img=(0, BACK_IMG), **kwargs):

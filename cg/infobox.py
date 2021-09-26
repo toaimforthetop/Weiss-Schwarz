@@ -1,5 +1,4 @@
 from PIL import ImageTk, Image
-import page
 import tkinter as tk
 import os
 

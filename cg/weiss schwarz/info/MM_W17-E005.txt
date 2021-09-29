@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mami in Pajamas
+Card No.:MM/W17-E005
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Tea
+Text:【AUTO】 When this card is placed on stage from your hand, if the number of other 《Magic》 characters you have is two or more, this card gets +2000 power until end of turn. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Furutaka-class Heavy Cruiser, Kako
+Card No.:KC/S25-TE05
+Rarity:TD
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Ill get things done when the situation calls for it!So, just let me sleep peacefully when I get back～!
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Moving Like a Beast, Lancer
+Card No.:FS/S34-E045
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"If youre a man,", 'show some dignity, damn it.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order.

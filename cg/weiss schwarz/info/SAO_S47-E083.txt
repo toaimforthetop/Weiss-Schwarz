@@ -1,0 +1,17 @@
+Card Name:
+English Name:In the Sunlight Forest, Sinon
+Card No.:SAO/S47-E083
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:……I think.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1000 power.
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. Search you deck for up to X 《Avatar》 or 《Net》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck. Choose X cards from your hand, and put them into your waiting room. X is equal to the number of climax revealed among those cards.", '

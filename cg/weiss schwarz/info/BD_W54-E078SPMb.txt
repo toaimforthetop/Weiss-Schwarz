@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Selected Swimsuit" Rinko Shirokane
+Card No.:BD/W54-E078SPMb
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【ACT】 [(1)] Choose a level 0 or lower character on your opponent's center stage, and put it at the bottom of his or her deck.

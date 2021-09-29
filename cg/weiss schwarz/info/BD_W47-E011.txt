@@ -1,0 +1,16 @@
+Card Name:
+English Name:Senior of Kasumi and Gang, Hinako
+Card No.:BD/W47-E011
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Unexplained
+Text:【AUTO】  When this card attacks, choose one of your green characters, and that character gets +1 level and +1000 power until end of turn.

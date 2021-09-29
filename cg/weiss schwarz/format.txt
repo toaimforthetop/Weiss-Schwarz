@@ -1,0 +1,11 @@
+{0[Card Name]}
+{0[English Name]}
+LVL:{0[Level]:3s} C:{0[Cost]:3s} S:{0[Soul]:3s} C:{0[Color]}
+P:{0[Power]:10s}  T:{0[Trigger]}  
+SA:{0[Special Attribute]}
+
+{0[Text]}
+
+--------------------------------------
+{0[Flavor Text]}
+E:<{0[Expansion]}> {0[Card No.]} {0[Rarity]} 

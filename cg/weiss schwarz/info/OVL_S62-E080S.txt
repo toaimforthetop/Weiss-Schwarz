@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Blue Rose" Lakyus
+Card No.:OVL/S62-E080S
+Rarity:SR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Evileye: "Like Black Knight, the former owner of the cursed sword Kilineiram now wielded by our leader. He had demonic blood running through his veins."
+Trigger:
+Special Attribute:Humanoid Race・Blue Rose
+Text:【CONT】 This card gets +500 power for each of your other blue or 《Raven Black》 characters.
+Text:【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 blue or 《Raven Black》 character from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.

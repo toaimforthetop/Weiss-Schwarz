@@ -1,0 +1,16 @@
+Card Name:
+English Name:Out of Place Rascal, Mataro
+Card No.:KLK/S27-E014
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:You were totally bad-ass, swinging that scissor around half-naked.
+Trigger:
+Special Attribute:Family・Glasses
+Text:【ACT】 [(2)] Choose one of your opponent's characters, until end of turn that character gets -500 power, and this card gets +3000 power.", '

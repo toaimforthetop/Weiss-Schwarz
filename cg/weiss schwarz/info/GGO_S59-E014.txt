@@ -1,0 +1,16 @@
+Card Name:
+English Name:Thoroughness of Small, LLENN
+Card No.:GGO/S59-E014
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Czech submachine gun, vz. 61. Two of them."
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

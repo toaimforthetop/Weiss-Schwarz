@@ -1,0 +1,16 @@
+Card Name:
+English Name:Overlapping Palms
+Card No.:BD/W73-E061
+Rarity:U
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Aya: "Everyone, put your hands in!"
+Trigger:
+Special Attribute:
+Text:Put up to 4 cards from the top of your deck into your waiting room. Choose up to 2 《Pastel＊Palettes》 characters in your waiting room, and return them to your hand. If the total number of colors of the cards put into your waiting room by this effect is 4 or more, put this card into your stock.

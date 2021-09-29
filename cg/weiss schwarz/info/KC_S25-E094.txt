@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Kuma-class Light Cruiser, Kitakami
+Card No.:KC/S25-E094
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Well, seems like Im more suited for torpedo warfare.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】If you have another card named "4th Kuma-class Torpedo Cruiser, Oi-Kai-Ni", this card gets the following ability. "【ACT】[(1) Put this card into your waiting room] Choose a card named "3rd Kuma-class Torpedo Cruiser, Kitakami-Kai-Ni" in your waiting room, and put it on the stage position that this card was on."

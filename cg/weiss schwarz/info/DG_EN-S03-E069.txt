@@ -1,0 +1,16 @@
+Card Name:
+English Name:Samurai Legend
+Card No.:DG/EN-S03-E069
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:I choose to live by the way of the sword.
+Trigger:Soul
+Special Attribute:Weapon・-
+Text:-

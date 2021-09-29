@@ -1,0 +1,18 @@
+Card Name:
+English Name:5th Shiratsuyu-class Destroyer, Harusame
+Card No.:KC/S31-E089
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I will be heading off for expedition duties.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 Assist All of your characters in front of this card get +500 power. 
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Drum Can(Transport Use)" in your waiting room, and return it to your hand.
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters. 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Leave Everything to Me, Rem
+Card No.:RZ/S68-E054
+Rarity:RR
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You can count on me to keep you warm!
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 Memory When this card is put into your memory or at the beginning of your turn, if this card is in your memory, and all of your characters are 《Memory Snow》, all players cannot receive damage of 1 or less dealt by 【AUTO】 effects of their respective opponent's characters until the end of your opponent's next turn.
+Text:【ACT】 [(1) Put this card into your memory] Look at up to 3 cards from the top of your deck, choose up to 1 《Memory Snow》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.", '

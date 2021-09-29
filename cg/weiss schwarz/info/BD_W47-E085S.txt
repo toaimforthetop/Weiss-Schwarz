@@ -1,0 +1,17 @@
+Card Name:
+English Name:Way Home, Arisa
+Card No.:BD/W47-E085S
+Rarity:SR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【AUTO】  At the beginning of your climax phase, you may put the top card of your deck into your waiting room. If that card is a climax, all of your characters get +500 power until the end of your opponent's next turn.
+Text:【ACT】  Brainstorm [(1) 【REST】  two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

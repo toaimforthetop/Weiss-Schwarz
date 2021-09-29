@@ -1,0 +1,16 @@
+Card Name:
+English Name:Freshman, Haru
+Card No.:NK/WE22-E25
+Rarity:R
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"As of today, Im a first-yearstudent in high school……!\u3000｛詰めてください｝
+Trigger:
+Special Attribute:Sweets・-
+Text:【CONT】 This card gets +500 power for each of your other 《Sweets》 character.

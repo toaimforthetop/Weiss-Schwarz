@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hei-class Landing Craft Carrier, Akitsumaru-Kai
+Card No.:KC/S31-E024
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Behold, the evolved Akitsumaru. Witness my true ability!
+Trigger:
+Special Attribute:Fleet Girl・Amphibious Assaultship
+Text:【CONT】 This card cannot direct attack.

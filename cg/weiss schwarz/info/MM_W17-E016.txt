@@ -1,0 +1,16 @@
+Card Name:
+English Name:Elegant Mami
+Card No.:MM/W17-E016
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Magic・Tea
+Text:-

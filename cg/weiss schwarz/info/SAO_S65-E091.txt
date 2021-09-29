@@ -1,0 +1,17 @@
+Card Name:
+English Name:Confrontation with PK Squadron, Sinon
+Card No.:SAO/S65-E091
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Youre up! I'll cover you!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 "Reliable Reinforcement, Sinon" in your waiting room, and put it on the stage position that this card was on.

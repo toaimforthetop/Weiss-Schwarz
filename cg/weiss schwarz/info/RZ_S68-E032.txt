@@ -1,0 +1,17 @@
+Card Name:
+English Name:Expectedly Cold, Beatrice
+Card No.:RZ/S68-E032
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Achoo
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 All of your other 《Memory Snow》 characters get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.

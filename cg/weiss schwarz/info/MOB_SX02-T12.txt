@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mr. Kageyama: Dinnertime
+Card No.:MOB/SX02-T12
+Rarity:TD
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Shigeos going through puberty. Let him bend some spoons.
+Trigger:
+Special Attribute:Family・-
+Text:【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.

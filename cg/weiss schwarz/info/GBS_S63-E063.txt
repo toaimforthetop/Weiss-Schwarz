@@ -1,0 +1,18 @@
+Card Name:
+English Name:Passionate Yearning, Sword Maiden
+Card No.:GBS/S63-E063
+Rarity:RR
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:Even… Even in my dreams? You will come?
+Trigger:Soul
+Special Attribute:Order・Archbishop
+Text:【CONT】 All of your other 《Order》 characters get +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.

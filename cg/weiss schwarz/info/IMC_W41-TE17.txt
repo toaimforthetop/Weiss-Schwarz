@@ -1,0 +1,16 @@
+Card Name:
+English Name:Super Happy-Happy☆ Candy Shower
+Card No.:IMC/W41-TE17
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Power~
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"All right☆ Since its gone this far～ The ultimate weapon☆
+Trigger:
+Special Attribute:
+Text:Search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

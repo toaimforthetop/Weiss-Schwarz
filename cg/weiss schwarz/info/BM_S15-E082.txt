@@ -1,0 +1,16 @@
+Card Name:
+English Name:Curse-lifting Gratitude, Nadeko Sengoku
+Card No.:BM/S15-E082
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:"Don\'t say that. Sengoku. Please, don\'t say things like \'thank you\' to me."
+Trigger:Soul
+Special Attribute:Strange・-
+Text:[AUTO] When this card is frontal attacked, put the top card of your deck into your waiting room. If that card is a 《Strange》 character, until end of turn, this card gets +1000 power and the following ability. "[AUTO] Encore ［Put a character from your hand into your waiting room］". 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Psychokinesis Converge!!!” Oshizu
+Card No.:TL/W37-E093
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"If…if thats the case! I'll stop you without hesitation!!
+Trigger:
+Special Attribute:Spirit・Psychic Ability
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:10th Asashio-class Destroyer, Kasumi Kai-II
+Card No.:KC/S42-E083
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"I just cant sit by and watch!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 All of your other cards named "10th Asashio-class Destroyer, Kasumi Kai-II" get +1500 power and the following ability. "【CONT】 This card cannot become 【REVERSE】 from your opponent character\'s 【AUTO】 effects."【ACT】 [【REST】 two of your characters] Put this card into your waiting room. Choose a card named "10th Asashio-class Destroyer, Kasumi Kai-II-Otsu" in your waiting room, and put it on the stage position that this card was on.

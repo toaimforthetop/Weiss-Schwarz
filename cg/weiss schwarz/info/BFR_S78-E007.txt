@@ -1,0 +1,17 @@
+Card Name:
+English Name:Guild Master, Maple
+Card No.:BFR/S78-E007
+Rarity:R
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Here we go!
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 【CXCOMBO】 When "Maple Tree" is placed on your climax area, if this card is in your center stage, you may choose 1 level X or lower 《Game》 character in your waiting room, and return it to your hand. X is equal to the number of "Maple Tree" in your waiting room.
+Text:【AUTO】 Resonate [Reveal any number of "Loving Sacrifice, Maple" in your hand] When this card attacks, you may pay the cost. If you do, this card gets +X power until the end of your opponent\'s next turn. X is equal to the number of cards you revealed ×1500.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Brave Readiness, Maya Tendo
+Card No.:RSL/S56-E067SSP
+Rarity:SSP
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Revue・Weapon
+Text:【CONT】 If you have 2 or more other 《Revue》 characters, this card gets +2000 power.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Noble Will, Claudine Saijo" in your waiting room, and put it on any position of your stage.
+Text:【AUTO】 【CXCOMBO】 This ability activates up to 2 times per turn. When this card attacks, if "The Show Must Go On" is in your climax area, you may put the top card of your clock into your waiting room.

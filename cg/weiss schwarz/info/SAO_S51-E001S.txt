@@ -1,0 +1,17 @@
+Card Name:
+English Name:On Stage, Asuna
+Card No.:SAO/S51-E001S
+Rarity:SR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"I dont mind you reading it, Kirito…
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your turn, all of your other characters get +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

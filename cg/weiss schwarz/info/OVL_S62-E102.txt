@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unique Speech Mannerisms, Shalltear
+Card No.:OVL/S62-E102
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:You know what, I am not even mad about it. Not one little bit!
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +2500 power and +1 soul until the end of your opponent's next turn.", '

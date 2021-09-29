@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sowing Seeds of Despair, Cioccolata & G.T
+Card No.:JJ/S66-E052
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Now theyre cornered.
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Return this card to your hand] When "Cioccolata and Secco" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other 《Golden Wind》 characters, and 【STAND】 it.

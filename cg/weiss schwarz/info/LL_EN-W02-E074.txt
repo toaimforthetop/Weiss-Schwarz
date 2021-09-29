@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Everyone's Festival” Honoka Kosaka
+Card No.:LL/EN-W02-E074
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Think itll be hot today? It might be a good idea to bring a fan~
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 [(1)] When a card named "Lots o\' Animals" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one level 1 or lower 《Music》 character, put it on any position of your stage, and shuffle your deck.

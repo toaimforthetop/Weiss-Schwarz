@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mobile Fortress Gunmen, Dai-Gunzan
+Card No.:GL/S52-E045
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Beast Man・-
+Text:【CONT】 All of your other cards named "Mystery Monstrous Mecha, Gunmen" get +1000 power.
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

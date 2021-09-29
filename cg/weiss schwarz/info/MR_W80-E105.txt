@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sudden Designation, Sana
+Card No.:MR/W80-E105
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Eh...
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 If all of your characters are 《Magic》, this card gets +1000 power.
+Text:【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn.

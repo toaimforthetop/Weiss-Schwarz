@@ -1,0 +1,18 @@
+Card Name:
+English Name:Strong and Stout-hearted, Lisbeth
+Card No.:SAO/SE26-E22
+Rarity:R
+Expansion:Sword Art Online Ⅱ Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Lets get the lead out and kick his giant ass.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.
+Text:【AUTO】 [(1)] When you use "Accelerate", you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Appeal to the Integrity Knight, Tiese & Ronie
+Card No.:SAO/S65-E035
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Eugeo: "Tiese!" Kirito: "Ronie!"
+Trigger:
+Special Attribute:Fluctlight・Noble
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Fluctlight》 character in your clock, return it to your hand, and put the top card of your deck into your clock.

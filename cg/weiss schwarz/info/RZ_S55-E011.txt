@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cool Gesture, Reinhard
+Card No.:RZ/S55-E011
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"You surprised me. Whats brought on such behavior?
+Trigger:
+Special Attribute:Weapon・Knight
+Text:【CONT】 During your turn, if all of your characters are 《Magic》 or 《Weapon》, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 When your character attacks, if "Sword Strike" is in your climax area, and this card is on your center stage, you may reduce the soul of that attacking character by 1 until end of turn. If you do, that attacking character gets +2000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Blissful Snacks” Honoka Kosaka
+Card No.:LL/EN-W02-E099
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hmm…… I should really have my mom teach me more about cooking, I think~
+Trigger:
+Special Attribute:Music・-
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

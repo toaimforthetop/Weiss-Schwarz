@@ -1,0 +1,16 @@
+Card Name:
+English Name:An Ordinary Piece, Cow Girl
+Card No.:GBS/S63-E102
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Cow Girl
+Trigger:
+Special Attribute:Order・-
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card from your hand, and put it into your waiting room. (Otherwise, return it to its original place) 【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card.

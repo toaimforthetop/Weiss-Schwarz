@@ -1,0 +1,16 @@
+Card Name:
+English Name:Healthy Outdoorsy Girl, Tomonori
+Card No.:Fkz/W65-E007
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:6500
+Soul:2
+Flavor Text:"Dont make fun of me! You treat me as a guy, don't you!
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Shinobi・Blood
+Text:【CONT】 This card gets +2500 power for each of your other 《Fantasia Bunko》 or 《Shinobi》 characters in your back stage.

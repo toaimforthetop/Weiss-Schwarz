@@ -1,0 +1,18 @@
+Card Name:
+English Name:Taigei-class Submarine Tender, Taigei
+Card No.:KC/S31-E090
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Forming a submarine team? Please leave it to me!
+Trigger:
+Special Attribute:Fleet Girl・Submarine Tender
+Text:【CONT】 If your level is two or higher, this card gets the following ability. "【ACT】 [(1) Put this card into your waiting room] Choose a card named "Ryuho-class Light Aircraft Carrier, Ryuho-Kai" in your waiting room, and put it on the stage position that this card was on."
+Text:【ACT】 [【REST】 this card] Choose one of your 《Fleet Girl》 characters, and that character gets +1500 power until end of turn.
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters. 

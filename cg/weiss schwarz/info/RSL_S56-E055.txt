@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tag, Mahiru Tsuyuzaki
+Card No.:RSL/S56-E055
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Ah… Hehe…
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【AUTO】 When your other "Tag, Karen Aijo" attacks, if there are no markers underneath that character, you may put this card face up underneath that character as a marker. If you do, that character gets +1000 power until end of turn.

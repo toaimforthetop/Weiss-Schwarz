@@ -1,0 +1,17 @@
+Card Name:
+English Name:Moment Between the Two, Maple
+Card No.:BFR/S78-E004S
+Rarity:SR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Shield
+Text:【CONT】 During your opponent's turn, this card gets +4000 power.
+Text:【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

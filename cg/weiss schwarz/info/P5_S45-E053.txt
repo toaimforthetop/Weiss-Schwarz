@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ann as PANTHER: The Talented(?) Phantom Actress
+Card No.:P5/S45-E053
+Rarity:R
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Scared?Right now, youre seeing thesame view that Shiho did.
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, choose one of your characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

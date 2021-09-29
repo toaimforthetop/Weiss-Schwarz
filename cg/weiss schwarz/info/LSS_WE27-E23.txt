@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Mijuku DREAMER" Chika Takami
+Card No.:LSS/WE27-E23
+Rarity:R
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 【CXCOMBO】 [(1) Put two cards from your hand into your waiting room] When this card attacks, if a card named "Mijuku Dreamer" is in your climax area, you may pay the cost. If you do, choose up to three blue characters in your waiting room, and return them to your hand.

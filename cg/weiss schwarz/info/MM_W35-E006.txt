@@ -1,0 +1,16 @@
+Card Name:
+English Name:One Who Knows the Truth, Nagisa
+Card No.:MM/W35-E006
+Rarity:R
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Let me explain it from my own lips.
+Trigger:
+Special Attribute:Magic・Cheese
+Text:【CONT】 If you have another character with "Mami(マミ)" in its card name, this card gets +1500 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:At the Secret Place, Kosaki
+Card No.:NK/W30-E091
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:……Now that I think of it, that was my first love……It does seem that way to me.
+Trigger:
+Special Attribute:Sweets・Key
+Text:【CONT】 During your opponent\'s turn, if the number of characters your opponent has is three or less, this card gets +2000 power.
+Text:【AUTO】 Memory [(1)] When this card is placed on stage from your hand, if the number of cards named "Promised Pendant" in your memory is two or more, you may pay the cost. if you do, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

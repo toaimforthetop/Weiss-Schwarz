@@ -1,0 +1,18 @@
+Card Name:
+English Name:"DREAMS of Bonds" Rimi Ushigome
+Card No.:BD/W73-E052SPb
+Rarity:SP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Poppin'Party
+Text:【CONT】 Assist All of your 《Poppin\'Party》 characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room.
+Text:【ACT】 [【REST】 this card] If your waiting room has 1 character with "Tae(たえ)" in its card name, 1 other character with "Rimi(りみ)" in its card name, 1 other character with "Saya(沙綾)" in its card name and 1 other character with "Arisa(有咲)" in its card name, choose 1 of your ""Star-Shaped Tambourine" Kasumi Toyama", and that character gets +4500 power until end of turn.

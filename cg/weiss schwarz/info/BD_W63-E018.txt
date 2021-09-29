@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Rules of Being an Idol" Chisato Shirasagi
+Card No.:BD/W63-E018
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Fufu, thats good to hear.
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 [(2)] When you use this card\'s "Backup", you may pay the cost. If you do, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【ACT】【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)

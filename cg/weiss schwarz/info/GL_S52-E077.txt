@@ -1,0 +1,17 @@
+Card Name:
+English Name:Grapearl (For Gimmy's & Darry's Dedicated Use)
+Card No.:GL/S52-E077
+Rarity:C
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・Twins
+Text:【CONT】 All of your other cards named "Mass-Production Model, Grapearl" get +1 level and +500 power.
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

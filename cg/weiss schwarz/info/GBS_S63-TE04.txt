@@ -1,0 +1,16 @@
+Card Name:
+English Name:Quiet Consideration, Goblin Slayer
+Card No.:GBS/S63-TE04
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Do you want me to take over?
+Trigger:
+Special Attribute:Order・Weapon
+Text:-

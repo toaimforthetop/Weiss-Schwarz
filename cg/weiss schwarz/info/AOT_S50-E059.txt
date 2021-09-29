@@ -1,0 +1,18 @@
+Card Name:
+English Name:"To Seize Freedom" Mikasa
+Card No.:AOT/S50-E059
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"This time, I wont hesitate. I'll kill them both, I swear!
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "Thank You..." is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)
+Text:【AUTO】 [(2)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)

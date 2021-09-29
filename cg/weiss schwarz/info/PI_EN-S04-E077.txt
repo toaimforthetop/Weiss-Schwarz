@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lovestruck Miyu
+Card No.:PI/EN-S04-E077
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Youre the only friend in my life, Illya. No one else matters, right?
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【CONT】 If all of your characters have "Illya(イリヤ)" or "Miyu(美遊)" in its card name, this card gets +2000 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Spy" Souei
+Card No.:TSK/S70-E079
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Benimaru: "Souei is a Spy."
+Trigger:
+Special Attribute:Demon Continent・Shinobi
+Text:【AUTO】 【CXCOMBO】 When your opponent levels up, if "A Trap Laid Out" is in your climax area, and this card is in your center stage, look at up to 2 cards from the top of your deck, choose up to 2 《Demon Continent》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest of the cards into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent\'s deck.

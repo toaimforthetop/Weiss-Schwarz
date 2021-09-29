@@ -1,0 +1,16 @@
+Card Name:
+English Name:Controller of Magnetism
+Card No.:JJ/S66-E045
+Rarity:CR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Because you are already complete.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 character with level equal to or lower than your level in your waiting room, return it to your hand, choose up to 2 of your characters, and those characters get +1 soul until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sakura: Spiky Solution
+Card No.:CCS/WX01-T14
+Rarity:TD
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Ah!
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Tomoeda》 or 《Magic》 characters you have ×1000.

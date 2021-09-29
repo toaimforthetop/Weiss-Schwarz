@@ -1,0 +1,16 @@
+Card Name:
+English Name:Soundless Voice
+Card No.:PD/S29-E023S
+Rarity:SR
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:降り積もる雪よどうか\u3000降り続けてずっとこのまま\u3000全て奪い去ってよ
+Trigger:Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)

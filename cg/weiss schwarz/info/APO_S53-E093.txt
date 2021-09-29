@@ -1,0 +1,16 @@
+Card Name:
+English Name:Darnic Prestone Yggdmillennia
+Card No.:APO/S53-E093
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:500
+Soul:1
+Flavor Text:No, you are a vampire! You are Count Dracula!
+Trigger:
+Special Attribute:Master・-
+Text:【ACT】 Fusion [Put a card named ""Transfiguration" Lancer of Black" from your stage face up underneath this card as a marker] Search your deck for up to one card named ""Legend of Dracula" Dracula", put it on this card\'s stage position, put this card and all markers underneath this card face up in any order underneath the card named ""Legend of Dracula" Dracula" as markers, and shuffle your deck.

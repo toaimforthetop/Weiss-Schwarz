@@ -1,0 +1,16 @@
+Card Name:
+English Name:Blue Roses in Harmony
+Card No.:BD/EN-W03-126S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:0
+Power:0
+Soul:0
+Flavor Text:Yukina: "I\'m sure once new stage outfits are made, we\'ll become a new Roselia once again..."
+Trigger:Draw
+Special Attribute:
+Text:【CONT】All of your characters get +1000 power and +1 soul.(【DRAW】: When this card triggers, you may draw 1 card)

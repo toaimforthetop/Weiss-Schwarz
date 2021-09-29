@@ -1,0 +1,16 @@
+Card Name:
+English Name:Teenaged Marceline
+Card No.:AT/WX02-054
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Daddy…? Why?
+Trigger:
+Special Attribute:Ooo・Vampire
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".

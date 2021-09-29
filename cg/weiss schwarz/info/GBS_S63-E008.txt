@@ -1,0 +1,17 @@
+Card Name:
+English Name:Banisher of Heresy, Lizard Priest
+Card No.:GBS/S63-E008
+Rarity:R
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Thank you.
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When "Friends to Battle Alongside With" is placed on your climax area, if this card is on your center stage, and you are level 3 or higher, you may choose 1 "Rapid Firing of Pebbles, Dwarf Shaman" in your waiting room, and put it on any position of your stage.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lost, Sakuta Azusagawa
+Card No.:SBY/W64-E039
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Is it okay to live my life like you do?
+Trigger:
+Special Attribute:Adolescence・-
+Text:【CONT】 All of your other 《Adolescence》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose 1 character with "Shoko (翔子)" in its card name, and that character gets +1500 power until end of turn.

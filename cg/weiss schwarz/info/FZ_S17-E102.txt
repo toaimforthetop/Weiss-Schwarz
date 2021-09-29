@@ -1,0 +1,16 @@
+Card Name:
+English Name:Saber in a Dark Suit
+Card No.:FZ/S17-E102
+Rarity:TD
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:You will surely survive. I will protect you until the end.
+Trigger:Soul
+Special Attribute:Servant・Royalty
+Text:【ACT】[【REST】 two of your characters] This card gets +2000 power until end of turn.

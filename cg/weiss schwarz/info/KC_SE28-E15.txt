@@ -1,0 +1,17 @@
+Card Name:
+English Name:Berserker Mode, Port Princess in the Deep Sea
+Card No.:KC/SE28-E15
+Rarity:U/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Thick headed girls……
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Princess in the Deep Sea
+Text:【CONT】 If a card named "Port Princess in the Deep Sea" is in your clock, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card attacks, if a card named "Nothing… you don\'t understand anything at all…" is in your climax area, you may choose a card in your clock, and return it to your hand. If you do, put the top card of your deck into your clock.

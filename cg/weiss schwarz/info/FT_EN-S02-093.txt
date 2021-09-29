@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Unison Raid" Juvia
+Card No.:FT/EN-S02-093
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Just great. As if theres not enough water in here already.
+Trigger:
+Special Attribute:Magic・Love
+Text:【AUTO】 Memory When this card\'s battle opponent becomes 【REVERSE】, if a card named ""Unison Raid" Lucy" is in your memory, draw a card, choose a card in your hand, and put it into your waiting room.

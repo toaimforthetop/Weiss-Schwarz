@@ -1,0 +1,16 @@
+Card Name:
+English Name:Attack by a Formidable Enemy, Fujimaru & Mash
+Card No.:FGO/S75-E083
+Rarity:R
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Chaldea・-
+Text:【CONT】 All of your other characters with "Mash(マシュ)" in its card name get the following ability. "【AUTO】 [(2)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent." (Damage may be canceled)【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 2 cards in your hand, put them into your waiting room, and put up to 1 card from the top of your deck into your stock.

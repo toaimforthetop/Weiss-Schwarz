@@ -1,0 +1,16 @@
+Card Name:
+English Name:Flower Viewing, Nagato
+Card No.:SY/WE09-E26
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:It is enough.
+Trigger:Soul
+Special Attribute:Alien・SOS Brigade
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Alien》 characters, and that character gets +2000 power until end of turn.

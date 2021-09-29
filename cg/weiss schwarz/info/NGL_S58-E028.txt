@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cool Character, Kurami
+Card No.:NGL/S58-E028
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I-I dont cry! I've never cried!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "The Final Piece" is in your climax area, put up to 1 card from the top of your deck into your stock, and reveal the top card of your deck. If that card is level 1 or higher, put it into your hand. (Otherwise, return it to its original place. Climax are regarded as level 0)

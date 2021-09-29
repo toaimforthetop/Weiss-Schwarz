@@ -1,0 +1,17 @@
+Card Name:
+English Name:Their Child, Yui
+Card No.:SAO/S20-E088
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I want the same one as daddy.
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】［【REST】 this card］ Choose one of your characters with "Kirito" or "Asuna" in its card name, and that character gets +500 power until end of turn. 

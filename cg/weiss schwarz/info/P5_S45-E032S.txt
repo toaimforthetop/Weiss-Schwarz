@@ -1,0 +1,17 @@
+Card Name:
+English Name:Haru as NOIR: All-out Attack
+Card No.:P5/S45-E032S
+Rarity:SR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Time to punish them.
+Trigger:Soul
+Special Attribute:Thief・Heiress
+Text:【CONT】 If a card named "Haru as NOIR & Milady" is in your clock, this card gets -1 level while in your hand.
+Text:【AUTO】 When a card named "Adieu." is placed on your climax area, if this card is in your center stage, put the top card of your deck into your stock, and this card gets +1500 power until the end of your opponent\'s next turn.

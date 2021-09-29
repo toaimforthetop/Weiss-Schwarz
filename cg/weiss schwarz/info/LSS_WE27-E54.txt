@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mijuku DREAMER
+Card No.:LSS/WE27-E54
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"I want you to understand me.""I want you to understand me."
+Trigger:Draw
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【DRAW】: When this card triggers, you may draw a card)

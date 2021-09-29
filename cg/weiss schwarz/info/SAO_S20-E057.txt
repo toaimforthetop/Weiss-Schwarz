@@ -1,0 +1,16 @@
+Card Name:
+English Name:Silica - Start of the Adventure
+Card No.:SAO/S20-E057
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Okay, Ill do my best too!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】[(1)］ When this card attacks, if a card named "First Adventure" is in your climax area, you may pay the cost. If you do, choose a card named "Familiar, Pina" in your waiting room, and put that card on any position of your stage as 【REST】, and this card gets +3500 power until end of turn.

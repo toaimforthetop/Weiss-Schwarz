@@ -1,0 +1,16 @@
+Card Name:
+English Name:12th Kagero-class Destroyer, Isokaze
+Card No.:KC/S31-E011S
+Rarity:SR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Oh no. I refuse to be stopped at this stage.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 If you have another level 3 or higher character, this card gets +1 soul. 

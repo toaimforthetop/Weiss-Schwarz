@@ -1,0 +1,18 @@
+Card Name:
+English Name:Finish with a Single Blow, Yukiko
+Card No.:P4/EN-S01-063
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Yukiko: "Should we… taste this?"', '', 'Chie: "Huh? O-Only if you do it first."
+Trigger:
+Special Attribute:Fan・Magic
+Text:【AUTO】 When this card is placed on stage from your hand, you may choose one of your opponent's 【STAND】 cards, and 【REST】 it.", '
+Text:【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "Inedible Curry" in your waiting room, and return it to your hand.
+Text:【CONT】 This card gets +X power. X is equal to 2000 multiplied by the level of the character facing this card.

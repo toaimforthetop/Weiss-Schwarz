@@ -1,0 +1,16 @@
+Card Name:
+English Name:Marika Tachibana
+Card No.:NK/W30-TE17
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Police・Key
+Text:-

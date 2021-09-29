@@ -1,0 +1,16 @@
+Card Name:
+English Name:Surprise Confession
+Card No.:KLK/S27-E039
+Rarity:CR
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Yep! It was me. I was the one who killed your father.
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.) 

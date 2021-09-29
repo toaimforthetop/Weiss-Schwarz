@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Maid's Job, Miyu
+Card No.:PI/EN-S04-E035
+Rarity:R
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Ｈa, haa…
+Trigger:
+Special Attribute:Master・Magic
+Text:【AUTO】 When this card attacks, if the number of cards in your hand is five or more, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn.

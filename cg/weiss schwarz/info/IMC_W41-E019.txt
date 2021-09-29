@@ -1,0 +1,16 @@
+Card Name:
+English Name:Camp with Everyone, Miria
+Card No.:IMC/W41-E019
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1)] At the beginning of your opponent's attack phase, if all of your characters are 《Music》, you may pay the cost. If you do, move this card to an open position of your back stage.", '

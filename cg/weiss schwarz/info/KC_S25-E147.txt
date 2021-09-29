@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Mogami-class Aviation Heavy Cruiser, Mogami-Kai
+Card No.:KC/S25-E147
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Alright, Im charging in as well-!
+Trigger:Soul
+Special Attribute:Fleet Girl・Aviation Heavy Cruiser
+Text:【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +500 power and "【AUTO】Encore [Put the top card of your deck into your clock]".

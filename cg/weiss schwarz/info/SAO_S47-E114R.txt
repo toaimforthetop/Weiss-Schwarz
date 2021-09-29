@@ -1,0 +1,16 @@
+Card Name:
+English Name:Determination with Life on the Line, Kirito
+Card No.:SAO/S47-E114R
+Rarity:R
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Lisbeth: "The only time he\'ll take a fight seriously now, is if the game stops being a game."
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets +2000 power until end of turn. (The revealed card is returned to its original place)【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to three cards from the top of your deck. If you revealed one or more cards, choose up to one 《Avatar》 or 《Net》 character from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room.

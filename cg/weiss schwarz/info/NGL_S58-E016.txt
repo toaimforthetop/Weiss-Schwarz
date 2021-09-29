@@ -1,0 +1,16 @@
+Card Name:
+English Name:Memory Sharing, Sora
+Card No.:NGL/S58-E016
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Of course you will. Youre human, too.
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【CONT】 Memory If "Peas in a Pod" is in your memory, this card gets +5000 power and +1 soul.

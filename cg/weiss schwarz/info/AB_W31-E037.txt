@@ -1,0 +1,16 @@
+Card Name:
+English Name:Guitar Performer, Iwasawa
+Card No.:AB/W31-E037
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Oh, Hisako, everything okay?
+Trigger:
+Special Attribute:Death・Music
+Text:[AUTO] [(2) Put this card into your memory] When this card becomes [REVERSE] in battle, you may pay the cost. If you do, search your deck for up to one 《Death》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Ritsu: Awakening Lab
+Card No.:MOB/SX02-094
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Awakening Lab?
+Trigger:Soul
+Special Attribute:Student Council・-
+Text:【CONT】 During the attack phase, you cannot return characters from your waiting room to your hand by your cards' effects.
+Text:【CONT】 This card gets +1500 power for each marker underneath this card.
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 blue or 《Esper》 character in your waiting room, and put it face down underneath this card as a marker.", '

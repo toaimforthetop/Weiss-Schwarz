@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sweets Witch", Charlotte
+Card No.:MM/W17-E007
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【CONT】 The character facing this card gets +1 soul.', "【AUTO】 During this card's battle, when the damage you received is canceled, this card gets +1000 power until end of your next turn. ", '

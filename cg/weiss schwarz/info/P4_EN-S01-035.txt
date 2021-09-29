@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unit #024
+Card No.:P4/EN-S01-035
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:It would be wonderful if I could go with you', '', 'to see "her".
+Trigger:
+Special Attribute:Mecha・-
+Text:【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.

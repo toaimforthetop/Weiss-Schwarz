@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Lab Girl"
+Card No.:PD/S22-E068
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Science
+Text:-

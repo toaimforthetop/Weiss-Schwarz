@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ruka Asato
+Card No.:AW/S18-E093
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Wassaibiin. ~ Its just…  ~ I didn't know you’d be a major churakagi……
+Trigger:
+Special Attribute:Sports・Net
+Text:

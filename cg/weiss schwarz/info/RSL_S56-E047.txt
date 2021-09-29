@@ -1,0 +1,17 @@
+Card Name:
+English Name:Time to Relax, Hikari Kagura
+Card No.:RSL/S56-E047
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Yeah… Youre shining.
+Trigger:
+Special Attribute:Revue・Barrette
+Text:【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.
+Text:【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Choose 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."

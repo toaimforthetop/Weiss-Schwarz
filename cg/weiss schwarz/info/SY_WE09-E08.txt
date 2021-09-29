@@ -1,0 +1,16 @@
+Card Name:
+English Name:Energetic Senior, Tsuruya
+Card No.:SY/WE09-E08
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Youre so cute, Mikuru. I'd love to keep you as a pet!
+Trigger:
+Special Attribute:Forehead・Fang Teeth
+Text:【CONT】 All of your other 《Time》 or 《Forehead》 characters get +500 power.', "【AUTO】 When your character's trigger check reveals a climax, if that card's trigger icon is Treasure@, choose one of your characters, and that character gets +2000 power until end of turn.", '

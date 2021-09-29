@@ -1,0 +1,17 @@
+Card Name:
+English Name:Blushing Younger Sister, Suzuka
+Card No.:Fii/W65-E087
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Is this kind of outfit appealing to you…?
+Trigger:
+Special Attribute:Fantasia Bunko・Novel・Brocon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Fantasia Bunko》 or 《Novel》 character, this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Love Story of the "Princess"" is in your climax area, choose up to 1 《Fantasia Bunko》 or 《Novel》 character in your waiting room, put it into your stock, choose 1 of your characters, and that character gets +3000 power until end of turn.

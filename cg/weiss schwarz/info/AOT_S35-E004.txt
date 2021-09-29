@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Entrance Ceremony" Annie
+Card No.:AOT/S35-E004
+Rarity:R
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] If the number of cards in your stock is two or less, this card gets +1500 power.

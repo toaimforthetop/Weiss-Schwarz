@@ -1,0 +1,17 @@
+Card Name:
+English Name:Oriko Mikuni
+Card No.:MR/W59-TE16
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I know exactly what I have to do!
+Trigger:Soul
+Special Attribute:Magic・Magia
+Text:【CONT】 If you have 2 or more other 《Magic》 characters, this card gets +3000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Magic》 characters, you may put the top card of your deck into your stock.

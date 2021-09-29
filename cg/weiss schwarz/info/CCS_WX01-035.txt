@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: Pure White Dress
+Card No.:CCS/WX01-035
+Rarity:R
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I know. There’s another card!
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 [(1)] When a climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Tomoeda》 or 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

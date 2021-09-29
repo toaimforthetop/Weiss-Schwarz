@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Declaration of War" Lancer of Red
+Card No.:APO/S53-TE03S
+Rarity:SR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:My Master commanded me. Therefore, as per our contract, I mobilize as such.
+Trigger:
+Special Attribute:Servant・Sun
+Text:【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters on your back stage.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Clash of Spear and Sword" is in your climax area, you may choose a character in your waiting room, and return it to your hand.

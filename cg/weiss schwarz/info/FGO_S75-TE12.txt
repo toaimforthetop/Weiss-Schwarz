@@ -1,0 +1,17 @@
+Card Name:
+English Name:Firm Courage, Mash
+Card No.:FGO/S75-TE12
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:...!
+Trigger:
+Special Attribute:Chaldea・Shielder
+Text:【CONT】 During your opponent's turn, if you have another 《Chaldea》 or 《Babylonia》 character, this card gets +3000 power.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Chaldea》 or 《Babylonia》 character in your waiting room, and return it to your hand. ", '

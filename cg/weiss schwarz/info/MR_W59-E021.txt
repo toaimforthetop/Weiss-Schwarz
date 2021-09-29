@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Saintly Descent" Holy Mami
+Card No.:MR/W59-E021
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:I will release those stained with sorrow by my own hand.
+Trigger:
+Special Attribute:Magic・Skill
+Text:【CONT】 If you have another ""Magical Girl VS Series?" Holy Mami", this card gets +3000 power.

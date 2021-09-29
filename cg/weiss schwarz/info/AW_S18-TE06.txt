@@ -1,0 +1,17 @@
+Card Name:
+English Name:Twilight Promise, Kuroyukihime
+Card No.:AW/S18-TE06
+Rarity:TD
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Do you honestly believe that this gap between us, is so great it can never be closed?
+Trigger:
+Special Attribute:Student Council・Avatar
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

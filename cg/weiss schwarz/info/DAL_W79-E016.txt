@@ -1,0 +1,16 @@
+Card Name:
+English Name:Day After the Date, Kurumi
+Card No.:DAL/W79-E016
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I was sure you would be absent today.
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【ACT】 [(1) 【REST】 this card] Reveal the top card of your deck. If that card is a 《Date》 or 《Celestial Spirit》 character, put it into your hand. (Otherwise, return the revealed card to its original place)【ACT】 【CXCOMBO】 [Put 2 cards from your hand into your waiting room] Choose 1 "Obstructing Existence" in your waiting room, and put it on your climax area.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Crystal Song" Yukina Minato
+Card No.:BD/EN-W03-091SP
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】【CXCOMBO】When this card attacks, if "Zeit" is in your climax area, and you have another blue character, look at up to 4 cards from the top of your deck, choose up to 1 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"To Seize Freedom" Eren
+Card No.:AOT/S50-E006S
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"…… Right now, Ive gotta become a Titan…… or it's all for nothing!
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【AUTO】 [(1) Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named ""Single Ray of Light" Eren Titan" in your hand, and put it on this card\'s stage position as the defending character.
+Text:【AUTO】 Resonate [Reveal a card named ""Single Ray of Light" Eren Titan" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +1 soul until end of turn.

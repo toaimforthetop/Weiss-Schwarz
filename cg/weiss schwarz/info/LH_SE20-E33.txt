@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reliable Buddy, Naotsugu
+Card No.:LH/SE20-E33
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Ive been watching you lately, man. And you need to lighten up some.
+Trigger:
+Special Attribute:Weapon・-
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card from your opponent's hand, and puts it into his or her waiting room. ", '

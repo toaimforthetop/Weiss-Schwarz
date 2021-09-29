@@ -1,0 +1,16 @@
+Card Name:
+English Name:My Very Own Star, Junna Hoshimi
+Card No.:RSL/S56-E066
+Rarity:RR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:We have to give our all and reach for the stars… Right?
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【AUTO】 At the beginning of your climax phase, you may look at the top card of your deck. (Return the card you saw to its original place)【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

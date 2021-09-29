@@ -1,0 +1,16 @@
+Card Name:
+English Name:Silica's Unyielding Trust
+Card No.:SAO/S47-E058
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Youre a good person…… so I wouldn't be scared.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one 《Avatar》 or 《Net》 or 《Familiar》 character in your waiting room, and return it to your hand.

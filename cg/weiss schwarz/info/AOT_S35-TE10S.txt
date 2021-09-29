@@ -1,0 +1,18 @@
+Card Name:
+English Name:Eren Jaeger
+Card No.:AOT/S35-TE10S
+Rarity:SR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Im going to do it! I have to!
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:[CONT] If the number of your other 《Corps》 characters is two or more, this card gets +1000 power.
+Text:[CONT] The character facing this card gets -1 soul.
+Text:[CONT] During this card\'s battle, your opponent cannot play "Backup" from hand.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Swimsuit Kyon's Sister
+Card No.:SY/W08-E009
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Over here, over here!
+Trigger:
+Special Attribute:Animal・Swimsuit
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 When this card attacks, if a card named "sleeping beauty_" is in your climax area, search your deck for up to one 《SOS Brigade》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

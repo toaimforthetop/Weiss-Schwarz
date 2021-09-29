@@ -1,0 +1,17 @@
+Card Name:
+English Name:5th Fubuki-class Destroyer, Murakumo
+Card No.:KC/S25-E101
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:You are the commander, right? Well, do try your best!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, chose a 《Fleet Girl》 character in your waiting room, and return it to your hand.
+Text:【AUTO】Bond／"1st Furutaka-class Heavy Cruiser, Furutaka" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "1st Furutaka-class Heavy Cruiser, Furutaka" in your waiting room, and return it to your hand.)

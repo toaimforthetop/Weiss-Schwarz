@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Nature's Beauty” Aqua
+Card No.:KS/W49-E091
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Natures Beauty!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 All of your other 《Adventurer》 or 《Goddess》 characters get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Put the top card of your clock into your waiting room.

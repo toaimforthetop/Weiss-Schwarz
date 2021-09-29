@@ -1,0 +1,16 @@
+Card Name:
+English Name:Loser's Bravado
+Card No.:NM/S24-E079
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:2 
+Power:
+Soul:0
+Flavor Text:"I was about to make my big comeback. Dont worry about me when you don't have to, Big Sister――
+Trigger:
+Special Attribute:-
+Text:Look at up to X cards from the top of your deck, choose up to two cards from among them, and put them into your hand. Put the rest into your waiting room. X is equal to the number of 《Strange》 characters you have.

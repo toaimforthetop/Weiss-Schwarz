@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kanako Mimura
+Card No.:IMC/W41-E041
+Rarity:RR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:We\'ll do our best for "CANDY ISLAND"!
+Trigger:
+Special Attribute:Music・Sweets
+Text:【CONT】 Your other character in the middle position of the center stage gets +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

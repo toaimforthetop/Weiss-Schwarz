@@ -1,0 +1,17 @@
+Card Name:
+English Name:Airｃraｆｔ Carrier Hydro Ogre in the Deep Sea
+Card No.:KC/SE28-E13
+Rarity:U/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:You wish to… advance……?
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Hydro Ogre in the Deep Sea
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of other 《Fleet in the Deep Sea》 characters you have is four or more, you may put the top card of your deck into your stock.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

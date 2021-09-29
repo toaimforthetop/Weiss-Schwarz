@@ -1,0 +1,16 @@
+Card Name:
+English Name:Graduation from This World, Yuri
+Card No.:AB/W31-E078
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Well, see you later!
+Trigger:Soul
+Special Attribute:Death・Weapon
+Text:[CONT] Memory If the number of cards in your memory is two or more, this card gets the following ability. "[AUTO] When this card\'s battle opponent becomes [REVERSE], you may choose a character in your waiting room, and return it to your hand. If you do, choose a card in your hand, and put it into your waiting room."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hardworking Fangirl, Yui
+Card No.:AB/W31-E034
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Whatever I want?I dont do everything I want.
+Trigger:
+Special Attribute:Death・Music
+Text:[AUTO] [(1)] When this card attacks, you may pay the cost. If you do, choose one of your characters, and that character gets +1500 power unitl end of turn.

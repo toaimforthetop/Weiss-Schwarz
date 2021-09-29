@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unique Mage Corps Member, Re=L
+Card No.:Fra/W65-E079
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:"I fight for my brothers sake. That is the reason for my existence.
+Trigger:
+Special Attribute:Fantasia Bunko・Magic・Weapon
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

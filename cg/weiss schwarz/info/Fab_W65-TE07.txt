@@ -1,0 +1,17 @@
+Card Name:
+English Name:Duty of the Two, Isuzu & Seiya
+Card No.:Fab/W65-TE07
+Rarity:TD
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Isuzu: "It\'s so that you can\'t escape."
+Trigger:
+Special Attribute:Fantasia Bunko・AmaBri
+Text:【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1 soul until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Intense Brilliance
+Card No.:RSL/S56-TE22
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:－
+Cost:－
+Power:－
+Soul:0
+Flavor Text:Karen: "This is Seisho Music Academy. It\'s a respected girls\' school with a 100-year history."
+Trigger:Soul・Soul
+Special Attribute:－・－
+Text:【CONT】 All of your characters get +2 soul.

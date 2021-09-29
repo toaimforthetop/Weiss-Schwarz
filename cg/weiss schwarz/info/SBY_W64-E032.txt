@@ -1,0 +1,18 @@
+Card Name:
+English Name:Cool and Collected, Rio Futaba
+Card No.:SBY/W64-E032
+Rarity:R
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:"I hear youre head-over-heels for Sakurajima-senpai lately.
+Trigger:Soul
+Special Attribute:Adolescence・Science
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +4000 power.
+Text:【CONT】 If your level is 3 or higher, this card gets "【CONT】 Great Performance".
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

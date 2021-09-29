@@ -1,0 +1,18 @@
+Card Name:
+English Name:“No Matter What Happens” Madoka & Homura
+Card No.:MM/W35-E053
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Madoka: "No matter what happens, you will always be you, Homura."
+Trigger:Soul
+Special Attribute:Magic・Time
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 [Put a card named "To the Outside World" from your climax area into your waiting room] When this card attacks, you may pay the cost. If you do, return all cards in your waiting room to your deck, shuffle your deck afterwards, and this card gets +1500 power until end of turn.
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

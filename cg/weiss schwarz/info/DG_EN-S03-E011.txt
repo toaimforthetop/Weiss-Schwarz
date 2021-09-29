@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kyoko Needleworker
+Card No.:DG/EN-S03-E011
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:That’s our lady! A model delinquent!
+Trigger:
+Special Attribute:Demon・Delinquent
+Text:【CONT】 If your opponent does not have any climax in the waiting room, this card gets +2000 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Instantaneous Decision, Glenn
+Card No.:Fra/W65-E084
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Tsk… Hes fast… Please be in time…!
+Trigger:
+Special Attribute:Fantasia Bunko・Magic・Teacher
+Text:【ACT】 [(1) 【REST】 2 of your characters] Put the top 2 cards of your deck into your waiting room, choose 1 level X or lower 《Fantasia Bunko》 or 《Magic》 character in your waiting room, and return it to your hand. X is equal to the total level of those cards. (Climax are regarded as level 0)

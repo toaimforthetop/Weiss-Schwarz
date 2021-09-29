@@ -1,0 +1,17 @@
+Card Name:
+English Name:"DREAMS of Smiles" Kanon Matsubara
+Card No.:BD/W73-E010SPb
+Rarity:SP
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】 When you use this card\'s "Backup", if you have a 《Music》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

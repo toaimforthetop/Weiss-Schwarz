@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna Changes Clothes
+Card No.:SAO/S47-E021
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Kyaa!?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When another of your 《Avatar》 or 《Net》 character attacks, this card gets +1000 power until end of turn.

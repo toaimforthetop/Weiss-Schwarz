@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spiral King's Supreme General, Thymilph the Raging Wave
+Card No.:GL/S52-E048
+Rarity:C
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I wont tolerate your big mouth!
+Trigger:
+Special Attribute:Beast Man・-
+Text:【AUTO】 [(1) Put the top card of your deck into your clock & Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one green character, reveal it to your opponent, put it into your hand, and shuffle your deck.

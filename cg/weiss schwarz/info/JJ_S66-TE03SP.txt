@@ -1,0 +1,17 @@
+Card Name:
+English Name:Gang Newcomer, Giorno
+Card No.:JJ/S66-TE03SP
+Rarity:SP
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 If all of your characters are 《Golden Wind》, this card gets +1000 power.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Golden Wind》 character in your waiting room, and return it to your hand.

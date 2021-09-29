@@ -1,0 +1,18 @@
+Card Name:
+English Name:Prinny X-Terminators' Leader, Fuka
+Card No.:DG/EN-S03-E004
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:"Im not a Prinny!! I'm Fuka Kazamatsuri!!
+Trigger:Soul
+Special Attribute:Prinny・Death
+Text:【AUTO】 When you use this card\'s "Backup", if you have a 《Prinny》 character, choose one of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】 COUNTER@ Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a climax in your opponent's waiting room, and return it to his or her deck. If you do, shuffle your opponent's deck, and this card gets +1000 power and +1 soul until end of turn.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Imprisoned Queen, Asuna
+Card No.:SAO/S20-E004
+Rarity:R
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Save me, Kirito…
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If you have another character with "Kirito" in its card name, this card gets +1000 power and "【AUTO】 Encore ［Put a character from your hand into your waiting room］". 

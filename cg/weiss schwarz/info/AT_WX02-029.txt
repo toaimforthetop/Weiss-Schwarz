@@ -1,0 +1,17 @@
+Card Name:
+English Name:BMO: Beating Himself at His Own Game
+Card No.:AT/WX02-029
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【CONT】 If your level is 2 or higher, this card gets the following ability. "【ACT】 [Put this card into your stock] Choose up to 1 "BMO: Noire" in your hand, and put it on the stage position that this card was on."
+Text:【ACT】 [【REST】 2 of your 《Ooo》 characters] Choose 1 card in your level and 1 card in your waiting room, and exchange them.

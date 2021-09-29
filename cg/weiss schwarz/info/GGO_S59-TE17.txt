@@ -1,0 +1,16 @@
+Card Name:
+English Name:First Meeting, M
+Card No.:GGO/S59-TE17
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"Well, please dont be so nervous.I mean, don't be nervous.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

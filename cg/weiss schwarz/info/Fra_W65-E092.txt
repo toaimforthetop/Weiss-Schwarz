@@ -1,0 +1,17 @@
+Card Name:
+English Name:Twinkling of the Star, Albert
+Card No.:Fra/W65-E092
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Roar, my flame lions.
+Trigger:
+Special Attribute:Fantasia Bunko・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Fantasia Bunko》 or 《Magic》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw 1 card. If they do, your opponent chooses 1 card in your opponent's hand, and put it in his or her waiting room.", '

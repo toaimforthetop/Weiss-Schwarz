@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mind-Reader? Tomoe Koga
+Card No.:SBY/W64-E096
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:"Senpai, you can read minds or sometin?
+Trigger:Soul
+Special Attribute:Adolescence・Smartphone
+Text:【CONT】 This card gets +1000 power for each of your other《Adolescence》 characters.

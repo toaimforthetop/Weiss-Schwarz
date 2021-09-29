@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Berserk" Berserker of Black
+Card No.:APO/S53-TE16R
+Rarity:RRR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Ber-ser-ker!
+Trigger:
+Special Attribute:Servant・Electricity
+Text:【CONT】 This card gets +500 power for each of your other 《Master》 or 《Servant》 characters.

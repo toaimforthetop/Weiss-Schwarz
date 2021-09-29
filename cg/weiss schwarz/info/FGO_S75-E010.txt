@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Great Bird of the Sun, Quetzalcoatl
+Card No.:FGO/S75-E010
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. Ｘ is equal to the number of other 《Chaldea》 or 《Babylonia》 characters you have ×500.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Thrilling Fight" is in your climax area, search your deck for up to 1 《Chaldea》 or 《Babylonia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

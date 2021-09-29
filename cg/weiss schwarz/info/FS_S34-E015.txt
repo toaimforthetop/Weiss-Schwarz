@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mischievous Smile, Taiga
+Card No.:FS/S34-E015
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Yay?
+Trigger:
+Special Attribute:Teacher・Sports
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it into your opponent's stock.", '

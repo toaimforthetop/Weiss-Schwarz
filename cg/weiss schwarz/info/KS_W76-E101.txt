@@ -1,0 +1,17 @@
+Card Name:
+English Name:"A Knight's Duty" Darkness
+Card No.:KS/W76-E101
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Thats a knight's duty, right?
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 When this card attacks, you may put the top card of your deck into your waiting room. If that card is a climax, draw 1 card, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.", '

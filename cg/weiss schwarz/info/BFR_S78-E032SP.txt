@@ -1,0 +1,17 @@
+Card Name:
+English Name:Longsword, Kasumi
+Card No.:BFR/S78-E032SP
+Rarity:SP
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Weapon
+Text:【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "No Longer Normal" is in your climax area, and your hand has 6 or less cards, look at up to X cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. X is equal to the number of characters your opponent has.

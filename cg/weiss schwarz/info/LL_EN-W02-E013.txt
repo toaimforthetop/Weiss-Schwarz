@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Sweets Fairy” Nico Yazawa
+Card No.:LL/EN-W02-E013
+Rarity:R
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"If you dont have the basics mastered like me, then you'll find that it's very difficult to make a complete meal in a short time.
+Trigger:
+Special Attribute:Music・Sweets
+Text:【CONT】 If the number of other characters you have with "Nico(にこ)" in its card name is two or more, this card gets +1000 power.
+Text:【ACT】 [【REST】 two of your 《Music》 characters] Choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."

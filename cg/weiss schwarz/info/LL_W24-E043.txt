@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maid Outfit Nozomi
+Card No.:LL/W24-E043
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Maid
+Text:-

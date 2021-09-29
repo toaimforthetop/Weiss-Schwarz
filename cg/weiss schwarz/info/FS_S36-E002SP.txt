@@ -1,0 +1,19 @@
+Card Name:
+English Name:“Excalibur” Saber
+Card No.:FS/S36-E002SP
+Rarity:SP
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:“Excalibur”――!
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【CONT】 If the number of cards in your deck is five or less, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +500 power for each of your other characters with "Shirou(士郎)" or "Saber(セイバー)" or "Rin(凛)" in its card name.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn.

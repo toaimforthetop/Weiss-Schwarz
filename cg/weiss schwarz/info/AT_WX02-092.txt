@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Lich: Possessing Snail
+Card No.:AT/WX02-092
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・-
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When your "Princess Bubblegum: Possessed" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card on any position of your stage as 【REST】.
+Text:【ACT】 [(2) Put 1 "Billy the Hero" on your stage and this card into your memory] Choose 1 "The Lich: Possessing Billy" in your waiting room, and put it on the stage position that this card was on.

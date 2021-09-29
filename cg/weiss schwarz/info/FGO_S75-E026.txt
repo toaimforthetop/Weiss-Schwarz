@@ -1,0 +1,18 @@
+Card Name:
+English Name:King Who Leads the People, Gilgamesh
+Card No.:FGO/S75-E026
+Rarity:RR
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Mind yourselves, my elite warriors!
+Trigger:Soul
+Special Attribute:Babylonia・Wise King
+Text:【CONT】 If all of your characters are 《Chaldea》 or 《Babylonia》, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Chaldea》 or 《Babylonia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 [Put 2 characters from your hand into your waiting room] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that battle opponent into your opponent's clock.", '

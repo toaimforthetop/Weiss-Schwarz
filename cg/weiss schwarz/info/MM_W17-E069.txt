@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kyoko Wishes for a Miracle
+Card No.:MM/W17-E069
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Please, God…… Look at the life Ive lived…… Please, let me have a happy dream, for once in my life……
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【AUTO】［Put a card from your hand into your waiting room］ When a card named "It sure is lonely, being the only one left" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent\'s level 2 or lower characters on the center stage, put it into your opponent\'s waiting room, and at the end of turn, put this card into your waiting room. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Guild Commander, Heathcliff
+Card No.:SAO/S20-E013
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:If you can defeat me in combat, you may take Asuna. But if you lose, you will join the Knights of the Blood Oath.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card attacks, if a card named "Duel in the Arena" is in your climax area, choose one of your opponent\'s cost 1 or less characters, return it to your opponent\'s hand, and this card cannot 【REVERSE】 until end of turn. 

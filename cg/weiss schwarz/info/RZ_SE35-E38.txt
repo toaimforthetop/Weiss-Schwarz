@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shiny Stone
+Card No.:RZ/SE35-E38
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Emilia: "This is the jackpot!"
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Emilia (エミリア)" in its card name, this card cannot be played from your hand.Choose 1 of your 【STAND】 characters, and 【REST】 it. If you do, search your stock for up to 1 climax with  in its trigger icon, reveal it to your opponent, return it to your hand, and shuffle your stock.

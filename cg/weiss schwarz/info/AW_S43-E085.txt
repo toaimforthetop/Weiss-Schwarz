@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Aquamatic》 Aqua Current
+Card No.:AW/S43-E085
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Maelstrom.
+Trigger:
+Special Attribute:Avatar・Water
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【AUTO】 When a climax is put on your opponent's climax area, you may put this card into your stock.", '

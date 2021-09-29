@@ -1,0 +1,17 @@
+Card Name:
+English Name:Meeting up for a Date, Origami
+Card No.:DAL/W79-E105
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Not at all. I just arrived myself.
+Trigger:
+Special Attribute:Date・AST
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of their deck in the original order.
+Text:【AUTO】 When this card is placed on the stage from your hand, if your opponent has 1 or less characters in their center stage, choose 1 cost 0 or lower character in your opponent's center stage, and put it at the bottom of their deck.", '

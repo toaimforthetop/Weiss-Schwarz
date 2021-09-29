@@ -1,0 +1,16 @@
+Card Name:
+English Name:Affiliated Girls' High SchoolRhythmic Gymnastics Club, Moe
+Card No.:GGO/S59-E022
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"After its over,I want to have more of her sweets!
+Trigger:
+Special Attribute:Net・Sports
+Text:【AUTO】 When this card attacks, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets -3000 power until end of turn.

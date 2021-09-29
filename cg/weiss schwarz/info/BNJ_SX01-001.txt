@@ -1,0 +1,17 @@
+Card Name:
+English Name:Joker: The Final Showdown
+Card No.:BNJ/SX01-001
+Rarity:RR
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Psych!
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】,  if "Maniacal Feudal Lord" is in your climax area, choose up to 1 《Villain》 character in your waiting room, return it to your hand, choose 1 of your other characters, and that character gets +1000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Courage Little by Little, Rinko Shirokane
+Card No.:BD/W73-E085SPMb
+Rarity:SPM
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of other 《Roselia》 characters you have.
+Text:【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Changeling
+Card No.:FT/EN-S02-047
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power: -
+Soul:0
+Flavor Text: -
+Trigger:
+Special Attribute: -・ -
+Text:Search your deck for up to one character with "Change", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. Put this card into your memory.

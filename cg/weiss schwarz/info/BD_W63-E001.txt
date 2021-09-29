@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Here's Some Extra Cheer!" Kokoro Tsurumaki
+Card No.:BD/W63-E001
+Rarity:RR
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Theres no such thing as fun when you're all alone!
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 During your turn, if you have another 《Music》 character, this card gets +3000 power.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

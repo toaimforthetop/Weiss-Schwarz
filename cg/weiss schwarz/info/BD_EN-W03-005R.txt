@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Love's Light Wings" Kaoru Seta
+Card No.:BD/EN-W03-005R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:... Indeed. A name hath not meaning. I am I, and thou art thou.
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】This card cannot side attack.
+Text:【AUTO】When this card is placed on the stage from your hand, put the top 2 cards from your deck into your waiting room. If there is a climax revealed among those cards, this card gets +3000 power until end of turn.

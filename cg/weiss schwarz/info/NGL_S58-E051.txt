@@ -1,0 +1,17 @@
+Card Name:
+English Name:Inheritor of Will, Steph
+Card No.:NGL/S58-E051
+Rarity:RR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:My grandfather believed in the potential of Imanity!
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 Memory [Put 2 cards from your hand into your waiting room] When this card attacks, if "Expert at Getting Mixed In" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +3000 power until end of turn. X is equal to the number of "The Man Ridiculed as a Foolish King" in your memory. (Damage may be canceled)

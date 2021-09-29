@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swindle, Sora
+Card No.:NGL/S58-TE02
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:And what would that be?
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.
+Text:【AUTO】 When this card is placed on the stage from your hand, your opponent declares 0 or 1 or 2 or 3. Reveal the top card of your deck, and if that card is a character of the level that your opponent declared, put it on any position of your stage. (Otherwise, return it to its original place)

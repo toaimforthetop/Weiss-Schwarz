@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sword Dance, Sally
+Card No.:BFR/S78-E105
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Dodging attacks gives me bonus strength.
+Trigger:Soul
+Special Attribute:Game・Weapon
+Text:【CONT】 Experience During your turn, if the total level of the cards in your level is 5 or higher, this card gets +6000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, all players perform the following action. "If your memory has 5 or more cards, choose 4 cards in your memory, and put all cards except those cards into your waiting room."

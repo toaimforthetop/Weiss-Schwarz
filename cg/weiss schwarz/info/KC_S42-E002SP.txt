@@ -1,0 +1,18 @@
+Card Name:
+English Name:Taiho-class Armored Aircraft Carrier, Taiho Kai
+Card No.:KC/S42-E002SP
+Rarity:SP
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Fleet Girl・Armored Aircraft Carrier
+Text:【CONT】 If the number of climax in your waiting room is two or less, this card gets +1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When your opponent uses an 【ACT】, this card gets +1500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Highest Class Noble Phantasm” Gilgamesh
+Card No.:FS/S36-E020
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Vexing as it is, it would seem that only the highest class of arms will work on that man.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one climax, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

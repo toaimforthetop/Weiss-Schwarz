@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Priest of Fuyuki Church” Kirei
+Card No.:FS/S36-E093
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:9500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Master・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Master》 or 《Servant》 characters, and put it into your waiting room.

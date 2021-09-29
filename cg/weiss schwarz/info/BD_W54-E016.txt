@@ -1,0 +1,17 @@
+Card Name:
+English Name:"My First Drums" Maya Yamato
+Card No.:BD/W54-E016
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:I heard someone playing the drums and it really moved me! All I wanted was to be able to play like them some day.
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 You cannot play event cards and "Backup" from your hand.
+Text:【AUTO】 Encore [Put a 《Music》 character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

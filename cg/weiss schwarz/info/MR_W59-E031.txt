@@ -1,0 +1,17 @@
+Card Name:
+English Name:As Long as We Are Together, Homura
+Card No.:MR/W59-E031
+Rarity:RR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 At the beginning of your climax phase, if this card is in your center stage, choose 1 of your characters, and that character gets +1 or -1 level until end of turn.

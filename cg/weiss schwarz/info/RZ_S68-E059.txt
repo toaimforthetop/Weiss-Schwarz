@@ -1,0 +1,17 @@
+Card Name:
+English Name:Dream-Like Scenery, Rem & Emilia
+Card No.:RZ/S68-E059
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Emilia: "C\'mon over here, Rem..."
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your other characters with "Emilia(エミリア)" or "Rem(レム)" in its card name, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Memory Snow》 character in your waiting room, and return it to your hand.

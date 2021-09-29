@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Demon Lord" Ramiris
+Card No.:TSK/S70-E014
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Could I be a genius? Arent I amazing?!
+Trigger:
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 cost 0 or lower 《Demon Continent》 character in your waiting room, put it on any position of your stage, and put that character into your memory at the end of turn.

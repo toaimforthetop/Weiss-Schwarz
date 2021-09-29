@@ -1,0 +1,17 @@
+Card Name:
+English Name:Heart of Loyalty, Ranga
+Card No.:TSK/S70-TE16R
+Rarity:RRR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Our loyalty belongs to you and you alone, Master!
+Trigger:Soul
+Special Attribute:Demon Continent・Shadow
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Demon Continent》 characters you have ×1000.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

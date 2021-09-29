@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Break at the Hot Springs, Rimuru
+Card No.:TSK/S70-E092
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Its my beloved hot spring, flowing freely from the source.
+Trigger:Soul
+Special Attribute:Demon Continent・Slime
+Text:【CONT】 This card gets +1000 power for each of your other 《Demon Continent》 characters.
+Text:【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room] (When this card is put into the waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as @REST)

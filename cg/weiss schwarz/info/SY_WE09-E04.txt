@@ -1,0 +1,16 @@
+Card Name:
+English Name:5th Grade Elementary Student, Kyon's Sister
+Card No.:SY/WE09-E04
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:"Kyon, the phones ringing.
+Trigger:Soul
+Special Attribute:Animal・-
+Text:【AUTO】 When another of your character's battle opponent becomes 【REVERSE】, this card gets +1000 power until end of turn.", '

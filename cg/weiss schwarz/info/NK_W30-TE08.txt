@@ -1,0 +1,16 @@
+Card Name:
+English Name:Promised Pendant
+Card No.:NK/W30-TE08
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Maybe its time to just forget about this promise.
+Trigger:
+Special Attribute:
+Text:Search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. Put this card into your memory.

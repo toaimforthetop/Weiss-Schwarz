@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tyrant Residing in Jail, Polpo
+Card No.:JJ/S66-E055
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:What do you think is the most important thing when it comes to choosing someone?
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.

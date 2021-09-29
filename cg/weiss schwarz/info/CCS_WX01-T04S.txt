@@ -1,0 +1,17 @@
+Card Name:
+English Name:Syaoran: I'll Be Back
+Card No.:CCS/WX01-T04S
+Rarity:SR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:I promise I’ll come back someday.
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 This card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

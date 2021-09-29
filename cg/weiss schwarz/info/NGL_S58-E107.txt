@@ -1,0 +1,16 @@
+Card Name:
+English Name:Visitor from Another World, Shiro
+Card No.:NGL/S58-E107
+Rarity:PR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Brother said... weve always won the game before it's started...
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 When this card attacks, choose 1 of your other characters, and that character gets +X power until end of turn. X is equal to that character's soul ×1000.", '

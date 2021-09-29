@@ -1,0 +1,17 @@
+Card Name:
+English Name:Oni Prodigy, Ram
+Card No.:RZ/S46-E042
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 If you do not have another character with "Roswaal(ロズワール)" in its card name, this card cannot 【STAND】 during your stand phase.
+Text:【CONT】 If you have another character with "Roswaal(ロズワール)" in its card name, this card gets +1 level and +2500 power.

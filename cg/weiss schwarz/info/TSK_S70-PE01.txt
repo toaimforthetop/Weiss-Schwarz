@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chewing, Milim
+Card No.:TSK/S70-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Okay. Ill be quiet.
+Trigger:
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Demon Continent》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)

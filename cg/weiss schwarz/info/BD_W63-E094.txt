@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Arisa In Wonderland" Arisa Ichigaya
+Card No.:BD/W63-E094
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:We walked into the hallway to find a bunch of furballs running around...
+Trigger:Soul
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 All of your other ""Will Definitely Take It" Arisa Ichigaya" and ""Rimi\'s Precious" Rimi Ushigome" get +500 power.
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card gets +2000 power.

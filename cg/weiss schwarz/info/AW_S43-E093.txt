@@ -1,0 +1,16 @@
+Card Name:
+English Name:Birds of a Feather, Takumu & Haruyuki
+Card No.:AW/S43-E093
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Haruyuki: "Yeah, She’s right, Taku. And you’re a totally different person now."
+Trigger:
+Special Attribute:Sports・Net
+Text:

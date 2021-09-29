@@ -1,0 +1,16 @@
+Card Name:
+English Name:Netherworld President Jr, Emizel
+Card No.:DG/EN-S03-E025
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:I will become a great demon all on my own!!
+Trigger:Soul
+Special Attribute:Demon・Death
+Text:【CONT】 During your turn, all of your other characters get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 [(2) Put this card into your waiting room] When a card named "Vow of the Phoenix" is placed on your climax area, you may pay the cost. If you do, choose a card named "Death Emizel" in your waiting room, and put it on the stage position that this card was on.

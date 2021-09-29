@@ -1,0 +1,18 @@
+Card Name:
+English Name:《Lightning Flash》 Asuna & 《Black Swordsman》 Kirito
+Card No.:SAO/S51-E007
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Kirito: "Let\'s go, Asuna!"Asuna: "Right!"
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If a card named ""Time to Get Serious" Kirito" is in your clock, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to one card, choose up to one cost 1 or lower character in your hand, and put it on any position of your stage.

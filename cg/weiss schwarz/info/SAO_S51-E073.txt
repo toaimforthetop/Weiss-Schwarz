@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Link Strike" Kirito
+Card No.:SAO/S51-E073
+Rarity:RR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Trust me, and wait for me, Asuna.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Avatar》 or 《Net》 characters you have.
+Text:【AUTO】 【CXCombo】 [(3) Put two cards from your hand into your waiting room & Put this card into your waiting room] When your other character attacks, if a card named "《Black Swordsman》 Once More" is in your climax area, you may pay the cost. If you do, choose a character in your waiting room with "Link Strike(連携攻撃)" in its card name except a card named ""Link Strike" Kirito", and put it on the stage position that this card was on.

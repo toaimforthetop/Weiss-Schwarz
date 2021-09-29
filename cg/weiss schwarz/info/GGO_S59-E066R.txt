@@ -1,0 +1,16 @@
+Card Name:
+English Name:Even By Gnawing Through The Throat
+Card No.:GGO/S59-E066R
+Rarity:RRRRRR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Pito, Im gonna kill you!
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)

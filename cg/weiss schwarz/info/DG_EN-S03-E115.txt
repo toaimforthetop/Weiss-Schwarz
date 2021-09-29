@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Sadistic” Etna
+Card No.:DG/EN-S03-E115
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Prince, this guys really getting on my nerves. Let's kill him already.
+Trigger:
+Special Attribute:Demon・Weapon
+Text:【AUTO】 When this card attacks, if the number of cards in your opponent's clock is zero, this card gets +3000 power until end of turn.", '【AUTO】 Bond/"Son of the Previous Overlord, Laharl" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Son of the Previous Overlord, Laharl" in your waiting room, and return it to your hand.)

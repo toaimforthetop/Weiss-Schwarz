@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Today's Ultimate Ragnarok" Yoshiko Tsushima
+Card No.:LSS/WE27-E11
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Why do I always lose?
+Trigger:Soul
+Special Attribute:Music・Demon
+Text:【AUTO】 When this card is placed on the stage from your hand, play "Rock-Paper-Scissors" with your opponent until someone wins, and if you lose, all of your other characters get +2000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is higher than your opponent\'s level, you may put that character into your opponent\'s stock. If you do, put the bottom card of your opponent\'s stock into his or her waiting room.

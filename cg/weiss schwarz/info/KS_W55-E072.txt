@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Power of a Demon Army General" Wiz
+Card No.:KS/W55-E072
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Death・Magic
+Text:【CONT】 This card gets -2 level while on the stage.
+Text:【CONT】 This card gets +1000 power for each of your other level 0 or lower characters.

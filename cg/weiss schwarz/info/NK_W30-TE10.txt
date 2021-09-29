@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gentle Profile, Kosaki
+Card No.:NK/W30-TE10
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I see you have some new injuries.
+Trigger:
+Special Attribute:Sweets・Key
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

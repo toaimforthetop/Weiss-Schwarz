@@ -1,0 +1,16 @@
+Card Name:
+English Name:Throbbing Soul, Kirei
+Card No.:FZ/S17-E087
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:No Flavor Text
+Trigger:
+Special Attribute:Void・Master
+Text:【AUTO】［Put a 《Master》 character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card. 

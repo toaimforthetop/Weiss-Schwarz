@@ -1,0 +1,16 @@
+Card Name:
+English Name:Entrusted Shield
+Card No.:APO/S53-E096
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:4
+Power:
+Soul:0
+Flavor Text:"Take it with you. I dont need a shield anymore.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose a character in battle, and that character gets the following ability until end of turn. "【CONT】 This card cannot deal damage to a player."Choose one of your own characters, and that character gets +1500 power until end of turn.

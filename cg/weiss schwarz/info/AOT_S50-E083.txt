@@ -1,0 +1,16 @@
+Card Name:
+English Name:Thank You…
+Card No.:AOT/S50-E083
+Rarity:CC
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Mikasa: "You showed me…… how to live with purpose. Thank you……"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Traitor's Dignity, Risotto & Mt
+Card No.:JJ/S66-E037
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:"I cant wait to see what your face will look like once you die!
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 【CXCOMBO】 When "Controller of Magnetism" is placed on your climax area, choose 1 of your opponent\'s characters, and that character gets -1000 power until end of turn.
+Text:【ACT】 [【REST】 this card] Choose 1 《Golden Wind》 character in your waiting room, and put it into your stock.

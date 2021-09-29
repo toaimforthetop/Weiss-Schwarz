@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sympathy of Eris Sect
+Card No.:KS/W49-TE19
+Rarity:TD
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:"He didnt even believe that I'm a goddess.
+Trigger:
+Special Attribute:
+Text:Search your deck for up to two 《Adventurer》 or 《Goddess》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

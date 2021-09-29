@@ -1,0 +1,19 @@
+Card Name:
+English Name:The Four Girls of "Elementario", Muse/Salama/Sylphy/Kobory
+Card No.:Fab/W65-E036
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Muse: "Ah, I\'ll show you around! It\'s quite easy to get lost after all."
+Trigger:
+Special Attribute:Fantasia Bunko・AmaBri・Music
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent's stock into your opponent's waiting room. If you do, choose 1 card in your opponent's waiting room, and put it into his or her stock.
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Fantasia Bunko》 or 《AmaBri》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.
+Text:【ACT】 [(1)] This card gets +1 soul until end of turn.", '

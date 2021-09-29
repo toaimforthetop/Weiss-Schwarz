@@ -1,0 +1,16 @@
+Card Name:
+English Name:Junes
+Card No.:P4/EN-S01-015
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Everydays great at your Junes♪
+Trigger:
+Special Attribute:
+Text:Search your deck for up to one character with 《Junes》 or "Protagonist(主人公)" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

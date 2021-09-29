@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cool? Yoshino
+Card No.:DAL/W79-TE16
+Rarity:TD
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Date》 or 《Celestial Spirit》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.", '

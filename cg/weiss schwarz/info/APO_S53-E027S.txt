@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Brimming with Confidence" Saber of Red
+Card No.:APO/S53-E027S
+Rarity:SR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"In order to win, Id punch, I'd kick, I'd even bite!
+Trigger:
+Special Attribute:Servant・Royalty
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower character in your waiting room, and return it to your hand.

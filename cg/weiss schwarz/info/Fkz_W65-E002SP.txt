@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tsundere Magical Arms Girl, Haruna
+Card No.:Fkz/W65-E002SP
+Rarity:SP
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Weapon・Magical Arms Girl
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.
+Text:【AUTO】 【CXCOMBO】 [(3)] When this card attacks, if "Absurd Daily Life" is in your climax area, you may pay the cost. If you do, deal 4 damage to your opponent. (Damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mao & Raspberyl
+Card No.:DG/EN-S03-E030
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Raspberyl: "Mao and I are enemies, and friends! We\'re not strangers in the least!!"
+Trigger:
+Special Attribute:Demon・Delinquent
+Text:-

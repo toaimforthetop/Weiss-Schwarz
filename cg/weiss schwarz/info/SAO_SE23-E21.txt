@@ -1,0 +1,17 @@
+Card Name:
+English Name:Temporary Alliance, Sinon
+Card No.:SAO/SE23-E21
+Rarity:R
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:……roger that.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Endless Eight
+Card No.:SY/WE09-E19e
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Kyon: "That\'s not a cicada."
+Trigger:
+Special Attribute:
+Text:【CONT】 You can put up to eight cards with the same card name as this card in your deck.
+Text:【COUNTER】 Put this card into your memory.
+Text:Choose one of your 《SOS Brigade》 characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of cards named "Endless Eight" in your memory.
+Text:-

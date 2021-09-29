@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hill of Camlann
+Card No.:FZ/S17-E104
+Rarity:TD
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Im sorry...
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

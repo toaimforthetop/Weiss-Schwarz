@@ -1,0 +1,16 @@
+Card Name:
+English Name:Man in the Mirror, Illuso
+Card No.:JJ/S66-E035
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Fugo: "I saw him in this mirror!"
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 All of your opponent\'s characters get  "【AUTO】 Encore [(2)]".

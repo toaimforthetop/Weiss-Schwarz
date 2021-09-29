@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cat Ears, Nagato
+Card No.:SY/W08-TE12
+Rarity:TD
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text: That was ventriloquism. 
+Trigger:
+Special Attribute:Alien・Animal
+Text:-

@@ -1,0 +1,17 @@
+Card Name:
+English Name:GURREN LAGANN, Double Boomerang Spiral
+Card No.:GL/S52-E061S
+Rarity:SR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・Drill
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《Team DAI-GURREN》 characters.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named "Dueling with the Moon" is in your climax area, you may pay the cost. If you do, choose one of your other characters and this card, and those characters get the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Sacred Create Water” Aqua
+Card No.:KS/W49-E077S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Sacred Create Water"
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【AUTO】 When this card is put into your waiting room from the stage, you may reveal up to three cards from the top of your deck. If you revealed one or more cards, choose up to one 《Adventurer》 or 《Goddess》 character from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room.

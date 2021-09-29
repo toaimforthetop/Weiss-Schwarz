@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ryuji as SKULL: The Phantom Vanguard
+Card No.:P5/S45-E004S
+Rarity:SR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"This effin rocks!Now that I got this power, it's time for payback…
+Trigger:
+Special Attribute:Thief・Sports
+Text:【CONT】 All of your other 《Thief》 or 《Sports》 characters get +500 power.
+Text:【AUTO】 When damage dealt by your direct attacking character is not canceled, choose a face down card in your opponent's memory, and put it into his or her waiting room. If you do, search your deck for up to one 《Thief》 or 《Sports》 character, reveal it to your opponent, put it into your hand, choose a card in your hand, put it into your waiting room, and shuffle your deck.", '

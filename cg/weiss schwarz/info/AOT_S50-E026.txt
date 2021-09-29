@@ -1,0 +1,18 @@
+Card Name:
+English Name:"To Seize Freedom" Hange
+Card No.:AOT/S50-E026
+Rarity:RR
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Just kidding. I wasnt serious……
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose two cards in your hand, put them into your waiting room, and put up to one card from the top of your deck into your stock.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, choose another of your 《Corps》 characters and this card, and those characters get +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Standby for Full Scale Assault!" is in your climax area, you may put that character into your opponent\'s clock.

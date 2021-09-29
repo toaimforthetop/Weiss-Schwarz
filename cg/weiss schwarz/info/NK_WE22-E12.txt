@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pajama Party, Haru
+Card No.:NK/WE22-E12
+Rarity:R
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:…… Did you see?
+Trigger:Soul
+Special Attribute:Sweets・-
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top three cards of your deck into your waiting room. If the number of 《Sweets》 characters among those cards is one or more, this card gets +3000 power until end of turn. If the number of 《Sweets》 characters among those cards is two or more, put up to one card from the top of your clock into your waiting room. If the number of 《Sweets》 characters among those cards is three or more, this card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s clock."

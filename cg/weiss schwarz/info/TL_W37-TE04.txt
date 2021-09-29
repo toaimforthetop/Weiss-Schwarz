@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Loves Licking” Mea
+Card No.:TL/W37-TE04
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:And then…licking would also be wonderful…?\u3000
+Trigger:
+Special Attribute:Trans・Sweets
+Text:【CONT】 This card cannot side attack.

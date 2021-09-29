@@ -1,0 +1,17 @@
+Card Name:
+English Name:Megurine Luka"Rin-chan's #2 Fan"
+Card No.:PD/S22-E059
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Love
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】［1 【REST】 one of your 【STAND】 characters］ When a card named "Rin-chan Now!" is placed on your climax area, you may pay the cost. If you do, all of your other characters with "Rin" in its card name get the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on top of your opponent\'s deck."

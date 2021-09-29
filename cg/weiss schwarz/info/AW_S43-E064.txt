@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Bloody Kitty》 Blood Leopard
+Card No.:AW/S43-E064
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Shape Change.
+Trigger:
+Special Attribute:Avatar・-
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dressed Up Yui
+Card No.:SAO/S26-E072
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Im my own person.
+Trigger:
+Special Attribute:Net・Japanese Clothes
+Text:-

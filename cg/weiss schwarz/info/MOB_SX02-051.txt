@@ -1,0 +1,17 @@
+Card Name:
+English Name:Matsuo
+Card No.:MOB/SX02-051
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Esper・Claw
+Text:【AUTO】 【CXCOMBO】 [(1)] When "Matsuo\'s Petshop of Horrors" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose 1 of your other 《Spirit》 or 《Claw》 characters, and 【STAND】 it.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may 【REVERSE】 that character.

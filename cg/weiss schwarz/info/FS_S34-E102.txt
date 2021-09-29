@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Saber
+Card No.:FS/S34-E102
+Rarity:PR
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:Give me an order.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 If the number of cards in your clock is zero, this card cannot attack.

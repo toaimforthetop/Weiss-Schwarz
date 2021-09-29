@@ -1,0 +1,17 @@
+Card Name:
+English Name:Beginning of a Legend, PAREO
+Card No.:BD/W73-E088
+Rarity:C
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Attention, please!
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 During your turn, this card gets +1000 power.
+Text:【AUTO】 When this card attacks, choose 1 of your 《Music》 characters, and that character gets +1 level and +1000 power until end of turn.

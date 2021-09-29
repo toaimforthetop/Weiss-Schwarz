@@ -1,0 +1,17 @@
+Card Name:
+English Name:An Enticing Invitation, Kaoru Seta
+Card No.:BD/W73-E007SPMb
+Rarity:SPM
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 During your turn, if all of your characters are 《Hello, Happy World!》, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Tonight, When the Stars Shine" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 "After-school Strategy Meeting" in your waiting room, and return it to your hand.

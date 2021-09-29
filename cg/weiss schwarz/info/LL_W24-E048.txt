@@ -1,0 +1,18 @@
+Card Name:
+English Name:Work that Brings a Smile
+Card No.:LL/W24-E048
+Rarity:CR
+Expansion:Love Live!
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Lets take!
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:（【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)
+Text:Look at the top card of your opponent's deck, and put it on the top or the bottom of your opponent's deck. Put this card into your stock.", '

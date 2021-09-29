@@ -1,0 +1,16 @@
+Card Name:
+English Name:Releasing Mana, Puck
+Card No.:RZ/S68-E088
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Hey, maybe I can get away with a little more. Yes! I definitely can! Theyre more simple-minded than I thought!
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 [Put this card into your waiting room] When your other 《Memory Snow》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn.

@@ -1,0 +1,20 @@
+Card Name:
+English Name:Yukiko in Yukata
+Card No.:P4/EN-S01-051S
+Rarity:SR
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Oh, n-not at all. Youre probably just used to seeing me in one…
+Trigger:Soul
+Special Attribute:Fan・Japanese Clothes
+Text:【CONT】 All of your other 《Fan》 or 《Japanese Clothes》 characters get +1000 power.
+Text:
+Text:【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Young Okami, Yukiko" in your waiting room, and put it on the stage position that this card was on.
+Text:', "【ACT】 [【REST】 this card] Choose one of your opponent's 【STAND】 characters, and 【REST】 it.", '
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +3 soul until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lisanna
+Card No.:FT/EN-S02-T04
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Itd be nice if we could stay like this forever, dontcha think?
+Trigger:
+Special Attribute:Magic・Animal
+Text:【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, put this card into your memory.

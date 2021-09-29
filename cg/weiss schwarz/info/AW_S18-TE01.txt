@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pink Pig, Haruyuki
+Card No.:AW/S18-TE01
+Rarity:TD
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:So… what do we do now?
+Trigger:
+Special Attribute:Avatar・Animal
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

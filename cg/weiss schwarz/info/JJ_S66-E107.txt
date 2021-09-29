@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pioneer of Fate, Trish
+Card No.:JJ/S66-E107
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Ive already known that... For a while...
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card’s battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.", '

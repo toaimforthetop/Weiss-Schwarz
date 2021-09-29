@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mysterious Servant "Enkidu"
+Card No.:FGO/S75-TE03
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Right. This is the hope of humanity. The final and largest fortress to protect the four corners of the world... Absolute Demonic Front: Babylonia!
+Trigger:
+Special Attribute:Babylonia・New Humanity
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have another 《Chaldea》 or 《Babylonia》 character, this card gets +2000 power until end of turn.

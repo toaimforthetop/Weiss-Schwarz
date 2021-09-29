@@ -1,0 +1,17 @@
+Card Name:
+English Name:Satsuki Wearing Senketsu
+Card No.:KLK/S27-E055
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:"Its not clinginess! It's vengeance!
+Trigger:Soul
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, you may choose a card named "Only Clothing Ryuko Has, Senketsu" in your waiting room, and put it face down underneath this card as a marker.
+Text:【AUTO】 When your opponent\'s 【STAND】 character becomes 【REST】, if there is a marker underneath this card, this card gets +2000 power until end of turn.

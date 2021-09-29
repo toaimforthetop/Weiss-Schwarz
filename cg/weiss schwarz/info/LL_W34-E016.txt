@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cocoro Yazawa
+Card No.:LL/W34-E016
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Thank you for looking after my sister.
+Trigger:
+Special Attribute:Family
+Text:

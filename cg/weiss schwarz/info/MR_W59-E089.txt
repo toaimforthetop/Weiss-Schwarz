@@ -1,0 +1,17 @@
+Card Name:
+English Name:Emergency Reinforcement, Sayaka
+Card No.:MR/W59-E089
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Hoooooold it right there!!!
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【AUTO】 [Put 1 《Magic》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Single Point Breakthrough, Kyoko" in your waiting room, and put it on any position of your stage.
+Text:【AUTO】 At the beginning of your attack phase, choose 1 character in your center stage, and if the levels of all your characters in your center stage are the same as that character\'s, this card gets +4000 power and the following ability until end of turn. "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."

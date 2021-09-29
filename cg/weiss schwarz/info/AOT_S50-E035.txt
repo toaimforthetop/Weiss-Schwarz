@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Cleanup" Levi
+Card No.:AOT/S50-E035
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"It doesnt matter what you think.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【AUTO】 At the beginning of your climax phase, choose one of your 《Corps》 characters, that character gets +500 power until end of turn, and if that character is named ""Resisting Fate" Levi", that character gets the following ability until end of turn. "【CONT】 During this card\'s battle, your opponent cannot play event cards and "Backup" from hand."

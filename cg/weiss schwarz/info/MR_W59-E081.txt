@@ -1,0 +1,17 @@
+Card Name:
+English Name:"I Won't Stray" Iroha
+Card No.:MR/W59-E081
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Now that I remember the reason I became a Magical Girl, I know why…
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 When you use this card\'s "Backup", if you have a 《Magic》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)

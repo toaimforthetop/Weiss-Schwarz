@@ -1,0 +1,18 @@
+Card Name:
+English Name:Young Etna
+Card No.:DG/EN-S03-E058
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I dont have any more food. If you want some more, you'll have to steal some on your own.
+Trigger:
+Special Attribute:Demon・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +1 level.
+Text:【ACT】 [【REST】 this card] Choose one of your characters with "Overlord(魔王)" in its card name, and that character gets +500 power until end of turn.
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of cards in your deck is five or less, return all cards in your waiting room to your deck. If you do, shuffle your deck, and this card gets +3000 power until the end of your opponent's next turn.", '

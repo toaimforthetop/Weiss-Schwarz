@@ -1,0 +1,16 @@
+Card Name:
+English Name:Satsuki's Butler, Soroi
+Card No.:KLK/S27-E085
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I will have plenty of hot water ready.
+Trigger:
+Special Attribute:Butler・Tea
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your other characters with "Satsuki(皐月)" in its card name, and that character gets +2000 power until end of turn.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Happy Daydream, Rem
+Card No.:RZ/S46-E063
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Whether we have a boy or a girl, twins or even triplets, I know they would be adorable.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 All of your other 《Magic》 or 《Weapon》 characters get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, 【REST】 this card.
+Text:【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +500 power until the end of your opponent's next turn.", '

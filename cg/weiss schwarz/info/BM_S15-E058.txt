@@ -1,0 +1,18 @@
+Card Name:
+English Name:Tsukihi Araragi
+Card No.:BM/S15-E058
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Japanese Clothes・Tea
+Text:[CONT] Assist All of your characters in front of this card get +500 power.
+Text:[ACT]［(2) [REST] this card] Search your deck for up to one character with "Koyomi" in its card name, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 
+Text:[CONT] If you do not have any other characters, this card gets +1500 power and "[AUTO] Encore ［Put a character from your hand into your waiting room］".

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Promising Growth, Iroha
+Card No.:MR/W80-PE01
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"If your wish has become twisted, Ill brush it aside. I can do that at least.
+Trigger:Soul
+Special Attribute:Magic・Cooking
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.

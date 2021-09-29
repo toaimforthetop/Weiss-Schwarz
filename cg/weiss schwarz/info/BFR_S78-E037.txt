@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Wild Adventure, Maple & Sally
+Card No.:BFR/S78-E037
+Rarity:R
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Game・-
+Text:【AUTO】 When you use this card\'s "Backup", put X cards from the bottom of your opponent\'s deck into their waiting room. X is equal to the number of 《Game》 characters you have.
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

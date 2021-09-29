@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Dark Assembly
+Card No.:DG/EN-S03-E126
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:3
+Power:
+Soul:0
+Flavor Text:Give up  / Persuade by force
+Trigger:
+Special Attribute:
+Text:Brainstorm Reveal three cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose a level 2 or lower character in your waiting room, and put it on any position of your stage.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Happiest Girl
+Card No.:LL/EN-W02-E029
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Even if it is cold, it must not be said. That is because Nico is a proud Idol, thats why☆
+Trigger:
+Special Attribute:
+Text:Look at the top card of your deck, and put it on the top of your deck or into your waiting room. Put this card into your stock.

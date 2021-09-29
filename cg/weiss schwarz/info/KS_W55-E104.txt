@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Eris
+Card No.:KS/W55-E104
+Rarity:PR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:KONOSUBA♪
+Trigger:
+Special Attribute:Goddess・-
+Text:【CONT】 This card cannot direct attack.
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Born in Ragako" Conny
+Card No.:AOT/S50-E011
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:My village is to the south…… where the Titans…… are coming from……
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card attacks, choose one of your other 《Corps》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Corps》 characters you have.

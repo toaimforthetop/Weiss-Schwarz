@@ -1,0 +1,17 @@
+Card Name:
+English Name:Summer Festival, Utai
+Card No.:AW/S43-E057
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Net・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Door to Our Dreams" Honoka Kosaka 
+Card No.:LL/W34-E057
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If all of your characters have "Honoka(穂乃果)" in its card name, this card gets +2000 power. 
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【CONT】 If you have other cards named "Invitation to School, Erena" and "Invitation to School, Anju" on your center stage, this card gets +2000 power and  "【AUTO】 Encore [Put a character from your hand into your waiting room]".

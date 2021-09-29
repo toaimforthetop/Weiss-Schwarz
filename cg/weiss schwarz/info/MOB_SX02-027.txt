@@ -1,0 +1,19 @@
+Card Name:
+English Name:Dimple: High-Level Evil Spirit
+Card No.:MOB/SX02-027
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:"Youre in my way, brat.
+Trigger:Soul
+Special Attribute:Spirit・(LOL)
+Text:【CONT】 This card gets +1000 power for each marker underneath it.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose up to 3 "(LOL) Cult Member" or "Dimple: Innocent Introduction" in your waiting room, and put them face down in any order underneath this card as markers.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Get a Clue!" is in your climax area, you may put that character into your opponent\'s clock.

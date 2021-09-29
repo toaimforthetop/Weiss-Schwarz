@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kanji Tatsumi
+Card No.:P4/EN-S01-T13
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Underestimate me, and this is what you get.
+Trigger:
+Special Attribute:-・Glasses
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

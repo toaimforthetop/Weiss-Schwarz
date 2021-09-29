@@ -1,0 +1,19 @@
+Card Name:
+English Name:“Idealism's Despair” Archer
+Card No.:FS/S36-E049
+Rarity:RR
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:―Farewell. Let your ideals drag you down to your death.
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【CONT】 All of your other 《Weapon》 or 《Jewel》 characters get +1000 power.
+Text:【AUTO】 [【REST】 one of your 【STAND】 characters] When a card named "“Rho Aias”" is placed on your climax area, you may pay the cost. If you do, put seven cards from the top of your deck underneath this card as markers.
+Text:【AUTO】 At the beginning of your opponent\'s draw phase, put all markers from underneath this card into your waiting room. If there is a climax among those cards, this card gets the following ability until end of turn. "【CONT】 You cannot take damage from your opponent character\'s 【AUTO】 effects."
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

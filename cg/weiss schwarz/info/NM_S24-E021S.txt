@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Fire Sisters” Karen Araragi
+Card No.:NM/S24-E021S
+Rarity:SR
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0 
+Power:3000
+Soul:1
+Flavor Text:"Oh, its you, Big Brother. I thought it was an enemy.
+Trigger:
+Special Attribute:Strange・Sports
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with "Experience", reveal it to your opponent, put it into your hand, and shuffle your deck.

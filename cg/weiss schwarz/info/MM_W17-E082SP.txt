@@ -1,0 +1,19 @@
+Card Name:
+English Name:Sayaka Miki
+Card No.:MM/W17-E082SP
+Rarity:SP
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:SECRET
+Trigger:Soul
+Special Attribute:Magic・Love
+Text:【CONT】 This card gets +500 power for each of your other 《Magic》 characters.
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory. 
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

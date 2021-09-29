@@ -1,0 +1,17 @@
+Card Name:
+English Name:Friendly Combination, Sekine & Irie
+Card No.:AB/W31-TE01
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Irie: "Eh!?"
+Trigger:
+Special Attribute:Death・Music
+Text:[CONT] Assist All of your characters in front of this card get +500 power.
+Text:[AUTO] [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.

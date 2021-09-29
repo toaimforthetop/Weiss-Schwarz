@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Greatest Mage" Yunyun
+Card No.:KS/W76-E032SSP
+Rarity:SSP
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.
+Text:【CONT】 If you have 2 or more other 《Adventurer》 or 《Magic》 characters, this card gets +1500 power and "【AUTO】 Encore [Put 1 《Adventurer》 or 《Magic》 character from your hand into your waiting room]".
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

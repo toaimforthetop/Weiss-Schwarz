@@ -1,0 +1,18 @@
+Card Name:
+English Name:Our Lyrics, Miku
+Card No.:IMC/W41-E051
+Rarity:R
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I want to see for myself why the producer put us together.
+Trigger:Soul
+Special Attribute:Music・Cat Character
+Text:【AUTO】 Bond/"Our Lyrics, Riina" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Our Lyrics, Riina" in your waiting room, and return it to your hand.)
+Text:【ACT】 [(1) Put a card named "Our Lyrics, Riina" from your stage and this card into your memory] Choose a card named "Miku Maekawa" in your waiting room, and put it on the stage position that this card was on.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 When a card named "Happy×2 Days" is placed on your climax area, choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose a card in your opponent\'s waiting room, and put it on the top of his or her deck."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kanade's Friend, Yuri
+Card No.:AB/W31-E091
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"So dont be so harsh on her… Right?
+Trigger:
+Special Attribute:Death・Weapon
+Text:[CONT] If this card is in the middle position of the center stage, this card gets +500 power and the following ability. "[AUTO] Encore [Put a character from your hand into your waiting room]"

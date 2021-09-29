@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tenga Onigawara
+Card No.:MOB/SX02-T17
+Rarity:TD
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Delinquent・-
+Text:【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +2000 power.

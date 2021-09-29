@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Coming with Gifts" Yunyun
+Card No.:KS/W55-E068
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:H-Hello?
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose a character on your opponent\'s center stage, and that character gets +3000 power until end of turn.
+Text:【AUTO】 [Put a card from your hand into your waiting room[ When a card named ""Chomp Chomp" Megumin" is put into your waiting room from the stage, if this card is in your waiting room, you may pay the cost. If you do, put this card on any position of your stage as 【REST】.

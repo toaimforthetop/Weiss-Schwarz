@@ -1,0 +1,18 @@
+Card Name:
+English Name:"School idol festival" Nozomi
+Card No.:LL/EN-W01-111
+Rarity:PR
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I could tell you your fortune while youre helping me out?
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)

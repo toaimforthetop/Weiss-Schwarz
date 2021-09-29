@@ -1,0 +1,17 @@
+Card Name:
+English Name:Isolated Island Ogre in the Deep Sea
+Card No.:KC/SE28-E33
+Rarity:R/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Thick headed girls…
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Ogre in the Deep Sea
+Text:【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +1000 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet in the Deep Sea》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

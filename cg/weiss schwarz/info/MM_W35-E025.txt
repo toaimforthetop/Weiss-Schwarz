@@ -1,0 +1,18 @@
+Card Name:
+English Name:Tiro Duet
+Card No.:MM/W35-E025
+Rarity:CC
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Tiro Duet!
+Trigger:Soul・Shot
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)
+Text:【CONT】 All of your characters get +1000 power and +1 soul.', "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)", '

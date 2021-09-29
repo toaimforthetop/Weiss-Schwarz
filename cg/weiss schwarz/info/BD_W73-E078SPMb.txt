@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cheerful Smile, PAREO
+Card No.:BD/W73-E078SPMb
+Rarity:SPM
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【AUTO】 Accelerate [Put 1 《Music》 character from your waiting room to the bottom of your clock] At the beginning of your opponent\'s climax phase, you may pay the cost. If you do, this card gets +2000 power and the following ability until end of turn. "【AUTO】 At the beginning of your opponent\'s attack phase, you may move this card to an open position of your center stage with an opponent character facing that stage position."

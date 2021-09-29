@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sudden Transfer Student, Miyu
+Card No.:PI/EN-S04-E049
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Im Miyu Edelfelt.
+Trigger:
+Special Attribute:Master・Magic
+Text:【CONT】 If you do not have any other characters in your center stage, this card gets +1000 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

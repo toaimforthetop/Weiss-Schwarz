@@ -1,0 +1,18 @@
+Card Name:
+English Name:Worrying Madoka
+Card No.:MM/W35-E035
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Thank goodness! Ive been looking for you.
+Trigger:
+Special Attribute:Magic
+Text:【AUTO】 Bond／"“For Madoka\'s Sake” Homura" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "“For Madoka\'s Sake” Homura" in your waiting room, and return it to your hand.)
+Text:【AUTO】 【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them)
+Text:【AUTO】 [Put a 《Magic》 character from your hand into your waiting room & 【REST】 one of your 【STAND】 《Magic》 characters] When this card attacks, if a card named "Mild Days" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Magic》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.

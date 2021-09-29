@@ -1,0 +1,17 @@
+Card Name:
+English Name:Buoyant Behavior, Silica
+Card No.:SAO/S51-E063
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Hehehe.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of cards in your stock is three or less, this card gets +1500 power.
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put the top card of your deck into your clock]".

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Our Song" Tae Hanazono
+Card No.:BD/W54-E085SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:No flavor text
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have.
+Text:【ACT】 [Put an event card from your hand into your waiting room] Until end of turn, this card gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may draw a card."

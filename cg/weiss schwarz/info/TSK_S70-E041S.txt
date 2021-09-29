@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pursuit, Milim
+Card No.:TSK/S70-E041S
+Rarity:SR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"One hit wasnt enough! At least give me one more―
+Trigger:Soul
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(5) Put 3 《Demon Continent》 characters from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card\'s attack, if "Power of a Demon Lord" is in your climax area, you may pay the cost. If you do, deal 2 damage to your opponent, and 【STAND】 this card. (Damage may be canceled)

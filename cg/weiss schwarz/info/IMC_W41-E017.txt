@@ -1,0 +1,18 @@
+Card Name:
+English Name:Nana Abe
+Card No.:IMC/W41-E017
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3017
+Soul:1
+Flavor Text:"Im Usamin, the singing, dancing, voice-acting idol from Planet Usamin also known as Nana Abe!
+Trigger:
+Special Attribute:Music・Usamin
+Text:【CONT】 During your turn, this card gets -1 level while on the stage.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put the top card of your stock into your waiting room. If you do, put this card into your stock.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +1 soul until end of turn, and at the end of turn, put this card into your memory.

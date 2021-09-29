@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Insufficient Magic” Wiz
+Card No.:KS/W49-E052
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"But I dont have enough magic!
+Trigger:
+Special Attribute:Death・Magic
+Text:【ACT】 [【REST】 two of your characters] If there are no markers underneath this card, look at the top card of your deck, and put it face down underneath this card as a marker.
+Text:【ACT】 [【REST】 this card] Put a marker from underneath this card into your stock.

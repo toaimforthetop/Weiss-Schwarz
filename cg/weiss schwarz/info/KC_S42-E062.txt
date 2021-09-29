@@ -1,0 +1,16 @@
+Card Name:
+English Name:Akitsushima-class Seaplane Tender, Akitsushima
+Card No.:KC/S42-E062
+Rarity:R
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"This Type-2 Flying Boat Taitei-chan? I wont give it to you!
+Trigger:
+Special Attribute:Fleet Girl・Seaplane Tender
+Text:【AUTO】 【CXCOMBO】 [(1)] When a card named "I think I\'ve found it!" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, all of your other characters get the following ability until end of turn. "【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, you may choose a character in your waiting room, and return it to your hand." (The revealed card is returned to its original place)

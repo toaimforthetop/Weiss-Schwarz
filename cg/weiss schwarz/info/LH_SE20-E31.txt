@@ -1,0 +1,16 @@
+Card Name:
+English Name:Log Horizon, Nyan-ta
+Card No.:LH/SE20-E31
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:This is what I call a time to shine.
+Trigger:
+Special Attribute:Weapon・Cook
+Text:【AUTO】 [(1) Put this card into your waiting room] When another of your characters is being frontal attacked, you may pay the cost. If you do, return that character to your hand. ', "【ACT】 [【REST】 two of your 《Magic》 characters] Until end of turn, this card's soul does not decrease by side attacking. ", '

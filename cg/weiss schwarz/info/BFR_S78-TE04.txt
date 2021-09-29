@@ -1,0 +1,16 @@
+Card Name:
+English Name:Superb Memory, Kanade
+Card No.:BFR/S78-TE04
+Rarity:TD
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"No way. Youve gotta think and figure it out.
+Trigger:
+Special Attribute:Game・Magic
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +2500 power until end of turn.

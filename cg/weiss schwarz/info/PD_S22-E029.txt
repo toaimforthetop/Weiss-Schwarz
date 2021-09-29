@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Summer Memories"
+Card No.:PD/S22-E029
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:唐突に鳴り響く\u3000僕を呼ぶ別れの音', '見慣れたその泣き顔も\u3000しばらくは見れないね
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】［Put the top card of your deck into your clock］ When this card attacks, if a card named "Time Machine" is in your climax area, you may pay the cost. If you do, this card gets +5500 power until end of turn.

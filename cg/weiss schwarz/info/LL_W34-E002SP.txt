@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Happy Maker!" Nico Yazawa 
+Card No.:LL/W34-E002SP
+Rarity:SP
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【CONT】 This card gets +500 power for each of your other characters with "Nico(にこ)" in its card name. 
+Text:【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of other characters you have with "Eli(絵里)" in its card name is four or more, you may put the top card of your deck into your stock. ', "【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock. ", '【ACT】 [(1)] Choose one of your  characters with "Eli(絵里)"in its card name, and that character gets +1500 power until end of turn. 

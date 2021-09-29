@@ -1,0 +1,16 @@
+Card Name:
+English Name:Memory of Atonement
+Card No.:RZ/S55-E095
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Oh… It finally broke off.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose 1 of your 《Magic》 or 《Weapon》 characters, and that character gets +3500 power until end of turn.

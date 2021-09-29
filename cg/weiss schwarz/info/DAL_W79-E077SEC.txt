@@ -1,0 +1,17 @@
+Card Name:
+English Name:Important Promise, Tohka
+Card No.:DAL/W79-E077SEC
+Rarity:SEC
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 If you have 2 or more other 《Date》 or 《Celestial Spirit》 characters, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 At the beginning of your encore step, if "In This Town Basked in Sunset" is in your climax area, you have another 《Date》 or 《Celestial Spirit》 character, and there is no character facing this card or the character facing this card is 【REVERSE】, look at up to 5 cards from the top of your deck, choose up to 1 《Date》 or 《Celestial Spirit》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +500 power until the end of your opponent\'s next turn.

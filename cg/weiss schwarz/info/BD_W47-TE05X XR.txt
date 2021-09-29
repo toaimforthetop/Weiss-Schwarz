@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Poppin’Party” Rimi Ushigome
+Card No.:BD/W47-TE05X XR
+Rarity:TD
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Choco Cornet
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.

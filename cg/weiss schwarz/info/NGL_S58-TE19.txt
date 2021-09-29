@@ -1,0 +1,16 @@
+Card Name:
+English Name:Counter Offensive
+Card No.:NGL/S58-TE19
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Sora: "Even without fighting...you can win!"
+Trigger:
+Special Attribute:
+Text:Look at up to 4 cards from the top of your deck, choose up to 1 《Game》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

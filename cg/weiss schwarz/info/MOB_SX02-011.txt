@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reigen: Adult Tactics
+Card No.:MOB/SX02-011
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:The greatest psychic in modern history, Reigen Arataka-sama. Look me up.
+Trigger:
+Special Attribute:Master・-
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if "Ultimate Technique: Esper Kick!" is in your climax area, and you have another 《Esper》 or 《Master》 character, you may pay the cost. If you do, choose 1 of your opponent\'s characters, and return it to his or her hand.

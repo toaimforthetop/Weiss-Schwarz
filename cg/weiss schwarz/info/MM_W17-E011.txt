@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mami Enjoys Tea
+Card No.:MM/W17-E011
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Yes, often at the risk of my life. Thats why you two should think very carefully before deciding to become magical girls.
+Trigger:
+Special Attribute:Magic・Tea
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】［【REST】 this card] Choose one of your characters with "Madoka" in its card name, and that character gets +500 power until end of turn. 
+Text:【ACT】【COUNTER】 Backup 3000, Level 2 ［(1) Put this card from your hand into your waiting room] （Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.）

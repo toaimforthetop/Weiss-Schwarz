@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Burn to Nothingness" Sylvia
+Card No.:KS/W76-E093
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Burn! Burn! Let this village of lunatics be reduced to ash!
+Trigger:Soul
+Special Attribute:Devil King Army・-
+Text:【CONT】 Your other character in the middle position of your center stage gets the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."【CONT】 All of your other  《Devil King Army》 characters or characters with "Kazuma(カズマ)" in its card name get +1000 power.
+Text:【ACT】 [(1) Put 1 card from your hand into your waiting room] Choose 1 of your  《Devil King Army》 characters or characters with "Kazuma(カズマ)" in its card name, and that character gets +2500 power until the end of your opponent\'s next turn.

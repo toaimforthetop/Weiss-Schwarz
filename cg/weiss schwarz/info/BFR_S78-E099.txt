@@ -1,0 +1,17 @@
+Card Name:
+English Name:Curiosity, Maple
+Card No.:BFR/S78-E099
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"My eyes! They wont stop spinning!
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your opponent\'s characters, and that character gets the following ability until the end of your opponent\'s next turn. "【CONT】 This card cannot move to another position of the stage."
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.

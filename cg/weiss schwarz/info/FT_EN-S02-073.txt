@@ -1,0 +1,17 @@
+Card Name:
+English Name:Clothes-removing Habit, Gray
+Card No.:FT/EN-S02-073
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Hey look! The sun is comin out.
+Trigger:Soul
+Special Attribute:Magic・Ice
+Text:【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named "Fairy Tail Wizard, Gray" in your waiting room, and put it on the stage position this card was on.
+Text:【ACT】 [(1)] Draw a card, choose a card from your hand, and put it into your waiting room.

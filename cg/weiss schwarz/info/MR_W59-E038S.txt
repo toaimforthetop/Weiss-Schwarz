@@ -1,0 +1,19 @@
+Card Name:
+English Name:A New Story, Homura
+Card No.:MR/W59-E038S
+Rarity:SR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:I... I want to restart the time to when I first met Madoka!
+Trigger:Soul
+Special Attribute:Magic・Support
+Text:【CONT】 If "A New Story, Madoka" is in your clock, this card gets -1 level while in your hand.
+Text:【CONT】 During the attack phase, all other characters cannot move to another position of the stage.
+Text:【CONT】 This card gets +500 power for each of your other 《Magic》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.

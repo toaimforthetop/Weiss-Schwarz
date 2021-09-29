@@ -1,0 +1,16 @@
+Card Name:
+English Name:Back-alley Doctor, Barazo
+Card No.:KLK/S27-E016
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Dont worry about it. The dead ones don't sue you.
+Trigger:Soul
+Special Attribute:Family・Doctor
+Text:-

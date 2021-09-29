@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fright & Betrayal, M
+Card No.:GGO/S59-E091
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:She yearns for a "death game"!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 3 cards from your deck into your waiting room. If there is a climax revealed among those cards, you may choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory.", '

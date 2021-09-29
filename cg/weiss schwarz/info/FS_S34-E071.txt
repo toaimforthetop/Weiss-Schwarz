@@ -1,0 +1,16 @@
+Card Name:
+English Name:Father's Keepsake
+Card No.:FS/S34-E071
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Oh, right. That pendant.
+Trigger:
+Special Attribute:
+Text:Choose up to two 《Jewel》 characters in your waiting room, return them to your hand, choose a card in your hand, and put it into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Saber - "Magic Power Unleashed"
+Card No.:FZ/S17-E007
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:If I cannot block your blade, I need only kill you before it strikes.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【ACT】 Brainstorm ［(1)］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your 《Servant》 characters, and that character gets +2000 power until end of turn. 

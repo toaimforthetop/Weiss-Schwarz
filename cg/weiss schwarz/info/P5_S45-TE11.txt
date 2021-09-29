@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ann: Concerned for Her Friend
+Card No.:P5/S45-TE11
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Is there really no way forme to help Shiho...?
+Trigger:
+Special Attribute:Thief・-
+Text:【CONT】 All of your other 《Thief》 or 《Sports》 characters get +500 power,

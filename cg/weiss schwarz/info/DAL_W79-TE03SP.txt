@@ -1,0 +1,16 @@
+Card Name:
+English Name:Confrontation With Humans, Tohka
+Card No.:DAL/W79-TE03SP
+Rarity:SP
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Date》 or 《Celestial Spirit》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)【AUTO】 [Put 1 《Date》 or 《Celestial Spirit》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card.

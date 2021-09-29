@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Black Siblings, Kinon & Kiyoh & Kiyal
+Card No.:GL/S52-E020
+Rarity:C
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【AUTO】 Bond/"The Black Siblings, Kittan" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named “The Black Siblings, Kittan” in your waiting room, and return it to your hand)【ACT】 [【REST】 this card] Choose one of your cards named "The Black Siblings, Kittan", and that character gets +2000 power until the end of your opponent\'s next turn.

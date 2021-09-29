@@ -1,0 +1,16 @@
+Card Name:
+English Name:DYE
+Card No.:PD/S22-E072
+Rarity:CR
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:The source of "Vigour" can be ', 'gotten from "Good man color". 
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Revolutionists
+Card No.:AOT/S50-E049b
+Rarity:CC
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Levi: "No, I think it might. Erwin picked them out for a reason."
+Trigger:Pool
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【POOL】: When this card triggers, you may put the top card of your deck into your stock.)

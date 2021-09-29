@@ -1,0 +1,16 @@
+Card Name:
+English Name:Miku Proposes a Showdown
+Card No.:IMC/W41-TE22
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Smile~
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Wait a minute, nya!
+Trigger:
+Special Attribute:Music・Cat Character
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '【ACT】 [【REST】 two of your characters] This card gets +2000 power until end of turn.

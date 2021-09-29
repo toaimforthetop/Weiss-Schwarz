@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Weakest Protaganist in History, Prinny
+Card No.:DG/EN-S03-PE02
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:All-purposed peons…? We are the protagonist, Dood!
+Trigger:
+Special Attribute:Prinny・Weapon
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Prinny》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

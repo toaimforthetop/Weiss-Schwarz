@@ -1,0 +1,16 @@
+Card Name:
+English Name:Happy New Year☆
+Card No.:LL/EN-W02-E081
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:My goal this year? Hmm…... maybe to trip less often?
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Honoka(穂乃果)" in its card name, this card cannot be played from your hand.Choose a character in your waiting room with "Honoka(穂乃果)" in its card name, and return it to your hand.

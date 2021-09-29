@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Midsummer Aquarium" Yoshiko Tsushima
+Card No.:LSS/W45-TE04
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power.

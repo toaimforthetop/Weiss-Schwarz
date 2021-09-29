@@ -1,0 +1,16 @@
+Card Name:
+English Name:Howling Kyoko
+Card No.:MM/W17-E066S
+Rarity:SR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:SECRET
+Trigger:Soul
+Special Attribute:Magic・Sweets
+Text:【CONT】 If you have another character with "Sayaka" in its card name, this card gets +1500 power. 

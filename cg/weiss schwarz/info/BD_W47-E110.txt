@@ -1,0 +1,16 @@
+Card Name:
+English Name:High School Student, Arisa
+Card No.:BD/W47-E110
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Eh-!?
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【CONT】  If you have another card named "Self-introduction, Kasumi", this card gets the following ability. "【AUTO】  When this card\'s battle opponent becomes 【REVERSE】 , you may put the top card of your deck into your stock."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Self-centered Overlord, Laharl
+Card No.:DG/EN-S03-E103
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Ill destroy your Majin, as well．
+Trigger:
+Special Attribute:Demon・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 characters, and 【REST】 it.

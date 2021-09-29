@@ -1,0 +1,16 @@
+Card Name:
+English Name:Crescent Moon Shopowner, Marielle
+Card No.:LH/SE20-E18
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Why, we oughta have that five million gold in no time if we keep doing this business……
+Trigger:
+Special Attribute:Magic・-
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn) 

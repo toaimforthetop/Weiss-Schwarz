@@ -1,0 +1,17 @@
+Card Name:
+English Name:Southern Ogre in the Deep Sea
+Card No.:KC/SE28-E30
+Rarity:R
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Welcome… Welcome here…
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Ogre in the Deep Sea
+Text:【CONT】 All of your other 《Fleet in the Deep Sea》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Draw a card, choose a card in your hand, and put it into your waiting room.

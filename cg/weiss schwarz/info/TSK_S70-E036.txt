@@ -1,0 +1,16 @@
+Card Name:
+English Name:Loss of Fighting Spirit, Milim
+Card No.:TSK/S70-E036
+Rarity:R
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"What in the world is this?! Ive never had anything so delicious!
+Trigger:
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 At the beginning of your climax phase, your opponent may put 2 cards from the top of his or her stock into his or her waiting room. If he or she does, this card cannot frontal attack until end of turn.

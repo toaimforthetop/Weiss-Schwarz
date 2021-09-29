@@ -1,0 +1,18 @@
+Card Name:
+English Name:Guide to the Future, Iroha
+Card No.:MR/W59-E078
+Rarity:RR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1  《Magic》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room] This ability activates up to 1 time per turn. At the end of this card\'s attack, if "Connections" is in your climax area, you may pay the cost. If you do, choose 1 of your other 【REVERSE】 《Magic》 characters, and 【STAND】 it.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Scarlet, the Golden Sword of Battle
+Card No.:AT/WX02-033
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.Reveal the top card of your deck. If that card is an 《Ooo》 character or event card, put it into your hand. (Otherwise, return it to its original place)
+Text:【CONT】 Memory During your turn, if this card is in your memory, all of your 《Ooo》 characters get +500 power.

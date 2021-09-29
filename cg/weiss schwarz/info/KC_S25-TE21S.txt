@@ -1,0 +1,17 @@
+Card Name:
+English Name:Akagi-class Aircraft Carrier, Akagi
+Card No.:KC/S25-TE21S
+Rarity:SR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Aircraft Carrier, Akagi.Count on me if you are forming an Aircraft Carrier Task Force.
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power.
+Text:【AUTO】When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room.

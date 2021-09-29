@@ -1,0 +1,18 @@
+Card Name:
+English Name:Shy Girl, Nadeko Sengoku
+Card No.:BM/S15-E010
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・-
+Text:[AUTO] When you use this card\'s "Backup", choose one of your yellow characters in battle, and that character gets +1000 power until end of turn.
+Text:[ACT][COUNTER] Backup 1000, Level 1 ［Put this card from your hand into your waiting room］ （Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.）
+Text:[AUTO] Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)

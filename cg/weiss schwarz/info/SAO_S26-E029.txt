@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kirito's Younger Sister, Suguha
+Card No.:SAO/S26-E029
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"……I still cant really believe my brother and I are actually cousins.
+Trigger:
+Special Attribute:Net・Sports
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When a card named "Memories from Last Night" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one level 1 or lower 《Avatar》 character, put it on any position of your stage, shuffle your deck, and that character gets +1000 power until end of turn.

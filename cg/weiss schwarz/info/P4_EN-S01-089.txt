@@ -1,0 +1,16 @@
+Card Name:
+English Name:Miss "Teddie"
+Card No.:P4/EN-S01-089
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Calling herself \'King of the TV World,\' She\'s a cute, sexy little number!"
+Trigger:
+Special Attribute:Shadow・Female Impersonator
+Text:【AUTO】 When this card attacks, put a card from the top of your deck into your waiting room. If that card is a climax, this card gets +4 soul until end of turn.

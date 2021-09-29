@@ -1,0 +1,16 @@
+Card Name:
+English Name:Snipers' Confrontation
+Card No.:GGO/S59-TE21
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:M: "Over here!"Toma: "You\'ve got guts!"
+Trigger:Draw
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【DRAW】: When this card triggers, you may draw 1 card)

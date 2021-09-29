@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ruler of the 《Human Realm》
+Card No.:SAO/S65-E067R
+Rarity:RRR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:I... this world of mine…
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand) 

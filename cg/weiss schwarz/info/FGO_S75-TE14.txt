@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mankind's Last Master, Fujimaru
+Card No.:FGO/S75-TE14
+Rarity:TD
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Chaldea・Master
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Chaldea》 or 《Babylonia》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.

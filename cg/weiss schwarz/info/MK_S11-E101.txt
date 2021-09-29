@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Milky Holmes" Shalo
+Card No.:MK/S11-E101
+Rarity:TD
+Expansion:【Tutorial Deck】 Detective Opera Milky Holmes
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:I will try harder!
+Trigger:Soul
+Special Attribute:Detective・Camera
+Text:【CONT】 If all of your characters are 《Detective》, this card gets +1000 power.

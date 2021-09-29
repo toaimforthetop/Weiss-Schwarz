@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cynic, Archer
+Card No.:FS/S34-E066
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"If we were to fight now, I wouldnt", 'have a choice but to die just like Rider.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's characters in the center stage, and that character gets -1000 power until end of turn.", '【AUTO】 Bond／"Cursed Magic Bullet, Rin" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Cursed Magic Bullet, Rin" in your waiting room, and return it to your hand.)

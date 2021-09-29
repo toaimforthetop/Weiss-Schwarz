@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hishi Mochi
+Card No.:KC/S42-E025
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:A delicious "Hishi Mochi" that can only be found during the Peach Festival season.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Put this card into your memory. If the number of 《Fleet Girl》 characters you have is four or more, search your deck for up to X 《Fleet Girl》 characters, reveal it to your opponent, put it into your hand, and shuffle your deck. X is equal to the number of cards named "Hishi Mochi" in your memory.

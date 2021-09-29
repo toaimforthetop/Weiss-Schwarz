@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Menacing Pose" Aqua
+Card No.:KS/W76-E094
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Look, Ill let you walk away this one time, so scram. Go on, get!
+Trigger:Soul
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent\'s deck."

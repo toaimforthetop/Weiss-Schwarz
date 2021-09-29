@@ -1,0 +1,17 @@
+Card Name:
+English Name:Light of Love, Rem
+Card No.:RZ/S46-TE43S
+Rarity:SR
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Of course! Anywhere.
+Trigger:Soul
+Special Attribute:Magic・Maid
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, put the top five cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (This damage may be canceled)

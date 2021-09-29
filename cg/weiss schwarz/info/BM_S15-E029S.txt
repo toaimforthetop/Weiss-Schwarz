@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hitagi Senjyogahara on Holiday
+Card No.:BM/S15-E029S
+Rarity:SR
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Just think of it as the same as Araragi being able to differentiate girls by the shape of their hips.
+Trigger:
+Special Attribute:Strange・-
+Text:[AUTO] When this card is placed on stage from your hand, put the top card of your deck into your waiting room. If that card is not a 《Strange》 character, choose a card in your hand, and put it into your waiting room.

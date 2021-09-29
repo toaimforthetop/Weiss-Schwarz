@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Everything In Moderation" Misaki Okusawa
+Card No.:BD/EN-W03-014
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Besides... Michelle is... Im starting to lik-
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】All of your other 《Music》 characters get +500 power.
+Text:【ACT】[(1) Put this card into your waiting room] Choose 1 ""Sakura Michelle" Misaki Okusawa" in your waiting room, and return it to your hand.

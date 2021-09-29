@@ -1,0 +1,18 @@
+Card Name:
+English Name:Fair and Beautiful, Homura
+Card No.:MM/W17-E023S
+Rarity:SR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:SECRET
+Trigger:
+Special Attribute:Magic・Time
+Text:【AUTO】［Return two characters in your waiting room to your deck. Shuffle your deck afterwards.] When this card is placed on stage from your hand, you may pay the cost. If you do, this card gets +2000 power until end of turn.
+Text:【AUTO】【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

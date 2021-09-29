@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Sticks, Saya Yamabuki
+Card No.:BD/W73-E057
+Rarity:C
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Natsuki: "It\'s a present from CHiSPA for your self-organized show."
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Frolicking Iroha
+Card No.:MR/W80-E078
+Rarity:RR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Yes. He was there during the Friendship Ending Staircase incident, too.
+Trigger:
+Special Attribute:Magic・Cooking
+Text:【AUTO】 [(1) Put the top card of your deck into your clock]  When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When this card attacks, choose 1 of your characters, and that character gets +500 power until end of turn.

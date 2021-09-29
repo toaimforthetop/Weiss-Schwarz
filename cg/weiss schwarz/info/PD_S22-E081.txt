@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kagamine Len"Phoenix Moon"
+Card No.:PD/S22-E081
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【AUTO】 When a card named "Kagamine HachiHachi Flower Fight" is placed on your climax area, look at the top card of your deck, put it on the top or bottom of your deck, and choose one of your 《Music》 characters, and that character gets +1000 power until end of turn.

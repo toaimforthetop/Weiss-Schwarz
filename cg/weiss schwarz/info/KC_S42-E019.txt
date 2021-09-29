@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Unryu-class Aircraft Carrier, Amagi Kai
+Card No.:KC/S42-E019
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Its Amagi's turn!
+Trigger:
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【CONT】 This card gets +1000 power for each of your other cards named "2nd Unryu-class Aircraft Carrier, Amagi".

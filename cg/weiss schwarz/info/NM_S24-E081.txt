@@ -1,0 +1,16 @@
+Card Name:
+English Name:Vanpire's Bond, Shinobu Oshino
+Card No.:NM/S24-E081
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Ive told you a bunch of times that the bonds of a vampire are", 'bonds of the soul, right?
+Trigger:
+Special Attribute:Strange・Blood
+Text:-

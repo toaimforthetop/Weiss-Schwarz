@@ -1,0 +1,18 @@
+Card Name:
+English Name:NADEKO Snake
+Card No.:BM/S15-E098
+Rarity:CR
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Please look at me, Big Brother Koyomi.
+Trigger:Draw
+Special Attribute:
+Text:[CONT] All of your characters get +1000 power and +1 soul.
+Text:（[DRAW]: When this card triggers, you may draw a card.)
+Text:[CONT] You cannot use the "[AUTO] Encore" of your other characters. （You cannot use the "[AUTO] Encore ［(3)］" rule either.)

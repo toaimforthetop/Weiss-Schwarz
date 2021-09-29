@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Woman's Battle, Albedo
+Card No.:OVL/S62-E033
+Rarity:R
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:I will rush to his side! No matter what I have to sacrifice!
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] When this card attacks, if "A Woman\'s Nature" is in your climax area, you may pay the cost. If you do, this card gets +3000 power and the following ability until the end of your opponent\'s next turn. "【AUTO】 At the beginning of your opponent\'s attack phase, choose 1 of your opponent\'s characters, and that character gets -2 soul until end of turn."

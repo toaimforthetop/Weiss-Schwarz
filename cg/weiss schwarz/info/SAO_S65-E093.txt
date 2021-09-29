@@ -1,0 +1,16 @@
+Card Name:
+English Name:Suspicious Part-Time Job? Kazuto
+Card No.:SAO/S65-E093
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:You think so?
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 [Put this card into your waiting room] When your other 《Avatar》 or 《Net》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +2500 power until end of turn.

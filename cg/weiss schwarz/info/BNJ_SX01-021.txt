@@ -1,0 +1,16 @@
+Card Name:
+English Name:Joker: Samurai Swordfight
+Card No.:BNJ/SX01-021
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Oh, Id hate to come to Ancient Japan and miss out on a samurai swordfight.
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.

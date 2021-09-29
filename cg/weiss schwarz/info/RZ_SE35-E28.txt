@@ -1,0 +1,17 @@
+Card Name:
+English Name:In the Present With Everyone, Emilia
+Card No.:RZ/SE35-E28
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:You all repaired this?
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If you do not have another character with "Emilia (エミリア)" or "Puck (パック)" in its card name, this card cannot 【STAND】 during your stand phase.
+Text:【AUTO】 When this card is placed on the stage from your hand, if your opponent\'s waiting room has 5 or more climax, 【REST】 this card.

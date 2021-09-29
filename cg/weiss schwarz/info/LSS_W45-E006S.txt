@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hanamaru Kunikida
+Card No.:LSS/W45-E006S
+Rarity:SR
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack.

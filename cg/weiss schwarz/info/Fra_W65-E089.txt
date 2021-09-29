@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pure White Dress, Sistine
+Card No.:Fra/W65-E089
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:What on earth does Sensei think of my pure heart!?
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Magic・Honor Student
+Text:【AUTO】 When this card is placed on the stage from your hand, choose up to 1 of your opponent\'s characters, return it to his or her hand, and this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 1 "Inherited Magic Talent, Sistine" from your hand into your waiting room] This ability activates up to 1 time per turn. When this card\'s battle opponent becomes 【REVERSE】, if "Not Wanting to Lose Precious Things " is in your climax area, you may pay the cost. If you do, 【STAND】 this card.

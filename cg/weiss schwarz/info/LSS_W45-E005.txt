@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Koini Naritai AQUARIUM" Ruby Kurosawa
+Card No.:LSS/W45-E005
+Rarity:R
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 [(1) Put this card into your waiting room] When a card named "Make Our Dreams Come True" is placed on your climax area, you may pay the cost. If you do, choose up to one card named ""Aozora Jumping Heart" Ruby Kurosawa" in your hand, and put it on the stage position that this card was on.

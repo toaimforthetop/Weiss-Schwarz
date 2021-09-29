@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ritsu: Childhood Memories
+Card No.:MOB/SX02-089
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Family・-
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Explosion Counter" in your waiting room, and return it to your hand.
+Text:【AUTO】 Bond/"MOB: Explosion" [Put the top card of your deck into your clock] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 "MOB: Explosion" in your waiting room, and return it to your hand)

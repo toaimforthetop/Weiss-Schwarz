@@ -1,0 +1,16 @@
+Card Name:
+English Name:What a Fun Song!
+Card No.:BD/EN-W03-123
+Rarity:CC
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"I feel like Im playing better than I ever have…...! It's not just me, it's everyone…
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】All of your characters get +2 soul.

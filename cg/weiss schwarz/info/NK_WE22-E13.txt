@@ -1,0 +1,17 @@
+Card Name:
+English Name:New Life! Seishiro
+Card No.:NK/WE22-E13
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:……If you ever get stuck again,I might be inclined to help you out…….
+Trigger:
+Special Attribute:Weapon・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(1) 【REST】 this card] Choose a green card in your clock, and return it to your hand. Choose a card in your hand, and put it into your clock.

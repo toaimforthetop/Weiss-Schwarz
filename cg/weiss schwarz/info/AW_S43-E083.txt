@@ -1,0 +1,17 @@
+Card Name:
+English Name:Traversing Through the Black Cloud, Sky Raker
+Card No.:AW/S43-E083
+Rarity:R
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Hurry, Rain!
+Trigger:
+Special Attribute:Avatar・-
+Text:【CONT】 During your opponent\'s turn, if you have another card named "Intent-filled Eyes, Fuko", this card gets +2000 power.
+Text:【AUTO】 Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets the following ability until end of turn. "【CONT】 If this card would attack, you may instead choose a character on your opponent\'s back stage, and have this card frontal attack with the chosen character as the defending character." (The revealed card is returned to its original place)

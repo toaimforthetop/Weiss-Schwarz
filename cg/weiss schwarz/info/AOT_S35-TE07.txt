@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Hope in the Darkness of Despair" Eren Titan
+Card No.:AOT/S35-TE07
+Rarity:TD
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Titan・Corps
+Text:[CONT] If you have another character with "Mikasa(ミカサ)" or "Armin(アルミン)" in its card name, this card gets +1500 power.

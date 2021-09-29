@@ -1,0 +1,18 @@
+Card Name:
+English Name:Living Everyday Like a Dream, Mami
+Card No.:MM/W35-E008
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I believe that without Bebe, I would have given up long ago.
+Trigger:
+Special Attribute:Magic・Tea
+Text:【CONT】 All of your other "One Who Knows the Truth, Nagisa" get +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 Bond／"One Who Knows the Truth, Nagisa" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "One Who Knows the Truth, Nagisa" in your waiting room, and return it to your hand.)
+Text:【CONT】 If you have another character with "Mami(マミ)" in its card name, this card gets +1500 power.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“A Service for You♪” Maki Nishikino
+Card No.:LL/EN-W02-E152
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Just because Im dressed as a maid doesn't mean you can order me around. Got it?
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

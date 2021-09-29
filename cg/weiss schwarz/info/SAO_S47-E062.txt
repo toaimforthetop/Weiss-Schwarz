@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sterben 《Death Gun》
+Card No.:SAO/S47-E062
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"You dont know my name.", "That's why you'll never remember it.You don't know my name.", "That's why you'll never remember it.You don't know my name.", "That's why you'll never remember it.You don't know my name.", "That's why you'll never remember it.You don't know my name.", "That's why you'll never remember it.You don't know my name.", "That's why you'll never remember it.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card attacks, if all of your opponent\'s characters are 《Target》, you may deal one damage to your opponent. (This damage may be canceled)【AUTO】 When this card attacks, if a card named "Fateful Estoc Wielder" is in your climax area, until the end of your opponent\'s next turn, this card gets +2500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent\'s deck."

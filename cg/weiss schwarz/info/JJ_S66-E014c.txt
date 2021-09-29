@@ -1,0 +1,17 @@
+Card Name:
+English Name:6 Together as 1, S.B
+Card No.:JJ/S66-E014c
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Mista----!
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【CONT】 You can put up to 6 cards with the same card name as this card into your deck.
+Text:【CONT】 This card gets +1 soul for each of your other "6 Together as 1, S.B".

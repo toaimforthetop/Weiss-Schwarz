@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yosuke Hanamura
+Card No.:P4/EN-S01-T03
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Lets go, partner!
+Trigger:
+Special Attribute:Junes・Glasses
+Text:【CONT】 During your turn, this card gets +1000 power.

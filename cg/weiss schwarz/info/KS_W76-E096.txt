@@ -1,0 +1,16 @@
+Card Name:
+English Name:Devil King Army Invades!
+Card No.:KS/W76-E096
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose 1 of your 【STAND】 《Devil King Army》characters or characters with "Kazuma(カズマ)" in its card name, and 【REST】 it. If you do, search your deck for up to 1  《Devil King Army》 character or character with "Kazuma(カズマ)" in its card name, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets +3000 power until end of turn.

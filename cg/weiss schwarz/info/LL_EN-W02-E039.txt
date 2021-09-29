@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Sunny Day Song” Eli Ayase
+Card No.:LL/EN-W02-E039
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card.", '

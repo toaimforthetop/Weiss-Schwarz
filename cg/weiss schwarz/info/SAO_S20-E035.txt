@@ -1,0 +1,16 @@
+Card Name:
+English Name:Leafa's Bashful Expression
+Card No.:SAO/S20-E035
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Are you stupid!! I would rather fight!!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

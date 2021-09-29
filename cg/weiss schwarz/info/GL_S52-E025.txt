@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reliable Mechanic, Leyte
+Card No.:GL/S52-E025
+Rarity:C
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:That last burst was all we had.
+Trigger:
+Special Attribute:Team DAI-GURREN・Mecha
+Text:【CONT】 During your turn, all of your other 《Team DAI-GURREN》 characters get +1000 power.
+Text:【CONT】 All of your other 《Team DAI-GURREN》 characters get "【AUTO】 Encore [(2)]".

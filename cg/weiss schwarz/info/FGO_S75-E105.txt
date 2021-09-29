@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Ereshkigal
+Card No.:FGO/S75-E105
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 cost 1 or higher character in your opponent's waiting room, and put it on an open position of their back stage.", '

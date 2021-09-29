@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lunch Time, Eugeo
+Card No.:SAO/S65-TE13
+Rarity:TD
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:The pie sure tastes awesome today!
+Trigger:
+Special Attribute:Fluctlight・Woodcutter
+Text:【CONT】 This card gets +500 power for each of your other 《Fluctlight》  characters.

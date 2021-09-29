@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Our Little Secret Here" Eris
+Card No.:KS/W55-E087
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Thats a secret between us, okay?
+Trigger:
+Special Attribute:Goddess・-
+Text:【CONT】 During your opponent\'s turn, all of your other 《Adventurer》 or 《Goddess》 characters get +1000 power.
+Text:【AUTO】 【CXCOMBO】 [(1)] When a card named "Well Then, See You" is placed on your climax area, you may pay the cost. If you do, choose an 《Adventurer》 or 《Goddess》 character in your waiting room, and return it to your hand.

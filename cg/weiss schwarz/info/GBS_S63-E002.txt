@@ -1,0 +1,17 @@
+Card Name:
+English Name:Natural Adventurer, High Elf Archer
+Card No.:GBS/S63-E002
+Rarity:RR
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Im going to slay some goblins, too! But only if you'll come with us again!
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:AUTO＠ [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's level 3 or lower characters, and return it to his or her hand.
+Text:【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. Damage may be canceled)", '

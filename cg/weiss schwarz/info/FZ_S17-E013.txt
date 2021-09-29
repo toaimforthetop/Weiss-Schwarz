@@ -1,0 +1,16 @@
+Card Name:
+English Name:Parts of Kiritsugu, Maiya
+Card No.:FZ/S17-E013
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:No Flavor Text
+Trigger:
+Special Attribute:Weapon・-
+Text:-

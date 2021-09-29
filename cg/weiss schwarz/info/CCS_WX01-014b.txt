@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: Middle School Life
+Card No.:CCS/WX01-014b
+Rarity:U
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Great job out there!
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 Assist All of your 《Tomoeda》 or 《Magic》 characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【ACT】 [【REST】 this card] Choose 1 of your characters, and that character gets +1 level and +500 power until end of turn.

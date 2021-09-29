@@ -1,0 +1,16 @@
+Card Name:
+English Name:Zorthy
+Card No.:GL/S52-E010
+Rarity:R
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Can you believe this? How far are we gonna go?
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【AUTO】 When this card attacks, choose one of your other 《Team DAI-GURREN》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Team DAI-GURREN》 characters you have.

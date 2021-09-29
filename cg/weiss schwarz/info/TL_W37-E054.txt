@@ -1,0 +1,16 @@
+Card Name:
+English Name:Heart-racing Voice
+Card No.:TL/W37-E054
+Rarity:CC
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Eh!? Wha… What is this--… !?
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Poison Mist" Assassin of Black
+Card No.:APO/S53-E077
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Wheres my Mommy?
+Trigger:
+Special Attribute:Servant・Mist
+Text:【AUTO】 【CXCOMBO】 When a card named "Maria the Ripper" is placed on your climax area, if this card is on your center stage, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, all of the characters on your opponent\'s center stage get -2000 power until end of turn.
+Text:【AUTO】 Encore [Put a blue character from your stage into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

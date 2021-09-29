@@ -1,0 +1,17 @@
+Card Name:
+English Name:Word Chain Battle, Shiro
+Card No.:NGL/S58-E087
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Sora: "Materialization Word Chain?"
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 All of your other 《Game》 characters get +500 power.
+Text:【AUTO】 【CXCOMBO】 When "Super Healthy Space" is placed on your climax area, draw 1 card, choose 1 card in your hand, and put it into your waiting room.

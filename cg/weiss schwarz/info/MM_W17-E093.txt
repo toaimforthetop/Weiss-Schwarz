@@ -1,0 +1,16 @@
+Card Name:
+English Name:Childhood Friend of Kamijo, Sayaka
+Card No.:MM/W17-E093
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:#NAME?
+Trigger:
+Special Attribute:Magic・Music
+Text:-

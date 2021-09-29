@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hekiyou Academy Student Council Vice President, Ken
+Card No.:Fsi/W65-E061
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Ill create a harem of beautiful girls!
+Trigger:
+Special Attribute:Fantasia Bunko・Student Council
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed into the waiting room from the stage, you may pay the cost. If you do, choose 1 《Fantasia Bunko》 or 《Student Council》 character in your waiting room, and return it to your hand.

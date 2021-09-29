@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Thankful Feast” Umi Sonoda
+Card No.:LL/EN-W02-E108
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:"I want to eat a lot of seasonal vegetables. Theyre so delicious and nutritious.
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1000 power.
+Text:【CONT】 Experience If the number of cards named ""Happy Maker!" Umi Sonoda" in your level is two or more, this card gets +4000 power.

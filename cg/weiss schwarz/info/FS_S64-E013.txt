@@ -1,0 +1,17 @@
+Card Name:
+English Name:Friendly Teacher, Taiga
+Card No.:FS/S64-E013
+Rarity:C
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"For Shirou, Kiritsugu was a hero! So thats probably why he was mimicking him. Sakura, you have someone like that, too, right?
+Trigger:
+Special Attribute:Teacher・Sports
+Text:【AUTO】 When this card attacks, choose 1 of your other characters with "Shirou (士郎)" or "Sakura (桜)" in its card name, and that card gets +2000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent\'s clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent\'s deck into his or her clock.

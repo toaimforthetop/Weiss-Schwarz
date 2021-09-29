@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kyoko in the Alley
+Card No.:MM/W17-E070
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:We need to talk. Will you come with me?
+Trigger:Soul
+Special Attribute:Magic・Sweets
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kyoko Sakura" in your waiting room, and put it on the stage position that this card was on.
+Text:【AUTO】［Put a card from your hand into your waiting room］ When a card named "It sure is lonely, being the only one left" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent\'s level 2 or lower characters on the center stage, put it into your opponent\'s waiting room, and at the end of turn, put this card into your waiting room. 

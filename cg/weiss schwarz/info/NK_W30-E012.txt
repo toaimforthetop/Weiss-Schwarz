@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ties with You, Chitoge
+Card No.:NK/W30-E012
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Heiress・Key
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your other characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 Change [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "The One, Chitoge" in your waiting room, and put it on the stage position that this card was on.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Writhing in Conflict, Ishtar
+Card No.:FGO/S75-E038
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Im getting all dizzy! Okay, calm down, me. Also calm down, Ishtar-me! There possibly can't be a deal this good!
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【CONT】 During your turn, this card gets +2000 power.
+Text:【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.

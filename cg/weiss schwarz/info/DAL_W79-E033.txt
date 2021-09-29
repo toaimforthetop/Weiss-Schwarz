@@ -1,0 +1,17 @@
+Card Name:
+English Name:Visiting the Sick, Yoshino
+Card No.:DAL/W79-E033
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im sorry... for surprising you…
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 All of your other 《Date》 or 《Celestial Spirit》 characters get +500 power.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When your character's trigger check reveals a climax, you may pay the cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.", '

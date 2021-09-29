@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Empress" Assassin of Red
+Card No.:APO/S53-E045
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5500
+Soul:2
+Flavor Text:Losses are unacceptable… Emerge victorious!
+Trigger:Soul
+Special Attribute:Servant・Poison
+Text:【CONT】 All of your other red characters get +1000 power.
+Text:【ACT】 [(2) 【REST】 this card] Choose a character in your waiting room, and return it to your hand.

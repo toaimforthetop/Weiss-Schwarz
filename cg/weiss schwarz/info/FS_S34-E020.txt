@@ -1,0 +1,16 @@
+Card Name:
+English Name:At the School Cafeteria, Mitsuzuri
+Card No.:FS/S34-E020
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Youre not eating with the student", 'council president today.
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】 At the beginning of your draw phase, if you do not have any other characters in your center stage, this card gets +4000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Melee Combat Form, Aqua Current
+Card No.:AW/S43-E088
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Keen!
+Trigger:Soul
+Special Attribute:Avatar・Water
+Text:【CONT】 If the number of cards in your hand is five or more, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

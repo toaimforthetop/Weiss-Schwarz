@@ -1,0 +1,17 @@
+Card Name:
+English Name:"UNSTOPPABLE" LOCK
+Card No.:BD/W73-TE04
+Rarity:TD
+Expansion:BanG Dream! [RAISE A SUILEN]
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:I knew right then that I wanted to be in a band again.
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 If all of your characters are 《Music》, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Intense Performance" is in your climax area, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand. (Otherwise, return it to its original place)

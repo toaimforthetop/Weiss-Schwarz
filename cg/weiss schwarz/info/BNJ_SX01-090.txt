@@ -1,0 +1,17 @@
+Card Name:
+English Name:Armored Batman
+Card No.:BNJ/SX01-090
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 During your turn, if you have another 《Weapon》 character, this card gets +3000 power.
+Text:【AUTO】 When this card is placed on the stage from the marker area of "Batman: Batcycle" , this card gets the following ability until end of turn. "【AUTO】 Sunder/"Batman: Information Extraction"  [(1)]"

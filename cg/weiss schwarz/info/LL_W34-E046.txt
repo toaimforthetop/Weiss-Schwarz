@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Door to Our Dreams" Kotori Minami 
+Card No.:LL/W34-E046
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【CONT】 This card gets +500 power for each of your other characters with "Kotori(ことり)" in its card name. 
+Text:【CONT】 During this card\'s battle, all players cannot play "Backup" from hand.
+Text:【AUTO】 [(1)] When a card named "Nap Time Kotori" is placed on your climax area, you may pay the cost. If you do,  until the end of your opponent\'s next turn,all of your characters get +1500 power and the following ability. "【CONT】 During this card\'s battle, all players cannot play "Backup" from hand."

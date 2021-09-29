@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hatsune Miku "Orange Blossom"
+Card No.:PD/S29-E032R
+Rarity:RRR
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Decorator" is in your climax area, you may pay the cost. If you do, all of your 《Music》 characters get +2500 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Crimson Demon With Red Eyes” Megumin
+Card No.:KS/W49-PE03
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:I am Megumin, user of the finest magic crimson demons possess!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 If you do not have any other 《Adventurer》 or 《Magic》 characters, this card cannot 【STAND】 during your stand phase.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ayame Mikuri
+Card No.:MR/W59-E041
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Im thinking about stuff too, y'know!
+Trigger:
+Special Attribute:Magic・Attack
+Text:【ACT】 [(1) Put this card into your waiting room] Look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

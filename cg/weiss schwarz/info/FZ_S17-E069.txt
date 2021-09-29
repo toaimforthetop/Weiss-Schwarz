@@ -1,0 +1,16 @@
+Card Name:
+English Name:Young Successor, Rin
+Card No.:FZ/S17-E069
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"No! I dont need your help with anything!
+Trigger:Soul
+Special Attribute:Jewel・-
+Text:【AUTO】［Put a card from your hand into your waiting room］ When this card attacks, if a red climax is in your climax area, you may pay the cost. If you do, choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand. 

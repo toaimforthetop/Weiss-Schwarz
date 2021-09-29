@@ -1,0 +1,17 @@
+Card Name:
+English Name:First Time at a School Festival, Isuzu & Latifah
+Card No.:Fab/W65-E032
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Latifah: "I\'d love to walk around!"
+Trigger:Soul
+Special Attribute:Fantasia Bunko・AmaBri
+Text:【CONT】 If you have 2 or more other 《Fantasia Bunko》 or 《AmaBri》 characters, this card gets +1500 power, and "【AUTO】 Encore [Put 1 《Fantasia Bunko》 or 《AmaBri》 character from your hand into your waiting room]".
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Welcome to Amagi Brilliant Park!" is in your climax area, choose up to 1 《Fantasia Bunko》 or 《AmaBri》 character in your waiting room, put it into your stock, and reveal the top card of your deck. If that card is a 《Fantasia Bunko》 or 《AmaBri》 character, put it into your hand. (Otherwise, return the revealed card to its original place)

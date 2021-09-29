@@ -1,0 +1,18 @@
+Card Name:
+English Name:Killing Machine, Sapphire
+Card No.:DG/EN-S03-E147
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Kill or be killed, right?
+Trigger:Soul
+Special Attribute:Royalty・Weapon
+Text:【CONT】 If you have another character with "Almaz(アルマース)" in its card name, this card gets +1500 power.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Newlywed Queen" is in your climax area, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

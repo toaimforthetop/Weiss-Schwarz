@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mikuru & Kyon Trying Too Hard
+Card No.:SY/W08-E017
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Kyon: "That lovely, innocent being doesn\'t quite get locking doors."
+Trigger:
+Special Attribute:Time・SOS Brigade
+Text:-

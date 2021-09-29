@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Koini Naritai AQUARIUM" You Watanabe
+Card No.:LSS/W45-E037R
+Rarity:RRR
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a 《Music》 character in your waiting room, and return it to your hand. ", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Honor on the Battlefield" Eren
+Card No.:AOT/S35-TE02
+Rarity:TD
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[AUTO] When this card direct attacks, choose one of your other characters, and that character gets +1500 power until end of turn.
+Text:[AUTO] When this card becomes [REVERSE], if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into your opponent's waiting room.", '

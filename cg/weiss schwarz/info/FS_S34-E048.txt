@@ -1,0 +1,16 @@
+Card Name:
+English Name:Noble Phantasm Unleashed
+Card No.:FS/S34-E048
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:So, will you face my', 'mightiest blow, then?
+Trigger:
+Special Attribute:
+Text:If the number of green characters you have is two or less, this card cannot be played from your hand.', "Put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.", '

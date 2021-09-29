@@ -1,0 +1,16 @@
+Card Name:
+English Name:Saber & Irisviel & Ilya
+Card No.:FZ/S17-PE06
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Homunculus・Alchemy
+Text:【AUTO】 When this card direct attacks, choose another of your characters, and that character gets +1500 power until end of turn.

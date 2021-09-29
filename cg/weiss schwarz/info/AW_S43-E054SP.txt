@@ -1,0 +1,18 @@
+Card Name:
+English Name:A Scene in the Summer, Niko
+Card No.:AW/S43-E054SP
+Rarity:SP
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Oops, I said something cute♪
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card attacks, if a card named "Having Fun in the Summer" is in your climax area, choose up to one character in your waiting room, return it to your hand, and until end of turn, this card gets +1000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent\'s deck."

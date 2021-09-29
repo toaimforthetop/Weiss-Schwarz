@@ -1,0 +1,18 @@
+Card Name:
+English Name:Devilish Kouhai, Tomoe Koga
+Card No.:SBY/W64-E078S
+Rarity:SR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:"Ill help you out, Senpai
+Trigger:Soul
+Special Attribute:Adolescence・Smartphone
+Text:【CONT】 Assist All of your 《Adolescence》 characters in front of this card get +2000 power.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put the top card of your clock into your stock.
+Text:【ACT】 [(5)]  If all players are level 3 or higher, all players put up to 4 cards from the top of their clock into their waiting room.

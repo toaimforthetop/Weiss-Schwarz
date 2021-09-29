@@ -1,0 +1,16 @@
+Card Name:
+English Name:Proof of Contract, Rin
+Card No.:FS/S34-TE09
+Rarity:TD
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:0
+Flavor Text:This is all the proof you need that I am your Master, right?
+Trigger:Soul
+Special Attribute:Master・Jewel
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '【ACT】 [【REST】 this card] Choose one of your characters with "Archer(アーチャー)" in its card name, until end of turn, that character gets +1500 power and the following ability. "【CONT】 If the character facing this card is a lower level than this card, this card cannot attack."

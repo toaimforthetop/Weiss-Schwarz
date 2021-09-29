@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Mogami-class Heavy Cruiser, Mikuma
+Card No.:KC/S25-E144S
+Rarity:SR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Can I use "bear" more often?
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】Change [(1) Put this card into your waiting room] At the beginning of your encore step, if this card is 【REST】\' />, you may pay the cost. If you do, choose a card named "2nd Mogami-class Aviation Heavy Cruiser, Mikuma-Kai" in your waiting room, and put it on the stage position that this card was on.

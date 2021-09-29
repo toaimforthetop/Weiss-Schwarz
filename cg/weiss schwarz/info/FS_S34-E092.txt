@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rin's Classmate, Kaede Makidera
+Card No.:FS/S34-E092
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:"Didnt I tell you? Tohsaka never brings a boxed lunch.
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use "【AUTO】 Encore". (You cannot use the "【AUTO】 Encore [(3)]" rule either)

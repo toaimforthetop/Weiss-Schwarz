@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tutorial
+Card No.:GGO/S59-TE10
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Starting now, Im going to beat into youthe skills you need to live in this harsh environment!
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "LLENN(レン)" or "Karen(香蓮)" in its card name, this card cannot be played from your hand.Choose 1 of your characters, and that character gets +2000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room with "LLENN(レン)" or "Karen(香蓮)" in its card name, and return it to your hand." Put this card into your stock.

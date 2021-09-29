@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sign of Closeness, Leys
+Card No.:PI/EN-S04-E055
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Guten Morgen.
+Trigger:
+Special Attribute:Homunculus・Maid
+Text:【CONT】 Experience If a card named "Trainer, Sella" is in your level, this card gets +1500 power.4

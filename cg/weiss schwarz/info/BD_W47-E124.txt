@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Arisa
+Card No.:BD/W47-E124
+Rarity:PR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Hello there.
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【AUTO】  When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】  this card.

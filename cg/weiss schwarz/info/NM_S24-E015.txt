@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shinobu Oshino in a Good Mood
+Card No.:NM/S24-E015
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0 
+Power:3000
+Soul:1
+Flavor Text:I suppose I could tell you about the posed look one.
+Trigger:
+Special Attribute:Strange・Blood
+Text:-

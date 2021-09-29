@@ -1,0 +1,16 @@
+Card Name:
+English Name:Celebrity of Tsuganoki 2nd Middle School, Tsukihi Araragi
+Card No.:NM/S24-E051S
+Rarity:SR
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1 
+Power:5000
+Soul:1
+Flavor Text:Do you have any regrets, Big Brother?
+Trigger:Soul
+Special Attribute:Strange・Japanese Clothes
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Strange》 characters, and that character gets +1000 power until end of turn.

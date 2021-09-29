@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Maid Outfit” μ's
+Card No.:LL/EN-W02-E001eμR
+Rarity:μR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Maid
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top three cards of your deck into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your level 1 or higher characters, and that character gets +1 soul until end of turn.

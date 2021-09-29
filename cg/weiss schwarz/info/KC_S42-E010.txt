@@ -1,0 +1,18 @@
+Card Name:
+English Name:16th Kagero-class Destroyer, Arashi
+Card No.:KC/S42-E010
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Hm...? Commander, whats wrong? Are you lonely? That can't be. Heh heh.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 If you have another card named "17th Kagero-class Destroyer, Hagikaze", this card gets "【CONT】 Assist All of your characters in front of this card get +500 power.".
+Text:【CONT】 All of your other cards named "15th Kagero-class Destroyer, Nowaki" get +1 soul.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

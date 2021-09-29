@@ -1,0 +1,18 @@
+Card Name:
+English Name:Driving Force Behind μ's, Honoka
+Card No.:LL/W24-E055S
+Rarity:SR
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Sweets
+Text:【AUTO】 Change ［Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "Honoka Kosaka" in your waiting room, and put it on the stage position that this card was on.
+Text:【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""We Are Now Waiting In the Shining Light"μ\'s" in your waiting room, and put it on the stage position that this card was on.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Favorite Place" is in your climax area, you may pay the cost. If you do, choose up to two of your other characters, and those characters get +3000 power until end of turn.', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

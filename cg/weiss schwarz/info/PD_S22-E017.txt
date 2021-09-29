@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kagamine Len"Trickster"
+Card No.:PD/S22-E017
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:もっと、もっと望めばいい\u3000欲望をさらけ出して', 'もう二度と\u3000抜け出せない\u3000底なしのパラダイスだ
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on stage from your hand, this card gets +1500 power until end of turn.

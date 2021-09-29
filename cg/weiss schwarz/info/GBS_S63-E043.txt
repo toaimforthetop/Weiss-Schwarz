@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unyielding Stance, Goblin Slayer
+Card No.:GBS/S63-E043
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:6000
+Soul:2
+Flavor Text:"The goblins must die. Thats one.
+Trigger:Soul
+Special Attribute:Order・Weapon
+Text:【CONT】 This card gets +1000 power for each of your other 《Order》 characters.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

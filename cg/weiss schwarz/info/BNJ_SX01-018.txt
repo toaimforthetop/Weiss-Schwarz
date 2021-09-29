@@ -1,0 +1,17 @@
+Card Name:
+English Name:Joker: Sadistic
+Card No.:BNJ/SX01-018
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"You liked that, didnt you?
+Trigger:Soul
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.

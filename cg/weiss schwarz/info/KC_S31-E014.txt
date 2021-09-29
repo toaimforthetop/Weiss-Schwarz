@@ -1,0 +1,18 @@
+Card Name:
+English Name:1st Oyodo-class Light Cruiser, Oyodo
+Card No.:KC/S31-E014
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Enemy fleet spotted. Please get ready for bombardment.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【ACT】 [(1)] Choose one of your 《Submarine》 or 《Aircraft Carrying Submarine》 characters, and that character gets +1 soul until end of turn. 
+Text:【ACT】 [【REST】 this card] Reveal the top card of your deck. If that card is level 1 or higher, choose one of your characters, and that character gets +3000 power until end of turn. (Climax are regarded as level 0. The revealed card is returned to its original place)
+Text:【ACT】 [Put the top card of your deck into your clock & 【REST】 this card] Put the top card of your deck underneath this card as a marker, choose one of your characters, and that character gets +1000 power until end of turn. 【ACT】 [Put the top card of your deck into your clock & Put all markers from underneath this card into your waiting room & 【REST】 this card] Put this card into your waiting room, choose a level X or lower 《Battleship》 or 《Aviation Battleship》 or 《Aircraft Battleship》 character, and put it on the stage position that this card was on. X is equal to the number of markers put into the waiting room with this ability.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Asashio-class Destroyer, Michishio
+Card No.:KC/S25-E150
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Not another boring strategy, I hope… Hmph!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[(1)] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Netherworld Honor Student, Mao
+Card No.:DG/EN-S03-E017
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:……Now, how do I want to cook him? Hahaha……
+Trigger:
+Special Attribute:Demon・Glasses
+Text:【AUTO】 [(2)] When this card is put into the waiting room from your stage, you may pay the cost. If you do, search your deck for up to one 《Brave》 character or character with "Protagonist(主人公)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.

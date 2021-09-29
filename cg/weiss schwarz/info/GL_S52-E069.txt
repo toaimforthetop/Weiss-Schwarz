@@ -1,0 +1,18 @@
+Card Name:
+English Name:Super Galaxy DAI-GURREN
+Card No.:GL/S52-E069
+Rarity:R
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Team DAI-GURREN・Drill
+Text:【CONT】 Assist All of your 《Team DAI-GURREN》 characters in front of this card get +2500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Team DAI-GURREN》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 Change [Return this card to your hand] At the beginning of your climax phase, you may pay the cost. If you do, choose up to one card named "TENGEN TOPPA GURREN LAGANN" in your hand, and put it on the stage position that this card was on.

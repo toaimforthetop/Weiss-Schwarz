@@ -1,0 +1,16 @@
+Card Name:
+English Name:Summoning Rite
+Card No.:APO/S53-TE09
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Shishigou: "For the elements, silver and iron. For the foundation, stone and the Archduke of Pacts.The color I bestow is "Red"."
+Trigger:
+Special Attribute:
+Text:Look at up to four cards from the top of your deck, choose up to one 《Master》 or 《Servant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

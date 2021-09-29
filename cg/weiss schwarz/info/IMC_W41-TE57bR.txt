@@ -1,0 +1,16 @@
+Card Name:
+English Name:Highest Stage
+Card No.:IMC/W41-TE57bR
+Rarity:RRR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Fri-ed, chicken!
+Trigger:Draw
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul. (: When this card triggers, you may draw a card)

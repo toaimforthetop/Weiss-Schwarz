@@ -1,0 +1,17 @@
+Card Name:
+English Name:Robin: Battle on the Big Boat
+Card No.:BNJ/SX01-T06
+Rarity:TD
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is level 1 or lower, put it into your stock. (Otherwise, return it to its original place. Climax are regarded as level 0)

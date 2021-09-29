@@ -1,0 +1,16 @@
+Card Name:
+English Name:In a Slump, Kotori
+Card No.:LL/W34-E044
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music
+Text:【AUTO】 [(1)] When a card named "Nap Time Kotori" is placed on your climax area, you may pay the cost. If you do,  until the end of your opponent\'s next turn,all of your characters get +1500 power and the following ability. "【CONT】 During this card\'s battle, all players cannot play "Backup" from hand."

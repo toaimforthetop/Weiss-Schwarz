@@ -1,0 +1,16 @@
+Card Name:
+English Name:Warrior Brimming With Life Experience, Makken
+Card No.:GL/S52-E008
+Rarity:R
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Sorry, it took a long time to find a sitter for the kids…!
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.", '

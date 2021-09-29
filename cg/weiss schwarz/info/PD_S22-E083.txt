@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Memoria"
+Card No.:PD/S22-E083
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】［1 【REST】 two of your 【STAND】 《Music》 characters］ When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card.

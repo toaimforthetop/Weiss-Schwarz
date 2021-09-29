@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Nana
+Card No.:TL/W37-E106
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Is that so? Then its fine.
+Trigger:
+Special Attribute:Alien・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Alien》 characters, and that character gets +1000 power until end of turn. 

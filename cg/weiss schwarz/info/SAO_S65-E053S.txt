@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sacred Arts Researcher" Quinella
+Card No.:SAO/S65-E053S
+Rarity:SR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I gratefully accept, Father.
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 [Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 character with "Administrator(アドミニストレータ)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【ACT】 Resonate [(1) Reveal a card named ""Pontifex of the Axiom Church" Administrator" in your hand & 【REST】 2 of your 《Fluctlight》 characters] Look at up to 5 cards from the top of your deck, choose up to 1 《Fluctlight》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

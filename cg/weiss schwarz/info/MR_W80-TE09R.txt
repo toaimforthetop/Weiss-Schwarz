@@ -1,0 +1,17 @@
+Card Name:
+English Name:One Who Unifies the Members, Momoko
+Card No.:MR/W80-TE09R
+Rarity:RRR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Youve got guts, making a move on a member of my team!
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 During your turn, if you have 2 or more other 《Magic》 characters, this card gets +2000 power.
+Text:【AUTO】 [(3)] During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)", '

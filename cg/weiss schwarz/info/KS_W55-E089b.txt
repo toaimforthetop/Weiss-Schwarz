@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Swarmed on the Street" Axis Church Devotee
+Card No.:KS/W55-E089b
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Can I do anything to thank you?
+Trigger:
+Special Attribute:Axis Church Devotee・-
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.
+Text:【CONT】 All of your other cards named ""Swarmed on the Street" Axis Church Devotee" or ""Sweet Smile" Axis Church Devotee" get +1500 power.

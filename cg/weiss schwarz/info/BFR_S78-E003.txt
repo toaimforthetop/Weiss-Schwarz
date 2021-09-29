@@ -1,0 +1,17 @@
+Card Name:
+English Name:Giant Killing, May & Yui
+Card No.:BFR/S78-E003
+Rarity:RR
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Game・Twins
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 4 or more other 《Game》 characters, you may choose 1 《Game》 character in your waiting room, and put it into your stock.
+Text:【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to the level of that card +1. (Climax are regarded as level 0. Damage may be canceled)

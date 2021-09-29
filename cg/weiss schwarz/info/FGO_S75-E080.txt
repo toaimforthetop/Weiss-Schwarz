@@ -1,0 +1,16 @@
+Card Name:
+English Name:Coordination with Comrades, Mash
+Card No.:FGO/S75-E080
+Rarity:R
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Master!
+Trigger:
+Special Attribute:Chaldea・Shielder
+Text:【CONT】 During your opponent\'s turn, all of your other 《Chaldea》 or 《Babylonia》 characters get +1000 power. 【ACT】 [(1) 【REST】 this card] Choose 1 of your 《Chaldea》 or 《Babylonia》 characters, and that character gets the following ability until the end of your opponent\'s next turn. "【CONT】 The character facing this card gets -1 soul."

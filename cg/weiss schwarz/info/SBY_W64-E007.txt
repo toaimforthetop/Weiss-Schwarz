@@ -1,0 +1,17 @@
+Card Name:
+English Name:Brother Complex, Kaede Azusagawa
+Card No.:SBY/W64-E007
+Rarity:R
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Kaede is the only little sister for Big Brother!
+Trigger:Soul
+Special Attribute:Adolescence・Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 【CXCOMBO】 Experience [(2) Put 1 card from your hand into your waiting room & Put this card into your waiting room] At the end of this card\'s attack, if "The Kaede Quest" is in your climax area, and the total level of cards in your level is 6 or higher, you may pay the cost. If you do, choose 1 "Courage to Move On, Kaede Azusagawa" in your waiting room, and put it on the stage position that this card was on.

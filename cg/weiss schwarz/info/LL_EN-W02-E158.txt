@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Snow Sprite” Rin Hoshizora
+Card No.:LL/EN-W02-E158
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"I brought a cardboard box today! Lets use it as a sled in that park over there♪
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 Assist During your opponent's turn, all of your characters in front of this card get +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.", '

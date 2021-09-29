@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kaleido Sapphire, Luvia
+Card No.:PI/EN-S04-E021
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:My qualifications as a wielder must really be…
+Trigger:
+Special Attribute:Jewel・Magic
+Text:-

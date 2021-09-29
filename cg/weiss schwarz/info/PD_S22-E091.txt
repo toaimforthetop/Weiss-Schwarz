@@ -1,0 +1,16 @@
+Card Name:
+English Name:KAITO"Requiem"
+Card No.:PD/S22-E091
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:-

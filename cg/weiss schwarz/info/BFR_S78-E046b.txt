@@ -1,0 +1,17 @@
+Card Name:
+English Name:Shadow Clone, Sally
+Card No.:BFR/S78-E046b
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Oboro! Shadow Clone!
+Trigger:Soul
+Special Attribute:Game・Weapon
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.
+Text:【CONT】 This card gets +2000 power for each other "Shadow Clone, Sally" in your center stage.

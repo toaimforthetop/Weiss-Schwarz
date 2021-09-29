@@ -1,0 +1,18 @@
+Card Name:
+English Name:The First Step, Rin
+Card No.:IMC/W41-TE41SP
+Rarity:SP
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Music》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)
+Text:【AUTO】 When this card is put into your waiting room from the stage,  look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【CONT】 All of your other blue characters get +500 power.

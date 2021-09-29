@@ -1,0 +1,17 @@
+Card Name:
+English Name:Everyone's Teacher, Shizu
+Card No.:TSK/S70-E105
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Shizu-san, Ill make sure your wish is realized.
+Trigger:
+Special Attribute:Demon Continent・Mask
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.
+Text:【AUTO】 Bond/"Chloe & Alice & Kenya & Ryota & Gale" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Chloe & Alice & Kenya & Ryota & Gale" in your waiting room, and return it to your hand)

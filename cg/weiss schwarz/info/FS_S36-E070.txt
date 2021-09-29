@@ -1,0 +1,18 @@
+Card Name:
+English Name:Last Words
+Card No.:FS/S36-E070
+Rarity:CR
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Dont you worry, Tohsaka. I'll try my best from now on, too.
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:(: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

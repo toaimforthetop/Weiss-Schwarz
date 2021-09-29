@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mikuru From the Future
+Card No.:SY/W08-E042
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Classified information.
+Trigger:
+Special Attribute:Time・-
+Text:【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power.
+Text:【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a card named "Waitress, Mikuru" in your waiting room, and put it on the stage position this card was on as 【REST】.
+Text:-

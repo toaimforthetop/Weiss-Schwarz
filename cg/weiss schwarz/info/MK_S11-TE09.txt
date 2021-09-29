@@ -1,0 +1,18 @@
+Card Name:
+English Name:Psychokinesis
+Card No.:MK/S11-TE09
+Rarity:TD
+Expansion:【Tutorial Deck】 Detective Opera Milky Holmes
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Moving objects with just a thought…', 'but only light objects…
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:（: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)
+Text:【CONT】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

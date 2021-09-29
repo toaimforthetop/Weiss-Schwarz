@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ordinal Number 2
+Card No.:SAO/S51-E048
+Rarity:CC
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Asuna: "Rank 2…!?"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to two of your characters, and those characters get +2000 power and +1 soul until end of turn.

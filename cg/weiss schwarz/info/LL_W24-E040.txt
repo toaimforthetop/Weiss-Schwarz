@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Eli
+Card No.:LL/W24-E040
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Maki seems hard to get along with.
+Trigger:
+Special Attribute:Music・Swimsuit
+Text:-

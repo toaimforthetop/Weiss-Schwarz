@@ -1,0 +1,17 @@
+Card Name:
+English Name:Obsidian Rank
+Card No.:GBS/S63-E094
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Look at this! See?
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.
+Text:【AUTO】 Memory [Put this card into your waiting room] When you level up, if this card is in your memory, you may pay the cost. If you do, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

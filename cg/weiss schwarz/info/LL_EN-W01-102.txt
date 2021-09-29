@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maki in Pajamas
+Card No.:LL/EN-W01-102
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Hey! Hey! Go over there.
+Trigger:
+Special Attribute:Music・Pajamas
+Text:【AUTO】 Change [(3) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""You\'re My Next Catch" Maki" in your waiting room, and put it on the stage position that this card was on.

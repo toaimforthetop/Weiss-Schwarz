@@ -1,0 +1,17 @@
+Card Name:
+English Name:Stunned, Emilia
+Card No.:RZ/S46-E071
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I dont know what you're talking about, but the fact that I know it's something stupid is disappointing.
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck.
+Text:【ACT】 [Put this card into your clock] All of your characters get +1000 power until end of turn.", '

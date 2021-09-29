@@ -1,0 +1,16 @@
+Card Name:
+English Name:Please! Cinderella
+Card No.:IMC/W41-TE56a
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"When Im in a pinch and trying", 'to survive, I wanna overcome it coolly.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

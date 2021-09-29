@@ -1,0 +1,16 @@
+Card Name:
+English Name:Casual Gesture, Kanade
+Card No.:AB/W31-E026
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:…Do you want to stay with them forever?
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] Memory During your turn, if the number of cards in your memory is two or more, this card gets +2000 power.

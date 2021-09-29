@@ -1,0 +1,16 @@
+Card Name:
+English Name:The "Arrow" of Hope
+Card No.:JJ/S66-E024
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Diavolo: "The \'arrow\'… The \'Stand\'…"
+Trigger:
+Special Attribute:
+Text:Choose 1 of your characters, and put it into your stock. If you do, reveal the top card of your deck. If that card has 1 or more of the same trait as the character put into your stock by this effect, put that card on any position of your stage. (Otherwise, return it to its original place)

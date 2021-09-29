@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Fuso-class Battleship, Yamashiro
+Card No.:KC/S25-E120
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Im Yamashiro, younger of the Fuso battleship sisters. Have you seen my elder sister, Fuso?
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】[Put this card into your waiting room] When this card is placed on the stage from your hand, put three cards from the top of your deck into your waiting room. If there is a climax among those cards, you may pay the cost. If you do, choose a card named "2nd Fuso-class Aviation Battleship, Yamashiro-Kai" in your waiting room, and put it on the stage position that this card was on.

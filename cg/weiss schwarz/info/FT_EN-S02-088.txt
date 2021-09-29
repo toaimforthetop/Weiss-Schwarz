@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cold Emperor, Lyon
+Card No.:FT/EN-S02-088
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Thats why I'm resurrecting Deliora. To prove that I am more than Ur's star pupil.
+Trigger:
+Special Attribute:Magic・Ice
+Text:【AUTO】 [(2) Put this card into your memory] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to one card named "Fairy Tail Wizard, Gray", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

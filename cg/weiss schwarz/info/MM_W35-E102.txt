@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Nagisa
+Card No.:MM/W35-E102
+Rarity:PR
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:1000
+Soul:2
+Flavor Text:I just wanted to eat cheese one more time!
+Trigger:Soul
+Special Attribute:Magic・Cheese
+Text:【ACT】 【COUNTER】 Backup 4000, Level 2 [(2) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +4000 power until end of turn)

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Passionate Girl, Yui
+Card No.:AB/W31-E014
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Thats why I've come to offer my help, mew.
+Trigger:Soul
+Special Attribute:Death・Music
+Text:[CONT] This card cannot be chosen by your opponent's effects.
+Text:[AUTO] When this card is placed on stage from your hand, choose up to two of your other characters, and those characters get +1000 power and +1 soul until end of turn.
+Text:[AUTO] [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, return it to your opponent's hand, and this card gets +1000 power until end of turn.

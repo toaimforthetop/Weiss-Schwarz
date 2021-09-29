@@ -1,0 +1,16 @@
+Card Name:
+English Name:Under the Same Umbrella, Producer
+Card No.:IMC/W41-TE40
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Thank you.
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 All of your other blue characters get +500 power.

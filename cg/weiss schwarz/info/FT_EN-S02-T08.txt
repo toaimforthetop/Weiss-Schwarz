@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ring Magic, Loke
+Card No.:FT/EN-S02-T08
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Look at the size of it! A dark black wave that big would wipe out the entire city!
+Trigger:Soul
+Special Attribute:Magic・Key
+Text:【AUTO】 [Put a character from your hand into your memory] When this card is placed on stage from your hand, you may pay the cost. If you do not, put this card into your waiting room.

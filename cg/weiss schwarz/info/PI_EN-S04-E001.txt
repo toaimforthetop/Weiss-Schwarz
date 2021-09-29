@@ -1,0 +1,17 @@
+Card Name:
+English Name:Honest Feelings, Kuro
+Card No.:PI/EN-S04-E001
+Rarity:RR
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:…Thank you.
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of 《Magic》 characters in your level.
+Text:【AUTO】 [Put a 《Weapon》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a cost 0 or lower character in your opponent's center stage, and put it on the top of his or her deck.", '

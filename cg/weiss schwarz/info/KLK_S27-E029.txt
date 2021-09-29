@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Mind Stitching" Ragyo
+Card No.:KLK/S27-E029
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:You may have expected her to fight for you, but if I do this, she becomes my pawn.
+Trigger:
+Special Attribute:Clothes・CEO
+Text:【CONT】 All of your other characters get +500 power.
+Text:【ACT】 [(1) 【REST】 this card] Choose one of your characters with marker, and that character gets +2500 power until end of turn.

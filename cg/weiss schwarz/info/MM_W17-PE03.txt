@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fighting Against Fate, Sayaka
+Card No.:MM/W17-PE03
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Im going to be a different kind of magical girl from all of you. That's what I've decided.
+Trigger:
+Special Attribute:Magic・Love
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn.

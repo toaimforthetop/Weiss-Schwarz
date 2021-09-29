@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Lonely Toast, Eiji
+Card No.:SAO/S51-E037
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im now more powerful than Lightning Flash and the Black Swordsman… I owe it all to Ordinal Scale…
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is one or less, choose a character in your opponent's center stage, and that character gets -3000 power until end of turn.", '

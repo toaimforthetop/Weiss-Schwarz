@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Forever and Ever" Kotori Minami 
+Card No.:LL/W34-E040
+Rarity:R
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power. 
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 When a card named "Nap Time Umi" is placed on your climax area, until end of turn, this card gets +3000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent\'s deck."

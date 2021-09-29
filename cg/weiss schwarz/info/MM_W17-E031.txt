@@ -1,0 +1,18 @@
+Card Name:
+English Name:Madoka's Bond with Homura
+Card No.:MM/W17-E031
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im going to become a magical girl.
+Trigger:
+Special Attribute:Magic
+Text:【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Magic》 character in your clock, return it to your hand, and put the top card of your deck into your clock.
+Text:【AUTO】 Bond／"Homura\'s Hidden Feelings" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Homura\'s Hidden Feelings" in your waiting room, and return it to your hand.) 
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【AUTO】 Change ［(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Ultimate Madoka" in your waiting room, and put it on the stage position that this card was on.

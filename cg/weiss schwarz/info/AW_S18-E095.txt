@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unlimited Field, Cyan Pile
+Card No.:AW/S18-E095
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:"Once youre here it's possible to stay forever. Of course you have to be Level 4 or higher to even enter. 
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When a card named "Lightning Cyan Spike" is placed on your climax area, if this card in your center stage, you may choose one of your opponent\'s characters, and move that character to another open position of your opponent\'s stage.

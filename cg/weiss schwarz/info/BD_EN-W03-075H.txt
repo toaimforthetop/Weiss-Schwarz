@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Poppin' Colors!" Rimi Ushigome
+Card No.:BD/EN-W03-075H
+Rarity:HR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"And my sister said that were the only ones who could make these outfits look good!
+Trigger:Soul
+Special Attribute:Music・Poppin'Party
+Text:【CONT】If you have 2 or more other 《Music》 characters, this card gets +2000 power.
+Text:【AUTO】【CXCOMBO】When this card attacks, if "Poppin\' Colors!" is in your climax area, choose 1 of your other 《Music》 characters and this card, and those characters get +2500 power until the end of your opponent\'s next turn.
+Text:【AUTO】[(1)] During your turn, when this card\'s battle opponent becomes【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

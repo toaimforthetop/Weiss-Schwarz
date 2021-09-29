@@ -1,0 +1,17 @@
+Card Name:
+English Name:"presage flower" Sakura
+Card No.:FS/S64-E023SP
+Rarity:SP
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Master・Love
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When your character's trigger check reveals a climax, if that card's trigger icon is 【TREASURE】, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Boss of 《SHINC》, Eva
+Card No.:GGO/S59-E010
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Ill finish her off.
+Trigger:Soul
+Special Attribute:Avatar・SHINC
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Course Of The Last Battle" is in your climax area, you may put that character into your opponent\'s clock.

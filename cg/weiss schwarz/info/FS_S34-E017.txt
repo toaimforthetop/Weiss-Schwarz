@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kind Soul, Shirou
+Card No.:FS/S34-E017
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:…man, this place never changes.
+Trigger:Soul
+Special Attribute:Master・-
+Text:【AUTO】 When you use this card\'s "Backup", reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to its original place)
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it.

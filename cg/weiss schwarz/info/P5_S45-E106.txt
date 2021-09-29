@@ -1,0 +1,16 @@
+Card Name:
+English Name:Makoto: Phantom Thief of Hearts
+Card No.:P5/S45-E106
+Rarity:PR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:Your heart will be mine. Any objections?
+Trigger:
+Special Attribute:Thief・Student Council
+Text:【AUTO】 When a climax is placed on your opponent's climax area, put this card into your waiting room.", '

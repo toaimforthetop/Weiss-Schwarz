@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Summoning" Saber of Red
+Card No.:APO/S53-TE04
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Now, I shall inquire. Are you my Master?
+Trigger:
+Special Attribute:Servant・Royalty
+Text:

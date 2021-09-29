@@ -1,0 +1,18 @@
+Card Name:
+English Name:Combat Role, Karen Araragi
+Card No.:NM/S24-E023SP
+Rarity:SP
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0 
+Power:1000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Strange・Sports
+Text:【CONT】 Your other character in the middle position of your center stage gets +500 power.
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters, and that character gets +2000 power until end of turn.
+Text:【AUTO】 When this card\'s battle opponent becomes Reverse@, if a card named "Sandy Beach for Two" is in your climax area, choose up to one of your other characters, 【REST】 it, move it to an open position of your back stage, and this card gets +3000 power until the end of your opponent\'s next turn.

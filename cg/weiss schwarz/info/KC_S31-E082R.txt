@@ -1,0 +1,16 @@
+Card Name:
+English Name:Resupply Vessel, Taigei
+Card No.:KC/S31-E082R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Erm, inside this? Onions and potatoes and also… torpedo for resupply…y-yes… 
+Trigger:
+Special Attribute:Fleet Girl・潜水母艦
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters. 

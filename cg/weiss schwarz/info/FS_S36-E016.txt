@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Defeat's End” Gilgamesh
+Card No.:FS/S36-E016
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Victory is yours. Die with that satisfaction, faker.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 All of your other characters with "Gilgamesh(ギルガメッシュ)" or "Archer(アーチャー)" in its card name get +500 power.

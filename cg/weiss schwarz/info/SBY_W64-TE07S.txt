@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unnamed Letter, Rio Futaba
+Card No.:SBY/W64-TE07S
+Rarity:SR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:See ya. I definitely handed it to you.
+Trigger:Soul
+Special Attribute:Adolescence・Science
+Text:【CONT】 This card gets +500 power for each of your other 《Adolescence》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

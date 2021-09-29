@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Maradona" Yui
+Card No.:AB/W31-TE10
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Prepare to get your butts cleaned!!
+Trigger:Soul
+Special Attribute:Death・Music
+Text:[CONT] Memory If the number of 《Death》 characters in your memory is two or more, this card gets +500 power and the following ability. "【CONT】 During your turn, this card gets +1000 power."

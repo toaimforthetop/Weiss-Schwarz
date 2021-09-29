@@ -1,0 +1,16 @@
+Card Name:
+English Name:Umi in Training Wear
+Card No.:LL/EN-W01-089
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:We can keep working hard, right?
+Trigger:Soul
+Special Attribute:Music・Sports
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."

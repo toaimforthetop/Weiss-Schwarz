@@ -1,0 +1,18 @@
+Card Name:
+English Name:Primp and Proper Mikuru
+Card No.:SY/W08-E033
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"If Im no longer able to be a bride, will you marry me?
+Trigger:
+Special Attribute:Time・SOS Brigade
+Text:【CONT】 All of your other 《SOS Brigade》 characters get +1 level and +500 power.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When your opponent uses "Brainstorm", if a climax is put into the waiting room by that effect, you may pay the cost. If you do, choose one of your opponent\'s characters, and that character gets -2000 power until end of turn.
+Text:【ACT】 Brainstorm [(2)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your opponent's characters, and that character gets -2000 power until end of turn.", '

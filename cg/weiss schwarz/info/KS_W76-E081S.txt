@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Required Quality of Adventurer Life" Aqua
+Card No.:KS/W76-E081S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"After the taste of luxury Ive had, I can't go back to living where I work!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Quest Failed" is in your climax area, and you have another 《Adventurer》 or 《Goddess》 character, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)

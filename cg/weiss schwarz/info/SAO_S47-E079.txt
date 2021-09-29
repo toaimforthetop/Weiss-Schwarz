@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Machine of Ice" Sinon
+Card No.:SAO/S47-E079
+Rarity:R
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:――ice. I am a machine made of cold, hard ice.', '――ice. I am a machine made of cold, hard ice.', '――ice. I am a machine made of cold, hard ice.', '――ice. I am a machine made of cold, hard ice.', '――ice. I am a machine made of cold, hard ice.', '
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【ACT】 [【REST】 this card] Choose one of your oppponent\'s characters, and that character gets the following ability until end of turn. "【CONT】 During this card\'s battle, you cannot play event cards and "Backup" from your hand."

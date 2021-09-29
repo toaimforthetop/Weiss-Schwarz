@@ -1,0 +1,16 @@
+Card Name:
+English Name:Prince Gumball
+Card No.:AT/WX02-059
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fanfiction・-
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage.

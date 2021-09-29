@@ -1,0 +1,16 @@
+Card Name:
+English Name:God Blow
+Card No.:KS/W49-E096
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:"God Blow" is a lethal fist that carries a goddess\'s rage and sorrow! Any it strikes will perish!
+Trigger:
+Special Attribute:
+Text:Choose one of your 《Goddess》 characters, and until end of turn, that character gets +50 soul and the following three abilities. "【CONT】 This card cannot side attack." "【CONT】 The character facing this card cannot become 【REVERSE】." "【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, draw up to three cards, choose two cards in your hand, and put them into your waiting room."

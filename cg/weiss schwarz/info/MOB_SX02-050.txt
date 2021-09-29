@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ishiguro
+Card No.:MOB/SX02-050
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Did you wait long?
+Trigger:Soul
+Special Attribute:Esper・Claw
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When "Claw Organization" is placed on your climax area, if this card is on your center stage, and you have 2 or more other 《Esper》 or 《Claw》 characters, choose up to 2 cards in your opponent\'s waiting room, return them to your opponent\'s deck, your opponent shuffles his or her deck, and this card gets +2000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the top of your opponent\'s deck."

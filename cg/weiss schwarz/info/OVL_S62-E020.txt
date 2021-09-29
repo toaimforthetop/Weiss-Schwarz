@@ -1,0 +1,17 @@
+Card Name:
+English Name:Subjugation of the Wise King of the Forest, Momon
+Card No.:OVL/S62-E020
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:!
+Trigger:
+Special Attribute:Grotesque Race・Raven Black
+Text:【CONT】 If the card is in the middle position of your center stage, this card gets +3000 power and +1 soul.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous position as 【REST】)

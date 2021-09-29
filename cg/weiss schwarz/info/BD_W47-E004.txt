@@ -1,0 +1,17 @@
+Card Name:
+English Name: Glitter*Green, Yuri Ushigome
+Card No.:BD/W47-E004
+Rarity:R
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Sports
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room] When a card named "Our Stage!" is placed on your climax area, you may pay the cost. If you do, choose one of your other characters with “Nanana(七菜)” or "Rii(リィ)" or "Hinako(ひなこ)" in its card name and this card, until end of turn, those cards get +1500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】 , you may deal one damage to your opponent." (This damage may be canceled)

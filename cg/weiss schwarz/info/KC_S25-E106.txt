@@ -1,0 +1,17 @@
+Card Name:
+English Name:9th Fubuki-class Destroyer, Isonami
+Card No.:KC/S25-E106
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Time to head out……ooh…… I-Ill do my best!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】All of your other 《Fleet Girl》 characters get +500 power.
+Text:【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Fleet Girl》 character, 【REST】this card. (The revealed card is returned to its original place)

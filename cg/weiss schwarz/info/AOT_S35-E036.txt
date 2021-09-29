@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Humanity's Strongest Soldier" Levi
+Card No.:AOT/S35-E036
+Rarity:R
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:The pair on the left belongs to me.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] If this card is in the middle position of your center stage, this card gets +2000 power.
+Text:[AUTO] [Put a card from your hand into your waiting room & Put a character from your stage into your waiting room] When a card named "Special Operations Squad" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose up to one card named ""Member of Levi Squad" Oruo", up to one card named ""Member of Levi Squad" Petra", up to one card named ""Member of Levi Squad" Eld", and up to one card named ""Member of Levi Squad" Gunther" in your waiting room, and put them on separate positions of your stage.

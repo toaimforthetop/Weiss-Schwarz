@@ -1,0 +1,16 @@
+Card Name:
+English Name:Assault Maid, CZ2128・Δ
+Card No.:OVL/S62-E041
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I’ll cover you. 
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Grotesque Race》 or 《Nazarick》 characters, and that character gets +1500 power and 《Sticker》 until end of turn.

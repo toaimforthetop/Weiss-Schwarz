@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Crimson Fighting Spirit" Eren
+Card No.:AOT/S50-E003
+Rarity:RR
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"Ill wrap that around you as many times as you want.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named ""Single Ray of Light" Eren Titan", you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card attacks, if the number of other 《Corps》 characters you have is two or more, this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room & Put another character from your stage into your waiting room] This ability activates up to one time per turn. When this card attacks, if a card named "Outcry" is in your climax area, you may pay the cost. If you do, choose a card named ""Pursuit" Titan" in your memory, and put it on any position of your stage.

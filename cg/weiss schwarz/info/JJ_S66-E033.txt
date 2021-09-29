@@ -1,0 +1,16 @@
+Card Name:
+English Name:Flipped World, Illuso & M.M
+Card No.:JJ/S66-E033
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Not even viruses can enter this Mirror Mans world!
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 [(5) Put 2 cards from your hand into your waiting room] At the beginning of the counter step during your opponent's turn, you may pay the cost. If you do, choose 1 level 1 or higher battle opponent facing this card, and put it at the bottom of your opponent's deck.", '

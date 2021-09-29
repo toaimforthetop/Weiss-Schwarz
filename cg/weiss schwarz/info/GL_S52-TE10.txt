@@ -1,0 +1,17 @@
+Card Name:
+English Name:Simon the Digger
+Card No.:GL/S52-TE10
+Rarity:TD
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・Drill
+Text:【AUTO】 At the beginning of your climax phase, if you have another character with "Kamina(カミナ)" in its card name, choose one of your other characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to one card.

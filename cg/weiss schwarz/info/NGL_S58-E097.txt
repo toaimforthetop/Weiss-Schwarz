@@ -1,0 +1,16 @@
+Card Name:
+English Name:Accelerated Alacrity
+Card No.:NGL/S58-E097
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:2
+Power:
+Soul:0
+Flavor Text:Sora: "I\'m counting on you, Shiro. We couldn\'t finish this at the start, so now we\'ll have to wing it."
+Trigger:
+Special Attribute:
+Text:Choose 1 of your 【STAND】 《Game》 characters, and 【REST】 it. If you do, search your deck for up to 2 《Game》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

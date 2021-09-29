@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Rimi
+Card No.:BD/W47-E122
+Rarity:PR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"I-Ill do what I can!
+Trigger:Soul
+Special Attribute:Music・Choco Cornet
+Text:【CONT】  Experience If the total level of the cards in your level is four or higher, this card gets +1500 power and "【AUTO】  Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】  When your other 《Music》 character attacks, this card gets +1000 power until end of turn.

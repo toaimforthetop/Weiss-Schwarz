@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hundred Man Sword Strike
+Card No.:RZ/S46-E029
+Rarity:CC
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Troops, get back!
+Trigger:Soul・Return
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand)", '

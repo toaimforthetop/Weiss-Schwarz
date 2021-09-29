@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Lead Group》 Holiday, Asuna
+Card No.:SAO/S26-E013
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Mm……
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

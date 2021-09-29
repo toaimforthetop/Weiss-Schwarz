@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Successful Rescue” Darkness
+Card No.:KS/W49-E010
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Kazuma!!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your other yellow characters, and return it to your hand.

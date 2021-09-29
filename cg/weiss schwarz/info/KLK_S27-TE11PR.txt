@@ -1,0 +1,16 @@
+Card Name:
+English Name:Absolute Terror, Satsuki
+Card No.:KLK/S27-TE11PR
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Where did you get your hands on that outfit.
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

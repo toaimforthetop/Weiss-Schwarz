@@ -1,0 +1,16 @@
+Card Name:
+English Name:Leafa's Sharp Observation
+Card No.:SAO/S20-E037
+Rarity:C
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You have good instincts.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of cards in your stock is three or more, this card gets +1000 power. 

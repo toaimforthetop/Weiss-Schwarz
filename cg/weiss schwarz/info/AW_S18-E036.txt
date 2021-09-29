@@ -1,0 +1,17 @@
+Card Name:
+English Name:Taking Care of Friends, Chiyuri
+Card No.:AW/S18-E036
+Rarity:R
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:We can go back, right? To the way things were, before?
+Trigger:Soul
+Special Attribute:Sports・Net
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets +1000 power.
+Text:【AUTO】 When this card attacks, if a card named "Chiyuri\'s Tears" is in your climax area, choose one of your other characters, and that character gets +3000 power until the end of your opponent\'s next turn.

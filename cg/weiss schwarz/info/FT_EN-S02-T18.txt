@@ -1,0 +1,16 @@
+Card Name:
+English Name:S-class Quest
+Card No.:FT/EN-S02-T18
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Natsu: "Our team is ready for the big time… S-class!"
+Trigger:
+Special Attribute:
+Text:Choose up to two of your characters, and they get the following ability until end of turn. "【AUTO】 [(1)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand."

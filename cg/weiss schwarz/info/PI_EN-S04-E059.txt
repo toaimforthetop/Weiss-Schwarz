@@ -1,0 +1,16 @@
+Card Name:
+English Name:At the End of the Night, Illya
+Card No.:PI/EN-S04-E059
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:…Wh-What?
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【AUTO】 When this card attacks, if a card named "Class Card, Archer" is in your climax area, this card gets the following ability until the end of your opponent\'s next turn. "【CONT】 This card gets +X power. X is equal to 1500 multiplied by the level of the character facing this card."

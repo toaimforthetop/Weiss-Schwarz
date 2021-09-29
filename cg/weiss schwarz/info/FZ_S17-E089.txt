@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kirei Kotomine
+Card No.:FZ/S17-E089
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:I will fear no evil, for you are with me.
+Trigger:Soul
+Special Attribute:Void・Master
+Text:【AUTO】 When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【ACT】［(2) 【REST】 two of your characters］ Search your deck for up to one 《Master》 or 《Servant》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 
+Text:【AUTO】[Put another character on your stage into your waiting room] When this card attacks, if you have a blue climax in your climax area, you may pay the cost. If you do, this card gets +2000 power until end of your opponent's next turn. ", '

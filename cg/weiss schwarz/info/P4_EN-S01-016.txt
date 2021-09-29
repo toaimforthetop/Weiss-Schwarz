@@ -1,0 +1,16 @@
+Card Name:
+English Name:Midnight Channel
+Card No.:P4/EN-S01-016
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:I am thou…, thou art I… thou art the one… who opens the door…
+Trigger:
+Special Attribute:
+Text:Choose one of your 【STAND】 characters, and 【REST】 it. If you do, choose one of your opponent's 【STAND】 characters, 【REST】 it, choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.", '

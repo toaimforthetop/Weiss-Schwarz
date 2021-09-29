@@ -1,0 +1,18 @@
+Card Name:
+English Name:3rd Sendai-class Light Cruiser, Naka-Kai-Ni
+Card No.:KC/S31-E039SP
+Rarity:SP
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】 If the number of cards in your clock is one or less, this card cannot attack. 
+Text:【AUTO】 When?this?card?attacks, if a card named "Naka is the center, the number one highlight!" is in your climax area, you may choose a card in your clock, and return it to your hand. If you do, put the top card of your deck into your clock. 
+Text:【AUTO】 [Put the top card of your deck into your clock] When?this?card?attacks, if a card named "Jintsu, sallying forth!" is in your climax area, you may pay the cost. If you do, all of your other characters get +3500 power and +1 soul until end of turn.

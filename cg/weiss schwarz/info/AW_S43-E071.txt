@@ -1,0 +1,17 @@
+Card Name:
+English Name:Stable Person, Utai
+Card No.:AW/S43-E071
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:They match perfectly.
+Trigger:Soul
+Special Attribute:Avatar・Animal
+Text:【AUTO】 [(1)] When you use this card\'s "Backup", you may pay the cost. If you do, choose a card named "Ardor Maiden" in your waiting room, and return it to your hand.
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

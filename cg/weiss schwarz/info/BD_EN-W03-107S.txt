@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Blue Roses in Harmony" Rinko Shirokane
+Card No.:BD/EN-W03-107S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"B-but... when we talk and share our thoughts... and when we have conversations like this... its a lot of... fun…
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:【CONT】Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】【CXCOMBO】[Put 1 card from your hand into your waiting room &【REST】2 of your【STAND】《Roselia》 characters] When "Blue Roses in Harmony" is placed on your climax area, if your level is 3 or higher, you may pay the cost. If you do, choose up to 3 cards in your opponent\'s waiting room, return them to your opponent\'s deck, and your opponent shuffles his or her deck.

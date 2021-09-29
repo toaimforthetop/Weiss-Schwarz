@@ -1,0 +1,17 @@
+Card Name:
+English Name:Puck Joking Around
+Card No.:RZ/SE35-E08
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Was it a present from a boy? If it is, I just might get jealous.
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If you do not have another character with "Emilia (エミリア)" or "Puck (パック)" in its card name, this card cannot 【STAND】 during your stand phase.
+Text:【ACT】 [(1) Put this card into your memory] Look at up to 4 cards from the top of your deck, choose up to 1 character with "Emilia (エミリア)" or "Puck (パック)" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

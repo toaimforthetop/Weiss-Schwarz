@@ -1,0 +1,16 @@
+Card Name:
+English Name:There's A Surface, All Right!
+Card No.:GL/S52-TE20
+Rarity:TD
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:This big mug fell from the surface! It fell from above!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

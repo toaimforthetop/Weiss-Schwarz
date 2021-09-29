@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Shining All Together" You Watanabe
+Card No.:LSS/WE27-E27
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"For Chika, shining isnt about herself, it's about joining hands with others and shining all together.
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Thinking For the Other" in your waiting room, and return it to your hand.

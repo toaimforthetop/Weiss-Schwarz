@@ -1,0 +1,16 @@
+Card Name:
+English Name:Another “Illya”, Kuro
+Card No.:PI/EN-S04-E005
+Rarity:R
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Youre throwing a tantrum like a child.
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【AUTO】 When this card attacks, if the number of cards in your stock is two or less, put this card into your waiting room.

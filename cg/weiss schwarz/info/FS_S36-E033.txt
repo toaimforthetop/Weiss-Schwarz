@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Cold and Ruthless” Rider
+Card No.:FS/S36-E033
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 This card cannot side attack.

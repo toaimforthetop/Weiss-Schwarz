@@ -1,0 +1,16 @@
+Card Name:
+English Name:Taking Care of Nails, Nico
+Card No.:LL/EN-W02-E019
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"This is Nicos secret?
+Trigger:
+Special Attribute:Music・Otaku
+Text:【ACT】 [【REST】 two of your characters] This card gets +2000 power until end of turn.

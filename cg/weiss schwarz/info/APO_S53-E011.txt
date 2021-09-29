@@ -1,0 +1,17 @@
+Card Name:
+English Name:"With My Command Spell" Ruler
+Card No.:APO/S53-E011
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:I order with my Command Spell!
+Trigger:
+Special Attribute:Servant・Flag
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Master》 or 《Servant》 or 《Homuculus》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [(1) Put a face up card in your level face down] When this card attacks, you may pay the cost. If you do, all of your other 《Servant》 characters get +1 soul until end of turn.

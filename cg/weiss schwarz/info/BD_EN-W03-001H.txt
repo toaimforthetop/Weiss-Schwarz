@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Magic of Smiles" Kokoro Tsurumaki
+Card No.:BD/EN-W03-001H
+Rarity:HR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"If we all did magic, Im sure we could make the entire world smile.
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】During your turn, this card gets +1000 power.
+Text:【AUTO】【CXCOMBO】When "The Magic of Smiles" is placed on your climax area, if you have another 《Music》 character, this card gets +1500 power and the following ability until end of turn. "【AUTO】When this card\'s trigger check reveals a card with  in its trigger icon, search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."

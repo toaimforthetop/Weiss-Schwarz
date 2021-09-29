@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tsu-class Light Cruiser
+Card No.:KC/SE28-E10
+Rarity:U
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0 
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Light Cruiser
+Text:【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 This ability activates up to one time per turn. When an opponent\'s character with "Aircraft Carrier（空母）"or "Aircraft Carrying（空母）" in its trait is placed on the stage from his or her hand, choose one of your opponent\'s characters, and that character gets -1 soul until end of turn.

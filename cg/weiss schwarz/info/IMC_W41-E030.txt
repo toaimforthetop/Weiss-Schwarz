@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yuko Hori
+Card No.:IMC/W41-E030
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Psychic Arrest-!
+Trigger:Soul
+Special Attribute:Music・Psychic Ability
+Text:【CONT】 This card gets +500 power for each of your opponent's 【REST】 characters.", "【AUTO】 When this card is placed on the stage from your hand, you may choose one of your opponent's 【STAND】 characters, and 【REST】 it.", '

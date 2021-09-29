@@ -1,0 +1,17 @@
+Card Name:
+English Name:Friendly Duo, Maple & Sally
+Card No.:BFR/S78-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・-
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.
+Text:【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Game》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)

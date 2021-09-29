@@ -1,0 +1,16 @@
+Card Name:
+English Name:Stunned Rika
+Card No.:SAO/S51-E065
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"But isnt there more chance of meeting girls through AR?
+Trigger:Soul
+Special Attribute:Net・-
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

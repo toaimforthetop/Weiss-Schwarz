@@ -1,0 +1,17 @@
+Card Name:
+English Name:Path Within the Darkness, Mista
+Card No.:JJ/S66-E002
+Rarity:RR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Giorno! I see the path I need to take through the darkness!
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

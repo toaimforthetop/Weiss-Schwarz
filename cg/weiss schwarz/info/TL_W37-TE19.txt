@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Innovative Girl” Lala
+Card No.:TL/W37-TE19
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Heh heh--- About that~
+Trigger:
+Special Attribute:Alien・Science
+Text:-

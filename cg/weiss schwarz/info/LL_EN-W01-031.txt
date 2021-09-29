@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Goddess of Healing" Kotori
+Card No.:LL/EN-W01-031
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I want to help people with my singing voice♪
+Trigger:
+Special Attribute:Music・Nurse
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

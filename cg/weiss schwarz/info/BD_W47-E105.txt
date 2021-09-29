@@ -1,0 +1,16 @@
+Card Name:
+English Name:Happy Halloween♪ Arisa
+Card No.:BD/W47-E105
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Meow, meow-…
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【AUTO】  [Put a 《Bonsai》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to one card named "That Irritating Girl" in your waiting room, return it to your hand, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn.

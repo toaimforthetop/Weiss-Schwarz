@@ -1,0 +1,18 @@
+Card Name:
+English Name:Kanji & Rokuten Maou
+Card No.:P4/EN-S01-T16
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"We can smash em all! Let's do it!
+Trigger:Soul
+Special Attribute:Delinquent・Glasses
+Text:【AUTO】 When this card attacks, if a card named "Mighty Swing" is in your climax area, until end of turn, this card gets the following ability. "【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 2 or lower, you may 【REVERSE】 that character."
+Text:【AUTO】 Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 When this card is placed on stage from your hand, you may choose one of your opponent's 【STAND】 characters, and 【REST】 it.", '【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kanji & Rokuten Maou" in your waiting room, and put it on the stage position that this card was on.

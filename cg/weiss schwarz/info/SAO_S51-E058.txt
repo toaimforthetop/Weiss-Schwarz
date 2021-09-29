@@ -1,0 +1,17 @@
+Card Name:
+English Name:Close Call, Silica
+Card No.:SAO/S51-E058
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 【CXCombo】 [Return this card to your hand] When a card named "Heinous Trap" is placed on your climax area, you may pay the cost. If you do, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, put it into your hand. (If it is not, return the revealed card to its original place)

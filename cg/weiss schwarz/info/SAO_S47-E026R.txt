@@ -1,0 +1,16 @@
+Card Name:
+English Name:Undefeated Super Swordsman, Yuuki
+Card No.:SAO/S47-E026R
+Rarity:R
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Oookaaay, if thats what yer saying'. You wanna fight?
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock. 【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)", '

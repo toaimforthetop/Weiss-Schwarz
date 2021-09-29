@@ -1,0 +1,16 @@
+Card Name:
+English Name:"My Song for You"Hatsune Miku
+Card No.:PD/S22-E032
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:この歌声、キミに届きますように――
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When another of your 《Music》 character attacks, this card gets +1000 power until end of turn.

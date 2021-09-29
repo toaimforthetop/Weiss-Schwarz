@@ -1,0 +1,17 @@
+Card Name:
+English Name:MEIKO "Blazing"
+Card No.:PD/S29-E070
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Flame
+Text:【AUTO】 [(1)] When your character\'s trigger check reveals a climax, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power until the end of your opponent\'s next turn.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When a card named "Break It, Break It!" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent\'s level 2 or lower characters, put it into your opponent\'s waiting room, and this card gets +1000 power until end of turn.

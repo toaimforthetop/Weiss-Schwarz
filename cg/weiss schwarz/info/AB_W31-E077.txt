@@ -1,0 +1,17 @@
+Card Name:
+English Name:Commander, Yuri
+Card No.:AB/W31-E077
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:2
+Power:3000
+Soul:1
+Flavor Text:"This is the afterlife.Youll get obliterated if you don't fight.
+Trigger:Soul
+Special Attribute:Death・Weapon
+Text:[CONT] All of your other characters with "[AUTO] Encore ［Put a character from your hand into your waiting room］" get +1000 power.
+Text:[AUTO] [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

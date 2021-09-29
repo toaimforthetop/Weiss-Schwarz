@@ -1,0 +1,17 @@
+Card Name:
+English Name:MOB: Club Activities
+Card No.:MOB/SX02-093
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Fight... on... Fight... on…
+Trigger:
+Special Attribute:Esper・Club Activities
+Text:【CONT】 Memory If this card is in your memory, all of your "Shigeo "MOB" Kageyama" get 《Muscles》.
+Text:【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, put this card into your memory.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Unreasonable Censure, Emilia
+Card No.:RZ/SE35-E29
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"I dont know anything about half-demons or witches! Look at me! Tell me about me!
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 During this card\'s battle, all players cannot play "Backup" from their hand.
+Text:【AUTO】 [(1) Put this card into your memory] When this card is frontal attacked, you may pay the cost. If you do, choose up to 1 ""Call My Name" Puck" in your hand, and put it on the position that this card was on as the defending character.
+Text:【ACT】 [【REST】 1 of your 《Magic》 or 《Weapon》 characters] This card gets +1000 power until end of turn.

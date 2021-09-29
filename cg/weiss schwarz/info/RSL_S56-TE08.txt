@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Stage of Fate, Hikari Kagura
+Card No.:RSL/S56-TE08
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:The song of these eight women… draws us in and compels us.
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Revue》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When your other 《Revue》 character attacks, this card gets +1000 power until end of turn.

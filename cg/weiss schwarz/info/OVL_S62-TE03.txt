@@ -1,0 +1,17 @@
+Card Name:
+English Name:Scheming Demon, Demiurge
+Card No.:OVL/S62-TE03
+Rarity:TD
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Truly outstanding!
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When your character direct attacks, choose 1 of your 《Grotesque Race》 or 《Nazarick》 characters, and that character gets +500 power until the end of your opponent's next turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over the top 4 cards of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.", '

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Lively Evening, Mami
+Card No.:MM/W35-E009
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Oh, Bebe, you silly thing. If you dont mind your manners, you'll turn into cheese.
+Trigger:
+Special Attribute:Magic・Tea
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [【REST】 this card] Choose another character, and that character gets +1 level until end of turn.
+Text:【CONT】 If you have another character with "Mami(マミ)" in its card name, this card gets +1500 power.

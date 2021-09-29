@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Tone-class Aviation Cruiser, Chikuma-Kai-Ni
+Card No.:KC/S31-E008SP
+Rarity:SP
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Fleet Girl・Aviation Cruiser
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level. ", '【AUTO】 When a card named "Aviation Cruisers, Head Out!" is placed on your climax area, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, all of your characters get +1 soul until end of turn. (The revealed card is returned to its original place)

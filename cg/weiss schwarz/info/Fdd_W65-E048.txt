@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Ultimate S, Akeno
+Card No.:Fdd/W65-E048
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:You can fawn on me even more, you know?
+Trigger:
+Special Attribute:Fantasia Bunko・Demon・Queen
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.

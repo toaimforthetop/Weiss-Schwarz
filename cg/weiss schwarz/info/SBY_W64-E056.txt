@@ -1,0 +1,17 @@
+Card Name:
+English Name:Welcoming With Nasuno, Kaede Azusagawa
+Card No.:SBY/W64-E056
+Rarity:R
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Adolescence・Animal
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Together With Nasuno" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand.

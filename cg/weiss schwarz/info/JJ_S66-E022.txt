@@ -1,0 +1,17 @@
+Card Name:
+English Name:Determined Stand, S.B
+Card No.:JJ/S66-E022
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Mista:"He can\'t get past me!"
+Trigger:Soul
+Special Attribute:Golden Wind・Stand
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if ""The Path" to Resolution" is in your climax area, choose up to 1 《Golden Wind》 character in your waiting room, put it into your stock, search your deck for up to 1 《Golden Wind》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

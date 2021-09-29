@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Now Then, Where Shall We Go?" Ruby Kurosawa
+Card No.:LSS/W53-TE01
+Rarity:TD
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Practice was perfect too!
+Trigger:
+Special Attribute:Music
+Text:【CONT】 During your turn, all of your other cards named ""Now Then, Where Shall We Go?" Dia Kurosawa" get +2000 power.
+Text:【AUTO】 Bond/""Now Then, Where Shall We Go?" Dia Kurosawa" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Now Then, Where Shall We Go?" Dia Kurosawa" in your waiting room, and return it to your hand)

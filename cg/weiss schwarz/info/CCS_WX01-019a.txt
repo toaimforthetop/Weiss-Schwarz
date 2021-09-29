@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kinomoto Family
+Card No.:CCS/WX01-019a
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Nice costume for a monster.
+Trigger:
+Special Attribute:Tomoeda・Family
+Text:【ACT】 [【REST】 this card] Choose 1 of your characters with "Sakura" in its card name, and that character gets +1500 power until end of turn.

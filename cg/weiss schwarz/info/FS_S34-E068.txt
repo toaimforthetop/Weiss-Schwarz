@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dual-wielding Bowman, Archer
+Card No.:FS/S34-E068
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 This card cannot side attack.

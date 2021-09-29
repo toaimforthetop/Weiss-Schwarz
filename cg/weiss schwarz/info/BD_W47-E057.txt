@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Club Show" Kasumi
+Card No.:BD/W47-E057
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Star
+Text:【AUTO】  When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】  Bond/"Kasumi\'s Younger Sister, Asuka" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kasumi\'s Younger Sister, Asuka" in your waiting room, and return it to your hand.)

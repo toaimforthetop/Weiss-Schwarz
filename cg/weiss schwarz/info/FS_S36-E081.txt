@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Strong Will” Berserker
+Card No.:FS/S36-E081
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【CONT】 This card gets +1000 power for each of your other cards in the back stage with "Illya(イリヤ)" in its card name.

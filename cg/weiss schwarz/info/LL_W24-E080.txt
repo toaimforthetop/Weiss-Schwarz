@@ -1,0 +1,18 @@
+Card Name:
+English Name:Hanayo's Childhood Friend, Rin
+Card No.:LL/W24-E080
+Rarity:R
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Sports
+Text:【AUTO】 When this card is placed on stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 Change ［(2) Put this card into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Our LIVE, the LIFE with You" Rin Hoshizora" in your waiting room, and put it on the stage position that this card was on.
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.', "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +500 power until end of your opponent's next turn.", '

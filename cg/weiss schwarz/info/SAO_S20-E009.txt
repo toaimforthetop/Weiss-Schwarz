@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna's True Expression
+Card No.:SAO/S20-E009
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Even if this is a virtual world, my feelings are real.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 Change[(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "Imprisoned Queen, Asuna" in your waiting room, and put it on the stage position that this card was on. 

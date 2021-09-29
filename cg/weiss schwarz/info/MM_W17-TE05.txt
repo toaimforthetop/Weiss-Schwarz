@@ -1,0 +1,20 @@
+Card Name:
+English Name:Homura Akemi
+Card No.:MM/W17-TE05
+Rarity:SP
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:SECRET
+Trigger:Soul
+Special Attribute:Magic・Time
+Text:【CONT】 If the number of cards in your stock is four or less, this card gets +500 power, and gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【CONT】 The character facing this card gets -1 soul.
+Text:【CONT】 If the number of other 《Magic》 characters you have is three or more, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on stage from your hand, all of your characters get +2000 power until end of turn.
+Text:【ACT】[(1)] This card gets +2000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Blue Knight
+Card No.:AW/S43-E084
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:You should thank Grande.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, until end of turn, this card gets +4500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character on the bottom of your opponent\'s deck."

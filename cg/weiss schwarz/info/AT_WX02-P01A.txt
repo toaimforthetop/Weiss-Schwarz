@@ -1,0 +1,16 @@
+Card Name:
+English Name:Finn & Jake: Adventure Time!
+Card No.:AT/WX02-P01A
+Rarity:DD
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

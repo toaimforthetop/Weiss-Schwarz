@@ -1,0 +1,18 @@
+Card Name:
+English Name:Grand Teachings, Pesci & F.M
+Card No.:JJ/S66-E031
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Once we think of killing someone, Bro, the deed has already been done!
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 This card cannot side attack.
+Text:【CONT】 Memory This card gets +1500 power for each "Grand Teachings, Prosciutto" in your memory.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Grand Death" is in your climax area, put up to 1 card from the top of your deck into your stock, choose up to 1 "Significance of Resolution, Prosciutto & T.D" in your waiting room, and return it to your hand.

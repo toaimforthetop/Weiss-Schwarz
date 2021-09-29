@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sojiro Sakura
+Card No.:P5/S45-E088
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I know its cliche, but more thananything I want Futaba to be happylike a normal person.
+Trigger:
+Special Attribute:Glasses・Coffee
+Text:【CONT】 All of your other cards named "Futaba: Hacking in Session" get +1 level and +500 power.
+Text:【AUTO】 Bond/"Futaba: Hacking in Session" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Futaba: Hacking in Session" in your waiting room, and return it to your hand.)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Battle in the Front Lines, Kirito
+Card No.:SAO/S26-E076
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Ugh……!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

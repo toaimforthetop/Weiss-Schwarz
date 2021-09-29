@@ -1,0 +1,16 @@
+Card Name:
+English Name:Life Fiber Synchronize, Kamui Senketsu!
+Card No.:KLK/S27-TE08
+Rarity:TD
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Putting on a Kamui means becoming one wil you!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

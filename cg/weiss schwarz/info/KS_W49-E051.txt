@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Calling for Teacher” Megumin
+Card No.:KS/W49-E051
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Teacher! If you would!!
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.
+Text:【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.", '

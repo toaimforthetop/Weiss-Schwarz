@@ -1,0 +1,16 @@
+Card Name:
+English Name:Classmate Kunikida
+Card No.:SY/W08-E013
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Kyon always went after the strange girls～
+Trigger:
+Special Attribute:
+Text:【CONT】 Alarm If this card is the top card of your clock, all of your characters with no traits get the following ability. "【AUTO】 [(1)] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to one character with no traits, reveal it to your opponent, put it into your hand, and shuffle your deck."

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Setting Out" Darkness
+Card No.:KS/W55-E004S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Ill take the lead.
+Trigger:Soul
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named "First Incitation" is in your climax area, you may pay the cost. If you do, choose one of your characters, and that character gets +2000 power and the following ability until end of turn. "【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal two damage to your opponent." (This damage may be canceled)

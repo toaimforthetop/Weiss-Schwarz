@@ -1,0 +1,17 @@
+Card Name:
+English Name:Each One's Roles, Misery
+Card No.:BFR/S78-E067
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:You and your traps are impressive as always, Markus.
+Trigger:Soul
+Special Attribute:Game・Magic
+Text:【AUTO】 When your other character becomes 【REVERSE】 in battle, choose 1 of your 《Game》 characters, and that character gets +2000 power until end of turn.
+Text:【ACT】 Brainstorm [(2) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 climax in your waiting room, and return it to your hand.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"I'll Teach You♪" Nico
+Card No.:LL/EN-W01-042
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"Hee hee♪ I shouldnt hide my intelligence, right? ……What's that look for?
+Trigger:Soul
+Special Attribute:Music・Teacher
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

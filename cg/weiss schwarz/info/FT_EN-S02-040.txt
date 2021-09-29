@@ -1,0 +1,17 @@
+Card Name:
+English Name:Holder Wizard, Lucy
+Card No.:FT/EN-S02-040
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Lucy: "He flew!!"Happy: "It\'s wind magic!!"
+Trigger:Soul
+Special Attribute:Magic・Key
+Text:【CONT】 All of your other 《Key》 characters get +500 power and the following ability. "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【CONT】【CLOCK】 Alarm When this card is the top card of your clock, all of your 《Key》 characters get +1000 power.

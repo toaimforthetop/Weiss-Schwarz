@@ -1,0 +1,17 @@
+Card Name:
+English Name:The One, Seishiro
+Card No.:NK/W30-E026SP
+Rarity:SP
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Weapon・-
+Text:【CONT】 If the number of your other 《Weapon》 or 《Heiress》 characters is three or more, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on stage from your hand or by a "Change" effect, look at up to three cards from the top of your deck, choose up to one card from among them, and put it into your hand. Put the rest into your waiting room.

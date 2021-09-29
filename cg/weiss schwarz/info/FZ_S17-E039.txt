@@ -1,0 +1,16 @@
+Card Name:
+English Name:Way of the Knight, Lancer
+Card No.:FZ/S17-E039
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Then-- let us begin.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】［(1) Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one green climax or a card named "Excalibur", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 

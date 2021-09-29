@@ -1,0 +1,16 @@
+Card Name:
+English Name:High School Girl, Saya
+Card No.:BD/W47-E033
+Rarity:R
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:…?
+Trigger:
+Special Attribute:Music・Bread
+Text:【CONT】  If the character facing this card is a higher level than this card, this card cannot frontal attack.

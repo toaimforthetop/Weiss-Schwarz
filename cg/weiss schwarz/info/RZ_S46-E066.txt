@@ -1,0 +1,18 @@
+Card Name:
+English Name:Bathtime! Emilia
+Card No.:RZ/S46-E066
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your own hand, and put it into your waiting room.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose one of your opponent's characters. Those characters cannot 【STAND】 during your opponent's next stand phase.", '

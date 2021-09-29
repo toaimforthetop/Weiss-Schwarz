@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swallow Reversal
+Card No.:FS/S36-E100
+Rarity:CC
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Ultimate Technique, Swallow Reversal.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

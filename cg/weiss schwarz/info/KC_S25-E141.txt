@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Asashio-class Destroyer, Asashio
+Card No.:KC/S25-E141
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:If the commander wants Asashio to wait here, I am prepared to wait here forever!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】' />.", '

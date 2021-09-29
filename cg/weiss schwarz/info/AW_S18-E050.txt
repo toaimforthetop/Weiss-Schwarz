@@ -1,0 +1,16 @@
+Card Name:
+English Name:Good Rival, Ash Roller
+Card No.:AW/S18-E050
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:And even better, my opponent is a newbie. Now I’m mega lucky!
+Trigger:Soul
+Special Attribute:Avatar・Bike
+Text:【CONT】 If the number of cards in your stock is five or more, this card gets +1000 power.

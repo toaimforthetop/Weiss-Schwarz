@@ -1,0 +1,16 @@
+Card Name:
+English Name:Master of Swordsmanship, Rin
+Card No.:Fmr/W65-E027S
+Rarity:SR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"What is a high schooler doing! Dont you feel shame!?
+Trigger:
+Special Attribute:Fantasia Bunko・Magic・Weapon
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Fantasia Bunko》 or 《Magic》 characters, 【REST】 it, and move it to an open position of your back stage.", '

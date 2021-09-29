@@ -1,0 +1,17 @@
+Card Name:
+English Name:Spell Stash, Kanade
+Card No.:BFR/S78-E092
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Magic
+Text:【AUTO】 【CXCOMBO】 When "Akashic Record" is placed on your climax area, if this card is in your center stage, and you have another 《Game》 character, choose 1 of the following effects, and perform it. "Choose 1 "Spell Stash" in your waiting room, and return it to your hand." "Search your deck for up to 1 "Spell Stash", reveal it to your opponent, put it into your hand, and shuffle your deck."
+Text:【AUTO】 When this card attacks, choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn.

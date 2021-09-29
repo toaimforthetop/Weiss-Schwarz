@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Aozora Jumping Heart" You
+Card No.:LSS/W45-E064
+Rarity:CC
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:
+Trigger:
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character from your waiting room, and return it to your hand.)

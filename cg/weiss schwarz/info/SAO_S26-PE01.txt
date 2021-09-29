@@ -1,0 +1,17 @@
+Card Name:
+English Name:Halloween Costume, Asuna & Yui & Kirito
+Card No.:SAO/S26-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Yui: "It\'s so fun～"
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】  During your opponent's turn, all of your other characters get +500 power.
+Text:【AUTO】  [(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card.", '

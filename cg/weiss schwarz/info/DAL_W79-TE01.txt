@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yesterday's Incident, Shido
+Card No.:DAL/W79-TE01
+Rarity:TD
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Tohka: "Hey, Shido! Don\'t ignore me!"
+Trigger:
+Special Attribute:Date・-
+Text:【CONT】 During your turn, all of your other "Date Day, Tohka" get +2000 power.
+Text:【AUTO】 Bond/"Date Day, Tohka" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 "Date Day, Tohka" in your waiting room, and return it to your hand)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Archery Club Member, Sakura
+Card No.:FS/S34-E041
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】 When another of your 《Sports》 or 《Weapon》 character attacks, this card gets +1000 power until end of turn.

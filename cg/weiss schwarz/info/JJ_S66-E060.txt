@@ -1,0 +1,17 @@
+Card Name:
+English Name:Leaky Eye Luca
+Card No.:JJ/S66-E060
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Youre finished!
+Trigger:
+Special Attribute:Golden Wind・-
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, you may put the top card of your opponent's deck into his or her waiting room. If you do, choose 1 card in your opponent's waiting room, and put it on the top of his or her deck.
+Text:【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.", '

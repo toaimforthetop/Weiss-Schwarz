@@ -1,0 +1,16 @@
+Card Name:
+English Name:Welcome
+Card No.:NM/S24-E020
+Rarity:CC
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Come in, Big Brother Koyomi.
+Trigger:Soul・Return
+Special Attribute:-
+Text:【CONT】 All of your characters get +1000 power and +1 soul. ', "(: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.) ", '

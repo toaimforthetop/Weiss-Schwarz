@@ -1,0 +1,16 @@
+Card Name:
+English Name:Girl Known as "Angel", Kanade
+Card No.:AB/W31-TE06
+Rarity:TD
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"…Im not an angel.
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] Memory During your turn, if you have a card in your memory, this card gets +1500 power.

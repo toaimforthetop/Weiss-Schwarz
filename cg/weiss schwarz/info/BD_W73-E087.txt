@@ -1,0 +1,17 @@
+Card Name:
+English Name:Turning Individuality into Strength, Maya Yamato
+Card No.:BD/W73-E087
+Rarity:C
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I guess it suits us!
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 All of your other 《Pastel＊Palettes》 characters get +500 power.
+Text:【ACT】 [(1) Put this card into your waiting room] If you are level 1 or higher, choose 1 "Sincere Feelings, Eve Wakamiya" in your waiting room, and put it on the stage position that this card was on.

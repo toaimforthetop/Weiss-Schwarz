@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Fuso-class Aircraft Battleship, Yamashiro Kai-II
+Card No.:KC/S42-E065S
+Rarity:SR
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"No way, torpedoes? ……Remaining ships, dont mind me and go forth!Annihilate the enemy-! 
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Battleship
+Text:【CONT】 Experience If a card named "1st Fuso-class Aircraft Battleship, Fuso Kai-II" is in your level, this card gets +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of "1st Fuso-class Aircraft Battleship, Fuso Kai-II", you may put the top card of your clock into your waiting room.

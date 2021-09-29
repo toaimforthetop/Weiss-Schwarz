@@ -1,0 +1,16 @@
+Card Name:
+English Name:Axe Warrior, Agil
+Card No.:SAO/S20-TE11
+Rarity:TD
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:You should be happy to see me.', 'I shut my shop down to come and help.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:-

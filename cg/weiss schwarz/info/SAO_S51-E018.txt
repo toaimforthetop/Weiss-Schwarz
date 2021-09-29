@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sudden Whisper
+Card No.:SAO/S51-E018
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Eiji: "Switch."
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters in battle, return it to your hand, choose a character in your back stage, and move it to the stage position that the character in battle was on as the defending character.

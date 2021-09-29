@@ -1,0 +1,17 @@
+Card Name:
+English Name:First Visit, Kosaki
+Card No.:NK/W30-E080
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:It smells like Ichijo……
+Trigger:
+Special Attribute:Sweets・Key
+Text:【CONT】 This card gets +500 power for each of your other 《Key》 or 《Sports》 characters.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

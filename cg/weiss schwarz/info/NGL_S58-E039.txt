@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unrelenting Assault, Izuna
+Card No.:NGL/S58-E039
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"You dont gotta tell me. Thanks.
+Trigger:Soul
+Special Attribute:Game・Warbeast
+Text:【AUTO】 When your other 《Game》 character attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.

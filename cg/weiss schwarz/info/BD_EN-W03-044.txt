@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Sister Figure" Tomoe Udagawa
+Card No.:BD/EN-W03-044
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:That moment when everyone comes together...And five "sounds" at once become "music"… That\'s the moment I love.
+Trigger:Soul
+Special Attribute:Music・Afterglow
+Text:【CONT】Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【ACT】[【REST】this card] All of your other 《Music》 characters get +500 power until end of turn.

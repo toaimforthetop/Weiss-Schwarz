@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shocking Truth, Seishiro
+Card No.:NK/W30-E044
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Wh……What do you think youre……!
+Trigger:Soul
+Special Attribute:Weapon・-
+Text:【AUTO】 [Put a character from your hand into your waiting room] When this card attacks, if a card named "Huge Back" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. "【AUTO】 When this card\'s level 2 or higher battle opponent becomes 【Reverse】, you may put that character into your opponent\'s clock."

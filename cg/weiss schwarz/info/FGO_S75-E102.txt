@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Gilgamesh
+Card No.:FGO/S75-E102
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Babylonia・Wise King
+Text:【AUTO】 When you use this card\'s "Backup", put 3 cards from the top of your opponent\'s deck into their waiting room. 【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

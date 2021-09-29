@@ -1,0 +1,16 @@
+Card Name:
+English Name:"I Don't Like Crowds" Rinko Shirokane
+Card No.:BD/EN-W03-112
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"…... Ako-chan, Im not sure…... what to talk about…
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】When this card attacks, choose 1 of your 《Music》 characters, and that character gets +1 level and +1000 power until end of turn.

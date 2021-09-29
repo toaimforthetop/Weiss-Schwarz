@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unexpected Meeting in Town, Tohka
+Card No.:DAL/W79-E084
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:S-Sorry!
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Date》 or 《Celestial Spirit》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock.

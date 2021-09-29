@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tomoyo: Flower Viewing
+Card No.:CCS/WX01-023
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:♪It’s up to all of us, to create a better world.Never give up, keep on smiling♪
+Trigger:
+Special Attribute:Tomoeda・Video Camera
+Text:【AUTO】 When this card attacks, if this card is in the right position of your center stage, choose 1 of your 《Tomoeda》 characters, and that character gets +1500 power until end of turn.

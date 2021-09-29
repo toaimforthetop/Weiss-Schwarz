@@ -1,0 +1,16 @@
+Card Name:
+English Name:Crazed Bloodlust, Shalltear
+Card No.:OVL/S62-E068
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Maaaaaain dissssssh!
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 When your other 《Grotesque Race》 or 《Nazarick》 character's battle opponent becomes 【REVERSE】, this card gets +3000 power until end of turn.", '

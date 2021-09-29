@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ryuji as SKULL: The Skull of Rebellion
+Card No.:P5/S45-TE06
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Even if you apologize now...I aint forgivin' you...!
+Trigger:
+Special Attribute:Thief・Sports
+Text:-

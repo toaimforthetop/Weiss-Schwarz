@@ -1,0 +1,18 @@
+Card Name:
+English Name:Yue: Moon Guardian
+Card No.:CCS/WX01-078
+Rarity:RR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Be certain to tell him. Even the smallest things.
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

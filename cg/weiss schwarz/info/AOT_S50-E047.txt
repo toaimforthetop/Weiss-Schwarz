@@ -1,0 +1,16 @@
+Card Name:
+English Name:Repose
+Card No.:AOT/S50-E047
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Levi: "Hange…… Hey, four-eyes."
+Trigger:
+Special Attribute:
+Text:Search your deck for up to two 《Corps》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Maxing Out, Maple
+Card No.:BFR/S78-E104
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Game・Shield
+Text:【AUTO】 When this card attacks, if you have 4 or more other 《Game》 characters, choose 1 of your characters, and that character gets +2 soul until end of turn.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Koizumi Talking About the Stars
+Card No.:SY/WE09-E02
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I was pretty moved when I caught a glimpse of the moons of Jupiter.
+Trigger:
+Special Attribute:Psychic Ability・SOS Brigade
+Text:【CONT】 If you have another 《SOS Brigade》 character in the middle position of your center stage, this card gets +1000 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sadayo Kawakami 
+Card No.:P5/S45-E033
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:...Well, I\'d like to introducea transfer student.Today, we... had him attend fromthe afternoon on since he wasn\'t"feeling well".
+Trigger:
+Special Attribute:Teacher・Maid
+Text:【CONT】 If your level is 3 or higher, this card gets the following ability. "【ACT】 [Put this card into your waiting room] Choose up to one card named "Protagonist as JOKER & Arsene" in your hand, and put it on the stage position that this card was on."

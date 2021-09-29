@@ -1,0 +1,17 @@
+Card Name:
+English Name:Merciful, Priestess
+Card No.:GBS/S63-TE20
+Rarity:TD
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:!?
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 This card gets +500 power for each of your other  《Order》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

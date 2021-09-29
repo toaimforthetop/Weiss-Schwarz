@@ -1,0 +1,16 @@
+Card Name:
+English Name:Osaka Sightseeing, Mako
+Card No.:KLK/S27-E005
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Thats the newest Osakan spot, the Naniwa Sky Tower!
+Trigger:
+Special Attribute:Family・-
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Clothes》 or 《Family》 characters you have.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Madoka of the Blue Skies
+Card No.:MM/W17-E048
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:That is what I aspire to be some day.
+Trigger:
+Special Attribute:Magic
+Text:-

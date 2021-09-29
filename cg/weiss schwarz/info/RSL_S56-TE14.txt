@@ -1,0 +1,16 @@
+Card Name:
+English Name:Barette of Promise
+Card No.:RSL/S56-TE14
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:－
+Soul:0
+Flavor Text:Mahiru: "Good morning, Karen-chan."
+Trigger:
+Special Attribute:－・－
+Text:Choose up to 1 character with "Karen(華恋)" in its card name and up to 1 character with "Hikari(ひかり)" in its card name in your waiting room, return them to your hand, choose 1 card in your hand, put it into your waiting room, choose 1 of your characters, and that character gets +3000 power until end of turn.

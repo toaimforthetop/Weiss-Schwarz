@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Leprechaun》 Girl, Lisbeth
+Card No.:SAO/S26-E044S
+Rarity:SR
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Heh heh, the stars of the show always turn up last.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of cards in your stock is five or more, this card gets the following ability. "【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may 【REVERSE】 that character."

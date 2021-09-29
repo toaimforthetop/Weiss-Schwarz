@@ -1,0 +1,16 @@
+Card Name:
+English Name:Velvet Room
+Card No.:P5/S45-E098
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Igor: "This place exists between dream and reality, mind and matter.It is a room that only those who arebound by a "contract" may enter."
+Trigger:
+Special Attribute:
+Text:Choose one of your characters, and put it into your waiting room. If you do, search your deck for up to one event, reveal it to your opponent, put it into your hand, and shuffle your deck.

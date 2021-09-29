@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Quest Clear” Aqua
+Card No.:KS/W49-E089
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:A used-up goddess is being transported along-
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:-

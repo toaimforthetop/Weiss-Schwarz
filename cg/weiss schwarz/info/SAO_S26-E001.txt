@@ -1,0 +1,18 @@
+Card Name:
+English Name:Asuna's Positive Feelings
+Card No.:SAO/S26-E001
+Rarity:RR
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:All right, stop moping!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Identity of the "Wife"" is in your climax area, you may pay the cost. If you do, choose one of your opponent\'s characters, and return it to your opponent\'s hand.
+Text:【AUTO】 Accelerate ［Put the top card of your deck into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn.
+Text:【CONT】 All of your characters get +1000 power and +1 soul.（【DRAW】: When this card triggers, you may draw a card.)

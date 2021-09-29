@@ -1,0 +1,16 @@
+Card Name:
+English Name:Executing the Plan, Blood Leopard
+Card No.:AW/S43-E063
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I have no time to explain.
+Trigger:
+Special Attribute:Avatar・-
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, if the number of characters on your opponent's center stage is two or less, choose one of your other characters, 【REST】 that character, and move it to an open position of your back stage.

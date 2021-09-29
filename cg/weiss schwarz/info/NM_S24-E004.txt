@@ -1,0 +1,16 @@
+Card Name:
+English Name:Blessing of the Moon, Shinobu Oshino
+Card No.:NM/S24-E004
+Rarity:R
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0 
+Power:5000
+Soul:1
+Flavor Text:I like the "tsuki," from "moon," part.', 'The sun is my enemy―― but the moon has been quite good to me.
+Trigger:
+Special Attribute:Strange・Blood
+Text:【CONT】 Experience If the total level of the cards in your level is two or higher, this card gets +500 power and the following ability. "【CONT】 During your turn, this card gets +1000 power."

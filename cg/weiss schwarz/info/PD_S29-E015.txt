@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Urban Pop"
+Card No.:PD/S29-E015
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:-

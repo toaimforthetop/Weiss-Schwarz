@@ -1,0 +1,18 @@
+Card Name:
+English Name:Super Editor-in-Chief Haruhi and the Assistants
+Card No.:SY/W08-E113
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"Impossible" isn\'t in the SOS Brigade\'s dictionary!
+Trigger:Soul
+Special Attribute:SOS Brigade
+Text:【ACT】[(2) Rest this card] Choose a character in your waiting room, and return it to your hand.
+Text:【ACT】[Rest this card] Choose one of your 《SOS Brigade》 characters, and that character gets +1000 power until end of turn.
+Text:【ACT】[(2) Rest this card] Deal one damage to your opponent. (This damage may be cancelled)

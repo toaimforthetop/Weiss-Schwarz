@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Gentle Warmth” Nana
+Card No.:TL/W37-E062
+Rarity:R
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:"Being h-held… feels nice, doesnt it……
+Trigger:
+Special Attribute:Alien・Animal
+Text:【CONT】 If the number of other 《Alien》 or 《Animal》 characters you have is three or more, this card gets +1 level and +1500 power.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

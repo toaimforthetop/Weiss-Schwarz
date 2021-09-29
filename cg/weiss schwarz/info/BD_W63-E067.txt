@@ -1,0 +1,16 @@
+Card Name:
+English Name:My Bushido!
+Card No.:BD/W63-E067
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Event
+Color:Red
+Level:3
+Cost:0
+Power:
+Soul:0
+Flavor Text:Eve: (I will harness my bushido and protect Pastel＊Palettes!)
+Trigger:
+Special Attribute:
+Text:Brainstorm Choose 1 《Pastel＊Palettes》 character in your waiting room, and return it to your hand. Flip over 5 cards from the top of your deck, and put them into your waiting room. If the total number of colors revealed among those cards is 4 or more, you may put up to 2 cards from the top of your clock into your waiting room, and deal 2 damage to your opponent. (Damage may be canceled)

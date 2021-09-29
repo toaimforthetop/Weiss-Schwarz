@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yes!! You Guys Are the Best!!
+Card No.:BD/W73-E095
+Rarity:U
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If all of your characters are 《RAISE A SUILEN》, choose 1 of your opponent's characters in battle, that character gets -2 soul until end of turn, and draw up to 1 card. If you draw 1 card, choose 1 card in your hand, and put it into your waiting room.

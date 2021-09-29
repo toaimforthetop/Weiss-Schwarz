@@ -1,0 +1,16 @@
+Card Name:
+English Name:Encounter With LLENN, Pitohui
+Card No.:GGO/S59-TE16
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"So, lets introduce ourselves.I'm Pitohui. Or just Pito is fine.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

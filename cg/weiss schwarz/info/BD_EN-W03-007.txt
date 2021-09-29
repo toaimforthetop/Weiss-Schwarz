@@ -1,0 +1,17 @@
+Card Name:
+English Name:"A Happy Revolution!" Kokoro Tsurumaki
+Card No.:BD/EN-W03-007
+Rarity:R
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"This part will go hm-hm-hmm♪ ... Its so cute!
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】【CXCOMBO】When "Orchestra Of Smiles!" is placed on your climax area, if this card is on your center stage, choose 1 of your 《Hello, Happy World!》 characters, and that character gets +2000 power, +1 soul and the following ability until end of turn. "【AUTO】This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent." (Damage may be canceled)

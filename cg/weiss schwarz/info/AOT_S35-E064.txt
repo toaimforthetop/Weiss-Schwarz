@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Calm and Collected" Mikasa
+Card No.:AOT/S35-E064
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"This may sound stupid, but I was hoping hed be the key for us……
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[AUTO] During the attack phase, when your character moves to another stage position, that character gets +1000 power until end of turn.
+Text:[ACT] Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. "Choose a 《Corps》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."

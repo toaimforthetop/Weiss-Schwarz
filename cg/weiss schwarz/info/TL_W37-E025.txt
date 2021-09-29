@@ -1,0 +1,16 @@
+Card Name:
+English Name:Run Elise Jewelria
+Card No.:TL/W37-E025
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:9500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Alien・Trans
+Text:【CONT】 This card gets -1 level while on the stage.

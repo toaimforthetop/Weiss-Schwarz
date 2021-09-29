@@ -1,0 +1,18 @@
+Card Name:
+English Name:Engine On! Misaki Okusawa
+Card No.:BD/W73-E008SPMa
+Rarity:SPM
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】 During your turn, all of your other 《Hello, Happy World!》 characters get +X power. X is equal to that character's level ×500.
+Text:【ACT】 [(1) Put 1 card from your hand into your waiting room] Choose 1 of your opponent's characters, and return it to his or her hand.
+Text:【ACT】 [【REST】 this card] This ability activates up to 1 time per turn. Choose 1 of your characters, and 【STAND】 it.

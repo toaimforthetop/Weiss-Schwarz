@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Linkage"
+Card No.:PD/S22-E028
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:君に伝えたいことは\u3000君に届けたいことは', 'たくさんの点は線になって\u3000遠く彼方へと響く
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 This ability activates up to two times per turn. When another of your 《Music》 character is placed on stage from your hand, this card gets +1500 power until end of turn.

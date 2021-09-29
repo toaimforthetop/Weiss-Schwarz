@@ -1,0 +1,18 @@
+Card Name:
+English Name:Vimana
+Card No.:FZ/S17-E081
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Archer: "Ah, the mad dog again…… Interesting…"
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room with "Archer" in its card name, return them to your hand, and choose a card in your hand, and put it into your waiting room.
+Text:Reveal the top card of your deck. If the revealed card is a climax, put it into your clock.（If it is not, return it to its original state）
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your 【STAND】 《Servant》 characters, and 【REST】 it. 

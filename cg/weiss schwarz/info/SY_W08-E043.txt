@@ -1,0 +1,16 @@
+Card Name:
+English Name:Xmas Party, Tsuruya & Mikuru
+Card No.:SY/W08-E043
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Tsuruya: "Then hold on for a second!"
+Trigger:Soul
+Special Attribute:Time・Forehead
+Text:【CONT】 If the number of characters your opponent has is four or more, this card gets +1000 power.

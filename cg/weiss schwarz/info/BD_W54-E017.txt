@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Michelle's Secret" Misaki Okusawa
+Card No.:BD/W54-E017
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Suffocating. Cant see. Can't move. This just doesn't make any sense. You can't be in a band like this...
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】 When your other 《Music》 character attacks, this card gets +1500 power until end of turn.
+Text:【AUTO】 Change [(1) Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Yes, I\'m Michelle!" Misaki Okusawa" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Affiliated Girls' High SchoolRhythmic Gymnastics Club, Kana
+Card No.:GGO/S59-E027
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:And Hokkaido sweets, too!
+Trigger:Soul
+Special Attribute:Net・Sports
+Text:【AUTO】 When your other 《Avatar》 or 《Net》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Avatar》 or 《Net》 characters you have ×500.
+Text:【AUTO】 Encore [Put 1 《Avatar》 or 《Net》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

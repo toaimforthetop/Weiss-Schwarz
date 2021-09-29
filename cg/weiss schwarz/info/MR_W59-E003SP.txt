@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mercernary's Battle Style, Felicia
+Card No.:MR/W59-E003SP
+Rarity:SP
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Attack
+Text:【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +1000 power for each of your other 《Magic》 character in your back stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

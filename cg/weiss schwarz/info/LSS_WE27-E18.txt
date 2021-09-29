@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mijuku DREAMER
+Card No.:LSS/WE27-E18
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"But I really want to make it fun.""But I really want to make it fun.""But I really want to make it fun.""But I really want to make it fun."
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Knowledge of Learning A Skill” Megumin
+Card No.:KS/W49-E038
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"If you use your points on that entry, youll finish learning it.
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fun Times, Maple
+Card No.:BFR/S78-E111
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Its our own exciting adventure into the wild!
+Trigger:
+Special Attribute:Game・Shield
+Text:【CONT】 During your opponent's turn, all of your other characters get +500 power.
+Text:【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +500 power until the end of your opponent's next turn.

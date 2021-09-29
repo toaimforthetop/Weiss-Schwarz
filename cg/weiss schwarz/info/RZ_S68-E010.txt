@@ -1,0 +1,18 @@
+Card Name:
+English Name:Another World-Style? Incitement, Subaru
+Card No.:RZ/S68-E010
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Do you wanna go to New York-?
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 If you have 2 or more other 《Memory Snow》 characters, this card gets +1 level and +3500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or less cards in your memory, you may choose 1 "Snow Bunny" in your waiting room, and put it into your memory.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "First Wild and Crazy Snow Festival" is in your climax area, search your deck for up to 1 yellow character, reveal it to your opponent, put it into your hand, and shuffle your deck.

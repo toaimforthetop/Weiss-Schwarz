@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Monstrous Strength" Rider
+Card No.:FS/S64-E047
+Rarity:C
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Shinji: "You\'re not getting it at all, as always! You already understand, don\'t you?"
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 During your turn, if there is a marker underneath this card, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Master》 or 《Servant》 character, you may put it face down underneath this card as a marker. (Otherwise, return it to its original place)

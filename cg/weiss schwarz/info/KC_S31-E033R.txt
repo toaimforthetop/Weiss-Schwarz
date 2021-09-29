@@ -1,0 +1,16 @@
+Card Name:
+English Name:Aviation Cruisers, Head Out!
+Card No.:KC/S31-E033R
+Rarity:RRR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Tone: "It\'s not over! I won\'t lose to the likes of Chikuma!"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

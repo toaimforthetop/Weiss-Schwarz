@@ -1,0 +1,18 @@
+Card Name:
+English Name:Joker
+Card No.:BNJ/SX01-002
+Rarity:RR
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:The time has finally come for you to DIE!
+Trigger:Soul
+Special Attribute:Sengoku・Villain
+Text:【CONT】 If there are 2 or less climax in your waiting room, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets +1000 power for each of your other 《Villain》 characters on your back stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Villain》 characters you have.

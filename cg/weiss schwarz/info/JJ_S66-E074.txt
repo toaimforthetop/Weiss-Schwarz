@@ -1,0 +1,17 @@
+Card Name:
+English Name:Noble Resolutions, Bucciarati
+Card No.:JJ/S66-E074
+Rarity:RR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Youre going to fail, no matter what, when you're a piece of shit.
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "The Sound of Farewell" is in your climax area, look at up to 4 cards from the top of your deck, choose up to 1 《Golden Wind》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +2000 power until end of turn.

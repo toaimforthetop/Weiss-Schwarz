@@ -1,0 +1,16 @@
+Card Name:
+English Name:Midafternoon Hamburger Patty
+Card No.:BD/EN-W03-119
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Tae: "Do you wanna trade the hamburger patty with my lettuce?"Arisa: "A lettuce with a hamburger patty?! You can\'t be serious!"
+Trigger:
+Special Attribute:
+Text:If you have 1 character with "Arisa(有咲)" in its card name, and 1 other character with "Tae(たえ)" in its card name, reveal the top card of you deck. If that card is a 《Music》 character, put it into your hand. If that card is a character with "Rimi(りみ)" in its name, search your deck for up to 1 character, reveal it to your opponent, put it into your hand, and shuffle your deck instead. (If it is neither, return it to its original place)

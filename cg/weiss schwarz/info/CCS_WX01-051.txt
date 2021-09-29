@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kaho Mizuki
+Card No.:CCS/WX01-051
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:She has someone by her side who treasures her above all else. That’s worth a great deal.
+Trigger:Soul
+Special Attribute:Magic・-
+Text:

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reigen: Searching for a Tsuchinoko
+Card No.:MOB/SX02-008
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Master・-
+Text:【AUTO】 [【REST】 1 of your other 《Esper》 or 《Spirit》 or 《Master》 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 card in your level and 1 card in your waiting room, and exchange them.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Esper》 or 《Spirit》 or 《Master》 character in your waiting room, and return it to your hand.

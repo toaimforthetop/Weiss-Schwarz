@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pouting Beatrice
+Card No.:RZ/S55-E040
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:You picked the right door again?!
+Trigger:Soul
+Special Attribute:Magic・Book
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 When this card becomes 【REVERSE】, if you have another "Cute Girl, Beatrice", and this card\'s battle opponent is level 3 or lower, you may 【REVERSE】 that battle opponent.

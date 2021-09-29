@@ -1,0 +1,16 @@
+Card Name:
+English Name:Professional Fur Craftsman, Subaru
+Card No.:RZ/S55-E009
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Im in love with how soft you are!
+Trigger:
+Special Attribute:Death・Magic
+Text:【ACT】 [Put all characters from your stage into your waiting room] Draw up to 2 cards, choose 2 cards from your hand, and put them into your waiting room.

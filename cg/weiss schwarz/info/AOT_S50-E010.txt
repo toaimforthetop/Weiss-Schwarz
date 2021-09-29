@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Cleanup" Eren
+Card No.:AOT/S50-E010
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Right! Im sorry…… Ouch……
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Corps》 characters revealed among those cards.

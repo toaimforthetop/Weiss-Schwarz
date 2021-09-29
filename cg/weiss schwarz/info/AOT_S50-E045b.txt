@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Until the Dying Breath" Miche
+Card No.:AOT/S50-E045b
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:As long as we continue to fight…… we are not beaten!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

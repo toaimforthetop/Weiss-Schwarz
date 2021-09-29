@@ -1,0 +1,16 @@
+Card Name:
+English Name:Clone, Souei
+Card No.:TSK/S70-E088
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Demon Continent・Shinobi
+Text:【ACT】 [(1) 【REST】 this card] Search your deck for up to 1 "Clone, Souei", put it on any position of your stage, shuffle your deck, and at the end of the turn, put that character into your waiting room.

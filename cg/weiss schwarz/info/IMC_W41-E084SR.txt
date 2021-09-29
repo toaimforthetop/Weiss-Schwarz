@@ -1,0 +1,16 @@
+Card Name:
+English Name:My First Star, Rin
+Card No.:IMC/W41-E084SR
+Rarity:SR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Taking a Step Forward" is in your climax area, this card gets +1 level and +5500 power until the end of your opponent\'s next turn.

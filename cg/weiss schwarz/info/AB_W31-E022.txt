@@ -1,0 +1,16 @@
+Card Name:
+English Name:Always Energetic, Yui
+Card No.:AB/W31-E022
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Huh? Everyone seems really smart today.
+Trigger:
+Special Attribute:Death・Music
+Text:[CONT] This card gets +500 power for each of your other 《Music》 characters.

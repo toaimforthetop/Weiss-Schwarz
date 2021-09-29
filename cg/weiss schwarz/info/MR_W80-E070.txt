@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sudden Assistance, Kyoko
+Card No.:MR/W80-E070
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"If youre drinking that water too, you'd better not waste time!
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【CONT】 All of your opponent\'s characters get "【AUTO】 Encore [(2)]".

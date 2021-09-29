@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Truth Beind the Name
+Card No.:LSS/W45-E095
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Kanan: "All of you, and me and Mari too, We were all played like fiddles. By a certain someone…"
+Trigger:
+Special Attribute:
+Text:Look at up to four cards from the top of your deck, choose up to one 《Music》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

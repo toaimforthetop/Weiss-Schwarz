@@ -1,0 +1,16 @@
+Card Name:
+English Name:Since That Day
+Card No.:AOT/S35-E028
+Rarity:RRR
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Armin: "……And just like that. Everything changed. At that terrible moment, in our hearts, we knew. Home was a pen. Humanity……cattle……"
+Trigger:Soul・Soul
+Special Attribute:
+Text:[AUTO] When this card is placed on your climax area from your hand, choose up to one yellow card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

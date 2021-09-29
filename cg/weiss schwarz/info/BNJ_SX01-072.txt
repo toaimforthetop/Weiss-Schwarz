@@ -1,0 +1,18 @@
+Card Name:
+English Name:Batman: Blast From the Past
+Card No.:BNJ/SX01-072
+Rarity:R
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:Joker: "B… B-B… Batman?"
+Trigger:Soul
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have "Monkey Horde" in your waiting room, 【REST】 this card.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Bat Swarm" is in your climax area, and you have 2 or more other 《Weapon》 characters, all of your characters get +500 power and +1 soul until end of turn.
+Text:【AUTO】 Encore [Put 1 《Weapon》 character from your hand into your waiting room]  (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

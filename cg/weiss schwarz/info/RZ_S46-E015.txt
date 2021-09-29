@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unseen Hand, Petelgeuse
+Card No.:RZ/S46-E015
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Complacency! Negligence! That is sloth!
+Trigger:Soul
+Special Attribute:Witch Cult・Magic
+Text:【CONT】 If this card is on the stage, this card gets 《Sloth》 and 《Diligence》, and the character facing this card gets 《Sloth》.
+Text:【AUTO】 [Put the top card of your deck into your clock & Put a 《Magic》 or 《Weapon》 character from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, if the number of cards in your hand is five or more, you may pay the cost. If you do, 【REST】 this card, and deal one damage to your opponent. (This damage may be canceled)【AUTO】 At the beginning of your encore step, if you do not have another character with "Subaru(スバル)" in its card name, choose one of your characters, and put it into your waiting room.

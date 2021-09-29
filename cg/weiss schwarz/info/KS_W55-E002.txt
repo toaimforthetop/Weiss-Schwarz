@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Iron Wall Crusader" Darkness
+Card No.:KS/W55-E002
+Rarity:RR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:You think you can overpower me?!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 When this card attacks, if you have another 《Adventurer》 or 《Magic》 character, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Subduing Even My Heart......" is in your climax area, search your deck for up to one 《Adventurer》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Naotsugu
+Card No.:LH/SE20-E42
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I really need you to tell me before you do it next time! 
+Trigger:
+Special Attribute:Weapon・-
+Text:【ACT】 [【REST】 two of your characters] This card gets +1000 power until the end of your opponent's next turn. ", '

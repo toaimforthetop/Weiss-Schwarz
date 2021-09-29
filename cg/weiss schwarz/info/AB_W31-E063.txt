@@ -1,0 +1,16 @@
+Card Name:
+English Name:United Battlefront, Kanade & Yuri
+Card No.:AB/W31-E063
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Kanade, Im counting on you.
+Trigger:
+Special Attribute:Death・Weapon
+Text:[AUTO] [Put a card from your hand into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Death》 character in your waiting room, and return it to your hand.

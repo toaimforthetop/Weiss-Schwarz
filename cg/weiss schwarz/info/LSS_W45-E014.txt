@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Fallen Angel Mode Release" Yoshiko Tsushima
+Card No.:LSS/W45-E014
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Whats with the fallen angel!
+Trigger:
+Special Attribute:Music
+Text:【CONT】 This card gets -1 level while on the stage.
+Text:【AUTO】 When this card is placed on the stage from your waiting room, if the number of your other 《Music》 characters is two or more, this card gets +500 power and +1 soul until end of turn.
+Text:【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Fallen Angel Yohane\'s Demon Eyes" Yoshiko Tsushima" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of your climax phase)

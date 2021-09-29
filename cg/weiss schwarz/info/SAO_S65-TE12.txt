@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Carver of the Giant Tree" Kirito
+Card No.:SAO/S65-TE12
+Rarity:TD
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Why are you such a goody-goody?
+Trigger:
+Special Attribute:Fluctlight・Woodcutter
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Fluctlight》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

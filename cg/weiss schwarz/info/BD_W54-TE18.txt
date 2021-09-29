@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Live Show Pre-Party
+Card No.:BD/W54-TE18
+Rarity:TD
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Yukina: "We\'ve done everything we can. Let\'s do our best for tomorrow\'s live. Cheers!"
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)

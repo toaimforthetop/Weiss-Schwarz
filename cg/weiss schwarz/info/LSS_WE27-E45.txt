@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Aim to Shine" Mari Ohara
+Card No.:LSS/WE27-E45
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 Assist All of your 《Music》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power.", '

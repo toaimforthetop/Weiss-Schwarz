@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Reunited After a Long Time" Wiz
+Card No.:KS/W76-E041S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Sylvia: "Hell no!"
+Trigger:Soul
+Special Attribute:Death・Magic
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【ACT】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] If you have another ""Foremost Mage" Megumin", choose 1 "Linked Palms" in your waiting room, and return it into your hand.

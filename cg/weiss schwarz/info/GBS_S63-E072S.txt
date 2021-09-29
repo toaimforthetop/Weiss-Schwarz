@@ -1,0 +1,17 @@
+Card Name:
+English Name:Figure of Tranquility, Sword Maiden
+Card No.:GBS/S63-E072S
+Rarity:SR
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Priestess: "She isn\'t a hero from some legend. She was born of the people and became a legend herself."
+Trigger:
+Special Attribute:Order・Archbishop
+Text:【CONT】 If you have 2 or more other 《Order》 characters, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "A Woman Swayed" is in your climax area, put up to 2 cards from the top of your deck into your stock.

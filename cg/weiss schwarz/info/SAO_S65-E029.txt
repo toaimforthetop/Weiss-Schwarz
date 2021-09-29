@@ -1,0 +1,18 @@
+Card Name:
+English Name:Girls of Age, Ronie & Tiese
+Card No.:SAO/S65-E029
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Ronie: "Th-Thank you very much, Elite Disciple!"
+Trigger:Soul
+Special Attribute:Fluctlight・Noble
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.
+Text:【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.
+Text:【ACT】 [【REST】 this card] Choose 1 character with "Kirito(キリト)" or "Eugeo(ユージオ)" in its card name, and that card gets +1500 power until end of turn.

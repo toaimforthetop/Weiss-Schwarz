@@ -1,0 +1,18 @@
+Card Name:
+English Name:My very best friend
+Card No.:MM/W17-E058
+Rarity:CC
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:I remember that. And I will never forget it.
+Trigger:Stock
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:（【POOL】: When this card triggers, you may put the top card of your deck into your stock.)
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

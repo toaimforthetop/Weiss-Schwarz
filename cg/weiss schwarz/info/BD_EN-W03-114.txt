@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Onstage" Ako Udagawa
+Card No.:BD/EN-W03-114
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Tada~! Outfits are complete~~!!And theyre so, so cool! Like true knights of darkness, true bringers of dark destruction...!!
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】When this card attacks, you may put the top card of your deck into your waiting room. If that card is a 《Music》 character, this card gets +2000 power until end of turn.

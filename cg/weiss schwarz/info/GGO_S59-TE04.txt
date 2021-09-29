@@ -1,0 +1,16 @@
+Card Name:
+English Name:Senior Gamer, Miyu
+Card No.:GGO/S59-TE04
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:The straightlaced Kohi wants to know about VR games?
+Trigger:
+Special Attribute:Net・Game
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)

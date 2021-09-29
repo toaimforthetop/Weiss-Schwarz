@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Garrison Regiment Commander" Pyxis
+Card No.:AOT/S35-E022
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:A leap greater than we have ever taken!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[ACT][COUNTER] Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

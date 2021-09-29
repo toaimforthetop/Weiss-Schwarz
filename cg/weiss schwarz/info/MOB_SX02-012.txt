@@ -1,0 +1,17 @@
+Card Name:
+English Name:Teruki: A Close Shave
+Card No.:MOB/SX02-012
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Sakurai: "You look better that way."
+Trigger:Soul
+Special Attribute:Esper・Hair
+Text:【CONT】 Experience If the total level of the cards in your level is 3 or higher, this card gets +1000 power.
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.

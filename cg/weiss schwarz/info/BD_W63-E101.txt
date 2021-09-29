@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sakura Special!" Kokoro Tsurumaki
+Card No.:BD/W63-E101
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:This is the perfect place for us!
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of your opponent's stock into his or her waiting room.

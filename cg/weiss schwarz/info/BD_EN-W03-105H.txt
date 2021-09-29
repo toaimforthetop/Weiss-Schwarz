@@ -1,0 +1,17 @@
+Card Name:
+English Name:"A Sparkling Stage" Chisato Shirasagi
+Card No.:BD/EN-W03-105H
+Rarity:HR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Yeah. When Im wearing my costume on stage, I really get the sense that I'm a member of Pastel＊Palettes.
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】If your characters on stage have 4 or more colors in total, all of your other characters get +1000 power.
+Text:【AUTO】【CXCOMBO】[(1) Put 1 card from your hand into your waiting room] When "A Sparkling Stage" is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose 1 card from among them, put it into your hand, and put the rest on the top of your deck in any order.

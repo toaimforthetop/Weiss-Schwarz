@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Star Vocalist"
+Card No.:PD/S22-E088
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card attacks, if a card named "Freely Tomorrow" is in your climax area, until end of turn, all of your 《Music》 characters get +1500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, draw a card, choose a card in your hand, and put it into your waiting room."

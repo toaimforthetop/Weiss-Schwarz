@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit, Origami
+Card No.:DAL/W79-E030
+Rarity:R
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"MI-ZU-GI" for short. It\'s a new anti-Spirits annihilation suit.
+Trigger:
+Special Attribute:Date・AST
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Date》 or 《Celestial Spirit》 character or "Basic Realizer", all characters in your opponent\'s center stage get -500 power until end of turn. (Return the revealed card to its original place)【AUTO】 When this card attacks, choose 1 of your other 《Date》 or 《Celestial Spirit》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Date》 or 《Celestial Spirit》 characters you have ×500.

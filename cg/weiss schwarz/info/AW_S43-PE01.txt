@@ -1,0 +1,17 @@
+Card Name:
+English Name:Santa Kuroyukihime
+Card No.:AW/S43-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Isnt that a little childish?
+Trigger:
+Special Attribute:Student Council・Net
+Text:【CONT】 Your other character in the middle position of the center stage gets +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Avatar》 or 《Net》 characters, and that character gets +1000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nervous Self-introduction, Rimi
+Card No.:BD/W47-TE07
+Rarity:TD
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Choco Cornet
+Text:

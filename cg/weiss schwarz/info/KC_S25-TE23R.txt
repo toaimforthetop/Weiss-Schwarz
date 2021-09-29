@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Akatsuki-class Destroyer, Ikaduchi
+Card No.:KC/S25-TE23R
+Rarity:RRR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Thats right. Leave everything to me!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【ACT】[(1)] Choose one of your 《Fleet Girl》 characters, and that character gets +1500 power until end of turn.

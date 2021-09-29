@@ -1,0 +1,16 @@
+Card Name:
+English Name:Flower Garden Shinobu Oshino
+Card No.:NM/S24-E011
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2 
+Power:9500
+Soul:2
+Flavor Text:Wah-!
+Trigger:Soul
+Special Attribute:Strange・Blood
+Text:【AUTO】 If the number of 《Blood》 characters you have is one or less, this card cannot be played from your hand.

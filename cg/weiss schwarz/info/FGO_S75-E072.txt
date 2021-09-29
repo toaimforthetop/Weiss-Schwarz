@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bribing a Goddess
+Card No.:FGO/S75-E072
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Gilgamesh: "Furthermore, she loves gems but has no luck when it comes to obtaining them. She lacks what\'s called the "Golden Rule.""Mash: "Isn\'t that all too pitiful?"
+Trigger:
+Special Attribute:
+Text:Choose 1 of the following effects, and perform it."Put up to 2 cards from the top of your deck into your stock.""Choose 1 character in your waiting room, and return it to your hand."

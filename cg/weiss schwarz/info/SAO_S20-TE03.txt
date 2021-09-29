@@ -1,0 +1,16 @@
+Card Name:
+English Name:Heathcliff's Hidden Identity
+Card No.:SAO/S20-TE03
+Rarity:TD
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Kirito, I must reward you for deducing my identity. I shall give you a chance.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

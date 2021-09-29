@@ -1,0 +1,17 @@
+Card Name:
+English Name:Worrying Kanade
+Card No.:AB/W31-E008
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Don't push yourself.
+Trigger:So
+Special Attribute:Death・Student Council
+Text:[CONT] Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level
+Text:[AUTO] When this card is placed on stage from your hand, choose another of your《Death》characters, and that character gets +1000 power until end of turn.

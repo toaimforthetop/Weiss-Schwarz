@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Crimson Demon” Megumin
+Card No.:KS/W49-E034R
+Rarity:RRR
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:When man stares into the abyss, the abyss stares back!
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top card of your deck into your waiting room, choose up to one of your opponent\'s level X or lower characters, and put it into his or her waiting room. X is equal to that card\'s level. (Climax are regarded as level 0)【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] At the beginning of your encore step, if a card named "Explosion Magic" is in your climax area, and you have another card named "“Lots of Anxiety” Kazuma", and this card is in your center stage, you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Special Seat of an Ex-Rival, Viral
+Card No.:GL/S52-E046
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Whats the matter, Simon?!
+Trigger:Soul
+Special Attribute:Team DAI-GURREN・Beast Man
+Text:【AUTO】 【CXCOMBO】 [Put this card into your waiting room] When a card named "Destiny Combining, GURREN LAGANN" is placed on your climax area, you may pay the cost. If you do, choose up to one card named "Combine! GURREN LAGANN" in your hand, put it on the stage position that this card was on, and that character gets the following ability until the end of your opponent\'s next turn. "【CONT】 During this card\'s battle, all players cannot play "Backup" from hand."

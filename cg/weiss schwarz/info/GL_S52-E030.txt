@@ -1,0 +1,16 @@
+Card Name:
+English Name:Later, Buddy
+Card No.:GL/S52-E030
+Rarity:CR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Later, buddy…
+Trigger:Soul・Shot
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent)

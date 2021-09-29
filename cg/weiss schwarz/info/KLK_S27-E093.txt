@@ -1,0 +1,16 @@
+Card Name:
+English Name:Data-minded, Inumuta
+Card No.:KLK/S27-E093
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Senketsu: "And yet, it makes me uneasy. As if I am being stripped naked."
+Trigger:Soul
+Special Attribute:Clothes・Glasses
+Text:AUTO When this card attacks, if a card named "Honnouji Academy Elite Four, Ultimate Battle Regalia!" is in your climax area, look at up to two cards from the top of your deck, choose up to two level 0 or lower cards from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)

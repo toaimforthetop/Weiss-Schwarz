@@ -1,0 +1,18 @@
+Card Name:
+English Name:Aqua
+Card No.:KS/W49-E073
+Rarity:RR
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Feel the power of a goddess!
+Trigger:Soul
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 During this card\'s battle, your opponent cannot play "Backup" from hand.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, your opponent chooses two climax in your opponent\'s waiting room, returns all cards in your opponent\'s waiting room except those cards into your opponent\'s deck, and your opponent shuffles his or her deck.
+Text:【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room] When a card named "Resurrection" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose an 《Adventurer》 or 《Goddess》 character in your clock, and put it on any position of your stage.

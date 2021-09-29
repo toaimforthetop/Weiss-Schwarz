@@ -1,0 +1,16 @@
+Card Name:
+English Name:Etude With the Exchange Student, Maya Tendo
+Card No.:RSL/S56-TE21
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:－
+Trigger:Soul
+Special Attribute:Revue・Leading Actor
+Text:－

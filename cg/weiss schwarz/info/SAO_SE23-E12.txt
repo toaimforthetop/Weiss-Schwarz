@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reaper Manifestation, 《Death Gun》
+Card No.:SAO/SE23-E12
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:……
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's cost 1 or less characters on the center stage. That character cannot 【STAND】 during your opponent's next stand phase. ", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Shoichi Shinkawa
+Card No.:SAO/SE23-E08
+Rarity:R
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Kikuoka: "In Kyoji\'s eyes, his older brother seemed like a hero."
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 All of your other 《Weapon》 characters get +500 power.
+Text:【CONT】 All of your opponent's characters in the center stage get 《Target》.", '

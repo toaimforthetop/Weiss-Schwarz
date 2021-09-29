@@ -1,0 +1,16 @@
+Card Name:
+English Name:Strategy of the Cautious Type
+Card No.:GGO/S59-E099
+Rarity:CC
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Theres no need to take part in trivial melee.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

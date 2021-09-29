@@ -1,0 +1,16 @@
+Card Name:
+English Name:Joker: Amnesia?
+Card No.:BNJ/SX01-024
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"I know it sounds silly, but my wife and I are always saying, its like we've been reborn.
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:

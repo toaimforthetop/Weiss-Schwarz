@@ -1,0 +1,16 @@
+Card Name:
+English Name:Morning After Resurrection, Sword Maiden
+Card No.:GBS/S63-E090
+Rarity:C
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:It appears you are awake.
+Trigger:
+Special Attribute:Order・Archbishop
+Text:【CONT】 If your stock has 2 or less cards, this card gets +1500 power.

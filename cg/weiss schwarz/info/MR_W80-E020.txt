@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mercenary's Reward, Felicia
+Card No.:MR/W80-E020
+Rarity:C
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Mercenary
+Text:-

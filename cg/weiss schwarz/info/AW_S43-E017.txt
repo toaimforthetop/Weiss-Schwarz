@@ -1,0 +1,17 @@
+Card Name:
+English Name:Acrimonious Advice, Metatron
+Card No.:AW/S43-E017
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Its impossible to beat Nyx", "with your current capabilities! It's crazy! It's nonsense!
+Trigger:
+Special Attribute:Being・Net
+Text:【CONT】 If your level is 2 or higher, this card gets the following ability. "【ACT】 [(1) Put this card into your waiting room] Choose a card named "Silver Crow Embracing the Monarch" in your waiting room, and put it on the stage position that this card was on."
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.

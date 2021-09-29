@@ -1,0 +1,16 @@
+Card Name:
+English Name:Territory Leader of 《Cait Sith》, Alicia Lu
+Card No.:SAO/S26-E017
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"For a big liar, youre pretty strong.
+Trigger:Soul
+Special Attribute:Avatar・Magic
+Text:-

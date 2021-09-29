@@ -1,0 +1,16 @@
+Card Name:
+English Name:Everyone's Group Leader, Nyan-ta
+Card No.:LH/SE20-E38
+Rarity:U
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Its everyone's favorite, curry, myah.
+Trigger:
+Special Attribute:Weapon・Cook
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if the number of other 《Weapon》or 《Magic》 characters you have is one or less, put this card into your clock.

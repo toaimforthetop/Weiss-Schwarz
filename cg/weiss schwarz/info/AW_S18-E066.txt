@@ -1,0 +1,16 @@
+Card Name:
+English Name:Darkness of the Heart, Silver Crow
+Card No.:AW/S18-E066
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Then destroy him. Destroy and devour. 
+Trigger:
+Special Attribute:Avatar・-
+Text:【AUTO】 When this card attacks, if a card named "Black Repercussions" is in your climax area, this card gets +5500 power until end of turn, and at the beginning of your encore step, put this card into your waiting room.

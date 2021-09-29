@@ -1,0 +1,18 @@
+Card Name:
+English Name:Newly Constructed Repair Ship, Akashi-Kai
+Card No.:KC/S31-E081S
+Rarity:SR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"I-Im…being targeted? In this situation… I won't be able to repair to my content.
+Trigger:Soul
+Special Attribute:Fleet Girl・Repair Ship
+Text:【CONT】 Assist All of your 《Fleet Girl》 characters in front of this card get +500 power and the following ability. "【AUTO】 Encore [Put a character from your hand into your waiting room］"
+Text:【AUTO】 When a card named "From which ship do I start to repair?" is placed on your climax area, if the number of cards in your clock is one or less, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 At the beginning of your opponent's attack phase, if this card is in your center stage, put the top card of your deck into your waiting room. If that card is level 1 or higher, put this card into your waiting room. If that card is level 0 or lower, you may move this card to an open position of your center stage. (Climax are regarded as level 0)", '【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card. 

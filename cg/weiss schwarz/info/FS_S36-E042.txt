@@ -1,0 +1,18 @@
+Card Name:
+English Name:“United Battlefront” Lancer
+Card No.:FS/S36-E042
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"For someone like me who cant casually betray my own Master, that little lady is pretty dazzling.
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

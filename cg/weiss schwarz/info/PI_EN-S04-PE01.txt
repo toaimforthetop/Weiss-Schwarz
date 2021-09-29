@@ -1,0 +1,16 @@
+Card Name:
+English Name:Holiday Together with Friends, Illya
+Card No.:PI/EN-S04-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:0
+Flavor Text:Thanks, Miyu.
+Trigger:
+Special Attribute:Master・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.

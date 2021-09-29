@@ -1,0 +1,17 @@
+Card Name:
+English Name:Finn: Protected from the Cold
+Card No.:AT/WX02-022
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I love it.
+Trigger:
+Special Attribute:Ooo・Hero
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "His Hero" is in your climax area, choose 1 of the 2 following abilities, and this card gets the chosen ability until end of turn. "【CONT】 This card gets +2000 power." "【CONT】 This card gets +1 soul."
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose 1 of your other 《Ooo》 characters, 【REST】 it, and move it to an open position of your back stage.

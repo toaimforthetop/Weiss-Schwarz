@@ -1,0 +1,17 @@
+Card Name:
+English Name:Magical Ruby
+Card No.:PI/EN-S04-E068
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:You there, how would you like to become a magical girl?
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 [Put a 《Jewel》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Master》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【ACT】 [Put a climax from your hand into your waiting room] Choose one of your characters, and that character gets +1500 power until the end of your opponent's next turn.", '

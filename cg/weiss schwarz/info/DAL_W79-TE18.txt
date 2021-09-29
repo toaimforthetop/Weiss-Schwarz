@@ -1,0 +1,16 @@
+Card Name:
+English Name:My Little Shido
+Card No.:DAL/W79-TE18
+Rarity:TD
+Expansion:Date A Live
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Option 3 is the most logical. And hell be able to take control of the conversation.
+Trigger:
+Special Attribute:
+Text:If you do not have a 《Date》 or 《Celestial Spirit》 character, this card cannot be played from your hand.Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:To Be the Very Best, Kaoruko Hanayagi
+Card No.:RSL/S56-E021
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:I can study traditional dance there, as well as other styles.
+Trigger:
+Special Attribute:Revue・Nihon Buyo
+Text:【CONT】 During your turn, if you have another 《Revue》 character, this card gets +3000 power.
+Text:【ACT】 [(1)] If you have 2 or more 《Revue》 characters, until end of turn, this card gets +1000 power, and your opponent cannot use "【AUTO】 Encore". (Your opponent cannot use the "【AUTO】 Encore [(3)]" rule either)

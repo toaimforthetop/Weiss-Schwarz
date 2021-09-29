@@ -1,0 +1,16 @@
+Card Name:
+English Name:"I'm Me" Hina Hikawa
+Card No.:BD/W63-E058SPMa
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "The One and Only Me" is in your climax area, you may choose 1 character in your waiting room, and return it to your hand.

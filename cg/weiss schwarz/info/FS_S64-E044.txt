@@ -1,0 +1,18 @@
+Card Name:
+English Name:Helping Out at the Emiya Household, Sakura
+Card No.:FS/S64-E044
+Rarity:C
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Shirou: "H-Hey!"
+Trigger:
+Special Attribute:Master・Love
+Text:【CONT】 If you are level 1 or higher, this card gets 《Housework》.
+Text:【CONT】 If you are level 2 or higher, this card gets 《Cooking》.
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other《Master》 or 《Servant》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.

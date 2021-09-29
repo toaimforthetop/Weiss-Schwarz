@@ -1,0 +1,16 @@
+Card Name:
+English Name:Batman: Ancient Armor
+Card No.:BNJ/SX01-A07
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 [CXCOMBO] When this card attacks, if "Unleash the Bat!" is in your climax area, you may draw 1 card.

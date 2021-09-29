@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Midsummer Poolside” Nana
+Card No.:TL/W37-TE15
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Did you see it? My swimming!!
+Trigger:
+Special Attribute:Alien・Animal
+Text:-

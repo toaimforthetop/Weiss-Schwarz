@@ -1,0 +1,16 @@
+Card Name:
+English Name:Leader, Protagonist
+Card No.:P4/EN-S01-009
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:Margaret: "Get up. You are not someone allowed to fall here."
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【AUTO】 [(4) Put a climax from your waiting room into your memory] This ability activates up to one time per turn. When this card attacks, if a card named "Never More" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.

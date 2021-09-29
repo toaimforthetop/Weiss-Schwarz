@@ -1,0 +1,16 @@
+Card Name:
+English Name:That's What... I Was Waiting For!!
+Card No.:GL/S52-E056
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Event
+Color:Green
+Level:3
+Cost:0
+Power:
+Soul:0
+Flavor Text:Simon! Take it!
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If the number of cards in your clock is four or more, you may choose two 《Team DAI-GURREN》 characters in your hand, and put them into your waiting room. If you do, perform the following effects once each in any order."Choose a level 3 character in battle, and that character gets -3 soul until end of turn.""Choose a card named "GIGA DRILL BREAK" in your waiting room, and return it to your hand.""Put up to two cards from the top of your deck into your stock."

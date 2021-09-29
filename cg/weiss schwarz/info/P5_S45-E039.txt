@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sae Niijima
+Card No.:P5/S45-E039
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"All you need to do is remainfocused on what must be done nowfor your futures sake.
+Trigger:
+Special Attribute:Prosecutor・-
+Text:【AUTO】 Bond/"Makoto as QUEEN: All-out Attack" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Makoto as QUEEN: All-out Attack" in your waiting room, and return it to your hand.)【ACT】 [【REST】 this card] Choose one of your 《Thief》 characters, and that character gets +1000 power until end of turn.

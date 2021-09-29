@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Relief" Eren
+Card No.:AOT/S50-E009
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I did it! My first kill!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When your character's trigger check reveals a yellow climax, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

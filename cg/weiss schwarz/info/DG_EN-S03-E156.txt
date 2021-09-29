@@ -1,0 +1,16 @@
+Card Name:
+English Name:Super Hero, Aurum
+Card No.:DG/EN-S03-E156
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:I will defeat you...strongest Overlord! Then I shall forever be a hero! 
+Trigger:Soul
+Special Attribute:Brave・God
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of cards in your deck is five or less, return all cards in your waiting room to your deck. If you do, search your deck for up to one character with "Overlord(魔王)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.

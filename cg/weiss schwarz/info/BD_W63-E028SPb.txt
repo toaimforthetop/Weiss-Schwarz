@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Don't Stop, Keep Going" Ran Mitake
+Card No.:BD/W63-E028SPb
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Afterglow
+Text:【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Music》 characters, you may choose 1 character in your clock, and put it into your memory.
+Text:【AUTO】 Encore [Put 1 《Afterglow》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

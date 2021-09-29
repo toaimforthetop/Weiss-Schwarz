@@ -1,0 +1,16 @@
+Card Name:
+English Name:"My First Homemade Chocolate" Ren
+Card No.:MR/W59-TE02
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I wonder if they’ll like them…
+Trigger:
+Special Attribute:Magic・Ability
+Text:【AUTO】 At the beginning of your climax phase, choose 1 of your 《Magic》 characters, and that character gets +1000 power until end of turn. 【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.

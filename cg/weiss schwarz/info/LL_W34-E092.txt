@@ -1,0 +1,16 @@
+Card Name:
+English Name:Alpaca
+Card No.:LL/W34-E092
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:??
+Trigger:
+Special Attribute:Animal
+Text:【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.

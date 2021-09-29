@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Friendly? Three Sisters” Nana
+Card No.:TL/W37-E069
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Im… glad that I'm her younger sister. 
+Trigger:
+Special Attribute:Alien・Animal
+Text:【AUTO】 Resonate [(1) Reveal a card named "“Sitting” Lala" in your hand] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Fulfilling the Wish” Souichirou Kuzuki
+Card No.:FS/S36-E091
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"There is no need to grieve. I will fulfill your wish in your place, thats all.
+Trigger:
+Special Attribute:Master・Teacher
+Text:【CONT】 If you have another character with "Caster(キャスター)" in its card name, this card gets +1500 power.
+Text:【CONT】 The character facing this card gets +1 soul.
+Text:-

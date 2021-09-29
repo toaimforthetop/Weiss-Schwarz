@@ -1,0 +1,16 @@
+Card Name:
+English Name:“A Visitor” Illya
+Card No.:FS/S36-E092
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Shirou is coming here… to the castle', 'where mother once stayed.
+Trigger:Soul
+Special Attribute:Master・Homunculus
+Text:【CONT】 If the number of climax in your waiting room is six or more, this card gets -1 level while in your hand.

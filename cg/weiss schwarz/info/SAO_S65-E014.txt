@@ -1,0 +1,16 @@
+Card Name:
+English Name:An Unexpected Welcome, Alice
+Card No.:SAO/S65-E014
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fluctlight・Integrity Knight
+Text:-

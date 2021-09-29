@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ku-Mugann
+Card No.:GL/S52-E096
+Rarity:C
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Anti-Spiral・-
+Text:【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "Kyo-Mugann" in your waiting room, and put it on the stage position that this card was on.
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

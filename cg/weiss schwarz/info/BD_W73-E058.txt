@@ -1,0 +1,16 @@
+Card Name:
+English Name:Practice Interval, Kasumi Toyama
+Card No.:BD/W73-E058
+Rarity:C
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】 [(1) Put 1 event card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 event card in your waiting room, and return it to your hand.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Rainbow Lines"
+Card No.:PD/S29-E035R
+Rarity:RRR
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Rainbow
+Text:【AUTO】 When this card attacks, if a card named "Glory 3usi9" is in your climax area, choose one of your other cards named "Hatsune Miku "Puffy Pastels"", and that card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, search your deck for up to two 《Music》 characters, reveal them to your opponent, put them into your hand, choose a card from your hand, and put it into your waiting room. Shuffle your deck afterwards."

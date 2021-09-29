@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mysterious Hooded Figure
+Card No.:CCS/WX01-097
+Rarity:U
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:2
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose 1 of your 【STAND】 characters with "Sakura" in its card name, and 【REST】 it. If you do, choose 1 card in your clock, and return it to your hand. Put this card into your memory.

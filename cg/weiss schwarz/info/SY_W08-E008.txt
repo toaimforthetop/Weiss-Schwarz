@@ -1,0 +1,18 @@
+Card Name:
+English Name:Sonou Mori
+Card No.:SY/W08-E008
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"I believe it isnt.
+Trigger:
+Special Attribute:Maid・-
+Text:【CONT】 All of your other 《Maid》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Maid》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card attacks, if a card named "sleeping beauty_" is in your climax area, search your deck for up to one 《SOS Brigade》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

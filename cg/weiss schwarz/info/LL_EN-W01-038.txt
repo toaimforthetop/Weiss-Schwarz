@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Khorosho♪" Eli
+Card No.:LL/EN-W01-038
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:What do you think? You could really say that I look like one of those F1 race girls.
+Trigger:
+Special Attribute:Music・-
+Text:-

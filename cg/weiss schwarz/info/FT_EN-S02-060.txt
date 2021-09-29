@@ -1,0 +1,17 @@
+Card Name:
+English Name:Natsu Living on Instincts
+Card No.:FT/EN-S02-060
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Lucy: "Must be nice.... He doesn\'t haveta worry about anything but eating, fighting and sleeping."
+Trigger:
+Special Attribute:Magic・Dragon
+Text:【AUTO】 When another of your characters becomes 【REVERSE】 in battle, this card gets +1000 power until end of turn.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dominating Presence of Netherworld, Laharl
+Card No.:DG/EN-S03-E095
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:Haaahahahaha!!
+Trigger:Soul
+Special Attribute:Demon・Weapon
+Text:【CONT】 Assist All of your 《Demon》 or 《Angel》 characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '

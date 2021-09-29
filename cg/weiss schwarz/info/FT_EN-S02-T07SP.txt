@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cute Celestial User? Lucy
+Card No.:FT/EN-S02-T07SP
+Rarity:SP
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:"Thats the power of a Celestial Wizard.
+Trigger:Soul
+Special Attribute:Magic・Key
+Text:【CONT】 All of your other 《Magic》 characters get +500 power.
+Text:【ACT】 [(1)] Choose one of your characters, and that character gets +1500 power until end of turn.

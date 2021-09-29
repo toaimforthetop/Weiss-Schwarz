@@ -1,0 +1,18 @@
+Card Name:
+English Name:Cardcaptor Sakura: RECORD
+Card No.:CCS/WX01-034S
+Rarity:SR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Camera, show me what you’ve recorded!
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 If this card is on your center stage, all of your 《Tomoeda》 or 《Magic》 characters get +1500 power.
+Text:【AUTO】 【CXCOMBO】 [(2)] When "Release! RECORD!" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to 2 《Tomoeda》 or 《Magic》 characters, reveal them to your opponent, put them into your hand, choose up to 1 "Cardcaptor Sakura: RECORD" in your hand, put it on any position of your stage, and shuffle your deck.
+Text:【AUTO】 [Put 2 characters from your hand into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that battle opponent into your opponent\'s clock.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Star Beastification" Puck
+Card No.:RZ/SE35-E16
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 All of your other "Desperate Resistance, Emilia" get +1000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose up to 1 character with level equal to or less than your level in your hand, put it on any position of your stage, and this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Clash Between Spirits" is in your climax area, put all of your opponent\'s stock into their waiting room, and your opponent puts the same number of cards from the top of their deck into their stock.

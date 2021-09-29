@@ -1,0 +1,16 @@
+Card Name:
+English Name:Temporary Rest
+Card No.:FS/S34-E030
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:I can also minimize my mana expenditure by sleeping.
+Trigger:
+Special Attribute:
+Text:Look at up to four cards from the top of your deck, choose up to one 《Weapon》 character from among them, reveal it to your opponent, and put it into your hand. Put the rest into your waiting room. Choose one of your characters, and that character gets +4000 power until end of turn. Put this card into your clock.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Sunny Day Song” Alisa Ayase
+Card No.:LL/EN-W02-E042
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(2)] When you use this card\'s "Backup", you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)

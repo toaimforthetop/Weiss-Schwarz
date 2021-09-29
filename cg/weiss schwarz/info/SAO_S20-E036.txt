@@ -1,0 +1,16 @@
+Card Name:
+English Name:Leafa Gets Her Hand Bit
+Card No.:SAO/S20-E036
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Aah-----!!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other characters get the following ability."【CONT】 This card cannot side attack."

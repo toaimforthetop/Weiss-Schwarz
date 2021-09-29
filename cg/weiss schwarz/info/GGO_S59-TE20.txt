@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sadistic Smile
+Card No.:GGO/S59-TE20
+Rarity:TD
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

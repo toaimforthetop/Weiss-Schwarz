@@ -1,0 +1,16 @@
+Card Name:
+English Name:Adamantite-Class Adventurer
+Card No.:OVL/S62-E097
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Do you actually believe he’s the same level as the strongest adventurers in the world?
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you have 4 or more blue or 《Raven Black》 characters, choose 1 《Blue Rose》 character in your clock, and return it to your hand. Put this card into your memory.

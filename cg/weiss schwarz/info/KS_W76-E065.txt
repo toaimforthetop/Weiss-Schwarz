@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Do-or-Die Confession" Yunyun
+Card No.:KS/W76-E065
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Kazuma: "Could you say that again for me?"
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Adventurer》 or 《Magic》 characters, this card gets +2000 power until end of turn.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

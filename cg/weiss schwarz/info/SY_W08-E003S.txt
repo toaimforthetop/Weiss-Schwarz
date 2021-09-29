@@ -1,0 +1,18 @@
+Card Name:
+English Name:Xmas Party, Kyon's Sister
+Card No.:SY/W08-E003S
+Rarity:SR
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I want cola!
+Trigger:
+Special Attribute:Animal・-
+Text:【AUTO】 Bond/ ""Usual" Kyon" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Usual" Kyon" in your waiting room, and return it to your hand)
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters with "Kyon" in its card name, and that character gets +1 soul until end of turn.
+Text:【AUTO】 [(5)] This ability activates up to one time per turn. When this card's battle opponent becomes 【REVERSE】, if the number of your other 《SOS Brigade》 characters is four or more, you may pay the cost. If you do, Stand@ this card.", '【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.

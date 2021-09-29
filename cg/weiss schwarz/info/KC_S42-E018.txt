@@ -1,0 +1,16 @@
+Card Name:
+English Name:16th Yugumo-class Destroyer, Asashimo
+Card No.:KC/S42-E018
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Me? Im heading out!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card.

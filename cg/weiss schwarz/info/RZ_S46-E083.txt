@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ground Dragon, Patrasche
+Card No.:RZ/S46-E083
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Dragon・Magic
+Text:【AUTO】 [(2) Return this card to your hand] When your other character becomes 【REVERSE】 in battle, if this card is on your back stage, you may pay the cost. If you do, return that character to your hand.
+Text:【AUTO】 Bond/"Subaru Natsuki" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Subaru Natsuki" in your waiting room, and return it to your hand)

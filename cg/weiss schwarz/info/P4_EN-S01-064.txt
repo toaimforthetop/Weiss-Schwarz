@@ -1,0 +1,16 @@
+Card Name:
+English Name:Like a Game, Adachi
+Card No.:P4/EN-S01-064
+Rarity:C
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Cmon… All I did was put people in here. I didn't murder them.
+Trigger:Soul
+Special Attribute:Police・Weapon
+Text:【AUTO】 [(3)] When this card attacks, if a card named "Will of the World" is in your climax area, you may pay the cost. If you do, choose one of your opponent\'s level 3 or lower characters on the center stage, and put it on the top of your opponent\'s deck.

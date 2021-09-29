@@ -1,0 +1,17 @@
+Card Name:
+English Name:Moblit
+Card No.:AOT/S50-E041
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hange!?
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 All of your other characters with "Hange(ハンジ)" in its card name get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to one character with "Hange(ハンジ)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.

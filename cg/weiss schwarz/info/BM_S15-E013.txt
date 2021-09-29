@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Not on Purpose"Mayoi Hachikuji
+Card No.:BM/S15-E013
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Sorry. I flubbed it.
+Trigger:
+Special Attribute:Strange・Spirit
+Text:[CONT] Assist All of your characters in front of this card get +500 power.
+Text:[ACT]［(2)］ Choose an opponent's level 0 or less character, and return it to your opponent's hand.

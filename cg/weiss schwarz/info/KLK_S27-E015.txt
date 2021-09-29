@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ryuko Living with the Mankanshoku Family
+Card No.:KLK/S27-E015
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Mako: "Don\'t just sit there, eat!"
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 When a card named "Let\'s Eat!" is placed on your climax area, if this card is in your center stage, reveal the top card of your deck. If the revealed card is a 《Clothes》 or 《Family》 character, all of your characters get +2000 power until end of turn. (The revealed card is returned to its original place)

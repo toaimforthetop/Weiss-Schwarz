@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kyon in the Clubroom
+Card No.:SY/W08-E010
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Im impressed that I adapted in this irrational space normally.
+Trigger:Soul
+Special Attribute:Mecha・SOS Brigade
+Text:【AUTO】 Change [Put this card into your clock] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named ""Usual" Kyon" in your waiting room, and put it on the stage position that this card was on.

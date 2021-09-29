@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unfortunate Reality, Da Vinci
+Card No.:FGO/S75-E089
+Rarity:C
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Huh?
+Trigger:
+Special Attribute:Chaldea・Genius
+Text:【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Chaldea》 or 《Babylonia》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【ACT】 [【REST】 2 of your characters]  Choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."

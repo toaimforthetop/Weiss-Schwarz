@@ -1,0 +1,16 @@
+Card Name:
+English Name:Morgana as MONA: The Phantom Guide
+Card No.:P5/S45-E054S
+Rarity:SR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"From now on, Im not goingto hold anything back.You'd better put someeffort in too! Don'tmake me regret my choice!
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.", '

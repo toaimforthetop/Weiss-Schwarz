@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Heroic Spirit" Caster
+Card No.:FS/S34-E076
+Rarity:RR
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Do you think you can escape?
+Trigger:Soul
+Special Attribute:Servant・Master
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, look at up to X cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Master》 or 《Servant》 characters you have. 【AUTO】 [(4) Put two cards from your hand into your waiting room] This ability activates up to one time per turn. When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.

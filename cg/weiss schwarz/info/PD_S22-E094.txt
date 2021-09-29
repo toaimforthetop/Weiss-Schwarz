@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Violet Butterfly"
+Card No.:PD/S22-E094
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Plant
+Text:-

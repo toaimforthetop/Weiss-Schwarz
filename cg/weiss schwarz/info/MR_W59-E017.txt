@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Magical Girl VS Series?" Holy Mami
+Card No.:MR/W59-E017
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:With an astral barrage from the Tiro-Saint Doppel, she clinches the battle!
+Trigger:
+Special Attribute:Magic・Skill
+Text:【CONT】 All of your other "Mami Tomoe" get +2000 power.
+Text:【ACT】 Resonate [(1) Reveal a card named "Mami Tomoe" in your hand & 【REST】 this card] Look at up to 4 cards from the top of your deck, choose up to 1 character with "Mami(マミ)" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

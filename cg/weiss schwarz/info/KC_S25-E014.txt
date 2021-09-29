@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Yugumo-class Destroyer, Yugumo
+Card No.:KC/S25-E014
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Both the admiral and Makigumo seem to like close contact.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】When another of your "2nd Yugumo-class Destroyer, Makigumo" attacks, this card gets +500 power and +1 soul until end of turn.

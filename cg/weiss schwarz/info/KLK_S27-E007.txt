@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fight Club Member, Ryuko
+Card No.:KLK/S27-E007
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Idiot! Snap out of it!
+Trigger:Soul
+Special Attribute:Clothes・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Clothes》 or 《Family》 characters.
+Text:【AUTO】 When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.", '

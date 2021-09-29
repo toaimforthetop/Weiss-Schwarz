@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Mischievous Battle" Chimi Eren
+Card No.:AOT/S50-E102
+Rarity:PR
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Ive gotta do what I can……
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Corps》 characters.

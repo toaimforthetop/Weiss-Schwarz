@@ -1,0 +1,16 @@
+Card Name:
+English Name:Overseer of the Holy Grail War, Kirei
+Card No.:FS/S34-E094
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:It chooses the Master who is worthy of it.
+Trigger:
+Special Attribute:Weapon・Priest
+Text:-

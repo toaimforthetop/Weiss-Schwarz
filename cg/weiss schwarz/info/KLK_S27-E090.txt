@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pervert During Every Change, Gamagoori
+Card No.:KLK/S27-E090
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Let me show you the true terror of the Shackle Regalia!
+Trigger:
+Special Attribute:Clothes・Discipline Committee
+Text:【AUTO】 When this card attacks, if a card named "Honnouji Academy Elite Four, Ultimate Battle Regalia!" is in your climax area, choose one of your other 《Clothes》 characters or character with "Mako(マコ)" in its card name, and that character gets +1500 power until end of your opponent\'s next turn.

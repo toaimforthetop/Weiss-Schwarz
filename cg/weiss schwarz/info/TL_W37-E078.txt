@@ -1,0 +1,16 @@
+Card Name:
+English Name:Worrying Nana
+Card No.:TL/W37-E078
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Alien・Animal
+Text:-

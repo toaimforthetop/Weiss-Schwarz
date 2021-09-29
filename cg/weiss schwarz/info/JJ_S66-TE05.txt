@@ -1,0 +1,17 @@
+Card Name:
+English Name:Accurate Shot, Mista
+Card No.:JJ/S66-TE05
+Rarity:TD
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Go, Six Bullets!
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 [(1) Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.", '

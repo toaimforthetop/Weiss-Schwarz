@@ -1,0 +1,17 @@
+Card Name:
+English Name:Aretenborough
+Card No.:GL/S52-E013
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You got it!
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 At the beginning of your climax phase, put the top card of your deck into your waiting room. If that card is a level 2 or higher character, choose one of your other characters, and that character gets +1 soul until end of turn.

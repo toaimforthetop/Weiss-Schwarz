@@ -1,0 +1,17 @@
+Card Name:
+English Name:Value of the Insignia, Felt
+Card No.:RZ/S55-E004
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"You just admitted that youre with them.
+Trigger:
+Special Attribute:Weapon・Fang Teeth
+Text:【CONT】 During your turn, all of your other yellow characters get +1000 power.
+Text:【CONT】 All of your other yellow characters get "【AUTO】 Encore [(2)]".

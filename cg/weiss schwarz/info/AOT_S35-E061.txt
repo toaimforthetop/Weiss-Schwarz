@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Awkward Affection" Mikasa
+Card No.:AOT/S35-E061
+Rarity:R
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"……Whatever happens. Dont get yourself killed……
+Trigger:
+Special Attribute:Corps・Weapon
+Text:[CONT] If you do not have another character with "Eren(エレン)" in its card name, this card cannot 【STAND】 during your stand phase.
+Text:[CONT] If you have another character with "Eren(エレン)" in its card name, this card gets +1500 power.
+Text:[AUTO] [(1)] When this card attacks, if a card named "I Can Hear His Heartbeat" is in your climax area, you may pay the cost. If you do, choose a character with "Eren(エレン)" in its card name in your waiting room, return it to your hand, and this card gets +1000 power until end of turn.

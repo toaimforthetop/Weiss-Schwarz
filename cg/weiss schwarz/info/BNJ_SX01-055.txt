@@ -1,0 +1,17 @@
+Card Name:
+English Name:Red Robin: Tea Ceremony
+Card No.:BNJ/SX01-055
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:Then it will truly earn the name, "The Field of Hell".
+Trigger:Soul
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 If you have 4 or more 《Weapon》 characters, this card gets -1 level while in your hand.
+Text:【CONT】 This card gets -2 level while on the stage.

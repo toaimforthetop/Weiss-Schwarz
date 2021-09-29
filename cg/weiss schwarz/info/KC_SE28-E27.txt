@@ -1,0 +1,17 @@
+Card Name:
+English Name:Final Mode, Light Cruiser Ogre in the Deep Sea
+Card No.:KC/SE28-E27
+Rarity:RR/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I wont… I won't let you…!
+Trigger:
+Special Attribute:Fleet in the Deep Sea・Ogre in the Deep Sea
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, until end of turn, you cannot use "【AUTO】 Encore". (You cannot use the "【AUTO】 Encore [(3)]" rule either)

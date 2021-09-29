@@ -1,0 +1,16 @@
+Card Name:
+English Name:King Kittan
+Card No.:GL/S52-E007
+Rarity:R
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Kittan: "Sorry to keep you waiting!"
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Beacon of Hope, Asuna
+Card No.:SAO/S26-E002
+Rarity:RR
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"---Lets go!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 This ability activates up to once per turn. During the turn that this card is placed on stage from your hand or by a "Change" effect, when damage dealt by this card is canceled, you may deal one damage to your opponent. （This damage may be canceled）
+Text:【AUTO】 When this card attacks, if a card named "On Top of the 《World Tree》" is in your climax area, until end of turn, all of your characters get +5000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, put that character into your opponent\'s stock."
+Text:【CONT】 All of your characters get +1000 power and +1 soul.（【DRAW】: When this card triggers, you may draw a card.)

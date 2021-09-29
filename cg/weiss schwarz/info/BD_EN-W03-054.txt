@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Rock and Glow" Moca Aoba
+Card No.:BD/EN-W03-054
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"You know, I think Im getting excited~.
+Trigger:Soul
+Special Attribute:Music・Afterglow
+Text:【AUTO】When a climax is placed on your climax area, this card gets +1500 power until end of turn.
+Text:【AUTO】When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.

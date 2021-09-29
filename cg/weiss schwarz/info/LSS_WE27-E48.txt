@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Escaping Reality" Dia Kurosawa
+Card No.:LSS/WE27-E48
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Huh? Where is the snack bar?
+Trigger:
+Special Attribute:Music・Swimsuit
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, search your deck for up to one blue character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【REST】 characters in your center stage, you may pay the cost. If you do, 【REST】 this card.

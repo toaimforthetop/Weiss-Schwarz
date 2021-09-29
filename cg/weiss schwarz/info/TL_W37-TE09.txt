@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Darkness” Yami
+Card No.:TL/W37-TE09
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Heh heh heh, Id love to meet that pervy boy…
+Trigger:Soul
+Special Attribute:Trans・Taiyaki
+Text:【AUTO】When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【AUTO】[Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, this card gets +3500 power until end of turn.

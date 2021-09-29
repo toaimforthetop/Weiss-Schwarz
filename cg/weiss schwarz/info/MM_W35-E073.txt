@@ -1,0 +1,16 @@
+Card Name:
+English Name:Conducting an Experiment, Kyubey
+Card No.:MM/W35-E073
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Now then, Homura Akemi. Reach out to Madoka Kaname for help.
+Trigger:
+Special Attribute:Alien・Magic
+Text:【AUTO】 [Put a 《Magic》 character from your stage into your waiting room] When this card attacks, if a card named "Law of the Cycle Observer" is in your climax area, you may pay the cost. If you do, this card gets +3500 power until the end of your opponent\'s next turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:DAI-GURREN
+Card No.:GL/S52-E072
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Team DAI-GURREN・-
+Text:【AUTO】  [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to two characters in your waiting room with "LAGANN(ラガン)" in its card name, return them to your hand, chooase one of your other 《Team DAI-GURREN》 characters, and that character gets +1000 power until end of turn.

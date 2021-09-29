@@ -1,0 +1,17 @@
+Card Name:
+English Name:On Stage, Silica
+Card No.:SAO/S51-E053
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Were going to sing together next!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(1) 【REST】 this card] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may choose a character in your waiting room, and return it to your hand."

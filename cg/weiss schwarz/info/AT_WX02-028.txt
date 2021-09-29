@@ -1,0 +1,18 @@
+Card Name:
+English Name:BMO: Noire
+Card No.:AT/WX02-028
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・-
+Text:【CONT】 If this card is in your stage, this card gets 《Detective》.
+Text:【CONT】 This card gets +2000 power for each of your other  "BMO: Noire" in your center stage.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "A Tough Case to Crack" is in your climax area, you may choose 1 of your opponent\'s characters, and return it to his or her hand.

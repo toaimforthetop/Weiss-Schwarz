@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Junsen Otsu-class Submarine, I-19-Kai
+Card No.:KC/S25-E021
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:"Admiral! Dont take your eyes off Iku!
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrying Submarine
+Text:【CONT】If the number of cards in your hand is three or less, this card gets +1500 power.
+Text:【AUTO】[(2) Put a 《Fleet Girl》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose one of your opponent's level 3 or lower characters in the center stage and one of your opponent's level 3 or lower characters in the back stage, and return them to your opponent's hand.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"My Own Pace" Moca Aoba
+Card No.:BD/EN-W03-052
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Our music? Uhh, if I could use one word, it would be "deep."
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】When this card attacks, if you have 2 or more other 《Music》 characters, this card gets +2000 power until end of turn.
+Text:【AUTO】Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as【REST】)

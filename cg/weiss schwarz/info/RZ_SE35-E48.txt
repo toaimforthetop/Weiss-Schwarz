@@ -1,0 +1,19 @@
+Card Name:
+English Name:Avenger, Chap
+Card No.:RZ/SE35-E48
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:5000
+Soul:2
+Flavor Text:Simple and clear. Because it gave me a chance to see you cry!
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 All of your opponent\'s characters with "Emilia (エミリア)" in its card name gain 《Witch》.
+Text:【CONT】 If there is a marker underneath this card, this card gets +2000 power and "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".
+Text:【CONT】 Experience This card gets +1500 power for each ""Mediator" Melaquera" in your level.
+Text:【AUTO】 When this card is placed on the stage from your hand or waiting room, you may choose 1 "Bandits in the Forest, Chap" in your waiting room, and put it face down underneath this card as a marker.

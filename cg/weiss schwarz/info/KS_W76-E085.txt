@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Devil King Army General" Sylvia
+Card No.:KS/W76-E085
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Seems like youve got some kind of scheme in mind.
+Trigger:
+Special Attribute:Devil King Army・-
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Devil King Army Invades!" in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card attacks, choose 1 of your other  《Devil King Army》 characters or characters with "Kazuma(カズマ)" in its card name, and that character gets +X power until end of turn. X is equal to the number of other  《Devil King Army》 characters or characters with "Kazuma(カズマ)" in its card name you have ×500.

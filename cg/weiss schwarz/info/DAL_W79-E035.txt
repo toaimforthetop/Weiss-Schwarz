@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reason for Wanting Time Together, Yoshino
+Card No.:DAL/W79-E035
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Thats... not it…
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Date》 or 《Celestial Spirit》 character, this card\'s soul does not decrease by side attacking until end of turn. (Return the revealed card to its original place)【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Choose 1 《Date》 or 《Celestial Spirit》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."

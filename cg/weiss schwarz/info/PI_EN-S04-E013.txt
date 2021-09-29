@@ -1,0 +1,16 @@
+Card Name:
+English Name:In a Pinch! Kuro
+Card No.:PI/EN-S04-E013
+Rarity:U
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:…Ha!?
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【CONT】 During this card\'s battle, you cannot play event cards and "Backup" from your hand.

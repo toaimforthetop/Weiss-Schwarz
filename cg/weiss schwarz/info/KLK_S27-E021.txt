@@ -1,0 +1,18 @@
+Card Name:
+English Name:Ragyo Plots Cocoon Sphere Birth
+Card No.:KLK/S27-E021
+Rarity:RR
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:This shows that Satsuki was never worthy to be a vessel of the Life Fibers.
+Trigger:
+Special Attribute:Clothes・CEO
+Text:【CONT】 This card gets +1 level and +2000 power for each marker underneath this card.
+Text:【AUTO】 When this card is placed on stage from your hand, you may put a marker from underneath a card named "Great Spirit, Satsuki" underneath this card as a marker.
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Shinra Koketsu, Absolute Submission!" is in your climax area, you may pay the cost. If you do, choose a 《Clothes》 character in your waiting room, and put it face down underneath this card as a marker.

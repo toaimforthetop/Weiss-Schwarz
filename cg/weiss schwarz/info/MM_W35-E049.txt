@@ -1,0 +1,16 @@
+Card Name:
+English Name:Homura's Confrontation with Mami
+Card No.:MM/W35-E049
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"In terms of endurance, Im better than you.
+Trigger:
+Special Attribute:Magic・Time
+Text:

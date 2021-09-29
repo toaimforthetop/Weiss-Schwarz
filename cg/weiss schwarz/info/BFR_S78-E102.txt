@@ -1,0 +1,17 @@
+Card Name:
+English Name:Winning Formula, Maple
+Card No.:BFR/S78-E102
+Rarity:C
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:"Dont worry, it's non-piercing!
+Trigger:Soul
+Special Attribute:Game・Shield
+Text:【CONT】 Assist All of your 《Game》 characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +1000 power until end of turn.

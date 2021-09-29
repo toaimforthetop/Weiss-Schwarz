@@ -1,0 +1,16 @@
+Card Name:
+English Name:Normal Girl, Kanade
+Card No.:AB/W31-E027
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:You say the strangest things…
+Trigger:Soul
+Special Attribute:Death・Student Council
+Text:[AUTO] Change [(1) Put a card from your hand into your waiting room & Put this card into your memory] At the beginning of your encore step, if this card is [REST], you may pay the cost. If you do, choose a card named "Parting Words, Kanade" in your waiting room, and put it on the stage position that this card was on.

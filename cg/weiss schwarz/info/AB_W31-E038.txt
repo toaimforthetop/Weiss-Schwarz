@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kanade & Otonashi
+Card No.:AB/W31-E038
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Otonashi: "Because I love you so much, Kanade."
+Trigger:
+Special Attribute:Death・Student Council
+Text:[ACT] [(1)] This card gets +X power until end of turn. X is equal to 500 multiplied by the number of your 《Death》 characters.

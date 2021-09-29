@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pure and Innocent, Narancia
+Card No.:JJ/S66-TE16
+Rarity:TD
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Whered you hide that kind of fortune, Bucciarati?
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Golden Wind》 characters, this card gets +2000 power until end of turn.

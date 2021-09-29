@@ -1,0 +1,18 @@
+Card Name:
+English Name:Memories of Japan, Shizu
+Card No.:TSK/S70-E066S
+Rarity:RR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"I\'m not a bad slime."
+Trigger:Soul
+Special Attribute:Demon Continent・Mask
+Text:【CONT】 Memory If there are 2 or more ""Conqueror of Flames" Shizu" in your memory, this card gets -1 level while in your hand.
+Text:【CONT】 If you have 2 or more other 《Demon Continent》 characters, this card gets +1500 power and "【AUTO】 Encore [Put 1 《Demon Continent》 character from your hand into your waiting room]".
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Blue Roses in Harmony" Sayo Hikawa
+Card No.:BD/EN-W03-093
+Rarity:R
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:How is it, Minato-san? Was I helpful at all?
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】When this card attacks, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】When this card becomes【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.

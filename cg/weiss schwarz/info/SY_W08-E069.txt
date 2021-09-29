@@ -1,0 +1,18 @@
+Card Name:
+English Name:Trouble Girl, Haruhi
+Card No.:SY/W08-E069
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Hey, Kyon! What else do you think we need?
+Trigger:Soul
+Special Attribute:Brigade Leader・Book
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card attacks, if a card named "Someday in the Rain" is in your climax area, you may deal one damage to your opponent. (This damage may be canceled)
+Text:-

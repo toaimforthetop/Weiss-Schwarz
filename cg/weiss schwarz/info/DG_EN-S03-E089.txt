@@ -1,0 +1,18 @@
+Card Name:
+English Name:Demon and Angel Bond
+Card No.:DG/EN-S03-E089
+Rarity:CC
+Expansion:Disgaea
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Valvatorez: "Woman…… why did you protect me?"
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:(: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)
+Text:【CONT】 All of your characters get +2 soul.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ordinary Cleric
+Card No.:DG/EN-S03-E060
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Feel free to call me if you get hurt.
+Trigger:
+Special Attribute:God・Magic
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your characters, and that character gets +2000 power until end of turn.

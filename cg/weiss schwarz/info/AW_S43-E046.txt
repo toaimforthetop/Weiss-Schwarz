@@ -1,0 +1,16 @@
+Card Name:
+English Name:Summer Festival, Chiyuri
+Card No.:AW/S43-E046
+Rarity:C
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sports・Net
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have another card named "Humming, Lime Bell", 【REST】 this card.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"I Am Called" Dodonko
+Card No.:KS/W76-E061
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Foremost among the Crimson Demons at… at…
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of characters in your opponent's center stage is 1 or less, choose 1 cost 0 or lower character on your opponent's center stage, and put it into his or her waiting room.
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 《Magic》 character in your waiting room, and return it to your hand.", '

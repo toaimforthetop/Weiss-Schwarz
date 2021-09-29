@@ -1,0 +1,16 @@
+Card Name:
+English Name:Melting Ice-cream
+Card No.:TL/W37-TE21
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Huh!?
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters, and that character gets +3500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Combat Rations
+Card No.:KC/S42-E097
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Being hungry is kind of…… Lets make sure to fill our stomachs before battle.
+Trigger:
+Special Attribute:
+Text:Put the top card of your deck into your clock. If that card is a 《Fleet Girl》 character, draw up to three cards, choose a card in your hand, and put it into your waiting room.Put this card into your memory.

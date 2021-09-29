@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Sitting” Momo
+Card No.:TL/W37-E060R
+Rarity:R
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Thats just like Rito!
+Trigger:
+Special Attribute:Alien・Plant
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a level 1 or lower 《Alien》 or 《Plant》 character in your waiting room, and put it on any position of your stage.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

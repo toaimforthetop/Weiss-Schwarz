@@ -1,0 +1,16 @@
+Card Name:
+English Name:Anti-Titan Device "Snap Blade"
+Card No.:AOT/S35-E082a
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Come and find me so I can protect you!
+Trigger:
+Special Attribute:
+Text:Choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room.

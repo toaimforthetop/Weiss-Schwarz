@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mini Dia
+Card No.:LSS/WE27-E63
+Rarity:PR
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, and put it into your waiting room.", '

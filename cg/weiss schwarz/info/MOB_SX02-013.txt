@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reigen: Creepy Warning
+Card No.:MOB/SX02-013
+Rarity:C
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Be careful at night.
+Trigger:
+Special Attribute:Master・-
+Text:-

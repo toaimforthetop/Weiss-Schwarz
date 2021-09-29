@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sayaka's Blank Stare
+Card No.:MM/W17-E086S
+Rarity:SR
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:SECRET
+Trigger:Soul
+Special Attribute:Magic・Love
+Text:【CONT】 During your opponent's turn, all of your other characters get +1000 power.", '【AUTO】［(1) Put this card into your waiting room］ When a card named "I was stupid, so stupid" is placed on your climax area, you may pay the cost. If you do, choose a card named ""Mermaid Witch"" or "Sayaka Getting Hurt in the Fight" in your waiting room, put it on the stage position that this card was on, draw a card, and that character gets +1500 power until end of your opponent\'s next turn. 

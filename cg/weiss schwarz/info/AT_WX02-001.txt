@@ -1,0 +1,18 @@
+Card Name:
+English Name:Finn the Human & Jake the Dog
+Card No.:AT/WX02-001
+Rarity:RR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【CONT】 Experience If the total level of cards in your level is 4 or higher, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if "The Call of Adventure" is in your climax area, and all of your characters are 《Ooo》, you may pay the cost. If you do, this card gets the following 2 abilities until end of turn. "【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent." "【AUTO】 At the end of this card\'s attack, deal 2 damage to your opponent." (Damage may be canceled)

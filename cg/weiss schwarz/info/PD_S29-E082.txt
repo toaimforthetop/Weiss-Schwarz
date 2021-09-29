@@ -1,0 +1,16 @@
+Card Name:
+English Name:Blackjack
+Card No.:PD/S29-E082
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:制約の犬に\u3000今ナイフを突き刺して現実を睨む手前\u3000『もう一回』
+Trigger:
+Special Attribute:
+Text:Brainstorm Reveal five cards from the top of your deck, and put them into your waiting room. Deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (This damage may be canceled)

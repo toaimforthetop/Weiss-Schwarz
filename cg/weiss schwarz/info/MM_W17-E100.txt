@@ -1,0 +1,16 @@
+Card Name:
+English Name:Miracles and magic are real
+Card No.:MM/W17-E100
+Rarity:CC
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:This is the end for you---!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul. 

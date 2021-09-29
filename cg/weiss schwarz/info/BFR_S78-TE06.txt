@@ -1,0 +1,16 @@
+Card Name:
+English Name:Assertive, Yui
+Card No.:BFR/S78-TE06
+Rarity:TD
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:What a nice place this is.
+Trigger:Soul
+Special Attribute:Game・Twins
+Text:【CONT】 This card gets +2500 power for each other 《Game》 character in your back stage.

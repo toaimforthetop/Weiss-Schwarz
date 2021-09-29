@@ -1,0 +1,16 @@
+Card Name:
+English Name:First Job, Minami
+Card No.:IMC/W41-TE50
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Heart~
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Sports
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

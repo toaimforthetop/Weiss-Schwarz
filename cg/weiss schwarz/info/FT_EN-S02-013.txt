@@ -1,0 +1,17 @@
+Card Name:
+English Name:S-class Wizard, Mystogan
+Card No.:FT/EN-S02-013
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:I shall return.
+Trigger:Soul
+Special Attribute:Magic・Mystery
+Text:【CONT】 Assist All of your level 2 or higher characters in front of this card get +1000 power.
+Text:【ACT】 [(1) 【REST】 this card] Choose one of your opponent's level 0 or lower characters, and return it to your opponent's hand.", '

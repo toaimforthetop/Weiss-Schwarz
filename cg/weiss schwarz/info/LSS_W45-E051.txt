@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Disappearance of the Subject" You Watanabe
+Card No.:LSS/W45-E051
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Huh?
+Trigger:Soul
+Special Attribute:Music・Camera
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【ACT】 [【REST】 two of your 《Music》 characters] This card gets +2500 power until end of turn.

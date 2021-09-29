@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Convenient Transportation Magic" Wiz
+Card No.:KS/W76-E043
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:You need me to send you near the Crimson Demon Village, then?
+Trigger:Soul
+Special Attribute:Death・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 《Adventurer》 or 《Magic》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 [(3)] When this card attacks, you may pay the cost. If you do, put 4 cards from the bottom of your opponent's deck into his or her waiting room, and deal X damage to your opponent. X is equal to the number of climax revealed among those cards. (Damage may be canceled)", '

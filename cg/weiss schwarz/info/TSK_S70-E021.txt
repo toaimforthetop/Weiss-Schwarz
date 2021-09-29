@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Grandmaster" Yuuki
+Card No.:TSK/S70-E021
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:What magic did you use to make this, Master?!
+Trigger:
+Special Attribute:Demon Continent・-
+Text:-

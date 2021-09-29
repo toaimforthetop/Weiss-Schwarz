@@ -1,0 +1,16 @@
+Card Name:
+English Name:Second-year of Mitakihara Middle School, Sayaka
+Card No.:MM/W17-TE11
+Rarity:TD
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Picking up where you left off yesterday?
+Trigger:
+Special Attribute:Magic・Love
+Text:-

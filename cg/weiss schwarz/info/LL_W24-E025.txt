@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mermaid festa vol.2
+Card No.:LL/W24-E025
+Rarity:CC
+Expansion:Love Live!
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】All of your characters gets +2 soul.

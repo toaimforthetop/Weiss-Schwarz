@@ -1,0 +1,16 @@
+Card Name:
+English Name:63nd Netherworld President,Axel
+Card No.:DG/EN-S03-E137
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Now, prepare to be enraptured by my voice! And my song!!
+Trigger:
+Special Attribute:Demon・Dark Hero
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card on the bottom of your deck. 【ACT】 [【REST】 two of your 《Demon》 characters] Choose one of your characters, and that character gets +2000 power until end of turn.

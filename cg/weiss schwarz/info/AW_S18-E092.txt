@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Bouncer》 Aqua Current
+Card No.:AW/S18-E092
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:And now, I’m going to strip you of all your points. 
+Trigger:
+Special Attribute:Avatar・Water
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

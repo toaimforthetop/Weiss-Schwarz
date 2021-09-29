@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Great Holy Grail War" Shirou
+Card No.:APO/S53-E026SP
+Rarity:SP
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Master・Servant
+Text:【AUTO】 【CXCOMBO】 [Return this card to your hand] When a card named "Hanging Gardens of Babylon" is placed on your climax area, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room.
+Text:【ACT】 [【REST】 this card] Choose one of your characters, and that character gets +1000 power until end of turn.

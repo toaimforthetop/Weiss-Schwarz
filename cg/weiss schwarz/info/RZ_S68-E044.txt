@@ -1,0 +1,16 @@
+Card Name:
+English Name:Precious Alcohol, Ram
+Card No.:RZ/S68-E044
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:500
+Soul:1
+Flavor Text:"I heard that Roswaal-samas grandmother was a heavy drinker.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 When you use this card\'s "Backup", reveal the top card of your deck. If that card is a 《Memory Snow》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return the revealed card to its original place)【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)

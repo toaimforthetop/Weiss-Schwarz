@@ -1,0 +1,18 @@
+Card Name:
+English Name:Shout Out to You
+Card No.:LL/W36-TE21
+Rarity:SR
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Honoka: "You know, I love to move and work out.\u3000Let\'s do our best today!"
+Trigger:Soul・Shot
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul. 
+Text:( : During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal one damage to your opponent.)
+Text:Search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck. Choose one of your characters, and that character gets +2000 power until end of turn.

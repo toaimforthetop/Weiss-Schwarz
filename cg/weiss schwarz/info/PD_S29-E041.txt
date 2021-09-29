@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Noble"
+Card No.:PD/S29-E041
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

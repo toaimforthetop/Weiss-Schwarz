@@ -1,0 +1,16 @@
+Card Name:
+English Name:Camp with Everyone, Chieri
+Card No.:IMC/W41-E069
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Clover
+Text:-

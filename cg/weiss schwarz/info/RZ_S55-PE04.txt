@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spring's Best Shot, Emilia & Rem
+Card No.:RZ/S55-PE04
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 When your other 《Magic》 or 《Weapon》 character attacks, this card gets +1500 power until end of turn.

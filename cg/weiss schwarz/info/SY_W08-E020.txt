@@ -1,0 +1,18 @@
+Card Name:
+English Name:Camp Night
+Card No.:SY/W08-E020
+Rarity:U
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:The first day ended, with nothing unusual.
+Trigger:
+Special Attribute:
+Text:Reveal the top card of your deck. If that card is a 《SOS Brigade》 character, you may draw a card. (If it is not, the revealed card is returned to its original place)
+Text:All of your 《SOS Brigade》 characters get +1 soul until end of turn.
+Text:-

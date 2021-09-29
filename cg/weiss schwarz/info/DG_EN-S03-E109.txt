@@ -1,0 +1,18 @@
+Card Name:
+English Name:Vyers, the Dark Adonis Mid-Boss
+Card No.:DG/EN-S03-E109
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Laharl: "I don\'t care what your name is. I\'m calling you \'Mid-Boss\'."
+Trigger:
+Special Attribute:Demon・Will
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you may return this card to your deck. If you do, shuffle your deck.
+Text:【CONT】 If you have a card named "Prince Laharl of the Netherworld" in your waiting room, this card gets +2000 power.

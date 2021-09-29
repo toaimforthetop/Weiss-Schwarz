@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mini Sakura: Pink Dress
+Card No.:CCS/WX01-103
+Rarity:PR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:It’s been a long time since I’ve used this.
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 If the character facing this card is cost 0 or lower, this card cannot become 【REVERSE】.

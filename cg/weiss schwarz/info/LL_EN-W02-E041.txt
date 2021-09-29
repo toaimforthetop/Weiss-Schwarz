@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Shrine Maiden Outfit” Nozomi Tojo
+Card No.:LL/EN-W02-E041
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"The Gods are forgiving types, so its alright to relax a bit☆
+Trigger:
+Special Attribute:Music・Shrine Maiden
+Text:【CONT】 This card gets +500 power for each of your other level 0 or lower characters.

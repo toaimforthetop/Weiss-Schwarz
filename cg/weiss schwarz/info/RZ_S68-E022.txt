@@ -1,0 +1,17 @@
+Card Name:
+English Name:Delightful Banquet, Ram
+Card No.:RZ/S68-E022
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 character with "Memory", reveal it to your opponent, put it into your hand, and shuffle your deck.

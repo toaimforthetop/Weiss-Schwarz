@@ -1,0 +1,16 @@
+Card Name:
+English Name:Image Change, Kotori
+Card No.:LL/W34-E059
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Ill cover you in heart-shaped marks with my shots. I'm Kotori Minami!
+Trigger:
+Special Attribute:Music・Sports
+Text:

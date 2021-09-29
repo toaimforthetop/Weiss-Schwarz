@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bold Tactic, Fukaziroh
+Card No.:GGO/S59-E041
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Then Ill empty my clip!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)

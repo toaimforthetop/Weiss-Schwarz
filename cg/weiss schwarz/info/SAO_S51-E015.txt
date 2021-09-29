@@ -1,0 +1,16 @@
+Card Name:
+English Name:Thrusting Gale, Asuna
+Card No.:SAO/S51-E015
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Be careful, Kirito.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:-

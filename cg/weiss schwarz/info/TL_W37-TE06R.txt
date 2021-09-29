@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Doubtful Heart” Mea
+Card No.:TL/W37-TE06R
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"Why wont you appear? Master…… 
+Trigger:Soul
+Special Attribute:Trans・Sweets
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【ACT】 (2) 【REST】 two of your characters] Look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.", '

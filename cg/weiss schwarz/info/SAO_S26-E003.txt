@@ -1,0 +1,18 @@
+Card Name:
+English Name:Asuna's Special Moment
+Card No.:SAO/S26-E003
+Rarity:R
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:These two years have been very important to me. They seem that way now.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your turn, all of your other characters get +500 power.
+Text:【ACT】 [【REST】 two of your characters] Choose one of your 《Avatar》 characters, and that character gets +1000 power until end of turn.
+Text:【CONT】 All of your characters get +1000 power and +1 soul.（【DRAW】: When this card triggers, you may draw a card.)

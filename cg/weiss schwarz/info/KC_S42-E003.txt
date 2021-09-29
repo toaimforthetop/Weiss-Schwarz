@@ -1,0 +1,17 @@
+Card Name:
+English Name:During the Festival, Urakaze
+Card No.:KC/S42-E003
+Rarity:R
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Admiral, Im pretty good at Festival shooting booths.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 This card gets +500 power for each of your other 《Destroyer》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

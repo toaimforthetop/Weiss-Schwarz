@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sister-In-Training" Linel Synthesis Twenty-Eight
+Card No.:SAO/S65-E042
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"I-Im Linel.
+Trigger:
+Special Attribute:Fluctlight・Integrity Knight
+Text:【CONT】 The character facing this card cannot move to another position on the stage.

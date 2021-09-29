@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Sakura Michelle" Misaki Okusawa
+Card No.:BD/EN-W03-013
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"Listen, you two. There arent any comebacks in sakura parties... It's not a competition where you get a point for every petal you hit each other with, either.
+Trigger:Soul
+Special Attribute:Music・Hello, Happy World!
+Text:【CONT】All of your other ""Hanasakigawa Dimension" Kokoro Tsurumaki" gets +1000 power.
+Text:【CONT】Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】Bond/""Hanasakigawa Dimension" Kokoro Tsurumaki" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 ""Hanasakigawa Dimension" Kokoro Tsurumaki" in your waiting room, and return it to your hand)

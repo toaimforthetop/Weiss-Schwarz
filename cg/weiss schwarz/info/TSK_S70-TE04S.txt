@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reincarnated From Another World, Rimuru
+Card No.:TSK/S70-TE04S
+Rarity:SR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Ill give you names to prove you're my subordinates.
+Trigger:
+Special Attribute:Demon Continent・Slime
+Text:【CONT】 This card gets +500 power for each of your other 《Demon Continent》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Naming" is in your climax area, reveal the top card of your deck. If that card is a 《Demon Continent》 character, put it into your hand. (Otherwise, return the card to its original place)

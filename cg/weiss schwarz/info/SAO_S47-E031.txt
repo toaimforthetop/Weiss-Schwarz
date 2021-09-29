@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yuuki's Raised Antenna
+Card No.:SAO/S47-E031
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I picked ya, cuz you're the only one who can help us.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other "Asuna Joins a Party" get +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 Bond/"Asuna Joins a Party" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Asuna Joins a Party" in your waiting room, and return it to your hand.)

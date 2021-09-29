@@ -1,0 +1,17 @@
+Card Name:
+English Name:Park Date, Asuna
+Card No.:SAO/S51-E004
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:About that promise we made…
+Trigger:
+Special Attribute:Net・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 Bond/""Link Strike" Kirito" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Link Strike" Kirito" in your waiting room, and return it to your hand.)

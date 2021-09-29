@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swimsuit, Yui
+Card No.:BFR/S78-E011
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Dont forget us! Splash!
+Trigger:
+Special Attribute:Game・Twins
+Text:【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.
+Text:【AUTO】 When damage dealt by this card is canceled, you may return the top card of your stock to your hand.

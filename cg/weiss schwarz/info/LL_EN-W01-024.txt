@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Destiny Card" Nozomi
+Card No.:LL/EN-W01-024
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:" If youre looking for a card reading, leave it to me-♪
+Trigger:
+Special Attribute:Music・Dealer
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 【AUTO】 When this card attacks, choose up to two of your 《Music》 characters, and those characters get +500 power until end of turn.

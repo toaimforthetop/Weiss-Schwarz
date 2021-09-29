@@ -1,0 +1,18 @@
+Card Name:
+English Name:Burdened by Fate, Goblin Slayer
+Card No.:GBS/S63-E034PR
+Rarity:SR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Youre just a goblin. Just a filthy little goblin.
+Trigger:Soul
+Special Attribute:Order・Weapon
+Text:【CONT】 If you have 4 or more 《Order》 characters, this card gets -1 level while in your hand.
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 event card, reveal it to your opponent, put it into your hand, and shuffle your deck. 

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hyoizaburo & Yuiyui
+Card No.:KS/W76-E059
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Yuiyui: "Stop! No more flipping the table and breaking it! We don\'t have that kind of money! Stop!"
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 Your other 《Adventurer》 or 《Magic》 character in the middle position of your center stage gets +1000 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 character with "Megumin(めぐみん)" or "Komekko(こめっこ)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.

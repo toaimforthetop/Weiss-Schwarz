@@ -1,0 +1,16 @@
+Card Name:
+English Name:Junko Kaname
+Card No.:MM/W17-E049
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"A womans appearance is the one thing she can't afford to get looked down at.
+Trigger:Soul
+Special Attribute:
+Text:【CONT】 All of your other characters with "Madoka" in its card name get +1000 power. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Moodmaker, Shu
+Card No.:NK/W30-E090
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Raku: "Why, you…… You schemed to make this happen, you bastard……!!"
+Trigger:
+Special Attribute:Glasses・-
+Text:【AUTO】 Bond／"Wonderful Darling!? Raku" [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Wonderful Darling!? Raku" in your waiting room, and return it to your hand.)

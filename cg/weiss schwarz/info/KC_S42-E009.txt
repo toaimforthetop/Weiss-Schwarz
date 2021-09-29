@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Yugumo-class Destroyer, Kazagumo
+Card No.:KC/S42-E009
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Admiral… did you call for me?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 Your other character in the middle position of the center stage gets +1000 power.
+Text:【AUTO】 When a climax is put on your climax area, reveal the top card of your deck. If that card is a 《Fleet Girl》 character, choose one of your characters, and that character gets +1 soul until end of turn. (The revealed card is returned to its original place)

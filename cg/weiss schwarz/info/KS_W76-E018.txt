@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Mind-Reading Demon" Vanir
+Card No.:KS/W76-E018
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"You cant hide the truth from a demon that reads minds.
+Trigger:
+Special Attribute:Mask・Magic
+Text:【AUTO】 When this card attacks or becomes 【REVERSE】, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kagamine Len "School Jersey"
+Card No.:PD/S29-E014
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Sports
+Text:-

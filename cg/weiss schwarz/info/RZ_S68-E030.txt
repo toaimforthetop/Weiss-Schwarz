@@ -1,0 +1,17 @@
+Card Name:
+English Name:Presented by Me! Subaru
+Card No.:RZ/S68-E030
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Well, its a gorgeous, one-of-a-kind item presented by me.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 All of your other 《Memory Snow》 characters get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1 level until end of turn.

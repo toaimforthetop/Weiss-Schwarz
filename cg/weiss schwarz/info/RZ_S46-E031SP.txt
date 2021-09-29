@@ -1,0 +1,18 @@
+Card Name:
+English Name:Cute Girl, Beatrice
+Card No.:RZ/S46-E031SP
+Rarity:SP
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Book
+Text:【CONT】 If all of your characters are 《Magic》 or 《Weapon》, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 Memory [(1)] At the beginning of your opponent\'s attack phase, if you have a card named "Forbidden Library" in your memory, you may pay the cost. If you do, choose one of your other 《Magic》 or 《Weapon》 characters and this card, exchange them as 【STAND】, and this card getes +1000 power until end of turn.

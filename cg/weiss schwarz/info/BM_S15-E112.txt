@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Scathing Words"Hitagi Senjyogahara
+Card No.:BM/S15-E112
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Strange・Stationery
+Text:

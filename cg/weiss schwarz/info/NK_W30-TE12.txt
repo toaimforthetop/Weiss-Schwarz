@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kosaki in Denial
+Card No.:NK/W30-TE12
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Ichijo… you did make a promise to someone, right?
+Trigger:
+Special Attribute:Sweets・Key
+Text:-

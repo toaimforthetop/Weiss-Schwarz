@@ -1,0 +1,17 @@
+Card Name:
+English Name:Finn: Heroic Pose
+Card No.:AT/WX02-003
+Rarity:RR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Hero
+Text:【CONT】 During your turn, if you have 2 or more other 《Ooo》 characters, this card gets +2000 power.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.

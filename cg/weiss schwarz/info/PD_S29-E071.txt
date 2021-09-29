@@ -1,0 +1,16 @@
+Card Name:
+English Name:Megurine Luka "Hard Rock"
+Card No.:PD/S29-E071
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)

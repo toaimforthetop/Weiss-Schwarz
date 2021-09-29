@@ -1,0 +1,16 @@
+Card Name:
+English Name:"In Ecstasy" Darkness
+Card No.:KS/W55-E024
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Not only that, but while in that state, Ill be chased by a bunch of lus―!!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may choose a character on your opponent's center stage, and move it to an open position of his or her center stage.", '

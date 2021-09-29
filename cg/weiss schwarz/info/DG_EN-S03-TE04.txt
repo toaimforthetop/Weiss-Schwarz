@@ -1,0 +1,19 @@
+Card Name:
+English Name:“Pinch Revival” Pure Flonne
+Card No.:DG/EN-S03-TE04
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Pure Flonne\'s angel skill, "Love Negotiation" should be able to persuade them!
+Trigger:
+Special Attribute:Angel・Love
+Text:【CONT】 If there is a marker underneath this card, this card gets +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your waiting room, you may choose an 《Angel》 character in your waiting room, and put it face down underneath this card as a marker.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 [Put this card into your waiting room] When a card named "Netherworld Wrapped in Love" is placed on your climax area, you may pay the cost. If you do, choose a card named "“Pinch Revival” Pure Flonne" in your waiting room, and put it on this card\'s previous stage position.

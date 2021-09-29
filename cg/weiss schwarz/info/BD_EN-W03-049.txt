@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Leader Of The Group!" Himari Uehara
+Card No.:BD/EN-W03-049
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Im also kind of the band's leader, too.Though I may not look too reliable…
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】When this card attacks, if you have 2 or more other 《Music》 characters, this card gets +2000 power until end of turn.

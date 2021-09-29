@@ -1,0 +1,17 @@
+Card Name:
+English Name:Two-Face Castle
+Card No.:BNJ/SX01-027
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"Your lucks run out.
+Trigger:Soul
+Special Attribute:Sengoku・Villain
+Text:【CONT】 If this card is in the left position of your back stage, all of your other 《Villain》 characters get +1000 power.
+Text:【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until the end of your opponent's next turn.

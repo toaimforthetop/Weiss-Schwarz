@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sports Girl, Suruga Kanbaru
+Card No.:BM/S15-E060
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・Sports
+Text:[AUTO] Change ［(2) Put this card into your waiting room］ At the beginning of your encore step, if this card is [REST], you may pay the cost. If you do, choose a card named "Demon\'s Left Hand, Suruga Kanbaru" in your waiting room, and put it on the stage position that this card was on.

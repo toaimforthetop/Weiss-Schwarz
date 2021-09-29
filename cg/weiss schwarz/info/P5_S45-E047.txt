@@ -1,0 +1,16 @@
+Card Name:
+English Name:Metaverse Navigator
+Card No.:P5/S45-E047
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:
+Trigger:
+Special Attribute:
+Text:Choose a level 1 or lower character in your clock, put it on any position of your stage, put the top card of your deck into your clock, and that character gets 《Thief》 until end of turn.

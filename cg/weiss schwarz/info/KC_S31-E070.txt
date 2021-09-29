@@ -1,0 +1,16 @@
+Card Name:
+English Name:3rd Nagara-class Light Cruiser, Natori-Kai
+Card No.:KC/S31-E070
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:E-Enemy Spotted! … Is it going to be a real battle!?
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【AUTO】 When this card attacks, choose one of your other 《Light Cruiser》 characters, and that character gets +1000 power until end of turn. ', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

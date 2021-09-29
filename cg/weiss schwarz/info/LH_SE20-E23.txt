@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dolled Up Akatsuki
+Card No.:LH/SE20-E23
+Rarity:C
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Henrietta: "Ah…… My exhaustion is flying away……"
+Trigger:
+Special Attribute:
+Text:Choose up to two characters in your waiting room, and return them to your hand. 

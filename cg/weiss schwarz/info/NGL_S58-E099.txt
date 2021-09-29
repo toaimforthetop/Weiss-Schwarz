@@ -1,0 +1,16 @@
+Card Name:
+English Name:Affection-Loaded Piece
+Card No.:NGL/S58-E099
+Rarity:CC
+Expansion:No Game No Life
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:And one… Everything I am…
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)

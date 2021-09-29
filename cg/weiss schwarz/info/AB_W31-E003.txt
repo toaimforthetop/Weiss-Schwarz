@@ -1,0 +1,16 @@
+Card Name:
+English Name:Battle Meeting, Kanade
+Card No.:AB/W31-E003
+Rarity:R
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:That plan sounds perfect for me.
+Trigger:
+Special Attribute:Death・Student Council
+Text:[CONT] If the number of other characters you have is one or less, this card gets +1000 power and the following ability. "[AUTO] Encore [Put a character from your hand into your waiting room]"

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Silica - Like a Date
+Card No.:SAO/S20-E055
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:……this is…… 
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 At the beginning of your climax phase, reveal the top card of your deck. If the revealed card is a climax, 【REST】 this card. （The revealed cards are returned to their original place.)

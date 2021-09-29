@@ -1,0 +1,18 @@
+Card Name:
+English Name:Intense Ire, Puck
+Card No.:RZ/S46-E080
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:6000
+Soul:2
+Flavor Text:"Cant you tell? Maybe it's cruel of me to ask that.
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If you do not have any other characters, this card gets +10000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand or attacks, put the top card of your deck underneath this card as a marker.
+Text:【AUTO】 At the end of your opponent's turn, if the number of markers underneath this card is three or more, choose a card in your hand, put it into your waiting room, put all markers underneath this card and all characters of all players except this card into their waiting room, and all players return all cards in their waiting room to their deck. All players shuffle their decks afterwards.", '

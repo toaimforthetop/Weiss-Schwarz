@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Midsummer Poolside” Haruna
+Card No.:TL/W37-TE14
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I should be more outgoing… 
+Trigger:
+Special Attribute:Sports・Animal
+Text:【AUTO】When this card is placed on the stage from your hand, choose one of your other characters, and that character gets +1 level and +1000 power until end of turn.

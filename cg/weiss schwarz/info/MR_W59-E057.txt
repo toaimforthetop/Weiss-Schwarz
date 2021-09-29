@@ -1,0 +1,17 @@
+Card Name:
+English Name:A New Story, Kyoko
+Card No.:MR/W59-E057
+Rarity:RR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"...Well, a free meals a free meal.
+Trigger:
+Special Attribute:Magic・Attack
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open middle position of your center stage.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

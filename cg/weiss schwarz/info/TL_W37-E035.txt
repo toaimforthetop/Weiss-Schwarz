@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Cute Pajamas” Mikan
+Card No.:TL/W37-E035
+Rarity:R
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:W-What… is going on?
+Trigger:
+Special Attribute:Housework・Bag
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a 《Trans》 or 《Housework》 character in your clock, return it to your hand, and put the top card of your deck into your clock.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Trans》 or 《Housework》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

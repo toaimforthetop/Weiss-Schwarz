@@ -1,0 +1,17 @@
+Card Name:
+English Name:Comrades of Mikazuki Villa, Iroha
+Card No.:MR/W80-E003SP
+Rarity:SP
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・Cooking
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of "Iroha\'s Doppel", you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 2 cards from your hand into your waiting room]  When this card attacks, if "To Cure Her Younger Sister\'s Disease" is in your climax area, you may pay the cost. If you do, declare 2 or 3 or 4, deal X damage to your opponent, and this card gets +4000 power until end of turn. X is equal to the number you declared. (Damage may be canceled)

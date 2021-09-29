@@ -1,0 +1,17 @@
+Card Name:
+English Name:"A New Quest" Kazuma
+Card No.:KS/W55-E017
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Goddess》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "To the Next Adventure!" is in your climax area, reveal the top card of your deck. If that card is an 《Adventurer》 or 《Goddess》 character, put it into your hand. (If it is not, return the revealed card to its original place)

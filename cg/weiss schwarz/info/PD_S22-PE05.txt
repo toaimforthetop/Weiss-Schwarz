@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Time Machine"Hatsune Miku
+Card No.:PD/S22-PE05
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Time
+Text:【AUTO】 At the beginning of your encore step, if a card named "Time Machine" is in your climax area, you may put this card into your memory. If you do, at the beginning of your next draw phase, choose a card named ""Time Machine"Hatsune Miku" in your memory, put it on any position of your stage, and that character gets +3500 power until end of turn. 

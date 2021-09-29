@@ -1,0 +1,18 @@
+Card Name:
+English Name:"The Glass Garden" Nozomi Tojo
+Card No.:LL/W34-E015
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 Your other character in the middle position of the center stage get +500 power.
+Text:【ACT】 [(2) 【REST】 this card] Search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "“Happy Maker!” Nico Yazawa" in your waiting room, and put it on the stage position that this card was on.

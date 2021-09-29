@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Saya
+Card No.:BD/W47-E123
+Rarity:PR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Okay. Can we pull it off?
+Trigger:Soul
+Special Attribute:Music・Bread
+Text:【AUTO】  This ability activates up to one time per turn. When you play an event, this card gets +2000 power until end of turn.
+Text:【ACT】  [【REST】  one of your 《Music》 characters] This card gets +1000 power until end of turn.

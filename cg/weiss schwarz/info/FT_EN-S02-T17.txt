@@ -1,0 +1,16 @@
+Card Name:
+English Name:Armor Wizard, Erza
+Card No.:FT/EN-S02-T17
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:I have returned. Where is Master Makarov?
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

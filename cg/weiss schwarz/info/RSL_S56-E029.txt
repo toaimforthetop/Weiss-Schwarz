@@ -1,0 +1,16 @@
+Card Name:
+English Name:Stubborn Spat
+Card No.:RSL/S56-E029
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:－
+Soul:0
+Flavor Text:Kaoruko: "You\'re just a backstabber!"Futaba: "Kaoruko, you\'re so stubborn!"
+Trigger:
+Special Attribute:－・－
+Text:【COUNTER】 Choose up to 1 character in battle with "Futaba(双葉)" or "Kaoruko(香子)" in its card name, return it to your hand, choose up to 1 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room.

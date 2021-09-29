@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Junsen Otsu-class Submarine, I-19
+Card No.:KC/S25-E026
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Alright! Iku, on my way!
+Trigger:
+Special Attribute:Fleet Girl・Submarine
+Text:【AUTO】When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Fleet Girl》 characters you have.
+Text:【AUTO】[Put a card from your hand into your waiting room & Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one "3rd Junsen Otsu-class Submarine, I-19-Kai" in your hand, and put it on this card\'s stage position as the defending character.

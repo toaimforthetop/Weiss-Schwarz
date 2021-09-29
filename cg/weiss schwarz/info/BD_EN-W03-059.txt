@@ -1,0 +1,16 @@
+Card Name:
+English Name:Autumn Moon Festival
+Card No.:BD/EN-W03-059
+Rarity:CC
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Climax
+Color:Green
+Level:－
+Cost:－
+Power:－
+Soul:0
+Flavor Text:Aya: "Alright, let\'s start the first Pastel＊Palettes moon-viewing party!"
+Trigger:Soul・Soul
+Special Attribute:－・－
+Text:【CONT】All of your characters get +2 soul.

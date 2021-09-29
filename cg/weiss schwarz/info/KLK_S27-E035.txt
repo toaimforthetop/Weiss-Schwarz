@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tennis Club President, Hakodate
+Card No.:KLK/S27-E035
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"So, youre saying that you want to face me, Tennis Club Captain Omiko Hakodate, in a tennis match!
+Trigger:
+Special Attribute:Clothes・Sports
+Text:-

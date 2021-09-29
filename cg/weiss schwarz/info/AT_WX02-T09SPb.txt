@@ -1,0 +1,18 @@
+Card Name:
+English Name:Finn & Jake: Heroes of Ooo
+Card No.:AT/WX02-T09SPb
+Rarity:SR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +1000 power.
+Text:【AUTO】 When damage dealt by this card is canceled, this card gets +2000 power until end of turn.
+Text:【AUTO】 [(1)] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Pervert” Suruga Kanbaru
+Card No.:NM/S24-TE11
+Rarity:TD
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2 
+Power:9000 
+Soul:2
+Flavor Text:Huh.
+Trigger:Soul
+Special Attribute:Strange・Sports
+Text:-

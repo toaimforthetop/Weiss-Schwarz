@@ -1,0 +1,16 @@
+Card Name:
+English Name:Pyro Dealer
+Card No.:AW/S18-E051
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Now I can go on forever…… Let’s just be honest, I’m unstoppable. 
+Trigger:
+Special Attribute:
+Text:Choose one of your characters, until end of turn, that character gets +3000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock." At the end of turn, put that character into your waiting room.

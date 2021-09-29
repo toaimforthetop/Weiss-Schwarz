@@ -1,0 +1,16 @@
+Card Name:
+English Name:First Steps, Kaede Azusagawa
+Card No.:SBY/W64-E010
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Im not alone anymore.
+Trigger:
+Special Attribute:Adolescence・Animal
+Text:【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 2 《Adolescence》 characters, reveal them to your opponent, put them into your hand, shuffle your deck, and this card gets +3000 power until end of turn.

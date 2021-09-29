@@ -1,0 +1,17 @@
+Card Name:
+English Name:Glitter of the Water's Surface, Alice
+Card No.:SAO/S65-E102
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:Right back at you!
+Trigger:Soul
+Special Attribute:Fluctlight・Sacred Arts
+Text:【CONT】 This card gets +1000 power for each of your other 《Fluctlight》 characters.
+Text:【AUTO】 Encore [Put 1 《Fluctlight》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Signature Statement" Yunyun
+Card No.:KS/W76-E042S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:That is my crimson fate!
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【CONT】 If you have 4 or more 《Adventurer》 or 《Magic》 characters, this card gets -1 level while in your hand.
+Text:【AUTO】 【CXCOMBO】 [Put 1 "Clap of Thunder" from your climax area into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 4 《Adventurer》 or 《Magic》 characters from among them, reveal them to your opponent, put them into your hand, and put the rest into your waiting room. 

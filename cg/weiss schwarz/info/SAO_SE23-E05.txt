@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sibling Moment, Suguha
+Card No.:SAO/SE23-E05
+Rarity:R
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Except this isnt similar, it's exactly the same, right?
+Trigger:Soul
+Special Attribute:Net・Sports
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【AUTO】 [(2) Put a card from your hand into your waiting room] When a card named "Fairy Dance" is placed on your climax area, you may pay the cost. If you do, choose a card named "Virtual and Reality, Leafa & Suguha" in your hand, and put it on any position of your stage.

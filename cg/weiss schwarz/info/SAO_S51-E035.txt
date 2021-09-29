@@ -1,0 +1,18 @@
+Card Name:
+English Name:《An Incarnate of the Radius》
+Card No.:SAO/S51-E035
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Enemy・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 【CXCombo】 [(2) Put four cards from your hand into your waiting room & Put a card named "White Holy Tree" from your climax area face down underneath this card as a marker] At the beginning of your encore step, if this card is in your center stage, you may pay the cost. If you do, put all the cards in your clock into your waiting room.
+Text:【AUTO】 【CXCombo】 [(6) Put three cards from your hand into your waiting room & Put a marker from underneath this card into your waiting room] At the beginning of your opponent\'s encore step, you may pay the cost. If you do, perform the following action two times. "Deal three damage to your opponent." (This damage may be canceled)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Bold Bluff" Kazuma
+Card No.:KS/W76-E021
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! Legend of Crimson
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:And even the mobile fortress, Destroyer. The four of us took them all down.
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.", '

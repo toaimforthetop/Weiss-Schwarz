@@ -1,0 +1,16 @@
+Card Name:
+English Name:Raku's Fiancee, Marika
+Card No.:NK/W30-E070
+Rarity:C
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"If only youd remember me, Master Raku, then I'm sure……!
+Trigger:Soul
+Special Attribute:Police・Key
+Text:【AUTO】 [Put a character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If not, put this card into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Taking Care of Juniors, Nozomi
+Card No.:LL/EN-W01-066
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Working hard, girls?
+Trigger:
+Special Attribute:Music・Fortune Telling
+Text:【CONT】 If the number of other characters in your center stage is one or less, this card gets +1000 power.

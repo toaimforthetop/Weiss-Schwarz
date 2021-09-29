@@ -1,0 +1,16 @@
+Card Name:
+English Name:Many Different Festivals, Eu
+Card No.:Fkz/W65-E005
+Rarity:R
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"An internet pitchfork mob festival due to a politician\'s wrongdoings and lies."
+Trigger:
+Special Attribute:Fantasia Bunko・Weapon・Death
+Text:【AUTO】 When this card is placed into your waiting room from the stage, look at up to 4 cards from the top of your deck, choose up to 1 yellow climax from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. If you put 1 card into your hand, choose 1 card in your hand, and put it into your waiting room.

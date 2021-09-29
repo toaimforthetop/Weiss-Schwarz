@@ -1,0 +1,17 @@
+Card Name:
+English Name:Asuna's Love, Kirito
+Card No.:SAO/S51-E080
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im taking the shortest route to take them all out!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.
+Text:【AUTO】 【CXCombo】 [(2)] At the beginning of your attack phase, if you do not have a climax in your climax area, you may pay the cost. If you do, search your deck for up to one card named "Perpetuation of the Promise", put it into your climax area, and shuffle your deck.

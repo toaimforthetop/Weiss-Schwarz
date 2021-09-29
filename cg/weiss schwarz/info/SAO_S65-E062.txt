@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Your Eminence, Prime Senator" Chudelkin
+Card No.:SAO/S65-E062
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Have you dealt with those rebels, Number Thirty-two?
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your opponent\'s stock into his or her waiting room. If you do, choose 1 card in your opponent\'s waiting room, and put it into his or her stock.
+Text:【AUTO】【ACT】 [Put this card into your waiting room] Choose 1 of your characters with "Administrator(アドミニストレータ)" or "Quinella(クィネラ)" in its card name, and 【STAND】 it.

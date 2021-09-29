@@ -1,0 +1,17 @@
+Card Name:
+English Name:Precious Presence, Fil
+Card No.:NGL/S58-E030
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Kurami cries just as soon as I take my eyes off of her, so I want to stay by her side.
+Trigger:Soul
+Special Attribute:Game・Elf
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 【CXCOMBO】 [(1)] When "The Promise Long Ago" is placed on your climax area, you may pay the cost. If you do, choose 1 of your opponent\'s characters, and move it to another open position of his or her stage.

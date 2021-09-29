@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Concurrent Strike!!” Wiz
+Card No.:KS/W49-E044
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Megumin, launch a concurrent strike!!……!?
+Trigger:Soul
+Special Attribute:Death・Magic
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 【CXCOMBO】 [(1) Put two cards from your hand into your waiting room] At the beginning of your attack phase, if a card named "Real Explosion Magic" is in your climax area, and you have another card named "Megumin", you may pay the cost. If you do, deal five damage to your opponent. (This damage may be canceled)

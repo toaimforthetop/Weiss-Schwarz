@@ -1,0 +1,17 @@
+Card Name:
+English Name:Firm Abilities, LAYER
+Card No.:BD/W73-TE10S
+Rarity:SR
+Expansion:BanG Dream! [RAISE A SUILEN]
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Its because they could feel how passionate you were.
+Trigger:Soul
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 During your turn, if you have 2 or more other 《Music》 characters, this card gets +2000 power.
+Text:【AUTO】 [(3) Put 1 card from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.

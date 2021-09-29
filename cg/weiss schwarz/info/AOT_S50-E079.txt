@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Noble Bloodline" Christa
+Card No.:AOT/S50-E079
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Hange: "You said your real name was Historia Reiss?"
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【CONT】 All of your other 《Corps》 characters get +1000 power.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Corps》 characters, and that character gets +1500 power until end of turn.

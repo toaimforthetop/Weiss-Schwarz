@@ -1,0 +1,16 @@
+Card Name:
+English Name:Student Council President, Kanade
+Card No.:AB/W31-E016
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Its like I'm the bad guy.
+Trigger:
+Special Attribute:Death・Student Council
+Text:[AUTO] [(1) Put a card from your hand to your waiting room & Put this card into your memory] When this card becomes [REVERSE] in battle, you may pay the cost. If you do, search your deck for up to one 《Student Council》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

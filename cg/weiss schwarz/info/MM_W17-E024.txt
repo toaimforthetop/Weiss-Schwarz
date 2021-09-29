@@ -1,0 +1,16 @@
+Card Name:
+English Name:Homura Watches Over
+Card No.:MM/W17-E024
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:She is the one person I absolutely cannot allow to make the contract.
+Trigger:
+Special Attribute:Magic・Time
+Text:【ACT】 Brainstorm ［(1) 【REST】 two of your characters］ Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Magic》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 

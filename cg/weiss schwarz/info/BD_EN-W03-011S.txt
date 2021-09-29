@@ -1,0 +1,17 @@
+Card Name:
+English Name:"The Magic of Smiles" Misaki Okusawa
+Card No.:BD/EN-W03-011S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"So I was just thinking, if I can find ways to help Kokoro and the others make the world smile, then Ill be happy to accept all of the exhaustion that comes with doing so…
+Trigger:
+Special Attribute:Music・Hello, Happy World!
+Text:【AUTO】【CXCOMBO】When "The Magic of Smiles" is placed on your climax area, choose 1 of your characters, and that character gets +1000 power and the following ability until end of turn. "【AUTO】[(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+Text:【ACT】Brainstorm [(1)【REST】2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.

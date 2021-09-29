@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Summoning with a Command Seal” Shirou
+Card No.:FS/S36-E004S
+Rarity:SR
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Please… Come to me… Saber!!
+Trigger:
+Special Attribute:Master・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When a climax is put on your climax area, choose one of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn.

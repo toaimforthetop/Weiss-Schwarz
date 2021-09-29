@@ -1,0 +1,18 @@
+Card Name:
+English Name:Girl of Healing, Asia
+Card No.:Fdd/W65-E043
+Rarity:RR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:"Ill treat you now. Please show me the injured area.
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Demon・Monk
+Text:【CONT】 All of your other 《Fantasia Bunko》 or 《Demon》 characters get +1500 power.
+Text:【CONT】 【CXCOMBO】 If "First Friend" is in your climax area, all of your characters get +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

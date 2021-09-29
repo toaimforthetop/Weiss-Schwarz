@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Making Cookies Once More" Lisa Imai
+Card No.:BD/W63-E073
+Rarity:RR
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:There you have it. You did it, Sayo!
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:【CONT】 Experience If ""Tears Overflowing" Yukina Minato" and ""This Time, I Will" Sayo Hikawa" are in your level, this card gets +2500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 [(1) Put 1 《Roselia》 character from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

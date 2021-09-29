@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Cait Sith》 Girl, Silica
+Card No.:SAO/S47-E060
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Its nice to meet you.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If the revealed card is not an 《Avatar》 or 《Net》 or 《Dragon》 character, at the beginning of your encore step, put this card into your waiting room. (The revealed card is returned to its original place.)

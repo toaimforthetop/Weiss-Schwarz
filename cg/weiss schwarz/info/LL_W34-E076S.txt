@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Forever and Ever" Hanaya Koizumi 
+Card No.:LL/W34-E076S
+Rarity:SR
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 Assist All of your 《Music》 characters in front of this card get +1 level and +500 power. 
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your characters with "Hanayo(花陽)" in its card name, and that character gets +1500 power until end of turn.
+Text:【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Music》 characters. ", '【AUTO】 [(2)] When a card named "☆New Club Leader Arises☆" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one level 1 or lower 《Music》 character, put it on any position of your stage, and shuffle your deck.

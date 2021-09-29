@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kosaki's Close Friend, Ruri
+Card No.:NK/W30-E083
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:……I see……
+Trigger:
+Special Attribute:Glasses・Sports
+Text:【AUTO】 Bond／"First Visit, Kosaki" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "First Visit, Kosaki" in your waiting room, and return it to your hand.)【ACT】 [【REST】 this card] Choose one of your characters with "Kosaki(小咲)" in its card name, and that character gets +500 power until end of turn.

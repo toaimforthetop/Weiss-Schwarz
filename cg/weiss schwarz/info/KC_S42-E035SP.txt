@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ro-number Submarine, Ro-500
+Card No.:KC/S42-E035SP
+Rarity:SP
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Fleet Girl・Submarine
+Text:【CONT】 This card gets +500 power for each of your other 《Fleet Girl》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "Ro-number Submarine, heading out!" is in your climax area, look at up to four cards from the top of your deck, choose up to one 《Fleet Girl》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, and this card gets +2000 power until end of turn.

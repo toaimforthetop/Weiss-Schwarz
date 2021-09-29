@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kind Acolyte, Priestess
+Card No.:GBS/S63-E061S
+Rarity:SR
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Please try to think things through a little more!
+Trigger:
+Special Attribute:Order・Adventurer
+Text:【AUTO】 When your character's trigger check reveals an event card, choose 1 of your characters, and that character gets +2000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

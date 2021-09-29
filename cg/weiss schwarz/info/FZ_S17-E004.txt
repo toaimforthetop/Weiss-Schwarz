@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kiritsugu - Style of Heresy
+Card No.:FZ/S17-E004
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:A full frontal confrontation is not my style.
+Trigger:
+Special Attribute:Master・Weapon
+Text:【AUTO】［(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named ""Riding" Skill, Saber", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of his or her stock into the waiting room. ", '

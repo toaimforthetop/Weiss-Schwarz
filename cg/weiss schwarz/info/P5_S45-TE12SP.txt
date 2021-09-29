@@ -1,0 +1,17 @@
+Card Name:
+English Name:Morgana as MONA: The Elusive Phantom Thief
+Card No.:P5/S45-TE12SP
+Rarity:SP
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Sometimes bold moves havethe greatest payout.
+Trigger:
+Special Attribute:Thief・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, perform the following action. "Choose a 《Thief》 character in your waiting room, return it to your hand, choose a card in your hand, and put it into your waiting room."

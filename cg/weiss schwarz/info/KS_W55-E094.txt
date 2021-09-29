@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Tipsy" Aqua
+Card No.:KS/W55-E094
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:Excuse me! Keep the drinks coming!
+Trigger:Soul
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 If the number of characters on your back stage is one or less, this card cannot attack.
+Text:【CONT】 This card gets +2000 power for each of your other cards named ""Tipsy" Aqua" on your center stage.

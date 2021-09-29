@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Greater Grail
+Card No.:APO/S53-E022
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Welcome… Do you desire the activation of the Third Magic?
+Trigger:
+Special Attribute:
+Text:Look at up to four cards from the top of your deck, choose up to one yellow character and up to one red character and up to one blue character from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, choose a card in your hand, and put it into your waiting room. Put this card into your memory.

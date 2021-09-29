@@ -1,0 +1,16 @@
+Card Name:
+English Name:Stopped by the Doctor, Yoshino
+Card No.:DAL/W79-TE14
+Rarity:TD
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:Reine: "You worked hard, didn\'t you?"
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

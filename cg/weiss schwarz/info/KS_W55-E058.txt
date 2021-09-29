@@ -1,0 +1,16 @@
+Card Name:
+English Name:"General Store Shopkeeper" Wiz
+Card No.:KS/W55-E058
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Vanir: "I believe you would be well served in assisting in our business."
+Trigger:
+Special Attribute:Death・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Adventurer》 or 《Magic》 characters, and that character gets +2000 power until end of turn.

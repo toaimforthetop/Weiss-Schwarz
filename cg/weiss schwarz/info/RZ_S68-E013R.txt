@@ -1,0 +1,16 @@
+Card Name:
+English Name:Out-of-Season Snow Festival
+Card No.:RZ/S68-E013R
+Rarity:RRR
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Theres Subaru!
+Trigger:Soul・Shot
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)

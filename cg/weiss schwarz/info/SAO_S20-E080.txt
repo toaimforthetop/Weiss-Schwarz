@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kirito - For Someone Special
+Card No.:SAO/S20-E080
+Rarity:R
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:--please help me one more time.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】[(1)］ When this card attacks, if a card named "End of the World" is in your climax area, you may pay the cost. If you do, draw a card.
+Text:【AUTO】 Accelerate ［Put the top card of your deck into your clock］ At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2500 power until end of your opponent\'s next turn. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Real Strength, Kanji
+Card No.:P4/EN-S01-T14
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Now I can say it straight out… That "other me" is me.
+Trigger:
+Special Attribute:Delinquent・Magic
+Text:【AUTO】 When this card is placed on stage from your hand, you may choose one of your opponent's 【STAND】 characters, and 【REST】 it.", '【AUTO】 Change [(2) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kanji & Rokuten Maou" in your waiting room, and put it on the stage position that this card was on.

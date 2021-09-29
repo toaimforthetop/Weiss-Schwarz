@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Uber" Own Pace Mother, Sukuyo
+Card No.:KLK/S27-E011
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"I know its nothing fancy, but eat all you like.
+Trigger:
+Special Attribute:Family・Croquette
+Text:【ACT】 [【REST】 two of your characters] Choose one of your 《Clothes》 or 《Family》 characters, and until end of turn that character gets +1 soul and the following ability. "【CONT】 This card cannot side attack."

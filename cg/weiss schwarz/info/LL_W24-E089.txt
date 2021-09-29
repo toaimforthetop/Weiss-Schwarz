@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Rin
+Card No.:LL/W24-E089
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:You can do it!
+Trigger:
+Special Attribute:Music・Swimsuit
+Text:-

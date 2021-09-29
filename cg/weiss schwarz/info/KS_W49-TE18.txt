@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Goddess Who Governs Water” Aqua
+Card No.:KS/W49-TE18
+Rarity:TD
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Thats only natural for an arch priest who heals everyone.
+Trigger:Soul
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 This card gets +500 power for each of your other 《Adventurer》 or 《Goddess》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

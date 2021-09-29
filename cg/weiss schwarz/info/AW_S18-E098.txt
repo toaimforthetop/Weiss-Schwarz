@@ -1,0 +1,16 @@
+Card Name:
+English Name:Forced Transition
+Card No.:AW/S18-E098
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Dolphin: "Don’t worry about us, Nee-Nee.  We’re in the ocean now!"Merrow: "Whenever we’re in the water, we’re always at our best!"
+Trigger:
+Special Attribute:
+Text:If the number of 《Avatar》 characters you have is two or less, this card cannot be played from your hand.Choose one of your opponent's cost 1 or less characters, and put it on the bottom of his or her deck. Put this card into your memory.

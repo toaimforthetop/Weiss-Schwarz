@@ -1,0 +1,17 @@
+Card Name:
+English Name:Rock-Paper-Scissors
+Card No.:NGL/S58-E017
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Yeah. But… Ill only play paper.
+Trigger:
+Special Attribute:
+Text:Play a Game with your opponent.
+Text:【REPLAY】 Play a Game Declare that you will play "Paper", and play "Rock-Paper-Scissors" with your opponent 1 time. If you win with "Paper", draw up to 4 cards. If you tie with "Paper" or win with "Rock" or "Scissors", draw up to 2 cards. If you lose or tie with "Rock" or "Scissors", put this card into your clock. (You may play hand signs other than "Paper")

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Human-looking Vampire, Shinobu Oshino
+Card No.:BM/S15-E014
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・Blood
+Text:[AUTO] Bond／"Vampire-looking Human, Koyomi Araragi" ［(1)］ （When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Vampire-looking Human, Koyomi Araragi" in your waiting room, and return it to your hand.)
+Text:[ACT]［(1)] Choose one of your 《Strange》 characters, and that character gets +500 power until end of turn. 
+Text:[CONT] Assist All of your characters in front of this card get +500 power.
+Text:[ACT]［(2)］ Choose an opponent's level 0 or less character, and return it to your opponent's hand.

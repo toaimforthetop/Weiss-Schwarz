@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Magical Girl, Kyoko
+Card No.:MM/W17-E073
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Kyubey: "I didn’t think you would come."
+Trigger:
+Special Attribute:Magic・Sweets
+Text:-

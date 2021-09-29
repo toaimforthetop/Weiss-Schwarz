@@ -1,0 +1,18 @@
+Card Name:
+English Name:Everyone's Own Feelings, Felicia
+Card No.:MR/W80-E082S
+Rarity:SR
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Thats just a rumor! I bet nothing big happens.
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:【CONT】 If this card is in your center stage, all of your 《Magic》 characters get +1500 power.
+Text:【AUTO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if you have 2 or more other 《Magic》 characters, you may pay the cost. If you do, draw 1 card, choose 1 card in your hand, put it into your waiting room, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on the top of your opponent's deck in any order, and put the rest into their waiting room.
+Text:【AUTO】 When your card is put into your memory, if you have another 《Magic》 character, this card gets +2000 power until end of turn.", '

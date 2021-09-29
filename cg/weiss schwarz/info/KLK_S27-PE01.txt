@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Ryuko
+Card No.:KLK/S27-PE01
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Lets do it, Senketsu!
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 When your other 《Clothes》 or 《Family》 character attacks, this card gets +1000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Stage of Fate, Claudine Saijo
+Card No.:RSL/S56-TE20R
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"Hikari Kagura, huh? Its like a rival has appeared, right?
+Trigger:Soul
+Special Attribute:Revue・Weapon
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×1000.

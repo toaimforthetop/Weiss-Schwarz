@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mrs. Kageyama: Dinnertime
+Card No.:MOB/SX02-T14
+Rarity:TD
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:There you go again, bending spoons.You really need to drop that habit.
+Trigger:
+Special Attribute:Family・-
+Text:-

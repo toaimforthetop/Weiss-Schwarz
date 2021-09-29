@@ -1,0 +1,18 @@
+Card Name:
+English Name:Time Travel, Kyon & Mikuru
+Card No.:SY/WE09-E06
+Rarity:Ｒ
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Mikuru(Adult): "You can give', 'the sleeping me there a kiss. But only while she\'s asleep."
+Trigger:
+Special Attribute:Time・SOS Brigade
+Text:【CONT】 All of your other 《SOS Brigade》 characters get "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 [【REST】 this card] When another of your characters is put into your clock from the stage, if this card is 【STAND】, you may pay the cost. If you do, put the top card of your deck into your stock.
+Text:【AUTO】 When another of your character's battle opponent becomes 【REVERSE】, this card gets +1000 power until end of turn.", '

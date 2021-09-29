@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Morning Escape" Yoshiko Tsushima
+Card No.:LSS/W45-E025
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Dont call me Yoshiko--!!
+Trigger:
+Special Attribute:Music
+Text:

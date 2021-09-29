@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Shoko Makinohara
+Card No.:SBY/W64-E106
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:"As expected of you, Sakuta-san. Youre such a rascal.
+Trigger:Soul
+Special Attribute:Adolescence・Mystery
+Text:【AUTO】 When your other 《Adolescence》 character attacks, this card gets +1500 power until end of turn.

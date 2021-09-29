@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spending a Day Off, Sortiliena
+Card No.:SAO/S65-E027
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:What a coincidence.
+Trigger:
+Special Attribute:Fluctlight・Weapon
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Fluctlight》 characters revealed among those cards ×1000.

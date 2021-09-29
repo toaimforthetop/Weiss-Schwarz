@@ -1,0 +1,18 @@
+Card Name:
+English Name:＊(Asterisk), Riina
+Card No.:IMC/W41-E083
+Rarity:R
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Follow us to the end, everyone!
+Trigger:
+Special Attribute:Music・Rock
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【AUTO】 When a card named "ΦωΦver!!" is placed on your climax area, look at up to three cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose up to one blue character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

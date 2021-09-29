@@ -1,0 +1,16 @@
+Card Name:
+English Name:Words of "Courage", Mayoi Hachikuji
+Card No.:NM/S24-E005
+Rarity:R
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0 
+Power:6000
+Soul:1
+Flavor Text:"So cool! So cool, Im tempted to have the courage to show you my panties as you wish!
+Trigger:
+Special Attribute:Strange・Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is not a 《Strange》 character, put it into your clock. (If it is, the revealed card is returned to its original place)

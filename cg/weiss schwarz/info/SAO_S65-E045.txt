@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The Relentless Knight" Fanatio Synthesis Two
+Card No.:SAO/S65-E045
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:System Call. Enhance Armament!
+Trigger:
+Special Attribute:Fluctlight・Integrity Knight
+Text:【AUTO】 At the beginning of your climax phase, if this card is on the center stage, all characters on the center stage get -1000 power until end of turn.

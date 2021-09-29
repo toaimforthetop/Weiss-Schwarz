@@ -1,0 +1,17 @@
+Card Name:
+English Name:I'll Be Seeing Ya Soon, You Bozos! Kittan
+Card No.:GL/S52-E004
+Rarity:RR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"My King Kittan is still doin fine!!
+Trigger:Soul
+Special Attribute:Team DAI-GURREN・Drill
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Put a card from your hand into your waiting room & Put this card into your waiting room] At the end of this card\'s attack, if a card named "So This Is the Power of the Spiral, Huh...?" is in your climax area, and during that turn, damage dealt by this card was canceled, you may pay the cost. If you do, choose a card named "King Kittan" in your waiting room, and put it on any position of your stage.

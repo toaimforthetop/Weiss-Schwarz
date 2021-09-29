@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Ruler" Administrator
+Card No.:SAO/S65-E057S
+Rarity:SR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:"But Im tired of all that now, and I'm sleepy.
+Trigger:Soul
+Special Attribute:Fluctlight・Sacred Arts
+Text:【CONT】 All of your other 《Fluctlight》 characters get +X power. X is equal to that character\'s level ×500.
+Text:【CONT】 Experience If all of the cards in your level have "Administrator(アドミニストレータ)" or "Quinella(クィネラ)" in their card names, this card gets the following ability. "【AUTO】 When your card or your opponent\'s card in the clock is put into the waiting room due to respective card effects, that player may put the top 2 cards from stock into the waiting room. Otherwise, that player puts the top card of the deck into the clock."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:13th Kagero-class Destroyer, Hamakaze
+Card No.:KC/S31-E022S
+Rarity:SR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"This amount of pain…… It cant compare to the pain Kongo and Shinano went through…….!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 [(2) Put the top card of your deck into your clock] At the beginning of your opponent's attack phase, you may pay the cost. If you do, move this card to an open position of your back stage, choose a level 2 or higher character in your waiting room, and return it to your hand.", '

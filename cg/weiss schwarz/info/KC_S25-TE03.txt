@@ -1,0 +1,16 @@
+Card Name:
+English Name:7th Ayanami-class Destroyer, Oboro
+Card No.:KC/S25-TE03
+Rarity:TD
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"I dont really hate…… that part about the Admiral.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:-

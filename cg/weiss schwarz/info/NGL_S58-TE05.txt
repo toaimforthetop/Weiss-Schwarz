@@ -1,0 +1,16 @@
+Card Name:
+English Name:Genius Gamer Siblings, Sora
+Card No.:NGL/S58-TE05
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Were siblings, so this isn't weird at all…
+Trigger:
+Special Attribute:Game・Imanity
+Text:-

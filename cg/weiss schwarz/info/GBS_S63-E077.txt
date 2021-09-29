@@ -1,0 +1,17 @@
+Card Name:
+English Name:For the Future, Guild Girl
+Card No.:GBS/S63-E077
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Even when adventurers retire, theyll continue to live until they die. So I think it's beneficial to everyone.
+Trigger:
+Special Attribute:Order・Guild
+Text:【AUTO】 When another 《Adventurer》 character or character with "Goblin Slayer(ゴブリンスレイヤー)" in its card name is placed on the stage from your hand, that character gets +1000 power and 《Quest》 until end of turn.
+Text:【ACT】 [(2) 【REST】 this card] Draw 1 card. 

@@ -1,0 +1,16 @@
+Card Name:
+English Name:《Gate》 Scroll
+Card No.:GBS/S63-E052
+Rarity:R
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Event
+Color:Red
+Level:3
+Cost:3
+Power:
+Soul:0
+Flavor Text:This is a gate scroll. I linked it to the bottom of the sea.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you have 5 or more 《Order》 characters, choose 1 of your opponent's characters in battle, and return it to his or her hand.", '

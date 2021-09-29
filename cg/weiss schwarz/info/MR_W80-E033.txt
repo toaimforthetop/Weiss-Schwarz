@@ -1,0 +1,17 @@
+Card Name:
+English Name:Well-Coordinated Sisters, Tsukasa
+Card No.:MR/W80-E033
+Rarity:R
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:...with our performance this evening.
+Trigger:
+Special Attribute:Magic・Twins
+Text:【AUTO】 When this card attacks, if you have another 《Magic》 character, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [Put 1 "Black Feather" from your hand into your waiting room] When this card attacks, if "Sisters\' Entertaining Performance" is in your climax area, and you have another 《Magic》 character, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 2 《Magic》 characters from among them, reveal them to your opponent, put them into your hand, put the rest into your waiting room, and this card gets +1000 power until end of turn.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Unemployed Etna
+Card No.:DG/EN-S03-E047S
+Rarity:SR
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:……I’ll lead my life any way I choose. 
+Trigger:Soul
+Special Attribute:Demon・Weapon
+Text:【AUTO】 When this card attacks, if a card named "Supreme Overlord Girl" is in your climax area, all of your characters get +1000 power until end of turn.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【CONT】 All of your characters get +1000 power and +1 soul. ', "(: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.) ", '

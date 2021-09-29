@@ -1,0 +1,16 @@
+Card Name:
+English Name:Celebrity of Tsuganoki 2nd Middle School, Karen Araragi
+Card No.:NM/S24-E037
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0 
+Power:2500
+Soul:1
+Flavor Text:"……sometimes, Big Brother, youre hotter than fire.", "I'm in love.
+Trigger:
+Special Attribute:Strange・Sports
+Text:【AUTO】 When this card attacks, choose one of your other 《Strange》 characters, and that character gets +1000 power until end of turn.

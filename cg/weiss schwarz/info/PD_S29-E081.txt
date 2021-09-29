@@ -1,0 +1,18 @@
+Card Name:
+English Name:Megurine Luka "Successor"
+Card No.:PD/S29-E081
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Unison
+Text:【CONT】 Memory If a card named "Hatsune Miku "Avant-garde"" is in your memory, this card gets +1500 power.
+Text:【AUTO】 When this card attacks, if a card named "Akatsuki Arrival" is in your climax area, and you do not have any other "Hatsune Miku "Avant-garde"", this card gets +2000 power until the end of your opponent\'s next turn.
+Text:【AUTO】 When this card attacks, if a card named "Akatsuki Arrival" is in your climax area, and you have another "Hatsune Miku "Avant-garde"", this card gets +3500 power until the end of your opponent\'s next turn.

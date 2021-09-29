@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Strong Bond” Illya
+Card No.:FS/S36-E077
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Master・Homunculus
+Text:【AUTO】 [(2)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your deck for up to one card named "“Relationship of Trust” Illya & Berserker", reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 Bond/"“Sturdy Servant” Berserker" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "“Sturdy Servant” Berserker" in your waiting room, and return it to your hand.)
+Text:【AUTO】 [(1) Put this card into your waiting room] When another of your 《Master》 characters is being frontal attacked, you may pay the cost. If you do, choose one of your characters in battle, and that character gets +2500 power until end of turn.

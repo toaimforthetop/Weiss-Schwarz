@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Transformation" Archer of Red
+Card No.:APO/S53-E044
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:That goes without saying!
+Trigger:Soul
+Special Attribute:Servant・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【ACT】 [(2) Put this card into your waiting room] Choose up to one card named ""Demonic Beast Strength" Archer of Red" in your hand, and put it on the stage position that this card was on.

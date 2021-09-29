@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kirito's Love, Asuna
+Card No.:SAO/S51-E005
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:The memories of that world still remain within me.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 【CXCombo】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Enduring Emotions" is in your climax area, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

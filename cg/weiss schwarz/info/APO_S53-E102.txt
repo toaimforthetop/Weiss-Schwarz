@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Saber of Red
+Card No.:APO/S53-E102
+Rarity:PR
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5500
+Soul:2
+Flavor Text:Such a fine roar!
+Trigger:Soul
+Special Attribute:Servant・Royalty
+Text:【CONT】 This card gets +1000 power for each of your other 《Master》 or 《Servant》 characters.

@@ -1,0 +1,19 @@
+Card Name:
+English Name:God's Hand
+Card No.:P4/EN-S01-047S
+Rarity:SR
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Go, Suzuka Gongen!
+Trigger:Stock
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:
+Text:(【POOL】: When this card triggers, you may put the top card of your deck into your stock.)
+Text:【CONT】 All of your characters get +2 soul.

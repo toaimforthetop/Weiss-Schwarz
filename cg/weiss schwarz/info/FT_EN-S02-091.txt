@@ -1,0 +1,16 @@
+Card Name:
+English Name:Honest and Brave, Wendy
+Card No.:FT/EN-S02-091
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text: -
+Trigger:
+Special Attribute:Magic・Dragon
+Text: -

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Two of a Kind, Raku
+Card No.:NK/W30-E084
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Youre an annoying person, but I do understand a little how you feel.
+Trigger:
+Special Attribute:Animal・Key
+Text:【CONT】 All of your other 《Key》 characters get +500 power.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "Promised Pendant" in your waiting room, and return it to your hand.

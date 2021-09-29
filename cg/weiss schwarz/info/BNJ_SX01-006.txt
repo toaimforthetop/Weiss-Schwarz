@@ -1,0 +1,17 @@
+Card Name:
+English Name:Joker: Primal Pleasures
+Card No.:BNJ/SX01-006
+Rarity:R
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Villain》 characters revealed among those cards ×1000.

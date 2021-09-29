@@ -1,0 +1,16 @@
+Card Name:
+English Name:Petit Yui
+Card No.:TL/W37-E104
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"You havent changed…from a long time ago… 
+Trigger:
+Special Attribute:Discipline Committee・Animal
+Text:【CONT】 If the number of your other characters is one or less, this card gets +1000 power and the following ability. "【CONT】 The character facing this card cannot move to another position on the stage."

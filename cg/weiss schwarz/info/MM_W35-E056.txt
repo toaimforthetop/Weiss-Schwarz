@@ -1,0 +1,16 @@
+Card Name:
+English Name:Homura's Despair
+Card No.:MM/W35-E056
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Event
+Color:Green
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Ah, so this is my, despair.
+Trigger:
+Special Attribute:
+Text:Choose up to one character in your hand with "Homura(ほむら)" in its card name, and put it on any position of your stage.

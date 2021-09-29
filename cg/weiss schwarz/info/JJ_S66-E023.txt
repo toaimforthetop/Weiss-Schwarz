@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ladybug Brooch
+Card No.:JJ/S66-E023
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:2
+Power:
+Soul:0
+Flavor Text:Spicy Lady: "You and I are going to protect \'Giorno\'s left hand\'!"
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Search your deck for up to 1 《Golden Wind》 character, reveal it to your opponent, put it into your hand, shuffle your deck, choose 1 of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card is put into your waiting room from the stage, you may return this card to its previous stage position as 【REST】."

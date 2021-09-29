@@ -1,0 +1,17 @@
+Card Name:
+English Name:"We're Here!" Himari Uehara
+Card No.:BD/W63-E036SPMb
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Afterglow
+Text:【CONT】 If you have another ""Don\'t Stop, Keep Going" Ran Mitake", this card gets +6000 power during your turn.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

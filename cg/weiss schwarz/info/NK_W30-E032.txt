@@ -1,0 +1,17 @@
+Card Name:
+English Name:Love Story, Seishiro
+Card No.:NK/W30-E032
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:What are you talking about. You have a boyfriend ? Raku Ichijo……
+Trigger:Soul
+Special Attribute:Weapon・-
+Text:【AUTO】 [Put a card from your hand into your clock] When this card is placed on stage from your waiting room, you may pay the cost. If you do, choose a 《Weapon》 or 《Heiress》 character from your clock, and return it to your hand.
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "The One, Seishiro" in your waiting room, and put it on the stage position that this card was on.

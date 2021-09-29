@@ -1,0 +1,16 @@
+Card Name:
+English Name:Catwoman: Battle on the Big Boat
+Card No.:BNJ/SX01-A10
+Rarity:DD
+Expansion:【Demo Deck】Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:9000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Sengoku・Weapon
+Text:

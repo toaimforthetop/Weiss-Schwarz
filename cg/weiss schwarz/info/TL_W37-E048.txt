@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Usual Day” Mikan
+Card No.:TL/W37-E048
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"But... if shes been doing that with certain intentions…
+Trigger:
+Special Attribute:Housework・Bag
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gently Weeps, Ghiaccio & W.I.G.W
+Card No.:JJ/S66-E043
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:Gases turn to liquids, and liquids turn to solids!
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 [(1) Put 2 cards from your hand into your waiting room] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and 【REVERSE】 this card's battle opponent.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Middle of the Final Test” Illya
+Card No.:FS/S36-E090
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Ill summon something that won't cause me pain and isn't as scary as Berserker…
+Trigger:
+Special Attribute:Master・Homunculus
+Text:-

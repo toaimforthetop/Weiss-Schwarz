@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Trace On” Shirou
+Card No.:FS/S36-E001
+Rarity:RR
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:―Trace, on.
+Trigger:
+Special Attribute:Master・Weapon
+Text:【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one character with "Shirou(士郎)" or "Saber(セイバー)" or "Rin(凛)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When this card is placed on the stage ｆｒｏｍ your hand, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn.

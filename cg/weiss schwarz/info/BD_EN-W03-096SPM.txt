@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Blue Roses in Harmony" Ako Udagawa
+Card No.:BD/EN-W03-096SPM
+Rarity:SPM
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:【CONT】This card gets + 500 power for each of your other 《Roselia》 characters.
+Text:【AUTO】When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】【CXCOMBO】[(2)] When this card attacks, if "Blue Roses in Harmony" is in your climax area, and you have 4 or more other 《Music》 characters, you may pay the cost. If you do, deal 5 damage to your opponent. (Damage may be canceled)

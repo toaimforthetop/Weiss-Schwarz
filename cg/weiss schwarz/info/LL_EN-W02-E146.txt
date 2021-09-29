@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Princess Kaguya” Rin Hoshizora
+Card No.:LL/EN-W02-E146
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:If you go to the moon, then your body will get really light... So strange...
+Trigger:
+Special Attribute:Music・Moon
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw a card.
+Text:【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.

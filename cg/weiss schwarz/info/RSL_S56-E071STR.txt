@@ -1,0 +1,17 @@
+Card Name:
+English Name:My Own Shine, Maya Tendo
+Card No.:RSL/S56-E071STR
+Rarity:STR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put it on the top of your deck in any order.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if this card’s battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.", '

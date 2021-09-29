@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Feelings to be Conveyed" Saya Yamabuki
+Card No.:BD/EN-W03-066
+Rarity:R
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I feel like… I am relieved that they accept me for who I really am, even my weaknesses…
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into you hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)
+Text:【AUTO】When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Parting Passions
+Card No.:RZ/S46-TE41
+Rarity:TD
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Youve done enough, Subaru Natsuki.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

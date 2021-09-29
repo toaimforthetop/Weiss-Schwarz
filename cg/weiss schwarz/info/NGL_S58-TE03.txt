@@ -1,0 +1,16 @@
+Card Name:
+English Name:One Half of BLANK, Sora
+Card No.:NGL/S58-TE03
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Theres only a 1 in 650,000 chance--!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

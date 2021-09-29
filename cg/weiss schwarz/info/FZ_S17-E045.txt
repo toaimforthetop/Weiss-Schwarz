@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bold Nature, Rider
+Card No.:FZ/S17-E045
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Magnificent!
+Trigger:
+Special Attribute:Servant・Royalty
+Text:【AUTO】 When a green climax is placed on your climax area, choose one of your characters, and that character gets +1500 power until end of turn. 

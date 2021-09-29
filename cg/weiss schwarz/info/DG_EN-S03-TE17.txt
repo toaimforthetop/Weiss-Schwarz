@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mecha-Jennifer
+Card No.:DG/EN-S03-TE17
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:3
+Power:－
+Soul:0
+Flavor Text:"So that did the trick?"', '"Is it better now?"', '"Well, it sure feels like it."
+Trigger:
+Special Attribute:
+Text:Deal X damage to your opponent. X is equal to the number of climax in your waiting room. (This damage may be canceled)

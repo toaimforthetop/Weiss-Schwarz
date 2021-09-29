@@ -1,0 +1,17 @@
+Card Name:
+English Name:Jun Sagawa
+Card No.:MOB/SX02-084
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Captain! Kageyama-kun is…
+Trigger:
+Special Attribute:Muscles・Club Activities
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, this card gets +2000 power until end of turn.
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage.", '

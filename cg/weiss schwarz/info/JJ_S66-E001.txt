@@ -1,0 +1,17 @@
+Card Name:
+English Name:Seeker of Truth, Giorno
+Card No.:JJ/S66-E001
+Rarity:RR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Can you avoid destruction, Boss?
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【ACT】 [(1)] Choose 1 cost 0 or lower character on your opponent's center stage, and return it to his or her hand.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Golden Wind》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

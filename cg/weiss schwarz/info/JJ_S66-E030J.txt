@@ -1,0 +1,17 @@
+Card Name:
+English Name:Grand Teachings, Prosciutto
+Card No.:JJ/S66-E030J
+Rarity:JJR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 Memory This card gets +2000 power for each "Grand Teachings, Prosciutto" in your memory.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if you have 2 or less cards in your memory, you may put this card into your memory.

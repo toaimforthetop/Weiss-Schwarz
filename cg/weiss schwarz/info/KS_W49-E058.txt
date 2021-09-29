@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Dark Purple Smoke” Verdia
+Card No.:KS/W49-E058
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:You will die in one week……!!
+Trigger:
+Special Attribute:Death・Weapon
+Text:【AUTO】 [(1) Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to three level 0 or lower characters in your waiting room, and put them on separate positions of your stage.
+Text:【AUTO】 [Put a 《Death》 character from your hand into your waiting room] At the beginning of your opponent\'s draw phase, if this card is in your center stage, you may pay the cost. If you do, choose one of your opponent\'s cost 0 or lower characters, and that character gets the following ability until end of turn. "【AUTO】 At the beginning of your encore step, put this card into your waiting room."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sasha Braus
+Card No.:AOT/S35-TE15
+Rarity:TD
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Corps・Weapon
+Text:

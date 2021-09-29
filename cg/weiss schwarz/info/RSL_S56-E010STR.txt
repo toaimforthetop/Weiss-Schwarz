@@ -1,0 +1,17 @@
+Card Name:
+English Name:My Own Shine, Futaba Isurugi
+Card No.:RSL/S56-E010STR
+Rarity:STR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【CONT】 During your turn, if you have another 《Revue》 character, this card gets +3000 power.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

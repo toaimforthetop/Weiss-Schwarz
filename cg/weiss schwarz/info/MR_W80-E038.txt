@@ -1,0 +1,17 @@
+Card Name:
+English Name:Where I Belong, Sana
+Card No.:MR/W80-E038
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Ai: "I was abandoned as a failure. Then I created this endless world."
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, if your memory has 2 or less cards, you may put this card into your memory.", '

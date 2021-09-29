@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: Got You Covered
+Card No.:CCS/WX01-002S
+Rarity:SR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Tomoyo: "I had the development team at Daidouji Toys waterproof it!"
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 If all of your characters are 《Tomoeda》 or 《Magic》, this card gets +1000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Lunch Break" is in your climax area, search your deck for up to 1 《Tomoeda》 or 《Magic》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

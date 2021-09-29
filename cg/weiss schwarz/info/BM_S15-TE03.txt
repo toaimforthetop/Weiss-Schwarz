@@ -1,0 +1,16 @@
+Card Name:
+English Name:Battle Ready, Hitagi Senjyogahara
+Card No.:BM/S15-TE03
+Rarity:TD
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Oh, my mistake--- "You can move, but it will be very dangerous." is what I really should have said.
+Trigger:
+Special Attribute:Strange・Stationery
+Text:[ACT]［(1)］ Until end of turn, this card gets +1000 power and the following ability. "[AUTO]When this card\'s battle opponent becomes [REVERSE], you may put that character on top of your opponent\'s deck."

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Girl Bound By a Snake, Nadeko Sengoku
+Card No.:BM/S15-E077SP
+Rarity:SP
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Strange・-
+Text:[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:[AUTO] When this card attacks, if a card named "NADEKO Snake" is in your climax area, search your deck for up to two cards named "Girl Bound By a Snake, Nadeko Sengoku", reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards.
+Text:[AUTO] When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

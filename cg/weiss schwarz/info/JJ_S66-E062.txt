@@ -1,0 +1,17 @@
+Card Name:
+English Name:Treat Time, Cioccolata
+Card No.:JJ/S66-E062
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"You got the footage, didnt you, Secco?
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:【CONT】 All of your other "Treat Time, Secco & Sa" get +1 soul.
+Text:【ACT】 [【REST】 this card] Choose 1 of your 《Golden Wind》 characters, and that character gets +2000 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Well Then, See You
+Card No.:KS/W55-E100
+Rarity:CC
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"Ill be praying you don't find your way back here.
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose a climax in your waiting room, and return it to your hand)

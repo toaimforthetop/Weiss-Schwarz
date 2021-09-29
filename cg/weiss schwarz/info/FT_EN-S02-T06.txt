@@ -1,0 +1,17 @@
+Card Name:
+English Name:Literature Girl, Lucy
+Card No.:FT/EN-S02-T06
+Rarity:TD
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"A man like you doesnt deserve to know what it is… You're an enemy of literature…!
+Trigger:
+Special Attribute:Magic・Key
+Text:【AUTO】 When this card attacks, if a card named "DEAR KABY" is in your climax area, this card gets +3000 power until end of turn.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

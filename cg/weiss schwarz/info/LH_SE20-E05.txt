@@ -1,0 +1,16 @@
+Card Name:
+English Name:Isuzu
+Card No.:LH/SE20-E05
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Im Isuzu and I am a bard class.
+Trigger:
+Special Attribute:Weapon・Music
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character. ", '

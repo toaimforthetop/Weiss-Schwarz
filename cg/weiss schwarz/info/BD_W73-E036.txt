@@ -1,0 +1,16 @@
+Card Name:
+English Name:Freshmen, LOCK & Asuka
+Card No.:BD/W73-E036
+Rarity:C
+Expansion:BanG Dream! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Rokka: "Ugh, I\'m such a klutz."
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【ACT】 Brainstorm [(1)] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Choose 1 《Music》 character in your waiting room, return it to your hand, choose 1 card in your hand, and put it into your waiting room."

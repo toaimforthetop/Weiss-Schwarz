@@ -1,0 +1,16 @@
+Card Name:
+English Name:Knife
+Card No.:PD/S29-E112
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:3
+Power:
+Soul:0
+Flavor Text:いずれ\u3000剥がれてしまうならばその手で\u3000縛めて
+Trigger:
+Special Attribute:
+Text:Search your deck for up to one card named "Kagamine Len"Thorned Rose"" and up to one card named "Kagamine Rin"Sunflower"" and up to one card named "Hatsune Miku"Moonlight Butterfly"", reveal them to your opponent, put them into your hand, choose a card in your hand, and put it into your waiting room. Shuffle your deck afterwards.

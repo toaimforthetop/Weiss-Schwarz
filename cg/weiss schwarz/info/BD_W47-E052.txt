@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Club Show" Saya
+Card No.:BD/W47-E052
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Bread
+Text:【CONT】  Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】  When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in any order.

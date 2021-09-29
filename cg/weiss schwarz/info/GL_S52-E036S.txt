@@ -1,0 +1,18 @@
+Card Name:
+English Name:Team DAI-GURREN's Head Cook, Nia
+Card No.:GL/S52-E036S
+Rarity:SR
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:"Simons drill, is the drill that willbreak through the heavens!
+Trigger:Soul
+Special Attribute:Team DAI-GURREN・-
+Text:【CONT】 Assist All of your 《Team DAI-GURREN》 characters in front of this card get +500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 When this card is placed on the stage from your hand, choose a character on your opponent\'s center stage, and that character gets 《Cooking》 and -2000 power until end of turn.
+Text:【ACT】 [【REST】 this card] Choose one of your characters with "Simon(シモン)" in its card name, 【STAND】 that character, and that character gets 《Cooking》 until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Jet Engine
+Card No.:AB/W31-E099
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Event
+Color:Red
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Yuri: "Man, this stinks."
+Trigger:
+Special Attribute:
+Text:You may choose one of your characters, and put it into your waiting room. If you do, choose one of your opponent's level 2 or lower characters, and put it into your opponent's waiting room.

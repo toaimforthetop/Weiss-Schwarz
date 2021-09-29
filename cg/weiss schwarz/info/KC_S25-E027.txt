@@ -1,0 +1,16 @@
+Card Name:
+English Name:2nd Tone-class Heavy Cruiser, Chikuma
+Card No.:KC/S25-E027
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"Are the reconnaissance seaplanes alright? Alright! Lets head out!
+Trigger:Soul
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【ACT】【COUNTER】Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)

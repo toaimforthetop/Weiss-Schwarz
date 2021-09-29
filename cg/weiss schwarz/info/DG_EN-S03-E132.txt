@@ -1,0 +1,18 @@
+Card Name:
+English Name:Aspiring Final Boss, Desco
+Card No.:DG/EN-S03-E132
+Rarity:RR
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Of course! Big Sis!
+Trigger:
+Special Attribute:Demon・Clone
+Text:【CONT】 All of your other 《Clone》 or 《Death》 characters get +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.
+Text:【CONT】 All of your characters get +2 soul.

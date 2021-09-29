@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pajama Party, Nana Daiba
+Card No.:RSL/S56-E018
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Revue・Cooking
+Text:【AUTO】 When this card direct attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.", '

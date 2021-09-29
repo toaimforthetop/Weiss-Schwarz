@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna's Domestic Side
+Card No.:SAO/S26-E009
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:That takes care of the stew.
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist".', "【AUTO】 [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card in your opponent's waiting room, and return that card to your opponent's deck. Shuffle your opponent's deck afterwards.", '

@@ -1,0 +1,19 @@
+Card Name:
+English Name:“Final Weapon Girl ＤＥＳＣＯ”
+Card No.:DG/EN-S03-E133
+Rarity:RR
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:I am…… She who sunk the world into blazing chaos, the Final Weapon, DESCO!!!
+Trigger:Soul
+Special Attribute:Demon・Clone
+Text:【CONT】 This card gets +X power. X is equal to 500 multiplied by the level of the character facing this card.
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 characters, and 【REST】 it.
+Text:【CONT】 All of your characters get +2 soul.

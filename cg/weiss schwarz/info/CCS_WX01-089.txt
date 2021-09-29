@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cardcaptor Sakura: AQUA
+Card No.:CCS/WX01-089
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Water’s source,I call upon you to fill these walls!Halt the movement of the trees. Aqua!
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose up to 2 of your opponent's level 0 or lower characters. Those characters cannot 【STAND】 during your opponent's next stand phase.

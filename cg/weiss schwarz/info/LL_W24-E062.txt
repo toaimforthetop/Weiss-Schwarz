@@ -1,0 +1,16 @@
+Card Name:
+English Name:Runaway Delusions, Umi
+Card No.:LL/W24-E062
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Bam!
+Trigger:
+Special Attribute:Music・Worries
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

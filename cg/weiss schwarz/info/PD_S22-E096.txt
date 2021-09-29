@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ashes to Ashes
+Card No.:PD/S22-E096
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:集う\u3000積もる\u3000重なる\u3000最期の唄', '響け\u3000謳え\u3000唱えよ\u3000還れ
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you do not have a 《Music》 character, this card cannot be played from hand. Choose one of your characters, and that character gets +4000 power until end of turn.

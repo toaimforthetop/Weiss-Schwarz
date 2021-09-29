@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hanayo Koizumi
+Card No.:LL/W24-E018
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:-

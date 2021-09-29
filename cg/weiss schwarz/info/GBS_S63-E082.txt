@@ -1,0 +1,16 @@
+Card Name:
+English Name:Always Together, Priestess
+Card No.:GBS/S63-E082
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Of course, Ill be coming along, too.
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power. 【AUTO】 Bond/"Masked Figure\'s Name, Goblin Slayer" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Masked Figure\'s Name, Goblin Slayer" in your waiting room, and return it to your hand)

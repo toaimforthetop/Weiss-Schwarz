@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The Noble One", Archer
+Card No.:FZ/S17-E075
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Hmph…, very well.
+Trigger:
+Special Attribute:Servant・Royalty
+Text:【CONT】 If the number of characters your opponent has is four or more, this card gets +1000 power. 

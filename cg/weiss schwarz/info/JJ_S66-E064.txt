@@ -1,0 +1,16 @@
+Card Name:
+English Name:Split Personality, Doppio
+Card No.:JJ/S66-E064
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:He-Hey!
+Trigger:
+Special Attribute:Golden Wind・-
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "10 Seconds Into the Future" is in your climax area, this card gets the following ability until the end of your opponent\'s next turn. "【AUTO】 When this card is frontal attacked, you may return this card to your hand."【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 "Split Personality, Diavolo" in your waiting room, and put it on the stage position that this card was on. (This ability does not activate if this card is not on the stage at the beginning of the climax phase)

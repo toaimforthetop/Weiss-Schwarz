@@ -1,0 +1,16 @@
+Card Name:
+English Name:Daily Duties
+Card No.:RZ/S68-E049R
+Rarity:RRR
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Subaru: "Why\'d you look at Ram when you mentioned daily duties?"
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

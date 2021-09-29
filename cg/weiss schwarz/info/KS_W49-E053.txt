@@ -1,0 +1,17 @@
+Card Name:
+English Name:Professor
+Card No.:KS/W49-E053
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Whoops, I was the one responsible for creating it!
+Trigger:
+Special Attribute:
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."【ACT】 [【REST】 two of your characters] If there are no markers underneath this card, choose a card named "Destroyer Alert!" in your waiting room, and put it face down underneath this card as a marker.
+Text:【ACT】 [【REST】 two of your characters] Return a marker from underneath this card to your hand.

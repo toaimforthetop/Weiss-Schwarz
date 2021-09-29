@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kanoko Yayoi
+Card No.:MR/W59-E046
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Is it okay for my life to keep going this way…?
+Trigger:
+Special Attribute:Magic・Attack
+Text:【CONT】 During your clock phase, you cannot put climax from your hand into your clock to draw cards.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Magic》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)

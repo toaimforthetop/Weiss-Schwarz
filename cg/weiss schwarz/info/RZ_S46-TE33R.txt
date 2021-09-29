@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lap Pillow Emilia
+Card No.:RZ/S46-TE33R
+Rarity:RRR
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Dont be so explicit! It's embarrassing! Also, don't look this way!
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If the number of other 《Magic》 or 《Weapon》 characters you have is three or more, this card gets +2000 power.
+Text:【AUTO】 When this card attacks, if a blue climax is in your climax area, draw a card, choose a card in your hand, and put it into your waiting room.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:God's Vantage Point, Ram
+Card No.:RZ/S68-E015SP
+Rarity:SP
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 Memory If "Leave Everything to Me, Rem" is in your memory, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Daily Duties" is in your climax area, choose up to 1 《Memory Snow》 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.

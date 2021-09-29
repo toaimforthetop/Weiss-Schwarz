@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tuare's Rescue Operation, Sebas
+Card No.:OVL/S62-E006S
+Rarity:SR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:But, as fortune would have it, I was a tad stronger than the oversized brute.
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:【CONT】 During your turn, this card gets +1000 power for each of your other 《Grotesque Race》 or 《Nazarick》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Butler of Steel" is in your climax area, choose up to 1 of your opponent\'s characters, return it to his or her hand, choose up to 1 《Nazarick》 character in your waiting room, and put it into your stock.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swimsuit Megumin
+Card No.:KS/W55-E041S
+Rarity:SR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Im sure that in another year or two, I'll have a body that'll have Yunyun crying for forgiveness...
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 You cannot play event cards or "Backup" from your hand.
+Text:【AUTO】 This ability activates up to one time per turn. When this card becomes 【REVERSE】 in battle, put the top card of your deck into your waiting room. If that card is level 2 or higher, you may 【REST】 this card. (Climax are regarded as level 0)

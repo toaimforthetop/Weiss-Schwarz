@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unceasing Cheers, CHU?
+Card No.:BD/W73-TE17
+Rarity:TD
+Expansion:BanG Dream! [RAISE A SUILEN]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Sweet! Excellent! 
+Trigger:
+Special Attribute:Music・RAISE A SUILEN
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

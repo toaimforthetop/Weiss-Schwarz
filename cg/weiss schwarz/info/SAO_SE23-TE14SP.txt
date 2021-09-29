@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Gun World Swordsman" Kirito
+Card No.:SAO/SE23-TE14SP
+Rarity:SP
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "《Photon Sword》 Wielder" is in your climax area, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

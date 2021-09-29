@@ -1,0 +1,19 @@
+Card Name:
+English Name:"Furious Fist" Aqua
+Card No.:KS/W55-E085
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Godddddd--
+Trigger:Soul
+Special Attribute:Adventurer・Goddess
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 At the beginning of your climax phase, choose up to three cards named ""Swarmed on the Street" Axis Church Devotee" in your waiting room, and put them face up in any order underneath this card as markers.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "Goddess\' Fury" is in your climax area, your opponent puts X cards from the top of your opponent\'s deck into his or her waiting room. If there is a climax revealed among those cards, choose a level 3 or lower character facing this card, and put it into your opponent\'s clock. X is equal to the number of markers underneath this card.
+Text:【AUTO】 At the end of turn, put all markers underneath this card into your waiting room.

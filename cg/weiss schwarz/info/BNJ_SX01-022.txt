@@ -1,0 +1,17 @@
+Card Name:
+English Name:Joker: Battle on the Big Boat
+Card No.:BNJ/SX01-022
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Its a shame they all had to die… so why don't you join them!
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 When this card is placed on the stage from your hand, if there are 3 or more climax in your opponent\'s waiting room, 【REST】 this card.
+Text:【AUTO】 Bond/"Harley Quinn: Battle on the Big Boat"  [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Harley Quinn: Battle on the Big Boat" in your waiting room, and return it to your hand)

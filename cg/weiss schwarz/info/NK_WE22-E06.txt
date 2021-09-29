@@ -1,0 +1,17 @@
+Card Name:
+English Name:Great Style! Chitoge
+Card No.:NK/WE22-E06
+Rarity:C
+Expansion:NISEKOI: -False Love-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Heiress・Key
+Text:【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.
+Text:【AUTO】 This ability activates up to one time per turn. When you use 【ACT】, choose one of your characters, and that character gets +500 power until end of turn.

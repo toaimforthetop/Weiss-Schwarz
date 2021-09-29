@@ -1,0 +1,17 @@
+Card Name:
+English Name:Makoto as QUEEN & Johanna
+Card No.:P5/S45-E026
+Rarity:RR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:I am thou, thou art I...You have finally foundyour own justice...Please... Never lose sight of it again.
+Trigger:Soul
+Special Attribute:Thief・Student Council
+Text:【AUTO】 [Put a card from your hand into your waiting room] During the turn that this card is placed on the stage from your hand, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.
+Text:【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a 《Thief》 or 《Student Council》 or 《Prosecutor》 character, you may pay the cost. If you do, return this card to your hand. (The revealed card is returned to its original place)", '

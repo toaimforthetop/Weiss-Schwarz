@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hermit, Sky Raker
+Card No.:AW/S18-E081
+Rarity:RR
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:It’s so nice to meet you. My name is 《Sky Raker》.\u3000It’s an honor to make your acquaintance, Mr. Crow.
+Trigger:
+Special Attribute:Avatar・-
+Text:【CONT】 Your other character in the middle position of the center stage gets +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.

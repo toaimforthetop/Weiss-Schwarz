@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Final Flash" Saber of Red
+Card No.:APO/S53-E028SP
+Rarity:SP
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Royalty
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(2) Put a face up card in your level face down] When this card attacks, if a card named "Clarent" is in your climax area, you may pay the cost. If you do, deal X damage to your opponent, and this card gets +3500 power until the end of your opponent\'s next turn. X is equal to the number of face down cards in your level. (This damage may be canceled)

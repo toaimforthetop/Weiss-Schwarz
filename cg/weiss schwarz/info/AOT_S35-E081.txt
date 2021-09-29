@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hand of Salvation
+Card No.:AOT/S35-E081
+Rarity:U
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:I’m sorry there isn’t more…… It’s all I could take……
+Trigger:
+Special Attribute:
+Text:Choose a 《Corps》 character in your waiting room, return it to your hand, choose a card in your hand, put it into your waiting room, choose one of your characters, and that character gets +3000 power until end of turn.

@@ -1,0 +1,19 @@
+Card Name:
+English Name:Serious Gaze, Iroha
+Card No.:MR/W80-E081
+Rarity:R
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:4000
+Soul:2
+Flavor Text:Are you the ones who have been sending me mail?
+Trigger:Soul
+Special Attribute:Magic・Cooking
+Text:【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【ACT】 [【REST】 this card] If your memory has 2 or less cards, choose 1 《Magic》 character in your waiting room, and put it into your memory.", '

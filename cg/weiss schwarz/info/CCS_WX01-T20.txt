@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cheesecake Complete!
+Card No.:CCS/WX01-T20
+Rarity:TD
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:The rare cheesecake is done!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

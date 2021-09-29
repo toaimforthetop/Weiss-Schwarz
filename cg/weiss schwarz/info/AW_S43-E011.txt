@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unforeseen Circumstances, Kuroyukihime
+Card No.:AW/S43-E011
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Getting disconnected during a territory battle is unheard of. What is going on?
+Trigger:
+Special Attribute:Student Council・Net
+Text:【AUTO】 When this card is placed on the stage from your hand, if the number of climax in your opponent's waiting room is three or more, 【REST】 this card.

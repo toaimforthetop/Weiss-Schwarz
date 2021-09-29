@@ -1,0 +1,17 @@
+Card Name:
+English Name:Conception of the Two, Bh
+Card No.:JJ/S66-E036
+Rarity:U
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"Simple is best. Im going to kill this bastard exactly how I want to kill him!
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【CONT】 All of your other 《Golden Wind》 characters get +500 power.
+Text:【ACT】 [(3) Put 1 character from your stage into your waiting room & 【REST】 this card] Choose 1 event card or climax in your waiting room, and return it to your hand.

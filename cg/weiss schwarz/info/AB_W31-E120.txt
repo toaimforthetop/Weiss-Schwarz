@@ -1,0 +1,16 @@
+Card Name:
+English Name:From Now On, Kanade
+Card No.:AB/W31-E120
+Rarity:PR
+Expansion:
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8500
+Soul:2
+Flavor Text:What's next?
+Trigger:Soul
+Special Attribute:Death・Student Council
+Text:[CONT] During your turn, this card gets +1000 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rule-breaking Noble Phantasm, Caster
+Card No.:FS/S34-E093
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Hmph…
+Trigger:
+Special Attribute:Servant・Master
+Text:【AUTO】 When this card attacks, if a card named "Rule-breaking Noble Phantasm" is in your climax area, choose one trait of a character on your opponent\'s stage, and until end of turn, all of your opponent\'s characters lose that trait.

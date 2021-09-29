@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Siren"
+Card No.:PD/S29-E034
+Rarity:R
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, put it into your stock. If it is not, put that card into your clock.

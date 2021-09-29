@@ -1,0 +1,17 @@
+Card Name:
+English Name:Bitter Memories, Asuna
+Card No.:SAO/SE23-E02
+Rarity:C
+Expansion:Sword Art Online II
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"《Laughing Coffin》……Dont tell me that's the leader… that knife-wielder?
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your characters with "Kirito(キリト)" in its card name, and that character gets +500 power until end of turn.

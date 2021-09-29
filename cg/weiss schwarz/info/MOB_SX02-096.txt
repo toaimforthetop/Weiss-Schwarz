@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spoon
+Card No.:MOB/SX02-096
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 If you do not have a character with "Ritsu" in its card name, this card cannot be played from your hand.Choose up to 1 of your 《Esper》 or characters with "Ritsu" in its card name, 【REST】 it, choose up to 1 《Esper》 character in your waiting room, and put it face down underneath your "Ritsu: Falling From Grace" or "Ritsu: Awakening Lab" as a marker.

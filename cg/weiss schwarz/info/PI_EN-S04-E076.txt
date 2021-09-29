@@ -1,0 +1,16 @@
+Card Name:
+English Name:Classmate, Tatsuko
+Card No.:PI/EN-S04-E076
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Eh heh.
+Trigger:
+Special Attribute:Sports・-
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card.

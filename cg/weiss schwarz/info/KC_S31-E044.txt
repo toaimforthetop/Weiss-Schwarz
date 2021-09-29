@@ -1,0 +1,16 @@
+Card Name:
+English Name:10th Ayanami-class Destroyer, Ushio-Kai
+Card No.:KC/S31-E044
+Rarity:C
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Did you… call for me?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into your opponent's waiting room. If you do, put that character into your opponent's clock. ", '【AUTO】【CLOCK】 Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Banquet's Corner, Beatrice
+Card No.:RZ/S68-E041
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Youre being way too rude, I suppose!
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Not a Bad Day" is in your climax area, choose up to 1 《Memory Snow》 character in your waiting room, return it to your hand, choose 1 of your characters, and that character gets +1 level until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Menacing Hitagi Senjyogahara
+Card No.:BM/S15-E111
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Strange・Stationery
+Text:【ACT】 ［(1) 【REST】 one of your characters] This card gets +2500 power until end of turn.

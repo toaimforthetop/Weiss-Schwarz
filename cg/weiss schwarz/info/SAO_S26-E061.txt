@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yui's Adventure to Search for Mommy
+Card No.:SAO/S26-E061
+Rarity:RR
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:The only ones who can hug Daddy are Mommy and me!
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.", '【ACT】 [【REST】 two of your characters] Look at the top card of your deck, and put it on the top or the bottom of your deck.

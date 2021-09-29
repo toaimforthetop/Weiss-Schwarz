@@ -1,0 +1,17 @@
+Card Name:
+English Name:4th Takao-class Heavy Cruiser, Chokai Kai-II
+Card No.:KC/S42-E045
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Theyre there… As calculated,  we've found them. Enemy fleet sighted! All ships, begin the assault!
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to two cards from the top of your deck, and put them on the top of your deck in the original order.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

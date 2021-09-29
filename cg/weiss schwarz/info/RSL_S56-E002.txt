@@ -1,0 +1,19 @@
+Card Name:
+English Name:Period I Want to Protect, Nana Daiba
+Card No.:RSL/S56-E002
+Rarity:RR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:6000
+Soul:2
+Flavor Text:"Even if you one day... youll have to fight her?
+Trigger:Soul
+Special Attribute:Revue・Weapon
+Text:【CONT】 During your turn, your other character in the middle position of the center stage gets +1000 power.
+Text:【CONT】 All of your other 《Revue》 characters get +1500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your opponent's waiting room, and put it on an open position of your opponent's stage.", '

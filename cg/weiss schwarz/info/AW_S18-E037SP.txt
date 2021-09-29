@@ -1,0 +1,17 @@
+Card Name:
+English Name:Chiyuri Kurashima
+Card No.:AW/S18-E037SP
+Rarity:SP
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Sports・Net
+Text:【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is two or more, this card gets +1500 power.
+Text:【AUTO】 When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.

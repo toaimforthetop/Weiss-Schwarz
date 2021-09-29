@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kagamine Rin"Striped Bikini"
+Card No.:PD/S22-E004
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Swimsuit
+Text:【CONT】 This card gets +500 power for each of your other characters with "Rin" or "Len" in its card name.

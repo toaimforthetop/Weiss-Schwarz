@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mini Sakura: School Uniform
+Card No.:CCS/WX01-101
+Rarity:PR
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:See ya!
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 All of your other 《Tomoeda》 or 《Magic》 characters get +1000 power.
+Text:【AUTO】 When your character's trigger check reveals a climax, choose 1 of your characters, and that character gets +1 soul until end of turn.", '

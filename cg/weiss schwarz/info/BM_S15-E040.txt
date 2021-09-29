@@ -1,0 +1,16 @@
+Card Name:
+English Name:Great With Women, Suruga Kanbaru
+Card No.:BM/S15-E040
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Dealing with younger girls is certainly my forte.
+Trigger:
+Special Attribute:Strange・Sports
+Text:[ACT]［[REST] one of your characters] This card gets +1000 power until end of turn. 

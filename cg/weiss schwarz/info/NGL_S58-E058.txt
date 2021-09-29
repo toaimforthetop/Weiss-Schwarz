@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chief of Elkia's Domestic Affairs, Steph
+Card No.:NGL/S58-E058
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"If wed won over those last few who just showed up, we could've had a total and bloodless victory over the whole opposition.
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 If you have 2 or more other 《Game》 characters, this card gets +1500 power and "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".

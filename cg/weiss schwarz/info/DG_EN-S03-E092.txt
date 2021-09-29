@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Power of Sardines” Valvatorez
+Card No.:DG/EN-S03-E092
+Rarity:R
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:How magical─── Are these insignificant creatures, known as sardines!!!
+Trigger:
+Special Attribute:Demon・Blood
+Text:【CONT】 If the number of your other characters is one or less, this card gets +1000 power and the following ability. "【CONT】 This card cannot become 【REVERSE】 from your opponent character\'s 【AUTO】 effect."

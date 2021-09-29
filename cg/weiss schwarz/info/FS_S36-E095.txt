@@ -1,0 +1,16 @@
+Card Name:
+English Name:Encounter on a Rainy Day
+Card No.:FS/S36-E095
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Look at up to four cards from the top of your deck, choose up to one blue character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

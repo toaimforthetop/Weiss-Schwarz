@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Apocrypha" Shirou
+Card No.:APO/S53-E036
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Dont deny tomorrow for the people, Sieg!!
+Trigger:Soul
+Special Attribute:Master・Servant
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 【CXCOMBO】 [(2) Put a card named ""Before the Throne" Assassin of Red" from your hand into your waiting room] This ability activates up to one time per turn. When this card\'s battle opponent becomes 【REVERSE】, if a card named "Conflict of Desires" is in your climax area, you may pay the cost. If you do, 【STAND】 this card.

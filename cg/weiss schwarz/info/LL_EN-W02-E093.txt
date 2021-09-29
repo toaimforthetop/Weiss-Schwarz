@@ -1,0 +1,16 @@
+Card Name:
+English Name:Student of Otonokizaka High, Yukiho
+Card No.:LL/EN-W02-E093
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"The school idols, μs, were born from this very Otonokizaka High.
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 Bond/"“Sunny Day Song” Honoka Kosaka" [1] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "“Sunny Day Song” Honoka Kosaka" in your waiting room, and return it to your hand.)

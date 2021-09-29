@@ -1,0 +1,19 @@
+Card Name:
+English Name:Kirari Moroboshi
+Card No.:IMC/W41-E004
+Rarity:RR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Happy-happy and cheerful! Otherwise, something', 'wonderful will get away～☆
+Trigger:Soul
+Special Attribute:Music・Happy Happy
+Text:【CONT】 During your turn, if all of your characters are 《Music》, this card gets +2000 power.
+Text:【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled, you may deal one damage to your opponent." (This damage may be canceled)
+Text:【AUTO】 This ability activates up to one time per turn. During the turn that this card was placed on the stage from your hand, when damage dealt by this card is canceled, you may deal one damage to your opponent. (This damage may be canceled)
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Music》 character, you may move this card to an open position of your center stage.", '

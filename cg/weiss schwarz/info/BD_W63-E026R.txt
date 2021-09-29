@@ -1,0 +1,16 @@
+Card Name:
+English Name:A Forced Dance
+Card No.:BD/W63-E026R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Climax
+Color:Yellow
+Level:0
+Cost:0
+Power:
+Soul:0
+Flavor Text:Kanon: "I\'m going to keep trying...!"
+Trigger:Soul・Shot
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)

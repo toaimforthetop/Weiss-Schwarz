@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swimsuit Marika
+Card No.:NK/W30-E078S
+Rarity:SR
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I am counting on you, all right?
+Trigger:
+Special Attribute:Police・Key
+Text:【AUTO】 When this card attacks, choose one of your other 《Key》 characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Key》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

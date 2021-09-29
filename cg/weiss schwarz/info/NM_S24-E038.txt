@@ -1,0 +1,16 @@
+Card Name:
+English Name:“What is Justice” Karen Araragi
+Card No.:NM/S24-E038
+Rarity:C
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0 
+Power:3000
+Soul:1
+Flavor Text:"And the good guys always win, so you cant lose――
+Trigger:
+Special Attribute:Strange・Sports
+Text:-

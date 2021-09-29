@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Tad Bit Shy" Yunyun
+Card No.:KS/W55-E050
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:My name is Yunyun!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 If all of your characters are 《Adventurer》 or 《Magic》, this card gets +1500 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".

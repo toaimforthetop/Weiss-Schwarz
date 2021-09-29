@@ -1,0 +1,17 @@
+Card Name:
+English Name:Lala-Satarin-Deviluke
+Card No.:TL/W37-E056S
+Rarity:SR
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:But Rito likes me too…right?
+Trigger:
+Special Attribute:Alien・Science
+Text:【CONT】 If the number of other characters you have is one or less, this card gets +1500 power.
+Text:【AUTO】 Resonate [Reveal a card named "“Sitting” Lala" in your hand] At the beginning of your opponent\'s attack phase, you may pay the cost. If you do, move this card to an open position of your center stage.

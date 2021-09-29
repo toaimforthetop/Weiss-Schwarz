@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reason for the Handicap, Ainz
+Card No.:OVL/S62-E060
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:I guess there’s no point hiding it.
+Trigger:
+Special Attribute:Grotesque Race・Nazarick
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Grotesque Race》 or 《Nazarick》 character in your waiting room, and return it to your hand.

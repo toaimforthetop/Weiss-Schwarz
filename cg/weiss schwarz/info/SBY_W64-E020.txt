@@ -1,0 +1,17 @@
+Card Name:
+English Name:Courage to Move On, Kaede Azusagawa
+Card No.:SBY/W64-E020
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Big Brother, this is…
+Trigger:Soul
+Special Attribute:Adolescence・Animal
+Text:【CONT】 Experience If the total level of cards in your level is 4 or higher, this card gets +2500 power.
+Text:【AUTO】 Encore [Put 1 《Adolescence》 character from your hand into your waiting room] (When this card is placed into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

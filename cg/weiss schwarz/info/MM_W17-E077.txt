@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kyoko's Resolution
+Card No.:MM/W17-E077
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:
+Trigger:
+Special Attribute:
+Text:All of your 《Magic》 characters get +1500 power until end of turn. 

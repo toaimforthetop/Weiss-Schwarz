@@ -1,0 +1,18 @@
+Card Name:
+English Name:Umi in Regular Clothes
+Card No.:LL/EN-W01-075
+Rarity:R
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:Shall we go out somewhere today?
+Trigger:Soul
+Special Attribute:Music・Book
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.
+Text:【CONT】 If the number of 《Music》 characters you have is two or less, this card cannot be played from your hand.

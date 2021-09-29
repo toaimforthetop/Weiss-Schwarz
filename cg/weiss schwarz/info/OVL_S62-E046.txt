@@ -1,0 +1,16 @@
+Card Name:
+English Name:As a Warrior, Cocytus
+Card No.:OVL/S62-E046
+Rarity:C
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:3
+Power:10000
+Soul:2
+Flavor Text:Demiurge: "We could have sent in minions in case this is a trap. If all the Guardians fought together, there isn’t a force that could overtake us."
+Trigger:Soul
+Special Attribute:Grotesque Race・Nazarick
+Text:0

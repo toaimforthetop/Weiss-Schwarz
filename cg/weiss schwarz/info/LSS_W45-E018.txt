@@ -1,0 +1,17 @@
+Card Name:
+English Name:"My Retreat" Hanamaru Kunikida
+Card No.:LSS/W45-E018
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"After finishing a book, I would feel a little pang of loneliness, but I believed that as long as I had books, Id be okay.
+Trigger:Soul
+Special Attribute:Music ・Book
+Text:【CONT】 If the number of other 《Music》 characters you have is three or more, this card gets +1000 power and "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 When another of your 《Music》 character attacks, this card gets +1500 power until end of turn.

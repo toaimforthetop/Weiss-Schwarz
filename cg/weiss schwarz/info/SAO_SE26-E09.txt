@@ -1,0 +1,18 @@
+Card Name:
+English Name:《Sleeping Knights》 Talken & Nori & Jun
+Card No.:SAO/SE26-E09
+Rarity:R
+Expansion:Sword Art Online Ⅱ Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Asuna: "A toast to this gathering of friends, new and old――"
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Your other character in the middle position of the center stage with "Yuuki(ユウキ)" or "Asuna(アスナ)" in its card name gets +1 level and +1000 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put the top card of your opponent's clock into his or her waiting room. If you do, put that character into your opponent's clock.", '【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

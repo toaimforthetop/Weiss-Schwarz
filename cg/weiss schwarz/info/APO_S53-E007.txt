@@ -1,0 +1,17 @@
+Card Name:
+English Name:"La Pucelle" Ruler
+Card No.:APO/S53-E007
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Lespoir vient apres desespoir.
+Trigger:Soul
+Special Attribute:Servant・Flag
+Text:【CONT】 During your turn, this card gets +500 power for each of your other 《Master》 or 《Servant》 or 《Homunculus》 characters.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +6500 power and the following ability until end of turn. "【AUTO】 At the beginning of the encore step, deal one damage to your opponent, put this card into your waiting room, choose up to one card named "Laetitia" in your waiting room, and put it on the stage position that this card was on." (This damage may be canceled)

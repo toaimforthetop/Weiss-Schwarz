@@ -1,0 +1,18 @@
+Card Name:
+English Name:Madoka in Archery Uniform
+Card No.:MM/W35-PE02
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(1) Put this card into your waiting room] Choose a card in your clock, and return it to your hand. Choose a card in your hand, and put it into your clock.
+Text:【CONT】 This card gets +500 power for each of your other level 0 or lower characters.

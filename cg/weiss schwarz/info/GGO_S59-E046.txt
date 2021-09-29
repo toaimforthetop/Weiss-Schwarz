@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lively Assault, LLENN
+Card No.:GGO/S59-E046
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Jeez, I am!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Great Performance (When your opponent attacks, if this card is in the middle position of your center stage and not 【REVERSE】, your opponent frontal attacks this card instead)【AUTO】 [(2)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Out of the Bath" Wiz
+Card No.:KS/W55-E069
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Welcome back!
+Trigger:
+Special Attribute:Death・Magic
+Text:【AUTO】 This ability activates up to one time per turn. When you use an 【ACT】, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Adventurer》 or 《Magic》 characters you have.

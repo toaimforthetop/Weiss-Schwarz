@@ -1,0 +1,16 @@
+Card Name:
+English Name:Secretary to Ragyo, Hououmaru
+Card No.:KLK/S27-E031
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Impossible, she broke free of your Mind Stitching…
+Trigger:Soul
+Special Attribute:Clothes・Secretary
+Text:【AUTO】 When this card attacks, choose one of your other 《Clothes》 characters, and that character gets +1000 power until end of turn.

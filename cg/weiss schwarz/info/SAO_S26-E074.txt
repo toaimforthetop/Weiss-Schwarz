@@ -1,0 +1,16 @@
+Card Name:
+English Name:Yui's Simple Answer
+Card No.:SAO/S26-E074
+Rarity:C
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"I cant understand the psychology that causes the desire to seek others to manifest in such odd ways.
+Trigger:
+Special Attribute:Net・-
+Text:【CONT】 During your opponent's turn, this card gets +1000 power.", '

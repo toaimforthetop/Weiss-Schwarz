@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Mogami-class Heavy Cruiser, Suzuya
+Card No.:KC/S25-E129S
+Rarity:SR
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Suzuyas potential grows with praise. So keep the praises coming.
+Trigger:
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【AUTO】[(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Fleet Girl》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.
+Text:【AUTO】[Put this card into your waiting room] When a card named "Leave it to Suzuya-!" is placed on your climax area, you may pay the cost. If you do, choose up to one card named "3rd Mogami-class Aviation Heavy Cruiser, Suzuya-Kai" in your hand, and put it on the stage position that this card was on.

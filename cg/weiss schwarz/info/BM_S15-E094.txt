@@ -1,0 +1,17 @@
+Card Name:
+English Name:Tsubasa Hanekawa
+Card No.:BM/S15-E094
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"Coming from you, Araragi, thats really cocky.
+Trigger:Soul
+Special Attribute:Strange・Class Representative
+Text:[CONT] Assist All of your level 2 or higher characters in front of this card get +1000 power.
+Text:[CONT] Experience If the total level of the cards in your level is four or higher, this card gets the following ability. "[CONT] During your opponent\'s turn, all of your other 《Strange》 characters get +500 power."

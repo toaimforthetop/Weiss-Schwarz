@@ -1,0 +1,18 @@
+Card Name:
+English Name:Black Fallen Angel, Ranko
+Card No.:IMC/W41-E085
+Rarity:R
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Darkness
+Text:【AUTO】 When this card is placed on the stage from your waiting room, if the number of other 《Music》 characters you have is two or more, this card gets +2500 power until end of turn.
+Text:【AUTO】 [Put this card into your waiting room] At the beginning of your opponent\'s draw phase, you may pay the cost. If you do, choose a card named "White Angel, Ranko" in your waiting room, put it on the stage position that this card was on, and that character gets +2500 power until end of turn.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named "Taking a Step Forward" is in your climax area, this card gets +1 level and +5500 power until the end of your opponent\'s next turn.

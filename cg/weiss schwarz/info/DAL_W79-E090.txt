@@ -1,0 +1,17 @@
+Card Name:
+English Name:Intensifying Battlefield? Origami
+Card No.:DAL/W79-E090
+Rarity:U
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・AST
+Text:【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn.
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.

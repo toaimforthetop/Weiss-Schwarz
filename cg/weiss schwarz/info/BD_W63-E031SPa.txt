@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Noticing Change" Tsugumi Hazawa
+Card No.:BD/W63-E031SPa
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Afterglow
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(1) Put 1 card from your hand into your waiting room] At the beginning of your encore step, if "Ever-Changing Sky" is in your climax area, this card is in your center stage, and your opponent does not have any characters on his or her center stage, or all characters on your opponent\'s center stage are 【REVERSE】, you may pay the cost. If you do, Trigger FEVER.
+Text:【REPLAY】 Trigger FEVER Deal 1 damage to your opponent, choose 1 character on your opponent\'s center stage, and put it into his or her clock. (Damage may be canceled)

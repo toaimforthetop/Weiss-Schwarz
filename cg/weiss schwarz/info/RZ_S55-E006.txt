@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petelgeuse Romanee-Conti
+Card No.:RZ/S55-E006
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:My diligence knows neither slothful resignation nor demise!
+Trigger:Soul
+Special Attribute:Witch Cult・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 2 《Witch Cult》 characters from your hand into your waiting room] When "Proof of Love" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, choose up to 2 "Unseen Hand" in your waiting room, put them on separate open positions of your stage, and all of your "Unseen Hand" get +1 soul and the following ability until end of turn. "【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 2 damage to your opponent." (Damage may be canceled)

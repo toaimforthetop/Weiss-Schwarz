@@ -1,0 +1,16 @@
+Card Name:
+English Name:Morgana as MONA: The Plan Fails
+Card No.:P5/S45-TE14
+Rarity:TD
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Hey! What the hell!? Ugh, seriously!Whyre you wrapping this up likeeverything's all hunky-dory!?
+Trigger:
+Special Attribute:Thief・-
+Text:-

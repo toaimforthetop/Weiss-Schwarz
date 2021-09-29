@@ -1,0 +1,16 @@
+Card Name:
+English Name:3D Icon
+Card No.:AW/S43-E025
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:3
+Cost:3
+Power:
+Soul:0
+Flavor Text:"Whats taking you so long?!
+Trigger:
+Special Attribute:
+Text:Choose up to one level 3 or lower character in your opponent's center stage, return it to your opponent's hand, and deal X damage to your opponent. X is equal to that character's soul. (This damage may be canceled)

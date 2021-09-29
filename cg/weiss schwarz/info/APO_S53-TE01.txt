@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Summoning" Kairi Shishigou
+Card No.:APO/S53-TE01
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Thou Seventh Heaven, clad in the three great words of power, come forth from the circle of binding, Guardian of the Scales!
+Trigger:
+Special Attribute:Master・Death
+Text:【CONT】 All of your other cards named ""Summoning" Saber of Red" get +1000 power.
+Text:【AUTO】 Bond/""Summoning" Saber of Red" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Summoning" Saber of Red" in your waiting room, and return it to your hand)

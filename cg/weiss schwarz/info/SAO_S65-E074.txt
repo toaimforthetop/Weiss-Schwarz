@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Power of Meaning" Kirito
+Card No.:SAO/S65-E074
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Eugeo: "This is..."
+Trigger:
+Special Attribute:Fluctlight・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Fluctlight》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Night-Sky Blade" is in your climax area, you may choose 1 of your opponent\'s level 0 or lower characters, and put it at the bottom of his or her deck.

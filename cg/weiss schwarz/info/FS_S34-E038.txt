@@ -1,0 +1,16 @@
+Card Name:
+English Name:Bewitching Beauty, Rider
+Card No.:FS/S34-E038
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 [Put another character from your stage into your waiting room] When this card attacks, if a card named "" is in your climax area, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock.

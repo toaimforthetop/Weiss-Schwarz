@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Real Magic Power is Down to Luck Too" Aqua
+Card No.:KS/W55-E083
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Blessing!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 During your opponent\'s turn, all of your other characters get +500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. If there is a card named ""Swarmed on the Street" Axis Church Devotee" revealed among those cards, choose a 《Goddess》 or 《Axis Church Devotee》 character in your waiting room, and return it to your hand.

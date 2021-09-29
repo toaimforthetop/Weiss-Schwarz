@@ -1,0 +1,17 @@
+Card Name:
+English Name:Girl Imprisoned in Ice, Emilia
+Card No.:RZ/SE35-E01
+Rarity:RR
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Magic・Celestial Spirit
+Text:【AUTO】 When your climax is placed on your climax area, if that card\'s trigger icon is , choose 1 of your characters, and that character gets +1000 power until the end of your opponent\'s next turn.
+Text:【AUTO】 [(1)] When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 character with "Emilia (エミリア)" or "Puck (パック)" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Under the Fullmoon, Kasumi & Rimi
+Card No.:BD/W47-E022
+Rarity:RR
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Kasumi: "Rimi-rin, that yukata looks good on you."
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】  If all of your characters are 《Music》, this card gets +2000 power.
+Text:【AUTO】  [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand or by a "Change" effect, you may pay the cost. If you do, put the top card of your clock into your stock.
+Text:【AUTO】  [(1)] At the beginning of your opponent\'s attack phase, you may pay the cost. If you do, choose one of your 《Music》 characters and this card, and exchange them as 【STAND】 .

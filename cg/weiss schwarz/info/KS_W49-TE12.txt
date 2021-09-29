@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Urgent Ally Recruitment!” Aqua
+Card No.:KS/W49-TE12
+Rarity:TD
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Theres no way the two of us can take them on alone. Let's recruit more allies!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 During your opponent's turn, your other character in the middle position of the center stage gets +1500 power.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, draw up to one card.", '

@@ -1,0 +1,18 @@
+Card Name:
+English Name:Skilled 《Sylph》, Leafa
+Card No.:SAO/S26-E021
+Rarity:RR
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:……so what should I do now?
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +1000 power.
+Text:【AUTO】 [(1) 【REST】 this card] When another of your characters becomes 【REVERSE】 in battle, if this card is 【STAND】, you may pay the cost. If you do, until end of turn that character gets the following ability. "【AUTO】 Encore [Put a character from your hand into your waiting room]".
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

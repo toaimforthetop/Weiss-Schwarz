@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Unnoticed Feelings" Mari Ohara
+Card No.:LSS/W45-E092
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:Dia: "How you fit in… How you feel… And your future…She cares about it more than anyone."
+Trigger:Soul
+Special Attribute:Music
+Text:【CONT】 If the number of your other 《Music》 characters is three or more, this card gets +1 level and +1500 power. 【AUTO】 [(2)] When a card named ""We Want to Shine!" Mari & Kanan & Dia" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to one level 2 or lower character with "Kanan(果南)" or "Dia(ダイヤ)" or "Mari(鞠莉)" in its card name, put it on an open position of your stage, and shuffle your deck.\u3000

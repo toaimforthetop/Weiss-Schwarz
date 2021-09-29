@@ -1,0 +1,16 @@
+Card Name:
+English Name:Phone-Shy
+Card No.:BD/EN-W03-120
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:"A-Ako-chan... Im not so great... at phone calls... I think... I'm supposed to take a deep breath... and relax...
+Trigger:
+Special Attribute:
+Text:【COUNTER】If you have 1 or less 《Music》 characters, this card cannot be played from your hand.Choose 1 of the following effects and perform it. If you have 1 character with "Yukina(友希那)" in its card name, 1 other character with "Lisa(リサ)" in its card name, 1 other character with "Sayo(紗夜)" in its card name, 1 other character with "Ako(あこ)" in its card name, and 1 other character with "Rinko(燐子)" in its card name, perform the chosen effect 2 times instead."Choose 1 of your opponent\'s characters, and that character gets -1 soul until end of turn.""Choose 1 of your characters in battle, and that character gets +3000 power until end of turn.""Search your deck for up to 1 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."

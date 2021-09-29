@@ -1,0 +1,16 @@
+Card Name:
+English Name:"The First Steps of Fate" Ruler
+Card No.:APO/S53-TE14
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I have the duty to uphold the rules of this battle.
+Trigger:
+Special Attribute:Servant・Flag
+Text:【AUTO】 When this card attacks, choose one of your other 《Master》 or 《Servant》 or 《Homunculus》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Master》 or 《Servant》 or 《Homuculus》 characters you have.

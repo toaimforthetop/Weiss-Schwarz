@@ -1,0 +1,17 @@
+Card Name:
+English Name:Undefeated Warrior, Momon
+Card No.:OVL/S62-E010
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Now then.
+Trigger:
+Special Attribute:Grotesque Race・Raven Black
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, this card gets +2 soul until end of turn.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

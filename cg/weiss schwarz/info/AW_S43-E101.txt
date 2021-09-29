@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mini Kuroyukihime
+Card No.:AW/S43-E101
+Rarity:PR
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Dont be so dejected.
+Trigger:
+Special Attribute:Student Council・Avatar
+Text:【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1000 power.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

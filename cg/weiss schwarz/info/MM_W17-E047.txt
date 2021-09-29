@@ -1,0 +1,16 @@
+Card Name:
+English Name:Best Friends, Madoka & Homura
+Card No.:MM/W17-E047
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Homura: "This is still the place that she once tried to protect."
+Trigger:
+Special Attribute:Magic・Time
+Text:【AUTO】［(1)] When this card attacks, if a card named "My very best friend" is in your climax area, you may pay the cost. If you do, all of your 《Magic》 characters get +2500 power until end of turn. 

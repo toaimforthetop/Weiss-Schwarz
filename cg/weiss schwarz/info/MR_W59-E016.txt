@@ -1,0 +1,18 @@
+Card Name:
+English Name:Felicia Mitsuki
+Card No.:MR/W59-E016
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:My fighting style? If they come crashing in, I whack them in return!
+Trigger:
+Special Attribute:Magic・Attack
+Text:【CONT】 Assist During your turn, all of your characters in front of this card get +500 power.
+Text:【AUTO】 At the beginning of your climax phase, choose 1 of your other level 2 or lower characters, and that character gets -1 level and +500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When "It\'s a Holiday! Nap All You Like" is placed on your climax area, if your level is 2 or lower, choose 1 character in your opponent\'s center stage, and that character gets -1000 power until end of turn. If your level is 3 or higher, choose 1 character in your opponent\'s center stage, and that character gets -2000 power until end of turn.

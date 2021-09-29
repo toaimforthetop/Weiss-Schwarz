@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Explosion Magic
+Card No.:KS/W55-E075
+Rarity:CR
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Burst forth! Explosion!
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose a character in your waiting room, and return it to your hand)

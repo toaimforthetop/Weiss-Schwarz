@@ -1,0 +1,17 @@
+Card Name:
+English Name:Bunny Girl Senpai, Mai Sakurajima
+Card No.:SBY/W64-E051SP
+Rarity:SP
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im surprised. So, you can still see me?
+Trigger:
+Special Attribute:Adolescence・Cooking
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Adolescence》 character from among those cards, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.
+Text:【AUTO】 When this card is put into your waiting room from the stage, you may choose 1 "Irreplaceable Existence, Mai Sakurajima" in your waiting room, and put it into your memory.

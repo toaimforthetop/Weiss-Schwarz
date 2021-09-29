@@ -1,0 +1,16 @@
+Card Name:
+English Name:Weekend Date, Chitoge
+Card No.:NK/W30-E005
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Would you believe this boy, every single weekend～ he asks me to the movies～
+Trigger:
+Special Attribute:Heiress・Key
+Text:【CONT】 Memory If a card named "Promised Pendant" is in your memory, this card gets +2000 power.

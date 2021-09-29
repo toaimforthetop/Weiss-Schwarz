@@ -1,0 +1,17 @@
+Card Name:
+English Name:Memory Sharing, Kurami
+Card No.:NGL/S58-E042
+Rarity:C
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Ill believe... in the potential of humanity.
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 Memory If "Peas in a Pod" is in your memory, this card gets +1000 power and +1 soul.
+Text:【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

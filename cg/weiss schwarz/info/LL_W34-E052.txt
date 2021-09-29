@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Snow Halation" Umi Sonoda 
+Card No.:LL/W34-E052
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Memory That We are All Here at This Very Moment" is in your climax area, and you have other cards named "“Snow Halation” Honoka Kosaka" and "“Snow Halation” Kotori Minami", you may pay the cost. If you do, choose up to two characters in your waiting room, return it to your hand, choose a card in your hand, put it into your waiting room, and this card gets +2000 power until end of turn.

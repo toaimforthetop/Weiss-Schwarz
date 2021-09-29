@@ -1,0 +1,16 @@
+Card Name:
+English Name:Run!!
+Card No.:AOT/S50-E084b
+Rarity:CC
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

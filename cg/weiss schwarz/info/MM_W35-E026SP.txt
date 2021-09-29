@@ -1,0 +1,19 @@
+Card Name:
+English Name:“For Madoka's Sake” Homura
+Card No.:MM/W35-E026SP
+Rarity:SP
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Ill never let you Incubators touch Madoka again.
+Trigger:Soul
+Special Attribute:Magic・Time
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, draw up to two cards, choose a card in your hand and put it into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Magic》 characters, and 【REST】 it.
+Text:【AUTO】 When this card attacks, if a card named "Truth Behind the Barrier" is in your climax area, until end of turn, this card gets +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s clock."
+Text:【CONT】 All of your characters get +1000 power and +1 soul.', "(【RETURN】: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.)", '

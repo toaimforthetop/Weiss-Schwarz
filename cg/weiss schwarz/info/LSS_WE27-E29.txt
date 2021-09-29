@@ -1,0 +1,16 @@
+Card Name:
+English Name:"From Zero to One!" Chika Takami
+Card No.:LSS/WE27-E29
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"From zero to one! Lets shine with everything we've got!
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [Put a level 0 or lower card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose a level 1 character in your waiting room, and return it to your hand. (Climax are regarded as level 0)

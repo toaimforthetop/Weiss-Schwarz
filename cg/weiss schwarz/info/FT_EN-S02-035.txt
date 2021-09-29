@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lucy Heartfilia
+Card No.:FT/EN-S02-035
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"You see, a Celestial Wizards contract relies on the promise that's made between the wizard and the spirit.
+Trigger:
+Special Attribute:Magic・Key
+Text:【ACT】 [【REST】 two of your characters] Choose one of your 《Key》 characters, and that character gets +2000 power until end of turn.

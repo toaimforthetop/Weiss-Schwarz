@@ -1,0 +1,16 @@
+Card Name:
+English Name:Parting with Rin
+Card No.:FZ/S17-E084
+Rarity:CC
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"There is only one saying left to pass on as a representative of the past generations, to the offspring of the proud Tohsaka family."
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

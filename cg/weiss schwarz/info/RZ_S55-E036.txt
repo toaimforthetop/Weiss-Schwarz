@@ -1,0 +1,17 @@
+Card Name:
+English Name:Demure Reply, Ram
+Card No.:RZ/S55-E036
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im sorry to tell you that I've finished my bath, so I won't be changing.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.
+Text:【AUTO】 [Put this card into your waiting room] When your other 《Magic》 or 《Weapon》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.

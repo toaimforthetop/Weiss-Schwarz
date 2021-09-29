@@ -1,0 +1,16 @@
+Card Name:
+English Name:Flame Lotus Phoenix Sword
+Card No.:FT/EN-S02-065
+Rarity:C
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power: -
+Soul:0
+Flavor Text: -
+Trigger:
+Special Attribute: -・ -
+Text:【COUNTER】 Choose one of your 《Magic》 characters, and that character gets +6500 power until end of turn. Put this card into your memory.

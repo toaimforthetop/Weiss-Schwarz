@@ -1,0 +1,17 @@
+Card Name:
+English Name:After-Class Lesson, Hikari Kagura
+Card No.:RSL/S56-E103
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"…Its pointless rejecting you huh?
+Trigger:
+Special Attribute:Revue・Barrette
+Text:【CONT】 During your turn, if you have another 《Revue》 character, this card gets +3000 power.
+Text:【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order.

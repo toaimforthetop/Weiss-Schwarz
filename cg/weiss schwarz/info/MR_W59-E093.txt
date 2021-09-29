@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kaoru Maki
+Card No.:MR/W59-E093
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I won’t miss... This is the best shot ever!
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 If your level is 2 or higher, this card gets the following ability. "【ACT】 [Put this card into your stock] Choose up to 1 "Kazumi" in your hand, and put it on the position that this card was on."【AUTO】 When this card is placed on the stage from your hand or when this card becomes 【REVERSE】 in battle, look at the top card of your deck, and put it on the top or at the bottom of your deck.

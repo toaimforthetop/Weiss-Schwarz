@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maki in Regular Clothes
+Card No.:LL/EN-W01-101
+Rarity:C
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Whats up? All right, let's go.
+Trigger:
+Special Attribute:Music・Heiress
+Text:-

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Slime Princess
+Card No.:AT/WX02-055
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is an 《Ooo》 character or "The Ice King\'s Schemes", you may put this card into your memory. (Return the revealed card to its original place)

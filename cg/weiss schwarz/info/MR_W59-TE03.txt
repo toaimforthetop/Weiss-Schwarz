@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Surrounded by White Wings" Kaede
+Card No.:MR/W59-TE03
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"We could play together, then take a nap... Id love it if we could chat in my dreams.
+Trigger:
+Special Attribute:Magic・Ability
+Text:【CONT】 During your turn, all of your other ""It\'s Not Like I Was Waiting" Rena" get +2000 power.
+Text:【AUTO】 Bond/""It\'s Not Like I Was Waiting" Rena" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 ""It\'s Not Like I Was Waiting" Rena" in your waiting room, and return it to your hand)

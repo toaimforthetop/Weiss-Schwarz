@@ -1,0 +1,18 @@
+Card Name:
+English Name:Light Cruiser Who Takes Care of Sister Ships, Tatsuta
+Card No.:KC/S31-E065
+Rarity:R
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Thank you. Would you keep this a secret from Tenryu?
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】 This card gets -1 level while on the stage. 
+Text:【CONT】 If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power.
+Text:【AUTO】 [Put the top card of your deck into your clock] When?this?card?attacks, if a card named "Pu-pukupuu!" is in your climax area, you may pay the cost. If you do, choose a 《Fleet Girl》 character in your waiting room, and return it to your hand.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Eriol Hiiragizawa
+Card No.:CCS/WX01-047
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Really? That’s wonderful.
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 All of your other "Kaho Mizuki" get +2000 power.
+Text:【AUTO】 This ability activates up to 1 time per turn. When your other "Kaho Mizuki" is placed on the stage from your hand, you may put the top card of your deck into your stock.

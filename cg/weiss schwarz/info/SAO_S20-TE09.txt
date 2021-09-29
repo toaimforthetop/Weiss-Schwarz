@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lovely Girl, Yui
+Card No.:SAO/S20-TE09
+Rarity:TD
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Its good.
+Trigger:
+Special Attribute:Net・-
+Text:-

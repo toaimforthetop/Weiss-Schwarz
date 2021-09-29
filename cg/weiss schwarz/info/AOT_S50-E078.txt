@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Relief" Mikasa
+Card No.:AOT/S50-E078
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:"Weve got this…… Leave the rest to us.
+Trigger:Soul
+Special Attribute:Corps・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【AUTO】 During the attack phase, when your character moves to another stage position, that character gets +1000 power until end of turn.", '

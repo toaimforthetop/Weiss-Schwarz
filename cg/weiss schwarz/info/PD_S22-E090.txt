@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Solitude"
+Card No.:PD/S22-E090
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 If you do not have any other characters on your center stage, this card gets +1 level and +1000 power.

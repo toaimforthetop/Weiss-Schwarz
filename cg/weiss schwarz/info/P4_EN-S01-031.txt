@@ -1,0 +1,16 @@
+Card Name:
+English Name:Chie in Yukata
+Card No.:P4/EN-S01-031
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Whaddya mean, "actually"!
+Trigger:
+Special Attribute:Sports・Japanese Clothes
+Text:【AUTO】 When this card attacks or is frontal attacked, you may put the top card of your deck into your waiting room. If that card is a level 0 or lower character, this card gets +1 level and +1000 power until end of turn.

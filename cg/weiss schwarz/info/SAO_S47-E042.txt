@@ -1,0 +1,17 @@
+Card Name:
+English Name:Innocent and Uninhibited, Yuuki
+Card No.:SAO/S47-E042
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Yeah.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.
+Text:【ACT】 [(1)] Choose one of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.", '

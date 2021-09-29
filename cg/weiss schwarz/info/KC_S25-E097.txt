@@ -1,0 +1,16 @@
+Card Name:
+English Name:1st Nagara-class Light Cruiser, Nagara
+Card No.:KC/S25-E097
+Rarity:U
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Torpedo squadron, heading out! I can hardly wait!
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】If the number of your other 《Fleet Girl》 characters is two or more, this card gets +1000 power.

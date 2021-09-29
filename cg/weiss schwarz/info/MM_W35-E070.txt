@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Farewell to Nightmares” Kyoko
+Card No.:MM/W35-E070
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.', "【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +1000 power until end of turn.", '

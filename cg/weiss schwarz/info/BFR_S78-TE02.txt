@@ -1,0 +1,16 @@
+Card Name:
+English Name:Conqueror, Yui
+Card No.:BFR/S78-TE02
+Rarity:TD
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Game・Twins
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn.

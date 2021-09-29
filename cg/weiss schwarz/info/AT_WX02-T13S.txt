@@ -1,0 +1,16 @@
+Card Name:
+English Name:Princess Bubblegum: Stately Gown
+Card No.:AT/WX02-T13S
+Rarity:SR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Ooo・Royalty
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Whistling Choir Deathmatch Championship Practice" is in your climax area, and you have another 《Ooo》 character, look at up to 4 cards from the top of your deck, choose up to 1 《Ooo》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

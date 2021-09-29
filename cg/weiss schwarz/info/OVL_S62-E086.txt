@@ -1,0 +1,17 @@
+Card Name:
+English Name:Invisibility Magic, Evileye
+Card No.:OVL/S62-E086
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4000
+Soul:1
+Flavor Text:"Ive returned.
+Trigger:Soul
+Special Attribute:Grotesque Race・Blue Rose
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【ACT】 [【REST】 this card] Choose 1 of your blue or 《Raven Black》 characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character at the bottom of your opponent\'s deck."

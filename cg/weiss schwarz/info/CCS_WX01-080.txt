@@ -1,0 +1,16 @@
+Card Name:
+English Name:Akiho: Just Visiting
+Card No.:CCS/WX01-080
+Rarity:R
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:I’m glad I came.
+Trigger:
+Special Attribute:Tomoeda・-
+Text:【AUTO】 【CXCOMBO】 When "Birds of a Feather" is placed on your climax area, choose 1 of your other characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Tomoeda》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."

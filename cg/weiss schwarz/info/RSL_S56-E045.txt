@@ -1,0 +1,17 @@
+Card Name:
+English Name:Encore, Karen Aijo
+Card No.:RSL/S56-E045
+Rarity:R
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Giraffe: "This is precisely the stage I wanted to see…!"
+Trigger:Soul
+Special Attribute:Revue・Weapon
+Text:【CONT】 This card gets +500 power for each of your other 《Revue》 characters.
+Text:【AUTO】 Encore [Put 1 《Revue》 character from your hand into your waiting room]  (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

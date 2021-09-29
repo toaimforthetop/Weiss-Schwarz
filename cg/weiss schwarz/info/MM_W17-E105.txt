@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ordinary Girl, Madoka
+Card No.:MM/W17-E105
+Rarity:TD
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I wish I could get a love letter from someone too.
+Trigger:
+Special Attribute:Magic
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.

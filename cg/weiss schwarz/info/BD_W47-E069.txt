@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sprin'PARTY, Kasumi Toyama
+Card No.:BD/W47-E069
+Rarity:C
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Want me to keep going?
+Trigger:Soul
+Special Attribute:Music・Star
+Text:【CONT】  Experience If a card named "Kasumi Toyama" is in your level, this card gets -1 level while in your hand.
+Text:【AUTO】  When this card is placed on the stage from your hand, if the number of other characters you have with 《Music》 or "Asuka(明日香)" in its card name is four or more, you may choose a 《Music》 character in your waiting room, and put it into your stock.

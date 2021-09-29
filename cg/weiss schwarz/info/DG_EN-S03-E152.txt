@@ -1,0 +1,16 @@
+Card Name:
+English Name:Robust Princess, Sapphire
+Card No.:DG/EN-S03-E152
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Hehehe, just because Im a princess doesn't mean I'm very ladylike. 
+Trigger:
+Special Attribute:Royalty・Weapon
+Text:-

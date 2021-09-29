@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tsubasa Hanekawa Knows Everything
+Card No.:BM/S15-E091
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Really? Im just normal.
+Trigger:
+Special Attribute:Strange・Class Representative
+Text:[ACT]

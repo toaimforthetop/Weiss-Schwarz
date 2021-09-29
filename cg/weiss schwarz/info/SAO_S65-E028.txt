@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fight Between Bitter Enemies, Cardinal
+Card No.:SAO/S65-E028
+Rarity:R
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Stay back!
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Conclusion After 200 Years" is in your climax area, reveal the top card of your deck. If that card is a 《Fluctlight》 character, put it into your stock, choose up to 1 "Charlotte\'s Assist" in your waiting room, and return it to your hand. (Otherwise, return it to its original place)

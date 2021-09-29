@@ -1,0 +1,16 @@
+Card Name:
+English Name:Syaoran: Flower Viewing
+Card No.:CCS/WX01-025
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Oh, wow!
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 If this card is in the left position of your center stage, this card gets +2500 power and "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".

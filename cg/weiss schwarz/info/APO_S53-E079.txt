@@ -1,0 +1,18 @@
+Card Name:
+English Name:Gordes Musik Yggdmillennia
+Card No.:APO/S53-E079
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"Dont do anything? Dammit!
+Trigger:Soul
+Special Attribute:Master・Alchemy
+Text:【CONT】 All of your other cards named "Homunculus" get +1000 power.
+Text:【CONT】 Assist All of your 《Master》 or 《Servant》 or 《Homunculus》 characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【ACT】 [【REST】 this card] Choose one of your 《Homunculus》 characters, and put it into your stock.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Summer Uniform" Maki Nishikino
+Card No.:LL/W36-TE01
+Rarity:TD
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Itd be great if we could put a big shady tent on the rooftop. Wouldn't that be a bit cooler?
+Trigger:
+Special Attribute:Music
+Text:【CONT】 Assist All of your characters in front of this card get +500 power. 
+Text:【ACT】[(1)] Choose one of your 《Music》 characters, and that character gets +1500 power until end of turn. 
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one blue card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

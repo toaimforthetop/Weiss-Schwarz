@@ -1,0 +1,18 @@
+Card Name:
+English Name:Finn: Filled with Chaotic Evil
+Card No.:AT/WX02-024
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【CONT】 During your turn, if you have 2 or more other 《Ooo》 characters, this card gets +2000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, search your deck for up to 1 《Ooo》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 [Put 1 "The Nightosphere Amulet" from your memory into your waiting room] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is an 《Ooo》 character, you may pay the cost. If you do, return this card to your hand. (Return the revealed card to its original place)

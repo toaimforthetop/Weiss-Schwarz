@@ -1,0 +1,18 @@
+Card Name:
+English Name:Bigger of the Sisters, Karen Araragi
+Card No.:NM/S24-E028
+Rarity:U
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0 
+Power:500
+Soul:1
+Flavor Text:So get back to your room and study.
+Trigger:
+Special Attribute:Strange・Sports
+Text:【AUTO】 When this card attacks, all of your other characters with "Tsukihi(月火)" in its card name get +500 power until end of turn.
+Text:【AUTO】 Bond/"Immortal Strange, Tsukihi Araragi" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Immortal Strange, Tsukihi Araragi" in your waiting room, and return it to your hand.)
+Text:【CONT】 If the number of other 《Strange》 characters you have is two or more, this card gets +1000 power.', "【AUTO】 [Put a card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your other characters and this card, exchange them as 【STAND】, and this card gets +2000 power until end of turn.", '

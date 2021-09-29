@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hazuki Yusa
+Card No.:MR/W59-E049
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Hey now, relax those shoulders, okay?
+Trigger:
+Special Attribute:Magic・Support
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Magic》 characters, and that character gets +1500 power until end of turn.

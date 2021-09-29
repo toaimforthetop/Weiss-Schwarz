@@ -1,0 +1,17 @@
+Card Name:
+English Name:Feelings Towards Older Sister, Selka
+Card No.:SAO/S65-E018
+Rarity:C
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:For some reason, I feel a little better now.
+Trigger:
+Special Attribute:Fluctlight・Sacred Arts
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your other 《Fluctlight》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card direct attacks, choose 1 of your other characters, and that character gets +1500 power until end of turn.

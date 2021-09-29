@@ -1,0 +1,16 @@
+Card Name:
+English Name:2 Years' Confrontation, Asuna
+Card No.:SAO/S51-E101
+Rarity:PR
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:7500
+Soul:2
+Flavor Text:"Youve spent a lot of time in this game, I see.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your turn, this card gets +1500 power for each of your other 《Avatar》 or 《Net》 characters.

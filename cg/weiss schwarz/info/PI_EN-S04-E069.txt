@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Belief” Miyu
+Card No.:PI/EN-S04-E069
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Together, we can accomplish things we couldnt alone.
+Trigger:
+Special Attribute:Master・Magic
+Text:【CONT】 If the number of cards in your hand is six or more, this card gets +1500 power.
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card attacks, if a card named "Class Card, Lancer" is in your climax area, you may pay the cost. If you do, draw a card, and this card gets +1000 power until end of turn.

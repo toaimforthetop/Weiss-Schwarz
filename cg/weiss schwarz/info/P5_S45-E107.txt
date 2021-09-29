@@ -1,0 +1,17 @@
+Card Name:
+English Name:Futaba: Phantom Thief of Hearts
+Card No.:P5/S45-E107
+Rarity:PR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"Mwehehe... Ill take your heart!
+Trigger:
+Special Attribute:Thief・Net
+Text:【CONT】 If the number of other 《Thief》 characters you have is two or more, this card gets +1000 power.
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

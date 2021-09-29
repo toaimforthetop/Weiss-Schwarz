@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Veteran Scout" Nanaba
+Card No.:AOT/S50-E039a
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Its time to show off our ODM gear.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 If you have another card named ""Veteran Scout" Gelgar", this card gets +2000 power.
+Text:【CONT】 All of your other level 0 or lower characters get +1000 power.

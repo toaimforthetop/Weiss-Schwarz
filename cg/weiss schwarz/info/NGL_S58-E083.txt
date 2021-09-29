@@ -1,0 +1,17 @@
+Card Name:
+English Name:Only We Can Know, Shiro
+Card No.:NGL/S58-E083
+Rarity:R
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"...Brother, youre amazing...! No one would figure this out...
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 This card gets +500 power for each of your other 《Game》 characters.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if "Affection-Loaded Piece" is in your climax area, and you have another 《Game》 character, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it on the top or at the bottom of your stock, and put the rest into your waiting room.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Sayaka's Wish
+Card No.:MM/W17-E098
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:"Theres no way I'll ever regret it.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters with "Sayaka" in its card name, and put it into your waiting room. If you do, put the top card of your clock into your hand, and put this card into your memory. 

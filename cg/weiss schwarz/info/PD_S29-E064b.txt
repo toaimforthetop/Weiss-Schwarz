@@ -1,0 +1,17 @@
+Card Name:
+English Name:Megurine Luka "Temptation"
+Card No.:PD/S29-E064b
+Rarity:R
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:3000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Dealer
+Text:【CONT】 Assist All of your characters in front of this card get +1000 power.
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Blackjack" in your waiting room, and return it to your hand.

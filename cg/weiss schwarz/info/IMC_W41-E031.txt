@@ -1,0 +1,16 @@
+Card Name:
+English Name:Gentle Big Sis, Mika
+Card No.:IMC/W41-E031
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:I can be here of course, right?
+Trigger:Soul
+Special Attribute:Music・Gal
+Text:-

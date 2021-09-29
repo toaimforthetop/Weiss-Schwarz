@@ -1,0 +1,18 @@
+Card Name:
+English Name:Sayaka Looks Up to Mami
+Card No.:MM/W17-E084
+Rarity:R
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Sayaka: "Maaan, you are so cool, Mami!"
+Trigger:
+Special Attribute:Magic・Love
+Text:【AUTO】 When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【AUTO】 When this card attacks, reveal the top card of your deck. If the revealed card is a 《Magic》 character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to is its original place.) 
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

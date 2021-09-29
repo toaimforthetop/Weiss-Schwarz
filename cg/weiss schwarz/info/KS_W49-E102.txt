@@ -1,0 +1,17 @@
+Card Name:
+English Name:Petit Darkness
+Card No.:KS/W49-E102
+Rarity:PR
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:KONOSUBA--
+Trigger:Soul
+Special Attribute:Adventurer・Worries
+Text:【CONT】 If the number of cards in your clock is one or less, this card cannot attack.
+Text:【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, this card gets +4500 power until end of turn.

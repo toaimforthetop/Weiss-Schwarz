@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Uber" Air-head Girl, Mako
+Card No.:KLK/S27-TE18R
+Rarity:RRR
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Up until now, the only friends I had were in my head.But then I met Ryuko and I made a real one.
+Trigger:
+Special Attribute:Family・-
+Text:-

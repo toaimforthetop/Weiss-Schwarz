@@ -1,0 +1,17 @@
+Card Name:
+English Name:Two Become One, Shiro
+Card No.:NGL/S58-E081
+Rarity:RR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Brother... talked to Izuna-tan afterward…
+Trigger:Soul
+Special Attribute:Game・Imanity
+Text:【AUTO】 【CXCOMBO】 When "Welcome, Gamer" is placed on your climax area, if this card is on your center stage, draw up to 1 card, and this card gets +6000 power until end of turn.
+Text:【AUTO】 [(1) Put 2 《Game》 characters from your hand into your waiting room] This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.

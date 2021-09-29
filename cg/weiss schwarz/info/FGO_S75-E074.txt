@@ -1,0 +1,16 @@
+Card Name:
+English Name:Final Battle With Mother
+Card No.:FGO/S75-E074
+Rarity:CR
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"I feel bad for King Gilgamesh, but Im going to finish her off as the master of the underworld!
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Last Shot, Sinon
+Card No.:SAO/S47-E076
+Rarity:RR
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Kirito…………!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, if a card named "Phantom Bullet" is in your climax area, you may pay the cost. If you do, deal four damage to your opponent. When this damage is canceled, this card gets +3500 power until the end of your opponent\'s next turn. (This damage may be canceled)【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your memory.

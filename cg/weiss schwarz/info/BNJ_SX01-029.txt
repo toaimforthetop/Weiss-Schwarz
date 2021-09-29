@@ -1,0 +1,16 @@
+Card Name:
+English Name:Rock and a Hard Place
+Card No.:BNJ/SX01-029
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:0
+Power:－
+Soul:0
+Flavor Text:Oh terrible! You can come after me, or save that mother and child down below.
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Joker" in its card name, this card cannot be played from your hand.Your opponent may choose 1 level 2 or lower character on your opponent\'s back stage, and put it into his or her waiting room. If your opponent does not, deal 1 damage to your opponent. (Damage may be canceled)

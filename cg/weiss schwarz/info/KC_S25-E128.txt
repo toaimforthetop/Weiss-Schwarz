@@ -1,0 +1,17 @@
+Card Name:
+English Name:1st Nagato-class Battleship, Nagato
+Card No.:KC/S25-E128
+Rarity:RR+
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Its the long awaited showdown between the fleets. My chest is burning with anticipation.
+Trigger:Soul
+Special Attribute:Fleet Girl・Battleship
+Text:【AUTO】When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】When a card named "Do not look down on the power of the Big 7" is placed on your climax area, if this card is in your center stage, until end of turn, all of your characters get +500 power and the following ability. "【AUTO】When this card\'s battle opponent becomes 【Reverse】, you may put that character on the bottom of your opponent\'s deck."

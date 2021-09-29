@@ -1,0 +1,16 @@
+Card Name:
+English Name:Serlut Style User, Sortiliena
+Card No.:SAO/S65-E038
+Rarity:U
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Fluctlight・Weapon
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Fluctlight》 characters, this card gets +2000 power until end of turn.

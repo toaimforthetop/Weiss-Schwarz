@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Veteran Player" Leafa
+Card No.:SAO/S26-E028
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Its fine…… But I can't guarantee ", "that you'll survive.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 You cannot play climax cards from your hand during your climax phase.

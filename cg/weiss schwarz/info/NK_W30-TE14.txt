@@ -1,0 +1,16 @@
+Card Name:
+English Name:Love Triangle? Raku
+Card No.:NK/W30-TE14
+Rarity:TD
+Expansion:NISEKOI -False Love-
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Why would I be dating her……!!
+Trigger:
+Special Attribute:Key・-
+Text:-

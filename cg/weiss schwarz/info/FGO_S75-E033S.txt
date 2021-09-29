@@ -1,0 +1,17 @@
+Card Name:
+English Name:Grand Caster, Merlin
+Card No.:FGO/S75-E033S
+Rarity:SR
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:How about something like this?
+Trigger:Soul
+Special Attribute:Babylonia・-
+Text:【CONT】 All of your other 《Chaldea》 or 《Babylonia》 characters get +1500 power. 【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card or your other 《Chaldea》 or 《Babylonia》 character is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)

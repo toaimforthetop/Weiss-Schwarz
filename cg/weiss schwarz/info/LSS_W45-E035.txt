@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Aozora Jumping Heart" Chika Takami
+Card No.:LSS/W45-E035
+Rarity:RR
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If all of your characters are 《Music》, this card gets the following ability. "【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may 【REVERSE】 that character."【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, if a card named ""Aozora Jumping Heart" Chika" is in your climax area, you may choose a character in your waiting room, and return it to your hand.

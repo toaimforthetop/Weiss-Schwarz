@@ -1,0 +1,18 @@
+Card Name:
+English Name:Battleship Hydro Ogre in the Deep Seaa
+Card No.:KC/SE28-E28
+Rarity:RR
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:Scream… while you sink…!
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Hydro Ogre in the Deep Sea
+Text:【CONT】 If the number  of climax in your waiting room is two or less, this card gets -1 level while in your hand.
+Text:【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Fleet in the Deep Sea》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.", '

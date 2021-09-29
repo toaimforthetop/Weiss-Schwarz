@@ -1,0 +1,17 @@
+Card Name:
+English Name:Jake: Randy Butternubs
+Card No.:AT/WX02-027
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【CONT】 If you have 2 or more other 《Ooo》 characters, this card gets +2000 power.
+Text:【AUTO】 【CXCOMBO】 When "The Creeps!" is placed on your climax area, if this card is in your center stage, and you have another "Finn: Prince Hotbod" and another "BMO: Professor Pants" and another "Princess Bubblegum: Lady Quietbottom", put up to 1 card from the top of your deck into your stock, and deal 1 damage to your opponent. (Damage may be canceled)

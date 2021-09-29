@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fluffy Alpaca
+Card No.:LL/EN-W02-E156
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other 《Animal》 characters.

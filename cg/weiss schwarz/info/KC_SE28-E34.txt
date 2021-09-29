@@ -1,0 +1,19 @@
+Card Name:
+English Name:Air Defense Princess in the Deep Sea
+Card No.:KC/SE28-E34
+Rarity:R/SP
+Expansion:KanColle : Fleet in the Deep Sea, Sighted!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:13000
+Soul:2
+Flavor Text:Hehe……you came……?Oh……you came……
+Trigger:Soul
+Special Attribute:Fleet in the Deep Sea・Princess in the Deep Sea
+Text:【CONT】 If this card is in your center stage except the middle position, this card gets -4000 power.
+Text:【CONT】 If this card is in the middle position of your center stage, this card gets -2000 power for each of your other 【REVERSE】 characters in the center stage or open position of your center stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to three card from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.
+Text:【AUTO】 [(3) Put a card named "Hehehe… Does it hurt?" from your climax area into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, 【STAND】 this card.

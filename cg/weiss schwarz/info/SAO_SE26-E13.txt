@@ -1,0 +1,18 @@
+Card Name:
+English Name:《Sleeping Knights》 Yuuki
+Card No.:SAO/SE26-E13
+Rarity:C
+Expansion:Sword Art Online Ⅱ Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You got it!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your characters with "Asuna(アスナ)" or "Sleeping Knights(スリーピング・ナイツ)" in its card name, and that character gets +500 power until end of turn.
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Avatar》 or 《Net》 character, this card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put that character into your opponent\'s clock." (The revealed card is returned to its original place)', "【AUTO】 When this card attacks, each player puts the top card of his or her deck into the waiting room. If the level of the card put into your waiting room with this effect is higher than the level of the card put into your opponent's waiting room with this effect, you may put the top card of your deck into your stock. (Climax are regarded as level 0)", '

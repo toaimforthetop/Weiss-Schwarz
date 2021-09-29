@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Capture Stance" Kanan Matsuura
+Card No.:LSS/W45-E077
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Heh?
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When this card is put into your waiting room from the stage, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【AUTO】 [Put this card into your waiting room] When another of your characters is put into your waiting room from the stage, if this card is in the back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.

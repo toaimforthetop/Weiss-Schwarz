@@ -1,0 +1,16 @@
+Card Name:
+English Name:Swimsuit Ryuji
+Card No.:P5/S45-E013
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Its so damn crowded...
+Trigger:
+Special Attribute:Thief・Sports
+Text:【AUTO】 [(1)] During your opponent's turn, when this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, 【REST】 this card, and at the beginning of your next encore step, put this card into your waiting room.", '

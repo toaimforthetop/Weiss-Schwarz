@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Servant" Gilgamesh
+Card No.:FS/S34-E016
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:6000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your 【STAND】 《Master》 or 《Servant》 characters, and 【REST】 it.

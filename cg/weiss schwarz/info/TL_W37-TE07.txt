@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Yuki Household Dining Table” Mikan
+Card No.:TL/W37-TE07
+Rarity:TD
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"Well, lets take it easy until the effects wear off.
+Trigger:Soul
+Special Attribute:Housework・Bag
+Text:-

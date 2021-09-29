@@ -1,0 +1,16 @@
+Card Name:
+English Name:Adventurer, Rundellhaus
+Card No.:LH/SE20-E07
+Rarity:R
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:I am, Rundellhaus Kode! ', 'The Adventurer―――!
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 This card cannot side attack. ', "【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects. ", '

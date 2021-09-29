@@ -1,0 +1,16 @@
+Card Name:
+English Name:Getting the Holy Sword, Kirito
+Card No.:SAO/SE26-E29
+Rarity:R
+Expansion:Sword Art Online Ⅱ Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"You dont know how much this means to me!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.', "【CONT】 During your opponent's turn, this card gets +500 power for each of your other 《Avatar》 or 《Net》 characters.", '【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.

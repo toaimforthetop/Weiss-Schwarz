@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Disheartened" Mikasa
+Card No.:AOT/S35-E075
+Rarity:C
+Expansion:Attack on Titan
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"……Youre right; I'm sorry. This whole situation just has me out of my head.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:

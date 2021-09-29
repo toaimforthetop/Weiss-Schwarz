@@ -1,0 +1,17 @@
+Card Name:
+English Name:Final Form, G.W.R
+Card No.:JJ/S66-E004
+Rarity:RR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:You will never arrive at the "truth" that is going to happen!
+Trigger:Soul
+Special Attribute:Golden Wind・Stand
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand or by the 【ACT】 ability of "The One Chosen by Fate, Giorno", you may pay the cost. If you do, put the top card of your clock into your stock.
+Text:【AUTO】 【CXCOMBO】 When this card frontal attacks, if "The World\'s "Truth"" is in your climax area, this card gets the following ability until end of turn. "【AUTO】 [(3)] At the beginning of your encore step, you may pay the cost. If you do, perform the following action 2 times. "Deal 1 damage to your opponent."" (Damage may be canceled)

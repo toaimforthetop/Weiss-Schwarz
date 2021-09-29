@@ -1,0 +1,16 @@
+Card Name:
+English Name:Self-proclaimed 500 Years Old, Shinobu Oshino
+Card No.:BM/S15-E020
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"The Sawari Neko, which could also be considered the personification of Hanekawa\'s stress, vanished thanks to', 'Shinobu\'s Energy Drain."
+Trigger:Soul
+Special Attribute:Strange・Blood
+Text:[CONT] If the number of cards in your stock is five or more, this card gets +1000 power. 

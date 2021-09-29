@@ -1,0 +1,18 @@
+Card Name:
+English Name:Nao Kamiya
+Card No.:IMC/W41-E097
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:"Wasnt that fantastic, Karen!
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other 《Music》 characters.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【AUTO】 [Put a character from your stage into your waiting room] When this card attacks, if a card named "Memories" is in your climax area, you may pay the cost. If you do, until end of turn, this card gets +2000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your clock into your waiting room."

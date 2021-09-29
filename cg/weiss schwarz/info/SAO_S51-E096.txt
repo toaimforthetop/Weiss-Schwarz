@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ordinal Number 1
+Card No.:SAO/S51-E096
+Rarity:U
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you do not have any 《Avatar》 or 《Net》 characters, this card cannot be played from your hand.Put the top card of your deck into your waiting room, choose one of your opponent's level X or lower characters, and put it on the bottom of his or her deck. X is equal to that card's level. (Climax are regarded as level 0)", '

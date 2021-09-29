@@ -1,0 +1,16 @@
+Card Name:
+English Name:Handling Memories
+Card No.:NM/S24-E069
+Rarity:CC
+Expansion:NISEMONOGATARI
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:My memories are always in my heart.
+Trigger:Soul・Soul
+Special Attribute:-
+Text:【CONT】 All of your characters get +2 soul.

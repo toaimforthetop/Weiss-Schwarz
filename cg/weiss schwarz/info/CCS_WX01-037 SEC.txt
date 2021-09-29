@@ -1,0 +1,17 @@
+Card Name:
+English Name:Syaoran: Sword Summoning
+Card No.:CCS/WX01-037 SEC
+Rarity:SEC
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:火神、招来！
+Trigger:Soul
+Special Attribute:Tomoeda・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to 1 card, and this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if "Fire God, Come Forth!" is in your climax area, you may pay the cost. If you do, this card gets +1000 power until end of turn, and reveal the top card of your deck. If that card is level 2 or higher, deal 2 damage to your opponent, and otherwise, deal 1 damage to your opponent. (Climax are regarded as level 0. Damage may be canceled. Return the revealed card to its original place)

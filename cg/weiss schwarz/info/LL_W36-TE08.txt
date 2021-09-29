@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Summer Uniform" Hanayo Koizumi
+Card No.:LL/W36-TE08
+Rarity:TD
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:During summer you wear less, so you sweat the small stuff more……  Do you eat fewer snacks, too?
+Trigger:
+Special Attribute:Music
+Text:

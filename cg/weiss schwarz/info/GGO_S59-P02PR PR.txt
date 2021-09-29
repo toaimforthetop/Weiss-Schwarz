@@ -1,0 +1,17 @@
+Card Name:
+English Name:Confident in Her Dexterity! LLENN
+Card No.:GGO/S59-P02PR PR
+Rarity:PR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:
+Cost:
+Power:2000
+Soul:1
+Flavor Text:"All right! Ill run!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Avatar》 or 《Net》 character in your waiting room, return it to your hand, choose 1 of your other 《Avatar》 or 《Net》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When your opponent's climax is placed on the climax area, you may put this card into your stock.", '

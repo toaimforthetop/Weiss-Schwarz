@@ -1,0 +1,16 @@
+Card Name:
+English Name:Grief Seed
+Card No.:MM/W17-E017
+Rarity:U
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:Mami: "This is a Grief Seed. It\'s a witch\'s egg."
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of 《Magic》 characters you have. 

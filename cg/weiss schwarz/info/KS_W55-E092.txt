@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sweet Smile" Axis Church Devotee
+Card No.:KS/W55-E092
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Axis Church Devotee・-
+Text:【AUTO】 When this card attacks, choose a character on your opponent's center stage that is not 《Axis Church Devotee》, and that character gets -1000 power until end of turn.", '

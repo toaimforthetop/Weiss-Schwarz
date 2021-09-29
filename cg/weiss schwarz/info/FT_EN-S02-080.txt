@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Ur's Teachings" Gray
+Card No.:FT/EN-S02-080
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Yeah, cause that's what Ur taught us. Single-handed spell casting is incomplete and unbalanced.
+Trigger:
+Special Attribute:Magic・Ice
+Text:【CONT】 Memory If a card named "Gray\'s Teacher, Ur" is in your memory, this card gets +2000 power.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)

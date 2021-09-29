@@ -1,0 +1,16 @@
+Card Name:
+English Name:Girl Lost in the Snail, Mayoi Hachikuji
+Card No.:BM/S15-E006SP
+Rarity:SP
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Strange・Spirit
+Text:[CONT] Experience If the total level of the cards in your level is two or higher, this card gets +500 power and "[AUTO] Encore ［Put a character from your hand into your waiting room］". 

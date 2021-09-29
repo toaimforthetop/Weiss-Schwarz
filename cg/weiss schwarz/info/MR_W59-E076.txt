@@ -1,0 +1,16 @@
+Card Name:
+English Name:Here With You
+Card No.:MR/W59-E076
+Rarity:CC
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-Thank you for always coming here to see me-
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)

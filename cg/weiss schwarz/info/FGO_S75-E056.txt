@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reassuring Ally, Ishtar
+Card No.:FGO/S75-E056
+Rarity:R
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You win, Ritsuka Fujimaru!
+Trigger:
+Special Attribute:Babylonia・Goddess
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Chaldea》 or 《Babylonia》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

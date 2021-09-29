@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kaede Akino
+Card No.:MR/W59-TE01R
+Rarity:RRR
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:I want to be your teammate again...!
+Trigger:
+Special Attribute:Magic・Magia
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [(1) Put 1 climax from your hand into your waiting room] Choose 1 character in your waiting room, and return it to your hand.

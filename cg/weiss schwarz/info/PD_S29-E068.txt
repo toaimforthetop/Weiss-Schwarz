@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Supreme"
+Card No.:PD/S29-E068
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Love
+Text:【CONT】 During this card\'s battle, all players cannot play "Backup" from their hand.

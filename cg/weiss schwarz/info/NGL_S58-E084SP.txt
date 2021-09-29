@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Ten Pledges, Tet
+Card No.:NGL/S58-E084SP
+Rarity:SP
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・One True God
+Text:【AUTO】 [(1) Put 1 card from your hand into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character with "Sora(空)" and 1 character with "Shiro(白)" in its card name in your waiting room, and return them to your hand.

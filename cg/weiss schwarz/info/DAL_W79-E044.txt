@@ -1,0 +1,16 @@
+Card Name:
+English Name:Exchanging Conditions, Origami
+Card No.:DAL/W79-E044
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"Ill get off you if you agree to grant me one request unconditionally.
+Trigger:
+Special Attribute:Date・AST
+Text:-

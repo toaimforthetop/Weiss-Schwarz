@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kanan Matsuura
+Card No.:LSS/W45-E072
+Rarity:R
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Would you like to take a walk in the middle of the blue sea-- together with me?
+Trigger:
+Special Attribute:Music
+Text:【CONT】 During your opponent's turn, all of your other 《Music》 characters get +1000 power.
+Text:【AUTO】 When your character's trigger check reveals a climax, choose one of your characters, and that character gets +2000 power until end of turn.", '

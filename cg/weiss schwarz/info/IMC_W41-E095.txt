@@ -1,0 +1,16 @@
+Card Name:
+English Name:Our Lyrics, Riina
+Card No.:IMC/W41-E095
+Rarity:U
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:And I feel the same way you do.
+Trigger:Soul
+Special Attribute:Music・Rock
+Text:【CONT】 If the number of red characters and blue characters you have is two or more for each color, this card gets -1 level while in your hand.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Asuna's Quiet Time
+Card No.:SAO/S47-E010
+Rarity:U
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Suu Fylla Heill Austr!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 [Put a card from your hand into your waiting room] When a card named "On Top of the 《World Tree》" is placed on your climax area, you may pay the cost. If you do, search your deck for a card named "Beacon of Hope, Asuna" and up to one 《Avatar》 or 《Net》 character, reveal them to your opponent, put them into your hand, and shuffle your deck.

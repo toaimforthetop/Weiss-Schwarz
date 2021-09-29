@@ -1,0 +1,16 @@
+Card Name:
+English Name:Obsession With Victory, Izuna
+Card No.:NGL/S58-E038
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Sora: "So then, this is her real cheat?!"
+Trigger:Soul
+Special Attribute:Game・Warbeast
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card’s battle opponent is higher than your opponent’s level, you may put the top card of your opponent's clock into his or her waiting room. If you do, you may put that character into your opponent's clock.", '

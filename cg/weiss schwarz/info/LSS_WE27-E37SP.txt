@@ -1,0 +1,17 @@
+Card Name:
+English Name:"MIRAI TICKET" Mari Ohara
+Card No.:LSS/WE27-E37SP
+Rarity:SP
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Music》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named "Thinking For the Other", reveal it to your opponent, put it into your hand, and shuffle your deck.

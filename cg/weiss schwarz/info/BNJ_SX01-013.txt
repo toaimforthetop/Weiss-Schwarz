@@ -1,0 +1,17 @@
+Card Name:
+English Name:Penguin: Weaponized Wagasa
+Card No.:BNJ/SX01-013
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【CONT】 All of your other 《Villain》 characters get +500 power.
+Text:【ACT】 [(1)] Choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn.

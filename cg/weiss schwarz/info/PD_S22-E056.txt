@@ -1,0 +1,18 @@
+Card Name:
+English Name:MEIKO"Blue Crystal"
+Card No.:PD/S22-E056
+Rarity:R
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Dress
+Text:【AUTO】［1］ When this card attacks, if a card named "Nostalogic" is in your climax area, you may pay the cost.  If you do, choose up to one of your opponent\'s level 1 or lower characters on the center stage, put it into your opponent\'s waiting room, and this card gets +X power until end of turn. X is equal to 2000 multiplied by the number of cards named "MEIKO"Blue Crystal"" in your waiting room.
+Text:
+Text:【AUTO】［1 Put a card from your hand into your waiting room］ When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Music》 character in your waiting room, and return it to your hand. 

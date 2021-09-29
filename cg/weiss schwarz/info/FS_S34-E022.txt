@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tinkering with Machines, Shirou
+Card No.:FS/S34-E022
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Its okay, I'm almost done.
+Trigger:
+Special Attribute:Master・-
+Text:-

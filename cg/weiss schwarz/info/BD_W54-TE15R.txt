@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Trace of Effort" Lisa Imai
+Card No.:BD/W54-TE15R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:...Thinking back on everything, we kind of just jumped into all of this...… A lot of things sure did happen…...
+Trigger:Soul
+Special Attribute:Music・Roselia
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of a card named ""Onstage" Yukina Minato", you may put the top card of your clock into your waiting room.
+Text:【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and that character gets +X power until end of turn. X is equal to 500 multiplied by the number of other 《Music》 characters you have.

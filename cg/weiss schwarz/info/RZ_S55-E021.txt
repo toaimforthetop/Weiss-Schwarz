@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shout of Victory, Crusch
+Card No.:RZ/S55-E021
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:The White Whale has been defeated by Wilhelm van Astrea!
+Trigger:Soul
+Special Attribute:Magic・Weapon
+Text:-

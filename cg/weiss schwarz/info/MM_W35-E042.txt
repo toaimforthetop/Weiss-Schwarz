@@ -1,0 +1,18 @@
+Card Name:
+English Name:Hills in the Morning Glow, Madoka
+Card No.:MM/W35-E042
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Wow…
+Trigger:Soul
+Special Attribute:Magic
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."
+Text:【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on the stage from your hand or your clock, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

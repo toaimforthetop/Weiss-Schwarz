@@ -1,0 +1,16 @@
+Card Name:
+English Name:Reawakened Memories, Honoka
+Card No.:LL/W34-E047
+Rarity:U
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Lets see this through until the end!
+Trigger:
+Special Attribute:Music・Student Council
+Text:【CONT】 If the number of other characters you have is one or less, this card gets +1500 power.

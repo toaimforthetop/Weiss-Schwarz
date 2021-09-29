@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Battle Ready" Berserker of Black
+Card No.:APO/S53-E067
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Uhh...?
+Trigger:
+Special Attribute:Servant・Electricity
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, your opponent may draw a card. If your opponent does, your opponent chooses a card in your opponent's hand, and puts it into his or her waiting room.

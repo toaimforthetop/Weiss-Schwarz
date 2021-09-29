@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku"Honey Whip"
+Card No.:PD/S22-E043
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:-

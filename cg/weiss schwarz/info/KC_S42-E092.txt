@@ -1,0 +1,16 @@
+Card Name:
+English Name:6th Asashio-class Destroyer, Yamagumo Kai
+Card No.:KC/S42-E092
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Oh～ my sis, Asagumo? Want to go together～?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】 This card gets +1000 power and +1 soul for each of your other cards named "5th Asashio-class Destroyer, Asagumo Kai".

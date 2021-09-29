@@ -1,0 +1,16 @@
+Card Name:
+English Name:New Roommate, Karen Aijo
+Card No.:RSL/S56-E056
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:What?!
+Trigger:
+Special Attribute:Revue・Barrette
+Text:－

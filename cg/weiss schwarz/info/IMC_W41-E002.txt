@@ -1,0 +1,18 @@
+Card Name:
+English Name:Miria Akagi
+Card No.:IMC/W41-E002
+Rarity:RR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:I like dancing, wearing cute costumes, and um… I wanna do all kinds of things!
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one level 1 or lower character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【AUTO】 When this card attacks, choose one of your characters, and that character gets +500 power until end of turn.
+Text:【CONT】 The character facing this card cannot move to another position on the stage.', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put a card from the bottom of your opponent's stock into his or her waiting room.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Futaba: It's a Deal
+Card No.:P5/S45-E091
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Please, be my key item!Ill try and get betterat navigation if you do!
+Trigger:
+Special Attribute:Thief・Net
+Text:【AUTO】 [(1)] When this card is put into your waiting room from the stage, you may pay the cost. If you do, search your stock for up to one 《Thief》 or 《Coffee》 character or event, reveal it to your opponent, return it to your hand, and shuffle your stock.

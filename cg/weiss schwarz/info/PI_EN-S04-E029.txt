@@ -1,0 +1,18 @@
+Card Name:
+English Name:Something to Protect, Miyu
+Card No.:PI/EN-S04-E029
+Rarity:RR
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Dont worry. Leave the rest to me.
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【CONT】 If a card named "In a Pinch! Illya" is in your clock, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card attacks, if a card named "Class Card, Rider" is in your climax area, until end of turn, this card gets +3000 power and your opponent cannot play event cards and "Backup" from his or her hand.
+Text:【AUTO】 At the beginning of your opponent\'s draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.

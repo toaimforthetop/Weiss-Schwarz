@@ -1,0 +1,16 @@
+Card Name:
+English Name:Silent Dance, C.R
+Card No.:JJ/S66-E017
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Mista: "It\'s going to pick up the arrow! It\'s going to pick it up!"
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【AUTO】 [(1)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 2 of your opponent's characters, exchange them as 【STAND】, and those characters get +6000 power until end of turn.", '

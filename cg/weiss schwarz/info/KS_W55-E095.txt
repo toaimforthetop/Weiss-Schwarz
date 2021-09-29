@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Power of Purification
+Card No.:KS/W55-E095
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Event
+Color:Blue
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Ahahahahaha, ahahahaha!
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your opponent's level 1 or lower characters, and 【REST】 it.", '

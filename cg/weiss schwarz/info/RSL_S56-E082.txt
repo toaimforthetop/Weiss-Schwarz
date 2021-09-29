@@ -1,0 +1,17 @@
+Card Name:
+English Name:Pajama Party, Claudine Saijo
+Card No.:RSL/S56-E082
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:－
+Trigger:Soul
+Special Attribute:Revue・Child Actor
+Text:【CONT】 This card gets +1000 power for each of your other 《Revue》 characters.
+Text:【AUTO】 [(1)] When this card's level 2 or higher battle opponent becomes 【REVERSE】, you may pay the cost. If you do, search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Wings of the Magius, Mifuyu
+Card No.:MR/W80-E062
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Please restrain yourself. You are in the presence of a Magius.
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【ACT】 [Put 1 "Well-Coordinated Sisters, Tsukuyo" or "Well-Coordinated Sisters, Tsukasa" or "Black Feather" from your hand into your waiting room & 【REST】 this card] Look at up to 4 cards from the top of your deck, choose up to 1 《Magic》 character from among them, reveal it to your opponent, put it into your hand, put the rest into your waiting room, choose 1 of your characters, and that character gets +1000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Super Haphazard", LLENN
+Card No.:GGO/S59-E042
+Rarity:R
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Looking for me?
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 The character facing this card gets "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".
+Text:【AUTO】 At the beginning of your attack phase, if this card is 【STAND】, and you have 1 or less other characters on your center stage, put up to 1 card from the top of your deck into your stock, and this card gets +2 soul until end of turn.

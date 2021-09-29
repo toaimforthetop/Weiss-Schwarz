@@ -1,0 +1,16 @@
+Card Name:
+English Name:Black Cat Mode
+Card No.:TL/W37-E052
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Meow?
+Trigger:
+Special Attribute:
+Text:Look at up to four cards from the top of your deck, choose up to one 《Animal》 or 《Plant》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.Choose one of your characters, and that character gets +2000 power until the end of your opponent's next turn. Put this card into your clock.", '

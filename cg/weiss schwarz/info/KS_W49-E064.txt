@@ -1,0 +1,16 @@
+Card Name:
+English Name:Keeps Firing Explosion Magic Every Single Day!
+Card No.:KS/W49-E064
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Explosion!
+Trigger:
+Special Attribute:
+Text:If your level is 2 or lower and your opponent\'s level is 1 or lower, you may choose a 《Magic》 character in your hand, and put it into your waiting room. If you do, put this card into your level, and perform the following action six times. "Deal one damage to your opponent." (This damage may be canceled)

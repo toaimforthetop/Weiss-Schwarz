@@ -1,0 +1,18 @@
+Card Name:
+English Name:Eye of a Veteran Fighter, Dwarf Shaman
+Card No.:GBS/S63-E012
+Rarity:U
+Expansion:Goblin Slayer
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Lets see…
+Trigger:Soul
+Special Attribute:Order・Adventurer
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order.", '

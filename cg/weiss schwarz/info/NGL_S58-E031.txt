@@ -1,0 +1,17 @@
+Card Name:
+English Name:Limits of Endurance, Kurami
+Card No.:NGL/S58-E031
+Rarity:U
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"I took it serious! I didnt sell anyone short!
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 Assist All of your level 0 or lower characters in front of this card get +1000 power.
+Text:【AUTO】 [(2)] When you level up, you may pay the cost. If you do, search your deck for up to 1 《Game》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

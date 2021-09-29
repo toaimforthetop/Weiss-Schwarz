@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Brief Respite" Christa
+Card No.:AOT/S50-E056
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Armin: "She\'s got long golden hair…… Um, and… She\'s cute!"
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets the following ability. "【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+Text:【AUTO】 At the beginning of your opponent\'s attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage.

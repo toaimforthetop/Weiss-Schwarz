@@ -1,0 +1,16 @@
+Card Name:
+English Name:I Worked Hard! Rem
+Card No.:RZ/S68-E060
+Rarity:R
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"If you wish to compliment me, I dont mind.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 If all of your characters are 《Memory Snow》, this card gets the following ability. "【AUTO】 During the climax phase or attack phase, when your or your opponent\'s character is placed onto the stage from the waiting room due to the respective player\'s card effects, all characters on that player\'s center stage get -X power until end of turn. X is equal to the cost of the character placed on the stage ×2000."【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Memory Snow》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Battle to Protect a Kingdom, Momon
+Card No.:OVL/S62-E083
+Rarity:U
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Frost Pain Modified!
+Trigger:
+Special Attribute:Grotesque Race・Raven Black
+Text:【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step.
+Text:【AUTO】 【CXCOMBO】 When this card\'s trigger check reveals a card with  in its trigger icon, if "Raven Black Hero" is in your climax area, look at up to 5 cards from the top of your deck, choose up to 1 blue or 《Raven Black》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

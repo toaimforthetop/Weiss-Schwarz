@@ -1,0 +1,18 @@
+Card Name:
+English Name:Overlord's Vassal, Etna
+Card No.:DG/EN-S03-TE07
+Rarity:TD
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Your humble vassal, Etna, will accompany you.
+Trigger:
+Special Attribute:Demon・Weapon
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Overlord Zenon Defeated!!" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Prinny》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.
+Text:【ACT】 [(1)] Choose one of your 《Prinny》 characters, and that character gets the following ability until end of turn. "【AUTO】 When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is lower than or equal to the level of this card, you may 【REVERSE】 that character."
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

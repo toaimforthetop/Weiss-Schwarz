@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Inherited Heart" Saber of Black
+Card No.:APO/S53-E092
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:6500
+Soul:1
+Flavor Text:My power is your power! Wield that sword in order to live!
+Trigger:
+Special Attribute:Servant・Dragon
+Text:【AUTO】 When this card is placed on the stage from your hand, if you do not have a card named ""Heroic Spirit" Saber of Black" in your waiting room, 【REST】 this card.

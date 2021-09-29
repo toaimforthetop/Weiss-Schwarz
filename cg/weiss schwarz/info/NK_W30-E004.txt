@@ -1,0 +1,16 @@
+Card Name:
+English Name:Great Disguise!? Seishiro
+Card No.:NK/W30-E004
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"Never in his wildest dreams would it occur to him that Id be dressed so……!
+Trigger:
+Special Attribute:Weapon・-
+Text:【CONT】 If the number of cards in your stock is two or less, this card gets +1500 power.

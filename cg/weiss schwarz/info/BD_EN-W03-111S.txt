@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Blue Roses in Harmony" Yukina Minato
+Card No.:BD/EN-W03-111S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Still... We have to continue to evolve as we move forward.
+Trigger:
+Special Attribute:Music・Roselia
+Text:【AUTO】Bond/""Blue Roses in Harmony" Ako Udagawa" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, Choose 1 ""Blue Roses in Harmony" Ako Udagawa" in your waiting room, and return it to your hand)【AUTO】Bond/""Blue Roses in Harmony" Rinko Shirokane" [Put 1 card from your hand into your waiting room] (When this card is played and placed on the stage, you may pay the cost. If you do, Choose 1 ""Blue Roses in Harmony" Rinko Shirokane" in your waiting room, and return it to your hand)

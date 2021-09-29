@@ -1,0 +1,17 @@
+Card Name:
+English Name:Fulfilled Promise, Natsume & Harutora
+Card No.:Ftr/W65-E017
+Rarity:C
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Natsume: "Now you belong to me."
+Trigger:
+Special Attribute:Fantasia Bunko・Sorcery・Shikigami
+Text:【CONT】 If this card has a marker underneath it, this card gets +3000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 "Fulfilled Promise, Natsume & Harutora" in your waiting room, and put it face up underneath this card as a marker.

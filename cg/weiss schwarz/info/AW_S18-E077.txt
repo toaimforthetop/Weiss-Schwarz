@@ -1,0 +1,17 @@
+Card Name:
+English Name:Armor of Calamity
+Card No.:AW/S18-E077
+Rarity:U
+Expansion:Accel・World
+Side:Schwarz
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:Kuroyukihime: "Even when the possessed Linker was destroyed, the armor never disappeared. It would simply possess another player and corrupt them as well."   
+Trigger:
+Special Attribute:
+Text:Put this card into your memory.
+Text:【CONT】 Memory If this card is in your memory, your 《Avatar》 character in the middle position of the center stage gets +1500 power and the following ability. "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card into your clock."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nazarick's Maid Intern, Tuare
+Card No.:OVL/S62-E004S
+Rarity:SR
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Lord Sebas…
+Trigger:
+Special Attribute:Humanoid Race・Nazarick
+Text:【AUTO】 [(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room.

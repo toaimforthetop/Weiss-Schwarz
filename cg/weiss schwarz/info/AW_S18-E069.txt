@@ -1,0 +1,16 @@
+Card Name:
+English Name:Maid of Nerima, Pard
+Card No.:AW/S18-E069
+Rarity:C
+Expansion:Accel・World
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Are we done with the questions? K.  
+Trigger:
+Special Attribute:Net・Maid
+Text:【AUTO】 Bond/"Good at Cooking, Niko" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Good at Cooking, Niko" in your waiting room, and return it to your hand.)

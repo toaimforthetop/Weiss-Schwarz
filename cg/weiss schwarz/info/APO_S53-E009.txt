@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Return to the Greater Grail" Ruler
+Card No.:APO/S53-E009
+Rarity:U
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Flag
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card\'s battle opponent is level 0 or lower, you may put that character into your opponent\'s stock. If you do, put the bottom card of your opponent\'s stock into his or her waiting room.
+Text:【AUTO】 Bond/""Apocrypha" Sieg" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Apocrypha" Sieg" in your waiting room, and return it to your hand)

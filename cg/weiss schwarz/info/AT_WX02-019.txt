@@ -1,0 +1,16 @@
+Card Name:
+English Name:Billy the Hero
+Card No.:AT/WX02-019
+Rarity:U
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"Whos the greatest warrior ever? A hero of renown!
+Trigger:
+Special Attribute:Ooo・Hero
+Text:【CONT】 You cannot play event cards or "Backup" from hand.

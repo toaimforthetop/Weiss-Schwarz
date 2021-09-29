@@ -1,0 +1,16 @@
+Card Name:
+English Name:Alpaca
+Card No.:LL/W24-E088
+Rarity:C
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Munch munch
+Trigger:
+Special Attribute:Animal・-
+Text:【CONT】 All of your other "Loves Idols, Hanayo" get +1000 power.

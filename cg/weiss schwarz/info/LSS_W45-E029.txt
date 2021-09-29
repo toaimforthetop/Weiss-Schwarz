@@ -1,0 +1,16 @@
+Card Name:
+English Name:?Little Demon Summoning?
+Card No.:LSS/W45-E029
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:3
+Power:
+Soul:0
+Flavor Text:"Heh heh heh …Its my final curse project: release Lucifer, and summon the demonic power of twenty million little demons……so cool…
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Yoshiko(善子)" in its card name, this card cannot be played from your hand. Choose a card named "Yoshiko Tsushima" in your waiting room, and put it on any position of your stage.\u3000

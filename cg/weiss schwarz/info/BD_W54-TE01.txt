@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Lone-Wolf Songstress" Yukina Minato
+Card No.:BD/W54-TE01
+Rarity:TD
+Expansion:BanG Dream! Girls Band Party! [Roselia]
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:We in Roselia believe entirely in our music.
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】 All of your other cards named ""Onstage" Sayo Hikawa" get +1000 power.
+Text:【AUTO】 Bond/""Onstage" Sayo Hikawa" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Onstage" Sayo Hikawa" in your waiting room, and return it to your hand)

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Words of Promise, Chitoge
+Card No.:NK/W30-E060
+Rarity:U
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:What was it again? What he said that day……
+Trigger:
+Special Attribute:Heiress・Key
+Text:【CONT】 All of your other 《Key》 characters get +500 power.
+Text:【CONT】 Memory If the number of cards named "Promised Pendant" in your memory is two or more, this card gets the following ability. "【CONT】 Assist All of your characters in front of this card get +500 power."

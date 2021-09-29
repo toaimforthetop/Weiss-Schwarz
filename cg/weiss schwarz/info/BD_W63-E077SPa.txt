@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Sharing Something with You" Eve Wakamiya
+Card No.:BD/W63-E077SPa
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 If your stock has 2 or less cards, this card gets +1500 power.

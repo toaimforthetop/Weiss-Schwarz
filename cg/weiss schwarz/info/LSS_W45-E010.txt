@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Long-awaited New Comer" Yoshiko Tsushima
+Card No.:LSS/W45-E010
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Hi? From the beaches of Izu,', "the long-awaited newcomer, I'm Yohane!Hi? From the beaches of Izu,", "the long-awaited newcomer, I'm Yohane!
+Trigger:
+Special Attribute:Music・Demon
+Text:【AUTO】 [(1) Put this card into your memory] When this card becomes 【REVERSE】 in battle, if the number of your other 《Music》 characters is two or more, you may pay the cost. If you do, draw up to two cards, choose two cards in your hand, and put them into your waiting room.

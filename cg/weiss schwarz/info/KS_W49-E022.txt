@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Finished Learning A Skill” Kazuma
+Card No.:KS/W49-E022
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Ohh……!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【CONT】 Experience If the total level of the cards in your level is two or higher, this card gets the following ability. "【AUTO】 When this card attacks, choose a character facing this card, and until end of turn, that card gets -1000 power and this card gets +1000 power.

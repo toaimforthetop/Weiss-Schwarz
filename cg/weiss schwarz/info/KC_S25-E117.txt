@@ -1,0 +1,16 @@
+Card Name:
+English Name:5th Kuma-class Light Cruiser, Kiso
+Card No.:KC/S25-E117
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Im Kiso. Let me bestow upon you the greatest victory.
+Trigger:
+Special Attribute:Fleet Girl・Light Cruiser
+Text:【CONT】During this card\'s battle, all players cannot play "Backup" from hand.

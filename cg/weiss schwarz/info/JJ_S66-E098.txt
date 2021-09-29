@@ -1,0 +1,16 @@
+Card Name:
+English Name:Determination to Awaken
+Card No.:JJ/S66-E098
+Rarity:CC
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"If I do something as lame as moving slow, its going to catch up to me anyway!
+Trigger:Soul・Gate
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)

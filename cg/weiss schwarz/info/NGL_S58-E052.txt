@@ -1,0 +1,17 @@
+Card Name:
+English Name:BLANK's Subordinate, Jibril
+Card No.:NGL/S58-E052
+Rarity:RR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:That is what we need in a ruler…
+Trigger:Soul
+Special Attribute:Game・Fl?gel
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [Put 2 cards from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal 1 damage to your opponent. (Damage may be canceled)

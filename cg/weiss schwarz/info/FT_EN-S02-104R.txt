@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Dragon Egg" Happy
+Card No.:FT/EN-S02-104R
+Rarity:RRR
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text: -
+Trigger:
+Special Attribute:Magic・Animal
+Text:【CONT】 If this card is on the stage, this card gets 《Dragon》.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one 《Dragon》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.

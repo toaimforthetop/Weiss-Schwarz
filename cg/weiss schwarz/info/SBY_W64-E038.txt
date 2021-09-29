@@ -1,0 +1,16 @@
+Card Name:
+English Name:What Lies Ahead, Rio Futaba
+Card No.:SBY/W64-E038
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:1000
+Soul:1
+Flavor Text:It was timing, in the end, I think.
+Trigger:Soul
+Special Attribute:Adolescence・Science
+Text:【CONT】 If your level is 2 or higher, this card gets the following ability: "【ACT】 [(1) Put 1 "Love\'s Frustrations, Rio Futaba" from your stage face up underneath this card as a marker] Choose up to 1 "Cool and Collected, Rio Futaba" in your waiting room, put it on the position that this card is on, put this card and all markers underneath this card face up in any order underneath that "Cool and Collected, Rio Futaba" as markers, choose up to 1 《Adolescence》 character in your waiting room, and return it into your hand."

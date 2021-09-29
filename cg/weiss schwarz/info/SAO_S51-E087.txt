@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sweating From a Tough Fight, Agil
+Card No.:SAO/S51-E087
+Rarity:C
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 During your opponents turn, all of your other characters get +500 power.
+Text:【AUTO】 [Put this card into your waiting room] When your other character is put into your waiting room from the stage, if this card is in your back stage, you may pay the cost. If you do, return that character to its previous stage position as 【REST】.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Middle of a Journey” Darkness
+Card No.:KS/W49-PE01
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Ill charge to the front line, so please use me as a shield!
+Trigger:
+Special Attribute:Adventurer・Worries
+Text:【CONT】 This card cannot side attack.
+Text:【CONT】 If the number of cards in your clock is three o more, this card gets +1000 power.

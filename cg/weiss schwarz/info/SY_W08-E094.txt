@@ -1,0 +1,16 @@
+Card Name:
+English Name:Cool Girl, Nagato
+Card No.:SY/W08-E094
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"It will be all right. I wont allow it.
+Trigger:Soul
+Special Attribute:Alien・Book
+Text:-

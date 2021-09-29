@@ -1,0 +1,18 @@
+Card Name:
+English Name:Lonely Eyes, Yoshino
+Card No.:DAL/W79-E080S
+Rarity:SR
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:"But Im a weak scaredy-cat.
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character\'s level ×500.
+Text:【AUTO】 [Put 1 climax from your hand into your waiting room] When your character\'s trigger check reveals a climax, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand.
+Text:【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 "Angel Manifestation, Yoshino" in your waiting room, and put it on the stage position that this card was on. (This ability will not activate if this card is not on the stage at the beginning of the climax phase)

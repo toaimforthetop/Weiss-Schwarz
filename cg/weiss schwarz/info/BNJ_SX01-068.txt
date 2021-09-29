@@ -1,0 +1,18 @@
+Card Name:
+English Name:Catwoman: Sly Deal
+Card No.:BNJ/SX01-068
+Rarity:R
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Oh, I thought you might want this thingy.
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 If this card is on your stage, this card gets 《Villain》.
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, draw 1 card, choose 1 card in your hand, and put it into your waiting room.

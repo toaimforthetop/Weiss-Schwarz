@@ -1,0 +1,17 @@
+Card Name:
+English Name:Multi-Colored, Kanade
+Card No.:BFR/S78-E085
+Rarity:R
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Magic
+Text:【AUTO】 When your climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 6 cards from the top of your deck, and put them into your waiting room. If there is a climax with  in its trigger icon among those cards, choose 1 《Game》 character in your waiting room, and return it to your hand.

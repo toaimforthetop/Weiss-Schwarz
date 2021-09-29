@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kirito's Natural Gentleness
+Card No.:SAO/S47-E095
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"I dont mind. Don't worry about it.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 Change [(2) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "Kirito Discovers a Unique Skill" in your waiting room, and put it on the stage position that this card was on.

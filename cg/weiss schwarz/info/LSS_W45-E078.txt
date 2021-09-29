@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Gentle Smile" Dia Kurosawa
+Card No.:LSS/W45-E078
+Rarity:U
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【CONT】 If the number of other characters you have is one or less, this card gets +1000 power and the following ability. "【CONT】 The character facing this card cannot move to another position on the stage."

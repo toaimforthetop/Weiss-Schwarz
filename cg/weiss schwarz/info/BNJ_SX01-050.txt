@@ -1,0 +1,16 @@
+Card Name:
+English Name:Robin: Reluctant Adieu
+Card No.:BNJ/SX01-050
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"Its time for me to go. I'll never forget you.
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card attacks, choose 1 of your 《Weapon》 characters, and that character gets +1 level and +1000 power until end of turn.

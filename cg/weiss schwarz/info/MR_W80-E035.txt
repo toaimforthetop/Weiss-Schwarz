@@ -1,0 +1,18 @@
+Card Name:
+English Name:Wealth of Battle Experience, Yachiyo
+Card No.:MR/W80-E035
+Rarity:R
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:To protect my teammates, as their leader, I had to become strong.
+Trigger:Soul
+Special Attribute:Magic・Model
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Magic》 characters you have.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose 1 "Meal Invitation, Yachiyo" in your memory, and put it into your stock.
+Text:【AUTO】 When your card is put into your memory, if you have another 《Magic》 character, this card gets +4000 power until end of turn.

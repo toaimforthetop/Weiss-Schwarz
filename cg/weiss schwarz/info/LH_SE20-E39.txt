@@ -1,0 +1,16 @@
+Card Name:
+English Name:Krusty
+Card No.:LH/SE20-E39
+Rarity:U
+Expansion:LOG HORIZON
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:You have to want it and work for it.
+Trigger:
+Special Attribute:Weapon・Glasses
+Text:【CONT】 During your opponent's turn, this card gets +1000 power. ", '

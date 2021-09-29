@@ -1,0 +1,16 @@
+Card Name:
+English Name:The One and Only Me
+Card No.:BD/W63-E071
+Rarity:CC
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Climax
+Color:Red
+Level:0
+Cost:0
+Power:
+Soul:0
+Flavor Text:But I have Pastel＊Palettes to thank for helping me figure out this kind of stuff!
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose 1 character from your waiting room, and return it to your hand)

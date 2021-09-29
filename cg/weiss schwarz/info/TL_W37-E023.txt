@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Thoughts From Master” Mea
+Card No.:TL/W37-E023
+Rarity:C
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Basically your heart cant be changed that easily.
+Trigger:Soul
+Special Attribute:Trans・Sweets
+Text:【AUTO】 When a card named "Warm Town “Sainan”" is placed on your climax area, if this card is in your center stage, look at your opponent\'s hand, choose one of your 《Trans》 or 《Housework》 characters, and that character gets +3000 power and +1 soul until end of turn.

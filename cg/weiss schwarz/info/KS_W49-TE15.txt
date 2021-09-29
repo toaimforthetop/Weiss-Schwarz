@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Forced Entrainment” Aqua
+Card No.:KS/W49-TE15
+Rarity:TD
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"No!! I dont want to go to a parallel world with a man like this!!
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:-

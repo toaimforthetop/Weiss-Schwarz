@@ -1,0 +1,17 @@
+Card Name:
+English Name:10th Asashio-class Destroyer, Kasumi
+Card No.:KC/S25-E155
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Kasumi here. We are pushing on. Try to keep up.
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【CONT】If this card is on your center stage, this card cannot 【STAND】during your stand phase.
+Text:【AUTO】When this card's battle opponent becomes 【Reverse】, choose one of your other characters, 【REST】it, and move it to an open position on your back stage.", '

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Memory of that Day" Annie
+Card No.:AOT/S50-E013a
+Rarity:U
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"And if youre a guy, aren't you…… supposed to be gentle with this delicate body of mine?
+Trigger:Soul
+Special Attribute:Titan・Corps
+Text:【AUTO】 [(1) Put this card into your waiting room] When this card is frontal attacked, you may pay the cost. If you do, choose up to one card named ""Plan of Capture" Female Titan" in your hand, and put it on this card\'s stage position as the defending character.
+Text:【AUTO】 Resonate [Reveal a card named ""Plan of Capture" Female Titan" in your hand] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +2000 power until end of turn.

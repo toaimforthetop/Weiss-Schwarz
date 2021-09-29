@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Sleeping Knights》 Yuuki
+Card No.:SAO/S47-E043
+Rarity:C
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You got it!
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 All of your other 《Avatar》 or 《Net》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your characters with "Asuna(アスナ)" or "Sleeping Knights(スリーピング・ナイツ)" in its card name, and that character gets +500 power until end of turn.

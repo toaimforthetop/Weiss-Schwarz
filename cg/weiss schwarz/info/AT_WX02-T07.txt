@@ -1,0 +1,17 @@
+Card Name:
+English Name:Finn: Daily Diligence
+Card No.:AT/WX02-T07
+Rarity:TD
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:"They come every day at 4 oclock, on the dot.
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【CONT】 If you have another "Princess Bubblegum: Casual", this card gets the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Ooo》 characters you have ×1000.

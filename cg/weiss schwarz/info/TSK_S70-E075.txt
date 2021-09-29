@@ -1,0 +1,17 @@
+Card Name:
+English Name:Last Journey, Shizu
+Card No.:TSK/S70-E075
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im not as young as I look.
+Trigger:
+Special Attribute:Demon Continent・Mask
+Text:【AUTO】 [(1) Put 1 climax from your hand to your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 climax in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.

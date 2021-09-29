@@ -1,0 +1,16 @@
+Card Name:
+English Name:How's It Taste?
+Card No.:MR/W59-E026
+Rarity:U
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:3
+Cost:1
+Power:
+Soul:0
+Flavor Text:-Many people think the food there looks and tastes "Okay"-
+Trigger:
+Special Attribute:
+Text:Choose 1 of your  《Magic》 characters, and that character gets +5000 power, +1 soul and the following ability until end of turn. "【AUTO】 This ability activates up to 1 time per turn. When damage dealt by this card is canceled, you may deal 1 damage to your opponent." (Damage may be canceled)

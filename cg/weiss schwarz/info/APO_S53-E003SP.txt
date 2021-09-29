@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Inherited Prayer" Sieg
+Card No.:APO/S53-E003SP
+Rarity:SP
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Homunculus・Master
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to one card, and this card gets +2000 power until end of turn.
+Text:【AUTO】 【CXCOMBO】 [Put a card from your hand into your waiting room & Put a card named ""Growl" Berserker of Black" from your memory into your waiting room & Put this card into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, if a card named "Blasted Tree" is in your climax area, you may pay the cost. If you do, choose up to one card in your hand named ""Depraved Dragon" Fafnir", and put it on the stage position that this card was on.

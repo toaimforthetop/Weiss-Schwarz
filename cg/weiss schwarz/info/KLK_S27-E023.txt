@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nui Pulling Thread
+Card No.:KLK/S27-E023
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Im just dying to see you naked!
+Trigger:
+Special Attribute:Clothes・Eye Patch
+Text:【AUTO】 When this card is placed on stage from your hand, if the number of characters in your opponent's center stage is one or less, choose one of your opponent's characters in the center stage, and that character gets -3000 power until end of turn.", '

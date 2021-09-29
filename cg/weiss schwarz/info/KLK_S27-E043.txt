@@ -1,0 +1,17 @@
+Card Name:
+English Name:Deep Bonds, Ryuko
+Card No.:KLK/S27-E043
+Rarity:R
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Senketsu: "We\'re both in tatters. Don\'t push yourself."
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a 《Clothes》 or 《Family》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When another of your 《Clothes》 or 《Family》 character becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +1000 power until end of turn.

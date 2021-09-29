@@ -1,0 +1,17 @@
+Card Name:
+English Name:Asuna Invites to Party
+Card No.:SAO/S20-E001
+Rarity:RR
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:"Then, party up with me. Its been forever.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1000 power.
+Text:【AUTO】[(1)］ When this card attacks, if a card named "<<Star Splash>>" is in your climax area, you may pay the cost. If you do, search your deck for up to one 《Avatar》 or 《Net》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 

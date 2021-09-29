@@ -1,0 +1,16 @@
+Card Name:
+English Name:《SHINC》, Roza
+Card No.:GGO/S59-E016
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:The grenade?
+Trigger:
+Special Attribute:Avatar・SHINC
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Avatar》 or 《Net》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Avatar》 or 《Net》 characters you have ×500.

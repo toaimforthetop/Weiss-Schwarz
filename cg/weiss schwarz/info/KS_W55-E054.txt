@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Consecutive Victories" Megumin
+Card No.:KS/W55-E054
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I win again!
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, you may put the top card of your opponent\'s deck into your opponent\'s waiting room. If you do, choose a card in your opponent\'s waiting room, and put it on the top of his or her deck.
+Text:【AUTO】 Bond/ ""Bunny Girl" Yunyun" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Bunny Girl" Yunyun" in your waiting room, and return it to your hand)

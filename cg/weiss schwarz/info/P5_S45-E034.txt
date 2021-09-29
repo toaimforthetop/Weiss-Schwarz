@@ -1,0 +1,16 @@
+Card Name:
+English Name:Toranosuke Yoshida
+Card No.:P5/S45-E034
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Everyone, wake up!This country is twisted!
+Trigger:
+Special Attribute:Speech・-
+Text:【AUTO】 [【REST】 two of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one character with "Protagonist(主人公)" in its card name from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

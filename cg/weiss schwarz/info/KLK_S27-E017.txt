@@ -1,0 +1,16 @@
+Card Name:
+English Name:Suspicious Croquettes
+Card No.:KLK/S27-E017
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:Sukuyo: "Oh, you. I use only non-poisonous ingredients."
+Trigger:
+Special Attribute:
+Text:Choose one of your characters, and that character gets +3000 power until end of turn. At the end of turn, put that character into your stock.

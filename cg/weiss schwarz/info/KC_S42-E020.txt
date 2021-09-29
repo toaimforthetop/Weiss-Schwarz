@@ -1,0 +1,16 @@
+Card Name:
+English Name:6th Yugumo-class Destroyer, Takanami Kai
+Card No.:KC/S42-E020
+Rarity:C
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Commander? Did you… maybe call for Takanami?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:-

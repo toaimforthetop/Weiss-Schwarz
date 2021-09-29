@@ -1,0 +1,17 @@
+Card Name:
+English Name:Brimming with Confidence, Kaoruko Hanayagi
+Card No.:RSL/S56-E011
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Youll be the first person in the world to see just how bright I can shine♪
+Trigger:
+Special Attribute:Revue・Nihon Buyo
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, choose 1 of your other 《Revue》 characters, and return it to your hand.
+Text:【AUTO】 Bond/"Full of Fighting Spirit, Futaba Isurugi"  [Put the top card of your deck into your clock] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Full of Fighting Spirit, Futaba Isurugi" in your waiting room, and return it to your hand)

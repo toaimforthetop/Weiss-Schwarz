@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Stewshine" Mari Ohara
+Card No.:LSS/WE27-E51
+Rarity:C
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Stewshine, please!
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When this card is placed on the stage from your hand, if all players do not have any open positions on their stage, all players draw a card.

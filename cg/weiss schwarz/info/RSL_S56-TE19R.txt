@@ -1,0 +1,17 @@
+Card Name:
+English Name:The Stage of Fate, Junna Hoshimi
+Card No.:RSL/S56-TE19R
+Rarity:TD
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"Dont get in the way!
+Trigger:Soul
+Special Attribute:Revue・Weapon
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.
+Text:【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 《Revue》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.", '

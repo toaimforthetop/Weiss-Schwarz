@@ -1,0 +1,16 @@
+Card Name:
+English Name:Idol With a Sister Complex, Nodoka Toyohama
+Card No.:SBY/W64-E001
+Rarity:RR
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Adolescence・Fashionable
+Text:【CONT】 During your turn, this card gets +1000 power【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is an 《Adolescence》 character, you may move this card to an open position of your center stage.", '

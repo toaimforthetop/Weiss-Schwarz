@@ -1,0 +1,17 @@
+Card Name:
+English Name:N.E.P.T.R.
+Card No.:AT/WX02-030
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・-
+Text:【CONT】 If you have another "Finn: Fireproof Suit" and another "Jake: Fireproof Suit", all of your characters get the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of "Finn: Fireproof Suit", choose 1 character in your opponent\'s center stage, and that character gets -1000 power until end of turn.

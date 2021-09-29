@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ice Blooms
+Card No.:RZ/SE35-E37
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Emilia (エミリア)" in its card name, this card cannot be played from your hand.Choose 1 of the following effects, and perform it."You may put 3 cards from the top of your stock into your waiting room. If you do, choose 1 level 3 or lower character in your opponent\'s center stage, and put it at the bottom of their deck.""All of your opponent\'s characters get -500 power until end of turn. Put this card into your memory."

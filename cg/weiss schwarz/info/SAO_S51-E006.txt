@@ -1,0 +1,17 @@
+Card Name:
+English Name:Snack Time, Asuna
+Card No.:SAO/S51-E006
+Rarity:R
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Net・-
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your characters, and until end of turn, that character gets +1500 power and the following ability. "【CONT】 This card cannot be chosen by your opponent\'s effects."

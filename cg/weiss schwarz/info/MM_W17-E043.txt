@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nurse's Aide, Madoka
+Card No.:MM/W17-E043
+Rarity:C
+Expansion:Puella Magi Madoka Magica
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Homura: "Miss Madoka Kaname. You are the Nurse\'s Aide for this class, are you not?"
+Trigger:
+Special Attribute:Magic
+Text:【AUTO】［(1)] When this card attacks, if a card named "Girl from the Dream" is in your climax area, you may pay the cost. If you do, choose a character in your clock, return it to your hand, and put the top card of your deck into your clock. 

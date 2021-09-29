@@ -1,0 +1,17 @@
+Card Name:
+English Name:Love's Frustrations, Rio Futaba
+Card No.:SBY/W64-E081
+Rarity:R
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"I feel like Im getting worse and worse.
+Trigger:
+Special Attribute:Adolescence・Science
+Text:【CONT】 All of your other 《Adolescence》 characters get +500 power.
+Text:【ACT】 [(1)] Choose 1 level 0 or lower character on your opponent's center stage, and put it into his or her waiting room.", '

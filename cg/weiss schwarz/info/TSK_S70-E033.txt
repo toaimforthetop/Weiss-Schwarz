@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Dragonoid" Milim
+Card No.:TSK/S70-E033
+Rarity:RR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:I heard you were the strongest in this town, so I came to introduce myself!
+Trigger:Soul
+Special Attribute:Demon Continent・Demon Lord
+Text:【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Demon Continent》 character, you may deal 1 damage to your opponent. (Damage may be canceled. Return the revealed card to its original place)【AUTO】 When your other 《Demon Continent》character attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 [(3)] When this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, put that character into your opponent's clock.", '

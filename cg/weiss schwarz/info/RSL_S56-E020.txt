@@ -1,0 +1,16 @@
+Card Name:
+English Name:Giraffe
+Card No.:RSL/S56-E020
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Do you have that determination?
+Trigger:
+Special Attribute:Revue・Mystery
+Text:【AUTO】 When your other 《Revue》 character or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)【ACT】 [(2) 【REST】 this card] Search your deck for up to 1 《Revue》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

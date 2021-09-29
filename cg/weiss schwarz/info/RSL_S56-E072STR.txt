@@ -1,0 +1,17 @@
+Card Name:
+English Name:My Own Shine, Junna Hoshimi
+Card No.:RSL/S56-E072STR
+Rarity:STR
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Revue・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 [(1)] When this card becomes 【REVERSE】 in battle, reveal the top card of your deck. If that card is a 《Revue》 character, you may pay the cost. If you do, return this card to your hand. (Return the revealed card to its original place)

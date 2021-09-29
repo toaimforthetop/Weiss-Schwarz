@@ -1,0 +1,16 @@
+Card Name:
+English Name:SD Ram
+Card No.:RZ/S55-E102
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:You were the one who told me to be more friendly toward you.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that card.", '

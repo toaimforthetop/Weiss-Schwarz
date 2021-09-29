@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Christmas Date” Kotori Minami
+Card No.:LL/EN-W02-E075
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:When I think of Christmas~ I think of Christmas cake♪ What kind of cake should I get this year?
+Trigger:
+Special Attribute:Music・-
+Text:【AUTO】 [(1)] When this card attacks, if a card named "Sweet and Smooth♪" is in your climax area, you may pay the cost. If you do, choose a card named "New Year\'s Dream" or "Makeshift Approach" in your waiting room, return it to your hand, and this card gets +2000 power until end of turn.

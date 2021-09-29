@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Angelic Angel” Umi Sonoda
+Card No.:LL/EN-W02-E059
+Rarity:RR
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:The light of the first star shines down on us from a distance.
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【ACT】 [(1) Put the top card of your deck into your clock & 【REST】 this card] Choose a character in your waiting room and return it to your hand.

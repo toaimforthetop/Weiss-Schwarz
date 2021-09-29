@@ -1,0 +1,16 @@
+Card Name:
+English Name:"For The Ones I Love" Sayaka
+Card No.:MR/W59-E095
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:"As long as my closest friends are happy, thats enough for me.
+Trigger:
+Special Attribute:Magic・-
+Text:【CONT】 If you have another character with "Sayaka(さやか)" in its card name, and another character with "Kyoko(杏子)" in its card name, this card gets +1 level and +2500 power.

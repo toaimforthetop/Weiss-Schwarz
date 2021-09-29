@@ -1,0 +1,18 @@
+Card Name:
+English Name:Glitter*Green, Hinako Nijikki
+Card No.:BD/W47-E002SP
+Rarity:SP
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:Soul
+Special Attribute:Music・Unexplained
+Text:【AUTO】  【CXCOMBO】  When a card named "Our Stage!" is placed on your climax area, if your level is 3 or higher, choose one of your characters, until end of turn, that character gets +1000 power and the following ability. "【AUTO】  When this card\'s battle opponent becomes 【REVERSE】 , you may draw a card."
+Text:【AUTO】  This ability activates up to one time per turn. When your card is placed on the level area, choose one of your green characters, and that character gets +2000 power until end of turn.
+Text:【ACT】  [【REST】  two of your green characters] Choose a card on your level area and a card in your waiting room, and exchange them.

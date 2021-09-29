@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Teamwork on Our First Meeting" Momoko & Iroha
+Card No.:MR/W59-TE04
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Momoko: "Let\'s quickly take care of these Minions, Iroha!"
+Trigger:
+Special Attribute:Magic・Ability
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '

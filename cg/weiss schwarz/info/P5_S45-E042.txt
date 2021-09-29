@@ -1,0 +1,17 @@
+Card Name:
+English Name:Makoto: It's a Deal
+Card No.:P5/S45-E042
+Rarity:C
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Perhaps it wont be immediately...but I'm sure I can be of use.
+Trigger:
+Special Attribute:Thief・Student Council
+Text:【CONT】 All of your other 《Thief》 characters get +500 power.
+Text:【ACT】 [【REST】 this card] Choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your opponent\'s clock into his or her waiting room. If you do, put that character into your opponent\'s clock."

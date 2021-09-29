@@ -1,0 +1,16 @@
+Card Name:
+English Name:Umi Sonoda
+Card No.:LL/W24-E013
+Rarity:U
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 This card gets +500 power for each of your other 【REST】 《Music》 characters.

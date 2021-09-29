@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Preparing Breakfast” Mikan
+Card No.:TL/W37-E043
+Rarity:U
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5000
+Soul:1
+Flavor Text:Morning, Nana.
+Trigger:Soul
+Special Attribute:Housework・Bag
+Text:【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character\'s level.
+Text:【AUTO】 Change [Put two 《Trans》 or 《Housework》 characters from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named "Mikan Yuki" in your waiting room, and put it on the stage position that this card was on.\u3000

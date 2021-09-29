@@ -1,0 +1,18 @@
+Card Name:
+English Name:Everyone's Teacher, Rimuru
+Card No.:TSK/S70-E044
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:You guys are my students!
+Trigger:
+Special Attribute:Demon Continent・Teacher
+Text:【CONT】 Assist All of your characters in front of this card gets +500 power.
+Text:【AUTO】 【CXCOMBO】 When "A Scenery to Be Shared" is placed on your climax area, choose 1 of your characters, and that character gets +1 soul until end of turn.
+Text:【ACT】 [(2) 【REST】 this card] Choose 1 character in your waiting room, and return it to your hand.

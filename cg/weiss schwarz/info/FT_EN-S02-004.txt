@@ -1,0 +1,17 @@
+Card Name:
+English Name:Magic Swordsman, Erza
+Card No.:FT/EN-S02-004
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Leave it to me.
+Trigger:
+Special Attribute:Magic・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top three cards of your deck into your waiting room.
+Text:【AUTO】 Change [Put a card from your hand into your clock & Put this card into your memory] At the beginning of your encore step, if this card is 【REST】, you may pay the cost. If you do, choose a card named ""Black Winged Armor" Erza" in your waiting room, and put it on the stage position that this card was on.

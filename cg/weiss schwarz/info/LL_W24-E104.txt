@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Wonderful Rush" Maki Nishikino
+Card No.:LL/W24-E104
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Ill do my best--- so cheer for me, alright?
+Trigger:
+Special Attribute:Music・-
+Text:-

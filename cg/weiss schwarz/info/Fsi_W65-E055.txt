@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ungraspable Beauty, Chizuru
+Card No.:Fsi/W65-E055
+Rarity:U
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"I always shudder at Key-kuns glances that are similar to a wolf… No, I'm always trembling.
+Trigger:
+Special Attribute:Fantasia Bunko・Student Council・Honor Student
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it at the top of your deck or into your waiting room.
+Text:【AUTO】 [Return this card to your hand] When a climax is placed on your climax area, you may pay the cost. If you do, choose 1 of your characters, and that character gets +1 soul until end of turn.

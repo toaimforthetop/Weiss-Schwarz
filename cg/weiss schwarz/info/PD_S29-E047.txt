@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Out and About"
+Card No.:PD/S29-E047
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:10000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Glasses
+Text:-

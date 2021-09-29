@@ -1,0 +1,16 @@
+Card Name:
+English Name:Proposing a Break, Kannazuki
+Card No.:DAL/W79-E020
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:You should definitely take a break and go to the hot springs.
+Trigger:
+Special Attribute:Date・Ratatoskr
+Text:-

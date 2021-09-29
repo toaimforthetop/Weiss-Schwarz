@@ -1,0 +1,16 @@
+Card Name:
+English Name:Flame Dragon, Igneel
+Card No.:FT/EN-S02-061
+Rarity:U
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:6000
+Soul:2
+Flavor Text:Never forget you are a true Dragon Slayer and you should take pride in that acomplishment!!!Know that no matter what happens, I, Igneel, will always be proud of you!!!!
+Trigger:Soul
+Special Attribute:Magic・Dragon
+Text:【CONT】 Assist All of your 《Dragon》 characters in front of this card get +2000 power.

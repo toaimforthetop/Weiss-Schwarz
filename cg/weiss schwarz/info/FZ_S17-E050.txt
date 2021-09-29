@@ -1,0 +1,16 @@
+Card Name:
+English Name:Command Seal
+Card No.:FZ/S17-E050
+Rarity:U
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:1
+Power:
+Soul:0
+Flavor Text:By the power of my Command Seal.
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your 《Servant》 characters, and that character gets +4500 power until end of turn. 

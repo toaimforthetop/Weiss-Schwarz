@@ -1,0 +1,16 @@
+Card Name:
+English Name:Poppin' Colors!
+Card No.:BD/EN-W03-089S
+Rarity:SR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:0
+Power:0
+Soul:0
+Flavor Text:Kasumi: "Ta-da~!! Look, look! Poppin\'Party\'s new outfits are ready to go!"
+Trigger:Soul・Standby
+Special Attribute:
+Text:【AUTO】When this card is placed on your climax area from your hand, perform the【STANDBY】effect.(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as【REST】)

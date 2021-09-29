@@ -1,0 +1,18 @@
+Card Name:
+English Name:King of All Creation, Archer
+Card No.:FZ/S17-E057
+Rarity:RR
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:I am the one true king.
+Trigger:Soul
+Special Attribute:Servant・Royalty
+Text:【AUTO】 When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】［(1) Put a card named "Sword of Rupture, Ea" from your hand into your waiting room］ At the beginning of your opponent\'s attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent\'s climax in the climax area, put it into your opponent\'s waiting room, and this card gets +5500 power until end of turn. 
+Text:【AUTO】［Put this card into your waiting room］ When a card named "Identity of the Fallen Knight" is placed on your climax area, you may pay the cost. If you do, choose one of your level 2 or lower 《Servant》 characters in your waiting room, and put it on the stage position that this card was on. 

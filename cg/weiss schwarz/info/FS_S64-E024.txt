@@ -1,0 +1,17 @@
+Card Name:
+English Name:Irreplaceable Existence, Sakura
+Card No.:FS/S64-E024
+Rarity:RR
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:－
+Trigger:
+Special Attribute:Master・Love
+Text:【CONT】 If you have another character with "Shirou (士郎)" in its card name, this card gets +1500 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Storytime" is in your climax area, search your deck for up to 1 《Master》 or 《Servant》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

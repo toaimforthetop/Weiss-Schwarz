@@ -1,0 +1,16 @@
+Card Name:
+English Name:Mako with Glasses
+Card No.:KLK/S27-E013
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Its enough to put a twinkle in anyone's eye, isn't it?
+Trigger:
+Special Attribute:Family・Glasses
+Text:-

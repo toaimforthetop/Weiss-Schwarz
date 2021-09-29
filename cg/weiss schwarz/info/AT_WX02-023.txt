@@ -1,0 +1,17 @@
+Card Name:
+English Name:Finn: Fireproof Suit
+Card No.:AT/WX02-023
+Rarity:C
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:3
+Power:8000
+Soul:2
+Flavor Text:Flame Princess: "You meanie!"
+Trigger:Soul
+Special Attribute:Ooo・Hero
+Text:【AUTO】 [Put 1 《Ooo》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "Jake: Fireproof Suit" in your waiting room, and put it on any position of your stage.
+Text:【AUTO】 [Put 1 《Ooo》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 "N.E.P.T.R." in your waiting room, and put it on any position of your stage.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Single Ray of Light" Mikasa
+Card No.:AOT/S50-E054S
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"Just focus on cutting open his neck. If you hesitate for a moment, we wont be able to get Eren back.
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【AUTO】 During the attack phase, when your character moves to another stage position, until end of turn, that character gets +500 power and the following ability. "【CONT】 The character facing this card cannot side attack."
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Power of a Kijin, Benimaru
+Card No.:TSK/S70-E034
+Rarity:RR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:This is our brand new beginning.
+Trigger:Soul
+Special Attribute:Demon Continent・Flame
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "New Power" is in your climax area, deal 4 damage to your opponent, choose 1 of your characters, and that character gets +1 soul until end of turn. (Damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ryujo-class Light Aircraft Carrier, Ryujo
+Card No.:KC/S25-TE06
+Rarity:TD
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Calling all carrier-based aircraft, its time to get to work-!
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Aircraft Carrier
+Text:【ACT】[Put a 《Fleet Girl》 character from your hand into your waiting room] This card gets +3500 power until end of turn.

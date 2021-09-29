@@ -1,0 +1,16 @@
+Card Name:
+English Name:Arguing, Futaba Isurugi
+Card No.:RSL/S56-E027
+Rarity:C
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:Maya: "For those who support you…"
+Trigger:Soul
+Special Attribute:Revue・Bike
+Text:【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have 2 or more 《Revue》 characters, at the beginning of your climax phase, choose 1 of your characters, 【STAND】 it, and that character gets +2000 power until end of turn.

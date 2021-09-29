@@ -1,0 +1,17 @@
+Card Name:
+English Name:FLUFFY, Sakura
+Card No.:FS/S64-E031
+Rarity:R
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Huff-puff, floating and flying is when you become an adult.
+Trigger:Soul
+Special Attribute:Master・Love
+Text:【CONT】 If you have 4 or more green characters or characters with "Shirou (士郎)" in its card name, this card gets -1 level while in your hand.
+Text:【CONT】 If you have 2 or more other green characters, this card gets the following ability. "【AUTO】 When this card\'s level 1 or higher battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."【AUTO】 【CXCOMBO】 When this card attacks, if "I\'m starved!" is in your climax area, choose up to 1 of your other characters, put it into your stock, choose 1 of your characters, and that character gets +4000 power until end of turn.

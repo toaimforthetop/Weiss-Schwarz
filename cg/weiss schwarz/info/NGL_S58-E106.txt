@@ -1,0 +1,17 @@
+Card Name:
+English Name:Affectionate Respect for Her Master, Jibril
+Card No.:NGL/S58-E106
+Rarity:PR
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:I have zero interest in Imanity other than my masters.
+Trigger:Soul
+Special Attribute:Game・Fl?gel
+Text:【CONT】 Memory If "Materialization Word Chain" is in your memory, this card gets +2 level and +8000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, if your hand has less cards than your opponent\'s hand, you may put the top card of your deck into your stock.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Big Bath at Luvia's Mansion, Illya
+Card No.:PI/EN-S04-E078
+Rarity:C
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:It was a close call, but we managed to play it off…
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【AUTO】 [(1) Put the top card of your deck into your clock & Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose one of your opponent's level 3 or lower characters in the back stage, and put it on the bottom of his or her deck.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Self-proclaimed God, Naoi
+Card No.:AB/W31-E035
+Rarity:C
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Were you referring to me… I am God!
+Trigger:
+Special Attribute:Death・Twins
+Text:[AUTO] [(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, this card gets +2500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Friendship Ending Staircase
+Card No.:MR/W80-TE10
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Event
+Color:Red
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose up to 1 cost 0 or lower character in your opponent's center stage, put it into their waiting room, choose up to 1 《Magic》 character in your waiting room, and return it to your hand.", '

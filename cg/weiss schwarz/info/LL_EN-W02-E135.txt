@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Christmas Date” Hanayo Koizumi
+Card No.:LL/EN-W02-E135
+Rarity:U
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"I enjoy it when the weathers cold like this. It feels kind of tingly.
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 All of your other 《Music》 characters get +500 power.
+Text:【AUTO】 [Put a climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one character with "Change", reveal it to your opponent, put it into your hand, and shuffle your deck.

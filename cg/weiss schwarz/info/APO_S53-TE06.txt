@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Guardian" Archer of Red
+Card No.:APO/S53-TE06
+Rarity:TD
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:"Theyre coming!
+Trigger:Soul
+Special Attribute:Servant・-
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

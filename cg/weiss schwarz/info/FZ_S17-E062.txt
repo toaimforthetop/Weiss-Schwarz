@@ -1,0 +1,16 @@
+Card Name:
+English Name:Curse Incarnate, Berserker
+Card No.:FZ/S17-E062
+Rarity:R
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:I am- the shunned- the mocked- the despised-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 Encore [Put the top card of your deck into your clock] （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】.)

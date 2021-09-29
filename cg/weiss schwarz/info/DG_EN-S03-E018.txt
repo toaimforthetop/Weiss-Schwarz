@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Big Sis” Fuka
+Card No.:DG/EN-S03-E018
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Youre gonna protect me, right?
+Trigger:
+Special Attribute:Prinny・Death
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose one of your other 《Clone》 characters, and that character gets +1 level and +500 power until end of turn.
+Text:【AUTO】 [(2)] When this card is put into the waiting room from your stage, you may pay the cost. If you do, search your deck for up to one 《Brave》 character or character with "Protagonist(主人公)" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck.

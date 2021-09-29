@@ -1,0 +1,17 @@
+Card Name:
+English Name:Magic-Release Season Strategy Meeting, Rem
+Card No.:RZ/S68-E085
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:The magic release period is a phenomenon that occurs in beings that possess very powerful magic.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【CONT】 The character facing this card cannot move to another position on the stage.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

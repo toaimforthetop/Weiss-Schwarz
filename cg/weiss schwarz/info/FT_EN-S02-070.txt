@@ -1,0 +1,16 @@
+Card Name:
+English Name:Ur's Student, Gray
+Card No.:FT/EN-S02-070
+Rarity:R
+Expansion:FAIRY TAIL ver.E
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Because I put my faith in what Ur told me.
+Trigger:
+Special Attribute:Magic・Ice
+Text:【AUTO】 Bond／"Gray\'s Teacher, Ur" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Gray\'s Teacher, Ur" in your waiting room, and return it to your hand.)【ACT】 [(1)] Choose one of your 《Ice》 characters, and that character gets +1000 power until end of turn.

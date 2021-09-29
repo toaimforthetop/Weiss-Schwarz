@@ -1,0 +1,16 @@
+Card Name:
+English Name:Confident Maya
+Card No.:KC/S25-TE19
+Rarity:TD
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:Take cover behind me if you are afraid!
+Trigger:Soul
+Special Attribute:Fleet Girl・Heavy Cruiser
+Text:【CONT】This card gets +500 power for each of your other 《Fleet Girl》 characters.

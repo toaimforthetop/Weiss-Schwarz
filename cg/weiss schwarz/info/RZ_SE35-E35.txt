@@ -1,0 +1,17 @@
+Card Name:
+English Name:Emilia Basked in Sunset
+Card No.:RZ/SE35-E35
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- The Frozen Bond
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Wh-Why are you laughing?! It took a lot of courage to get over my embarrassment and say that!
+Trigger:Soul
+Special Attribute:Magic・Celestial Spirit
+Text:【CONT】 If you have another "Feelings Toward Emilia, Puck", this card gets "【AUTO】 Encore [Put 1 character from your hand into your waiting room]".
+Text:【CONT】 Memory If your memory has 3 or more cards, this card gets +4000 power and +1 soul.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:In Charge of Year Refrain's Rising Class, Great Teacher
+Card No.:Fkz/W65-PE02
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:You just need to kill me.
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Teacher・Magical Arms Girl
+Text:【CONT】 Assist All of your characters in front of this card gets +X power. X is equal to that character's level ×500.
+Text:【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.", '

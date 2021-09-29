@@ -1,0 +1,17 @@
+Card Name:
+English Name:Talking About the Future Smiling, Rem
+Card No.:RZ/S46-E072
+Rarity:U
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You are demonically inspired…
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 If you have another card named "Talking About the Future Smiling, Subaru", this card gets +3000 power.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if a card named "Wishing" is in your climax area, you may pay the cost. If you do, look at up to five cards from the top of your deck, choose up to one 《Magic》 or 《Weapon》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.

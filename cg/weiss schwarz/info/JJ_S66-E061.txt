@@ -1,0 +1,16 @@
+Card Name:
+English Name:Eternal Ruler, E.C
+Card No.:JJ/S66-E061
+Rarity:C
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Diavolo: "It\'s a gift granted to me by fate because I was able to defeat my past!"
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to X cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. X is equal to the number of characters your opponent has.

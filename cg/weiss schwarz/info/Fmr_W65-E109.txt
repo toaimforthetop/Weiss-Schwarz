@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Moment at the Hot Springs, Yuna & Kuriko & Rin
+Card No.:Fmr/W65-E109
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Kuriko: "What\'s wrong, Yuna-chan? Come over here."
+Trigger:
+Special Attribute:Fantasia Bunko・Magic
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】, choose 1 of your characters, and that character gets +1000 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, perform the following action. "Draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room."

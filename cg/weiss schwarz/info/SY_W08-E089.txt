@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nagato & Kyon's Sister in Yukata
+Card No.:SY/W08-E089
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Sister: "Thank you, Yuki～～"
+Trigger:
+Special Attribute:Alien・Japanese Clothes
+Text:【AUTO】 Bond/"Kyon in Yukata" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kyon in Yukata" in your waiting room, and return it to your hand.)

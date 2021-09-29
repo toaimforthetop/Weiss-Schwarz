@@ -1,0 +1,16 @@
+Card Name:
+English Name:Death Emizel
+Card No.:DG/EN-S03-E010
+Rarity:U
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:As Death, I will reap……your soul.
+Trigger:Soul
+Special Attribute:Demon・Death
+Text:【CONT】 If the number of cards in your opponent's hand is four or less, this card gets +1000 power.", "【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put that character into your opponent's stock.", '

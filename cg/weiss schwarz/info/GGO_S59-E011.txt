@@ -1,0 +1,17 @@
+Card Name:
+English Name:《SHINC》, Sophie
+Card No.:GGO/S59-E011
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Everyone! The rest is up to you!
+Trigger:
+Special Attribute:Avatar・SHINC
+Text:【CONT】 All of your other 《SHINC》 or 《Sports》 characters get +500 power.
+Text:【ACT】 [(1) Put this card into your waiting room] Choose 1 "Degtyaryov Anti-Tank Rifle" in your waiting room, and return it to your hand.

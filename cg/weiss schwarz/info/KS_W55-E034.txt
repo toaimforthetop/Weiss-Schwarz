@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lie-Detecting Device
+Card No.:KS/W55-E034
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:"Do you know what this is? Its a magical item that lets us see through lies.
+Trigger:
+Special Attribute:
+Text:Your opponent looks at the top card of his or her deck, and declares the number 0 or 1 or 2 or 3. (Return the seen card to its original place)Declare "True" or "False".Your opponent reveals the top card of his or her deck. If that card\'s level is the number your opponent declared, and you declared "True", draw up to two cards. If that card\'s level is not the number your opponent declared, and you declared "False", draw up to two cards. (Climax are regarded as level 0. The revealed card is returned to its original place)

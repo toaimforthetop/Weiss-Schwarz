@@ -1,0 +1,16 @@
+Card Name:
+English Name:Archery Club Vice-captain, Shinji
+Card No.:FS/S34-E044
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:"I was wondering what youve been up to after quitting the club. You're the student council", "president's errand boy, eh?
+Trigger:
+Special Attribute:Book・Sports
+Text:【CONT】 Experience This card gets +3000 power for each card named "Self-concious, Shinji" in your level.

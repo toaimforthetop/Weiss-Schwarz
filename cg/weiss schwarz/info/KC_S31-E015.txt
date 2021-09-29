@@ -1,0 +1,16 @@
+Card Name:
+English Name:Shimakaze-class Destroyer, Shimakaze-Kai
+Card No.:KC/S31-E015
+Rarity:U
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Im the first? As Expected? Yeah!  I'm fast that’s why!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 When?this?card?attacks, choose one of your other 《Fleet Girl》 characters, and that character gets +Ｘ power until end of turn. X is equal to 500 multiplied by the number of your other 《Fleet Girl》 characters.

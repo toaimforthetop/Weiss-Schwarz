@@ -1,0 +1,16 @@
+Card Name:
+English Name:“First Time Out” Irisviel von Einzbern
+Card No.:FZ/S17-TE08
+Rarity:TD
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:"This is the first time Ive ventured into the world outside.
+Trigger:Soul
+Special Attribute:Homunculus・Alchemy
+Text:-

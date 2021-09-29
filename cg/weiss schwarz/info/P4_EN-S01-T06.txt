@@ -1,0 +1,18 @@
+Card Name:
+English Name:Protagonist's Partner, Yosuke
+Card No.:P4/EN-S01-T06
+Rarity:TD
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"The powe to protect whats dear to me, huh… Heheh, just what I wanted.
+Trigger:
+Special Attribute:Magic・Magic
+Text:【AUTO】 Change [(3) Return this card to your hand] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Yosuke & Susano-O" in your waiting room, and put it on the stage position that this card was on.
+Text:【ACT】【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)
+Text:-

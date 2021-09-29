@@ -1,0 +1,17 @@
+Card Name:
+English Name:Monstrous Glance, Rider
+Card No.:FS/S64-E026SP
+Rarity:SP
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:－
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】【CXCOMBO】 [(2) Put 1 card from your hand into your waiting room] When this card attacks, if "Mystic Eyes of Petrification" is in your climax area, you may pay the cost. If you do, this card gets the following 2 abilities until the end of your opponent\'s next turn."【CONT】 The character facing this card cannot frontal attack." "【CONT】 The character facing this card gets -3000 power."

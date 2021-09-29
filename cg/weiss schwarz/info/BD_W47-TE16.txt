@@ -1,0 +1,16 @@
+Card Name:
+English Name:“STAR BEAT!” Arisa Ichigaya
+Card No.:BD/W47-TE16
+Rarity:TD
+Expansion:BanG Dream!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music・Bonsai
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)

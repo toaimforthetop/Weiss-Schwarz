@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nightwing: Coordinated Assault
+Card No.:BNJ/SX01-089
+Rarity:C
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Partys over, Penguin.
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck.

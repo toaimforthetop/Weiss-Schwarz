@@ -1,0 +1,16 @@
+Card Name:
+English Name:Exploding Barrel
+Card No.:BNJ/SX01-031
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Event
+Color:Green
+Level:3
+Cost:4
+Power:－
+Soul:0
+Flavor Text:Batman: "You\'re insane! You\'ll kill yourself!"
+Trigger:
+Special Attribute:
+Text:Deal 4 damage to all players, and choose 1 level 3 or lower character on your opponent's center stage, and put it into his or her waiting room. (Damage may be canceled)

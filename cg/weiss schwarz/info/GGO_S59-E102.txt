@@ -1,0 +1,17 @@
+Card Name:
+English Name:VR Teatime, LLENN
+Card No.:GGO/S59-E102
+Rarity:PR
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:"Next time Ill treat you to more sweetsthan you can possibly eat.
+Trigger:
+Special Attribute:Avatar・Weapon
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Avatar》 or 《Net》 characters, and that character gets +1500 power until end of turn.

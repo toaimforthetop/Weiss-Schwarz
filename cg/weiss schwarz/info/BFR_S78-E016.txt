@@ -1,0 +1,17 @@
+Card Name:
+English Name:Unbalanced, Maple
+Card No.:BFR/S78-E016
+Rarity:U
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Wicked monsters are simply no match against my wits and bravery!
+Trigger:
+Special Attribute:Game・Shield
+Text:【AUTO】 [(1) When your climax is placed on your climax area, you may pay the cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 level 1 or higher card from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room. (Climax are regarded as level 0)
+Text:【ACT】 [【REST】 this card] Choose 1 of your opponent's characters, put it into their memory, and your opponent puts that character from their memory on any position of their stage.

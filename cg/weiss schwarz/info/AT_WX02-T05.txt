@@ -1,0 +1,17 @@
+Card Name:
+English Name:Finn & Jake: Gauntlet Dock Cleared!
+Card No.:AT/WX02-T05
+Rarity:TD
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:Haha, yeah! Woo!
+Trigger:
+Special Attribute:Ooo・Hero
+Text:【CONT】 All of your other "Marceline: Vampiric Tendencies" get +1000 power.
+Text:【AUTO】 Bond/"Marceline: Vampiric Tendencies" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Marceline: Vampiric Tendencies" in your waiting room, and return it to your hand)

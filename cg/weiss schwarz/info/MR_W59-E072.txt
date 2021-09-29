@@ -1,0 +1,17 @@
+Card Name:
+English Name:For the Members, Kaede
+Card No.:MR/W59-E072
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Magic・-
+Text:【CONT】 All of your other 《Magic》 characters get +500 power.
+Text:【AUTO】 When your other character's battle opponent becomes 【REVERSE】, choose 1 of your characters, and that character gets +2000 power until end of turn.", '

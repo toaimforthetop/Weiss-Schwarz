@@ -1,0 +1,17 @@
+Card Name:
+English Name:Yui & Hinata
+Card No.:AB/W31-E017
+Rarity:U
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Hinata: "Count on it."Yui: "…I\'m glad"
+Trigger:
+Special Attribute:Death・Music
+Text:[CONT] During your turn, this card gets +1000 power.
+Text:[AUTO] When this card becomes [REVERSE] in battle, reveal the top card of your deck. If the revealed card is a 《Music》 character, you may put this card into your memory. (The revealed card is returned to its original place)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Spirit Barrier, Tohka
+Card No.:DAL/W79-E093
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Date》 or 《Celestial Spirit》 characters, and that character gets +1500 power until the end of your opponent's next turn.", '

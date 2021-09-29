@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hatsune Miku "Butterfly"
+Card No.:PD/S29-E073
+Rarity:C
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Japanese Clothes
+Text:【CONT】 All of your other "Megurine Luka "Blossom"" get +1 level and +500 power.
+Text:【AUTO】 Bond／"Megurine Luka "Blossom"" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Megurine Luka "Blossom"" in your waiting room, and return it to your hand.)

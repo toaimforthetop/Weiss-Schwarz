@@ -1,0 +1,17 @@
+Card Name:
+English Name:《Strato Shooter》 Sky Raker
+Card No.:AW/S43-E078
+Rarity:RR
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Well clear a path for you.
+Trigger:Soul
+Special Attribute:Avatar・-
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.
+Text:【AUTO】 [(3) Put another 《Avatar》 or 《Net》 character from your stage into your waiting room] This ability activates up to one time per turn. When this card\'s battle opponent becomes 【REVERSE】, if a card named "Combination?" is in your climax area, you may pay the cost. If you do, choose up to one card named "Ardor Maiden" in your hand, put it on any position of your stage, and that character gets +4000 power until end of turn.

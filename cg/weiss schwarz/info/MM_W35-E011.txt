@@ -1,0 +1,16 @@
+Card Name:
+English Name:Elegant Strike, Mami
+Card No.:MM/W35-E011
+Rarity:U
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:Tiro Finale!
+Trigger:
+Special Attribute:Magic・Tea
+Text:【CONT】 This card cannot become 【REVERSE】 from your opponent character's 【AUTO】 effects.", '【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a climax, 【REST】 this card. (The revealed card is returned to its original place)

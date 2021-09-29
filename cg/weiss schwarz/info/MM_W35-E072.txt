@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hills in the Morning Glow, Kyoko
+Card No.:MM/W35-E072
+Rarity:C
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Magic・Sweets
+Text:【CONT】 This card cannot side attack.

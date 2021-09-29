@@ -1,0 +1,17 @@
+Card Name:
+English Name:Usual Squabble, Rena
+Card No.:MR/W80-E058
+Rarity:U
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"When did I do it when it didnt matter?
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 [Put 1 "Pursuing the Truth of Rumors, Kaede" from your hand into your waiting room] When you use this card\'s "Backup", you may pay the cost. If you do, choose 1 of your opponent\'s characters with level higher than your opponent\'s level, put it into their waiting room, your opponent chooses up to 1 level 0 or lower character in their waiting room, and puts it on the stage position that that card was on.
+Text:【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)

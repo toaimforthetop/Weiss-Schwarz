@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Movements" in the Future, Doppio & Eu
+Card No.:JJ/S66-E050
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Diavolo: "You have Emperor Crimson\'s arms and Eulogy!"
+Trigger:
+Special Attribute:Golden Wind・-
+Text:【AUTO】 At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is level 1 or higher, you may return this card to your hand. (Climax are regarded as level 0. Return the revealed card to its original place)", '

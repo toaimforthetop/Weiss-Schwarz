@@ -1,0 +1,17 @@
+Card Name:
+English Name:Clairvoyance, Ram
+Card No.:RZ/S46-E033
+Rarity:R
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Barusu, Im going to use my clairvoyance. Wait a moment.
+Trigger:
+Special Attribute:Magic・Maid
+Text:【CONT】 All of your other characters with "Roswaal(ロズワール)" or "Ram(ラム)" or "Rem(レム)" in its card name get +500 power.
+Text:【AUTO】 When your other character with "Roswaal(ロズワール)" or "Ram(ラム)" or "Rem(レム)" in its card name or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original position)【ACT】 [(1) Put a climax from your hand into your waiting room] Choose a character in your waiting room with "Roswaal(ロズワール)" or "Ram(ラム)" or "Rem(レム)" in its card name, and return it to your hand.

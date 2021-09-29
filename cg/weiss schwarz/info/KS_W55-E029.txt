@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Second Witness" Mitsurugi
+Card No.:KS/W55-E029
+Rarity:C
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:1
+Power:7000
+Soul:1
+Flavor Text:But I was the one who issued the challenge, so―
+Trigger:
+Special Attribute:Adventurer・Weapon
+Text:-

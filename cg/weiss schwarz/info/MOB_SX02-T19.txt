@@ -1,0 +1,16 @@
+Card Name:
+English Name:Part-Time Pay
+Card No.:MOB/SX02-T19
+Rarity:TD
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Reigen: "Here. Your pay for the day."
+Trigger:
+Special Attribute:
+Text:Choose 1 of the following effects and perform it."Draw 1 card, choose 1 card in your hand, and put it into your waiting room. Put this card into your stock.""Choose 1 level 2 or higher character in your waiting room, and return it to your hand."

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Marriage Proposal
+Card No.:SAO/S20-E096
+Rarity:U
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:"……L-lets get married.
+Trigger:
+Special Attribute:
+Text:You may choose one of your characters named "Kirito Joins the Knights of the Blood Oath", and put it into your waiting room. If you do, choose a card named "《Black Swordsman》 Kirito" in your waiting room, put it on any position of your stage, and that character gets +1500 until end of your opponent\'s next turn. Put this card into your memory.

@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Fire Support” Archer
+Card No.:FS/S36-E055
+Rarity:R
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card attacks, choose one of your other 《Master》 or 《Servant》 characters, and that character gets +1000 power until end of turn.
+Text:【AUTO】 Resonate [Reveal a card named "“Caladbolg II”" in your hand] When this card becomes 【REVERSE】, if this card\'s battle opponent is level 1 or lower, you may pay the cost. If you do, 【REVERSE】 that character.
+Text:【AUTO】 This ability activates up to one time per turn. When you play a card named "“Caladbolg II”", choose one of your characters, and that character gets +2000 power until end of turn.', "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

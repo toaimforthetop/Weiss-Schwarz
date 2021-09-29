@@ -1,0 +1,17 @@
+Card Name:
+English Name:Indirectly Showing Off, Tomoe Koga
+Card No.:SBY/W64-E036
+Rarity:U
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hello…
+Trigger:
+Special Attribute:Adolescence・Smartphone
+Text:【CONT】 All of your other 《Adolescence》 characters get +500 power.
+Text:【AUTO】 When your other 《Adolescence》 character or this card is placed on the stage from your hand, you may look at the top card of your deck. (Return the card you saw to its original place)

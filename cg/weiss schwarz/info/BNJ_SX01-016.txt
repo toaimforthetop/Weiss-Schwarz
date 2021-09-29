@@ -1,0 +1,16 @@
+Card Name:
+English Name:Lord Joker
+Card No.:BNJ/SX01-016
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Everyones been calling me Dairoku Tenmaou, the demon king! But you can call me...
+Trigger:
+Special Attribute:Sengoku・Villain
+Text:【AUTO】 When this card attacks, if you have 2 or more other 《Villain》 characters, this card gets +2000 power until end of turn.

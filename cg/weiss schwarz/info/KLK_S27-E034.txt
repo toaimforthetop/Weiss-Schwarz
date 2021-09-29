@@ -1,0 +1,16 @@
+Card Name:
+English Name:Satsuki's Mother, Ragyo
+Card No.:KLK/S27-E034
+Rarity:C
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Well done.
+Trigger:
+Special Attribute:Clothes・CEO
+Text:【CONT】 If you do not have any other characters on your center stage, this card gets +1500 power.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nozomi in Pajamas
+Card No.:LL/EN-W01-063
+Rarity:U
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:If you stay up too late, fortune will run away from you.
+Trigger:
+Special Attribute:Music・Pajamas
+Text:【AUTO】 Change [(3) Put a card from your hand into your waiting room & Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose a card named ""Feigning Sleep♪" Nozomi" in your waiting room, and put it on the stage position that this card was on.

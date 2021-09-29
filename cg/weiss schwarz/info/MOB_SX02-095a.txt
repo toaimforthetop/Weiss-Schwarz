@@ -1,0 +1,16 @@
+Card Name:
+English Name:Explosion Counter
+Card No.:MOB/SX02-095a
+Rarity:R
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Look at up to 4 cards from the top of your deck, choose up to 1 《Esper》 or 《Master》 or 《Muscles》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.Put this card into your memory or put this card face down underneath your "MOB: Gratitude Towards His Master" as a marker.

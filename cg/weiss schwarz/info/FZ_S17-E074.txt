@@ -1,0 +1,16 @@
+Card Name:
+English Name:Full of Conceit, Archer
+Card No.:FZ/S17-E074
+Rarity:C
+Expansion:Fate/Zero
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:…hmph. What now, mad dog?
+Trigger:
+Special Attribute:Servant・Royalty
+Text:-

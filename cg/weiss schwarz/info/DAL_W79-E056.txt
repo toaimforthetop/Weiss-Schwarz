@@ -1,0 +1,17 @@
+Card Name:
+English Name:A Spring Moment, Tohka
+Card No.:DAL/W79-E056
+Rarity:R
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Its delicious! It's outrageous!
+Trigger:
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card's battle opponent becomes 【REVERSE】, choose 1 of your other 《Date》 or 《Celestial Spirit》 characters, 【REST】 it, and move it to an open position of your back stage.
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck.", '

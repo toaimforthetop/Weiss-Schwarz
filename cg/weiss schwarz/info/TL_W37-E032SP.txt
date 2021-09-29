@@ -1,0 +1,17 @@
+Card Name:
+English Name:Mikan Yuki
+Card No.:TL/W37-E032SP
+Rarity:SP
+Expansion:To Loveru Darkness 2nd
+Side:Weiss
+Type:Character
+Color:Green
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Rely on me more. Were friends, after all. 
+Trigger:Soul
+Special Attribute:Housework・Bag
+Text:【CONT】 This card gets +500 power for each of your other 《Trans》 or 《Housework》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room.

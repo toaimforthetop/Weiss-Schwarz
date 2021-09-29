@@ -1,0 +1,16 @@
+Card Name:
+English Name:KAITO "Holiday"
+Card No.:PD/S29-E094
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・-
+Text:【CONT】 During your opponent's turn, if the number of characters your opponent has is three or less, this card gets +1 level and +1500 power.", '

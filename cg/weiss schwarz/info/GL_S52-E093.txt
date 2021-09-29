@@ -1,0 +1,17 @@
+Card Name:
+English Name:Ashtanga Class
+Card No.:GL/S52-E093
+Rarity:U
+Expansion:GURREN LAGANN
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Anti-Spiral・-
+Text:【CONT】 All of your other 《Anti-Spiral》 characters get +1000 power.
+Text:【AUTO】 At the beginning of the climax phase, if all of your characters are 《Anti-Spiral》, all players put all of their characters with level higher than their level at the bottom of their deck in any order.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Replaying the Past, Abbacchio
+Card No.:JJ/S66-E076
+Rarity:RR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"Well, were talking fifteen years ago.
+Trigger:Soul
+Special Attribute:Golden Wind・Stand User
+Text:【AUTO】 【CXCOMBO】 [Put 1 card from your hand into your waiting room & Put the top card of your stock on the top of your deck & Put this card into your waiting room] At the end of this card\'s attack, if "Under the Falling Sky" is in your climax area, you may pay the cost. If you do, choose 1 "Playback Investigation, M.J" in your waiting room, and put it on the stage position this card was on.

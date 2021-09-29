@@ -1,0 +1,16 @@
+Card Name:
+English Name:"King of Knights" Altria
+Card No.:APO/S53-E016
+Rarity:C
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:(--Bring peace to Britain!)
+Trigger:
+Special Attribute:Royalty・-
+Text:

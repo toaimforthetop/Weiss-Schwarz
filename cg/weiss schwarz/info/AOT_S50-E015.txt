@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Recovering Eren" Armin
+Card No.:AOT/S50-E015
+Rarity:C
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Where are you!?
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 Your other card named ""Captured" Eren" in the middle position of the center stage gets +2000 power.
+Text:【AUTO】 Bond/""Captured" Eren" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Captured" Eren" in your waiting room, and return it to your hand.)

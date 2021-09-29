@@ -1,0 +1,17 @@
+Card Name:
+English Name:Predator of the Waters, Cr
+Card No.:JJ/S66-E049
+Rarity:R
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Narancia: "There\'s an enemy nearby!"
+Trigger:
+Special Attribute:Golden Wind・Stand
+Text:【AUTO】 This ability activates up to 1 time per turn. When you use an 【ACT】 ability, this card gets +2000 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

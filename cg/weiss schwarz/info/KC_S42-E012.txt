@@ -1,0 +1,17 @@
+Card Name:
+English Name:14th Yugumo-class Destroyer, Okinami
+Card No.:KC/S42-E012
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:U-Um～ Commander? Did you call for Okinami?
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a cost 0 or lower character in your opponent's center stage, and return it to his or her hand.
+Text:【ACT】 [(1) Put this card into your waiting room] Look at up to four cards from the top of your deck, choose up to one 《Fleet Girl》 character from among them, put it into your hand, and put the rest into your waiting room.", '

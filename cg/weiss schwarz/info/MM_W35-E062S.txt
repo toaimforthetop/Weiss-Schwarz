@@ -1,0 +1,18 @@
+Card Name:
+English Name:Intuitive Type, Kyoko
+Card No.:MM/W35-E062S
+Rarity:SR
+Expansion:PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion-
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"We cant go on like nothing's wrong after all this.
+Trigger:Soul
+Special Attribute:Magic・Sweets
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [(2) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, deal one damage to your opponent. (This damage may be canceled)
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character.", '【AUTO】 When this card becomes 【REVERSE】 in battle, choose one of your 《Magic》 characters, and that character gets +1500 power until end of turn.

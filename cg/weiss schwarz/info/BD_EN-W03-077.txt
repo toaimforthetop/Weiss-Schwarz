@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Reckless!" Kasumi Toyama
+Card No.:BD/EN-W03-077
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Which is why I enjoy being a part of PoppinParty so much!
+Trigger:
+Special Attribute:Music・Poppin'Party
+Text:【CONT】During your turn, all of your other ""World Class Faker" Arisa Ichigaya" get +2000 power.
+Text:【AUTO】Bond/""World Class Faker" Arisa Ichigaya" [Put the top card of your deck into your clock] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 ""World Class Faker" Arisa Ichigaya" in your waiting room, and return it to your hand)

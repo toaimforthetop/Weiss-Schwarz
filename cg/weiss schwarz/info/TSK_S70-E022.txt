@@ -1,0 +1,18 @@
+Card Name:
+English Name:Orc General
+Card No.:TSK/S70-E022
+Rarity:C
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Chaos Eater!
+Trigger:Soul
+Special Attribute:Demon Continent・-
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.
+Text:【CONT】 This card cannot side attack.
+Text:【CONT】 This card gets +1500 power for each of your other "Orc General" or "Orcs".

@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Magical Girls' New Story
+Card No.:MR/W59-TE19
+Rarity:TD
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Climax
+Color:Blue
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:-
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

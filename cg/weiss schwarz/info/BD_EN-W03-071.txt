@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Saya's Confession" Saya & Kasumi
+Card No.:BD/EN-W03-071
+Rarity:U
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:Kasumi: "No… I don\'t want that… I really don\'t want that!"
+Trigger:Soul
+Special Attribute:Music・Poppin'Party
+Text:【AUTO】[Put the top card of your deck into your clock] When you use this card\'s "Backup", you may pay the cost. If you do, choose 1 character in your waiting room with "Arisa(有咲)" or "Rimi(りみ)" in its card name, and return it to your hand.
+Text:【ACT】【COUNTER】Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)

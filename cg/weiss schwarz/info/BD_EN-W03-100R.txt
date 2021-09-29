@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Angel's Smile" Ako Udagawa
+Card No.:BD/EN-W03-100R
+Rarity:RRR
+Expansion:BanG Dream! Girls Band Party! MULTI LIVE
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"The only worthy partner for Rin-rins fire mage is my dark summoner～!
+Trigger:
+Special Attribute:Music・Roselia
+Text:【CONT】Your other 《Music》 character in the middle position of your center stage gets +500 power and "【AUTO】Encore [Put 1 blue card from your hand into your waiting room]".
+Text:【ACT】Brainstorm [(1)【REST】this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card.

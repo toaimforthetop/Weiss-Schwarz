@@ -1,0 +1,16 @@
+Card Name:
+English Name:Targeting the Hidden Treasure, Sale & A&C
+Card No.:JJ/S66-E042J
+Rarity:JJR
+Expansion:JoJo's Bizarre Adventure: Golden Wind
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Golden Wind・Stand User
+Text:-

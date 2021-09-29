@@ -1,0 +1,18 @@
+Card Name:
+English Name:Koyomi Araragi on Mother's Day
+Card No.:BM/S15-E003
+Rarity:R
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:You get lost--- because', 'you follow it?
+Trigger:
+Special Attribute:Strange・Blood
+Text:[CONT] During your turn, all of your other characters get +500 power.
+Text:[AUTO] When this card or another of your 《Strange》 characters is placed on stage from your hand, you may look at the top card of your deck. （Return the card you saw to its original place）
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(: When this card triggers, you may draw a card)

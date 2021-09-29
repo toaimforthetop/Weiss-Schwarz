@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Wonderful Rush" Rin Hoshizora
+Card No.:LL/W24-E107
+Rarity:TD
+Expansion:Love Live!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Singing and dancing just for you,the cold just doesnt seem to matter anymore.
+Trigger:Soul
+Special Attribute:Music・-
+Text:【ACT】 [(1)] This card gets +1 soul until end of turn.

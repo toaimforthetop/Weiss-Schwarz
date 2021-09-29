@@ -1,0 +1,16 @@
+Card Name:
+English Name:Tsukihi Araragi & Karen Araragi & Nadeko Sengoku
+Card No.:NM/S24-PE05
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Karen: "Seems I\'ll have a heroic tale to tell tonight."
+Trigger:
+Special Attribute:Strange
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as REST@)

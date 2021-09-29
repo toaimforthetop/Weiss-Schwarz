@@ -1,0 +1,18 @@
+Card Name:
+English Name:Mizuki Kawashima
+Card No.:IMC/W41-E088
+Rarity:R
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:1
+Power:1500
+Soul:1
+Flavor Text:Hm?
+Trigger:Soul
+Special Attribute:Music・-
+Text:【AUTO】 When you use this card\'s "Backup", look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【ACT】 【COUNTER】 Backup 1500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)
+Text:【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of "Anastasia", this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have.

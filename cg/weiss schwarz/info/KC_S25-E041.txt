@@ -1,0 +1,17 @@
+Card Name:
+English Name:2nd Chitose-class Light Aircraft Carrier, Chiyoda-Ko-Kai-Ni
+Card No.:KC/S25-E041
+Rarity:R
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:2
+Power:2500
+Soul:2
+Flavor Text:"The planes are all prepared. Lets head out!
+Trigger:Soul
+Special Attribute:Fleet Girl・Light Aircraft Carrier
+Text:【CONT】Assist All of your characters in front of this card get +1500 power.
+Text:【AUTO】When your opponent's character is returned to hand from the waiting room, choose one of your characters, and that character gets +2000 power until end of turn.", '

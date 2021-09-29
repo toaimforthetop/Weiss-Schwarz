@@ -1,0 +1,16 @@
+Card Name:
+English Name:Supreme Overlord Girl
+Card No.:DG/EN-S03-E085S
+Rarity:SR
+Expansion:Disgaea
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:"From this day on, youre gonna pee in your pants every time you hear my name. You ready?
+Trigger:Soul・Soul
+Special Attribute:
+Text:【AUTO】 When this card is placed on your climax area from your hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn.

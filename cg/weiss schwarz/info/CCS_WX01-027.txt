@@ -1,0 +1,16 @@
+Card Name:
+English Name:Speaking of Which…
+Card No.:CCS/WX01-027
+Rarity:U
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Event
+Color:Yellow
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:If you do not have a character with "Yamazaki" in its card name, this card cannot be played from your hand.All of your opponent\'s or your characters with "Sakura" or "Syaoran" or "Akiho" in its card name get +1500 power until end of turn.All of your opponent\'s or your characters without "Sakura" or "Syaoran" or "Akiho" or "Yamazaki" in its card name get -500 power until end of turn.

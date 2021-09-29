@@ -1,0 +1,16 @@
+Card Name:
+English Name:In Audition, Mio
+Card No.:IMC/W41-TE06
+Rarity:TD
+Expansion:THE IDOLM@STER CINDERELLA GIRLS ~Power~
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:"Im number four, Mio Honda! It's a pleasure to meet you!
+Trigger:
+Special Attribute:Music・-
+Text:-

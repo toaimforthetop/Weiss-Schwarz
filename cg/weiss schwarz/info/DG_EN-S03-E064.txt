@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nurse, Altina
+Card No.:DG/EN-S03-E064
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"If youd like mine, go ahead.
+Trigger:
+Special Attribute:Nurse・Love
+Text:【AUTO】 Bond/"Tyrant, Valvatorez" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Tyrant, Valvatorez" in your waiting room, and return it to your hand.)

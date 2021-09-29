@@ -1,0 +1,17 @@
+Card Name:
+English Name:Reaching for the Grail, Saber
+Card No.:FS/S64-E004S
+Rarity:SR
+Expansion:Fate/stay night [Heaven’s Feel]
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:It cannot be!
+Trigger:Soul
+Special Attribute:Servant・Weapon
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 of your "Black Shadow", and put this card face down underneath that card as a marker.
+Text:【AUTO】 When this card becomes 【REVERSE】, if the level of this card\'s battle opponent is higher than your opponent\'s level, you may put that character into your opponent\'s stock. If you do, put the bottom card of your opponent\'s stock into his or her waiting room.

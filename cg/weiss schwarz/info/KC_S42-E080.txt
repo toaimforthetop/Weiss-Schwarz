@@ -1,0 +1,16 @@
+Card Name:
+English Name:6th Asashio-class Destroyer, Yamagumo
+Card No.:KC/S42-E080
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Did you call for Yamagumo～
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 [(1) Put a 《Destroyer》 character from your hand into your waiting room & Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, search your deck for up to two cards named "5th Asashio-class Destroyer, Asagumo Kai" or "6th Asashio-class Destroyer, Yamagumo Kai", reveal them to your opponent, put them into your hand, and shuffle your deck.

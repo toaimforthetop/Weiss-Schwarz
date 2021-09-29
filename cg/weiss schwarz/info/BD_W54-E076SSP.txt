@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Cute Friends" Arisa Ichigaya
+Card No.:BD/W54-E076SSP
+Rarity:SSP
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:No flavor text
+Trigger:Soul
+Special Attribute:Music・Poppin’Party
+Text:【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.
+Text:【CONT】 If this card is in your center stage, all of your 《Music》 characters get +1500 power.
+Text:【AUTO】 【CXCOMBO】 When this card attacks, if a card named "Under The Blossoming Sakura" is in your climax area, and the number of other 《Music》 characters you have is four or more, until the end of your opponent\'s next turn, this card gets +1000 power and the following ability. "【AUTO】 At the beginning of your opponent\'s attack phase, choose up to two of your opponent\'s characters, and those characters get -1 soul until end of turn."

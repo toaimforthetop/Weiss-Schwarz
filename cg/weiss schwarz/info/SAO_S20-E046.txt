@@ -1,0 +1,16 @@
+Card Name:
+English Name:Searching Lisbeth
+Card No.:SAO/S20-E046
+Rarity:RR
+Expansion:Sword Art Online
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:I, too, was always looking for something.', 'Something real in this world.
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】[(1)］ When this card attacks, if a card named "Seeking Warmth" is in your climax area, you may pay the cost. If you do, choose up to two characters in your waiting room, return them to your hand, choose a card in your hand, put it into your waiting room, and this card gets +1000 power until end of turn. 

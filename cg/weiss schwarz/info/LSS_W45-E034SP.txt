@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Aozora Jumping Heart" Riko Sakurauchi
+Card No.:LSS/W45-E034SP
+Rarity:SP
+Expansion:Love Live! Sunshine!!
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Music
+Text:【AUTO】 When another of your 《Music》 characters becomes 【REVERSE】 in battle, choose one of your characters, and that character gets +500 power until end of turn.
+Text:【ACT】 Brainstorm [(1) 【REST】 two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one character in your waiting room, and return it to your hand.

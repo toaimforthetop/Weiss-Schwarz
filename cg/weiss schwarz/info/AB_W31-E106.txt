@@ -1,0 +1,17 @@
+Card Name:
+English Name:Kanade Tachibana
+Card No.:AB/W31-E106
+Rarity:RR
+Expansion:Angel Beats! Re:Edit
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Death・Student Council
+Text:[AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room.
+Text:[AUTO] [(1)] When a card named "Somewhere, Someday" is placed on your climax area, if this card is on your center stage, you may pay the cost. If you do, search your deck for up to one 《Death》 character, and put it on any position of your stage. Shuffle your deck afterwards.

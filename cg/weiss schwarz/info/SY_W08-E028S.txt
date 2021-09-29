@@ -1,0 +1,18 @@
+Card Name:
+English Name:Primp and Proper Tsuruya
+Card No.:SY/W08-E028S
+Rarity:SR
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Yoo-hoo! Is Mikuru here?
+Trigger:
+Special Attribute:Forehead・Fang Teeth
+Text:【CONT】 If the number of your other characters is two or less, this card gets +1500 power.
+Text:【AUTO】 Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)
+Text:【CONT】 All of your characters get +1000 power and +1 soul. ', "(: When this card triggers, you may choose one of your opponent's characters, and return it to your opponent's hand.) ", '

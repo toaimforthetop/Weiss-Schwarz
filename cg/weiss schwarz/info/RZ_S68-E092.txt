@@ -1,0 +1,16 @@
+Card Name:
+English Name:Drunk Rem
+Card No.:RZ/S68-E092
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:Subaru-kun.
+Trigger:Soul
+Special Attribute:Magic・Memory Snow
+Text:-

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Way Home in the Dusk, Momoko
+Card No.:MR/W80-TE05
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:6000
+Soul:1
+Flavor Text:"No, we have fights all the time. It wasnt your fault, Iroha.
+Trigger:
+Special Attribute:Magic・-
+Text:【AUTO】 When your other 《Magic》 character attacks, this card gets +1000 power until end of turn.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.

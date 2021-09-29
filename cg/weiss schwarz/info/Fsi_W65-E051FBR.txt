@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hekiyou Academy Student Council Secretary, Chizuru
+Card No.:Fsi/W65-E051FBR
+Rarity:FBR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:7000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Fantasia Bunko・Student Council・Honor Student
+Text:【CONT】 If you have another "Hekiyou Academy Student Council President, Kurimu", this card gets +3000 power.
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Melancholic
+Card No.:PD/S22-TE06
+Rarity:TD
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Event
+Color:Yellow
+Level:1
+Cost:1
+Power:
+Soul:0
+Flavor Text:それはきみとゆう名のメランコリンニスト。
+Trigger:
+Special Attribute:
+Text:Search your deck for up to one 《Music》 character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. 

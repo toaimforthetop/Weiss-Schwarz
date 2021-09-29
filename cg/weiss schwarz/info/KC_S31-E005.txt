@@ -1,0 +1,16 @@
+Card Name:
+English Name:9th Kagero-class Destroyer, Amatsukaze-Kai
+Card No.:KC/S31-E005
+Rarity:R
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:Amatsukaze from the Sixteenth Destroyer Division, anchors aweigh!
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to one card named "Shimakaze-class Destroyer, Shimakaze", reveal it to your opponent, and put it into your hand, shuffle your deck, and this card gets +1000 power until end of turn.

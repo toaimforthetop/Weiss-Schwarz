@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Twin Problems" Hina Hikawa
+Card No.:BD/W54-E014
+Rarity:C
+Expansion:BanG Dream! Girls Band Party!
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:…... Thank you, sis!!
+Trigger:
+Special Attribute:Music・Pastel＊Palettes
+Text:【CONT】 If your level is 2 or higher, this card gets the following ability. "【ACT】 [Put this card into your waiting room] Choose up to one card named ""Twin Problems" Sayo Hikawa" in your hand, and put it on the stage position that this card was on."
+Text:【AUTO】 Bond/""Twin Problems" Sayo Hikawa" [Put a card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Twin Problems" Sayo Hikawa" in your waiting room, and return it to your hand)

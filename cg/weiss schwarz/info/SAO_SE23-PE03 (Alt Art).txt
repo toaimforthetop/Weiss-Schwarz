@@ -1,0 +1,16 @@
+Card Name:
+English Name:Winning Combination, Sinon & Kirito
+Card No.:SAO/SE23-PE03 (Alt Art)
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:―[Sino
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【AUTO】  When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn.", '

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Door Crossing, Beatrice
+Card No.:RZ/S46-E047
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World-
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:"So now you can break through my Door Crossing like its natural, I suppose.
+Trigger:
+Special Attribute:Magic・Book
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax revealed among those cards, you may choose a 《Magic》 or 《Weapon》 character in your waiting room, and return it to your hand.

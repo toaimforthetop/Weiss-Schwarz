@@ -1,0 +1,18 @@
+Card Name:
+English Name:Memories from Last Night
+Card No.:SAO/S26-E040
+Rarity:CC
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Climax
+Color:Green
+Level:4
+Cost:
+Power:
+Soul:0
+Flavor Text:Sigh…
+Trigger:Treasure
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.
+Text:(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock.)
+Text:【AUTO】 When this card is placed on your climax area from hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn. 

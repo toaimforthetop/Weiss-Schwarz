@@ -1,0 +1,18 @@
+Card Name:
+English Name:Unkind Demon, Etna
+Card No.:DG/EN-S03-E071
+Rarity:C
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Green
+Level:1
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:"But in return, youre going to have to do whatever I say for the rest of my life.
+Trigger:
+Special Attribute:Demon・Weapon
+Text:【CONT】 If there is a marker underneath this card, this card gets +1 level, +4000 power and +1 soul.
+Text:【AUTO】 [Put a card named "Siblings\' Conversation" face down underneath this card as a marker] When this card\'s battle opponent becomes 【REVERSE】, if there are no markers underneath this card, you may pay the cost. If you do, this card cannot 【STAND】 during your next stand phase.
+Text:-

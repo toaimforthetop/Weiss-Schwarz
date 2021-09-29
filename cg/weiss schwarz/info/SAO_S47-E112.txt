@@ -1,0 +1,17 @@
+Card Name:
+English Name:Attack in Waves, Kirito
+Card No.:SAO/S47-E112
+Rarity:RR
+Expansion:Sword Art Online Re: Edit
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:Switch out!
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 When this card is played from your hand, you may choose one of your cards named "After the Battle, Kirito", and put it into your waiting room. If you do, you may play this card with 0 cost.
+Text:【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1500 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose one of your other 《Avatar》 or 《Net》 characters, 【REST】 it, and move it to an open position of your back stage."【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.

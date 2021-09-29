@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hard Worker, Selka
+Card No.:SAO/S65-TE04
+Rarity:TD
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:2500
+Soul:1
+Flavor Text:Eugeo: "After Alice was gone, she moved into the church to become a nun and to study the sacred arts."
+Trigger:Soul
+Special Attribute:Fluctlight・Sacred Arts
+Text:【ACT】 【COUNTER】 Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +3000 power until end of turn)

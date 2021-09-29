@@ -1,0 +1,17 @@
+Card Name:
+English Name:Genius Gamer Siblings, Shiro
+Card No.:NGL/S58-TE11
+Rarity:TD
+Expansion:No Game No Life
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:...Brother rejected me...
+Trigger:
+Special Attribute:Game・Imanity
+Text:【CONT】 During your turn, all of your other "Genius Gamer Siblings, Sora" get +2000 power.
+Text:【AUTO】 Bond/"Genius Gamer Siblings, Sora" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 "Genius Gamer Siblings, Sora" in your waiting room, and return it to your hand)

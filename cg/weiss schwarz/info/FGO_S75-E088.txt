@@ -1,0 +1,16 @@
+Card Name:
+English Name:Supporting Comrades, Mash
+Card No.:FGO/S75-E088
+Rarity:U
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Ngh!
+Trigger:Soul
+Special Attribute:Chaldea・Shielder
+Text:【CONT】 If this card is in your center stage, all of your 《Chaldea》 or 《Babylonia》 characters get +1500 power. 【AUTO】 Encore [Put 1 《Chaldea》 or 《Babylonia》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)

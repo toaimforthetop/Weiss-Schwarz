@@ -1,0 +1,18 @@
+Card Name:
+English Name:For Victory, Rin
+Card No.:FS/S34-E051
+Rarity:RR
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:"Im not as na?ve as Shirou Emiya, but there are some things I won't budge on.
+Trigger:Soul
+Special Attribute:Master・Jewel
+Text:【CONT】 Experience If there is a card named "For Victory, Rin" and "Dual-wielding Bowman, Archer" in your level, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may choose a 《Master》 or 《Servant》 character in your waiting room, and return it to your hand.
+Text:【AUTO】 When this card is placed on your climax area from your hand, choose up to one green card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn.

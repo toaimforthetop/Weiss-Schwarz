@@ -1,0 +1,16 @@
+Card Name:
+English Name:Forceful Fact, Yukiho
+Card No.:LL/W34-E060
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:I knew it!
+Trigger:
+Special Attribute:Sweets
+Text:【AUTO】 Bond／"“KiRa-KiRa Sensation!” Honoka Kosaka" [Put the top card of your deck into your clock] (When this card is played and placed on the stage from your hand, you may pay the cost. If you do, choose a card named "“KiRa-KiRa Sensation!” Honoka Kosaka" in your waiting room, and return it to your hand)

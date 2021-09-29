@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Continuing Dream"Kagamine Len
+Card No.:PD/S22-E020
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8500
+Soul:1
+Flavor Text:想いはひとつになって', 'この胸に熱く宿って\u3000そして奇跡が
+Trigger:Soul
+Special Attribute:Music・-
+Text:-

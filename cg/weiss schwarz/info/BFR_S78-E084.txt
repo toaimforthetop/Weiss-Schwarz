@@ -1,0 +1,17 @@
+Card Name:
+English Name:Maxing Out, Sally
+Card No.:BFR/S78-E084
+Rarity:R
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Game・Weapon
+Text:【AUTO】 When your character's trigger check reveals a climax with  in its trigger icon, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room.
+Text:【ACT】 [【REST】 this card] Choose 1 of your 《Game》 characters, and that character gets +1500 power until end of turn.

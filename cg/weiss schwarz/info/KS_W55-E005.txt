@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Snipe" Kazuma
+Card No.:KS/W55-E005
+Rarity:R
+Expansion:KONOSUBA -God’s blessing on this wonderful world! 2
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"In light of that, I decided to learn a new skill. And its called…
+Trigger:
+Special Attribute:Adventurer・Magic
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose a card in your opponent's clock, and put it into your opponent's waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, put the bottom card of your opponent's stock into his or her waiting room.", '

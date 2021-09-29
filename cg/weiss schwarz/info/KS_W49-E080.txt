@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Covered in Snot” Aqua
+Card No.:KS/W49-E080
+Rarity:U
+Expansion:KONOSUBA -God’s blessing on this wonderful world!
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Thank you…… Kazuma……
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【AUTO】 When this card becomes 【REVERSE】 in battle, put the top two cards of your deck into your waiting room. If there is a level 2 or higher card among those cards, you may put this card into your stock. (Climax are regarded as level 0)

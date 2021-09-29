@@ -1,0 +1,16 @@
+Card Name:
+English Name:Staff of Ainz Ooal Gown
+Card No.:OVL/S62-TE20
+Rarity:TD
+Expansion:Nazarick: Tomb of the Undead
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Let’s go. You’re a testament of our guild.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

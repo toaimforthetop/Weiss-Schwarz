@@ -1,0 +1,17 @@
+Card Name:
+English Name:Rika Ayano
+Card No.:MR/W59-E073
+Rarity:C
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:I came here to meet my Prince Charming!
+Trigger:Soul
+Special Attribute:Magic・Magia
+Text:【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card.
+Text:【AUTO】 Accelerate [Put the top card of your deck into your clock] When this card attacks, you may pay the cost. If you do, this card gets +1000 power and the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, choose up to 2 《Magic》 characters in your waiting room, and put them into your stock in any order."

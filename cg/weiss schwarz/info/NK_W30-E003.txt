@@ -1,0 +1,17 @@
+Card Name:
+English Name:Not Good at Romance, Chitoge
+Card No.:NK/W30-E003
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:"Im no good at romance or anything like that…… I just don't understand that stuff……
+Trigger:
+Special Attribute:Heiress・Key
+Text:【CONT】 Assist All of your characters in front of this card get +500 power.
+Text:【ACT】 [Put a card named "Promised Pendant" from your memory into your waiting room] Choose one of your characters, and that character gets +1000 power and +1 soul until end of turn.

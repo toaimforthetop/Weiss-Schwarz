@@ -1,0 +1,16 @@
+Card Name:
+English Name:Matching Live T-shirts, Mika
+Card No.:IMC/W41-E032
+Rarity:C
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:9000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Gal
+Text:【CONT】 If the number of characters you have is three or less, this card cannot be played from your hand.

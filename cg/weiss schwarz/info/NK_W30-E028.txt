@@ -1,0 +1,16 @@
+Card Name:
+English Name:Learning About Love, Seishiro
+Card No.:NK/W30-E028
+Rarity:R
+Expansion:NISEKOI -False Love- ver.E
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Youre in love at this very moment, Lady Onodera?
+Trigger:
+Special Attribute:Weapon・-
+Text:【AUTO】 When this card is placed on stage from your hand, reveal the top card of your deck. If that card is not a 《Weapon》 or 《Heiress》 character, put that card into your clock. (If it is not, return the revealed card to its original place)

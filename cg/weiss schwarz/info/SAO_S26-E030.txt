@@ -1,0 +1,16 @@
+Card Name:
+English Name:Wondering Girl, Leafa
+Card No.:SAO/S26-E030
+Rarity:U
+Expansion:Sword Art Online Vol.2
+Side:Schwarz
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:Um～…… 
+Trigger:Soul
+Special Attribute:Avatar・Weapon
+Text:【CONT】 If the number of other 《Avatar》 or 《Net》 characters you have is three or more, this card gets +1000 power.

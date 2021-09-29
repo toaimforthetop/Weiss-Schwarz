@@ -1,0 +1,16 @@
+Card Name:
+English Name:Feelings of the Two, Claudine & Maya
+Card No.:RSL/S56-E106
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Maya: "The person I\'m most concerned about, is you, Saijo-san."Claudine: "M-me?!"
+Trigger:
+Special Attribute:Revue・－
+Text:【AUTO】 When this card attacks, choose 1 of your other 《Revue》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Revue》 characters you have ×500.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Sakura: A New Key
+Card No.:CCS/WX01-092
+Rarity:C
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:!!
+Trigger:
+Special Attribute:Tomoeda・Magic
+Text:【CONT】 This card gets +500 power for each of your other 《Tomoeda》 or 《Magic》 characters.
+Text:【AUTO】 【CXCOMBO】 [(1)] When this card attacks, if "Otherworldly Encounter" is in your climax area, you may pay the cost. If you do, put all cards from your hand into your waiting room, and draw an equal number of cards.

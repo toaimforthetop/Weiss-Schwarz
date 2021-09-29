@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Until the Dying Breath" Sasha
+Card No.:AOT/S50-E058
+Rarity:R
+Expansion:Attack on Titan Vol.2
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:5500
+Soul:1
+Flavor Text:Uwaaaaaaaaaah!
+Trigger:
+Special Attribute:Corps・Weapon
+Text:【CONT】 If the number of other 《Corps》 characters you have is two or more, this card gets +2000 power.
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Corps》 character, you may move this card to an open position of your center stage.", '

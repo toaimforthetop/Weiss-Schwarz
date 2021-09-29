@@ -1,0 +1,16 @@
+Card Name:
+English Name:Direct Hack
+Card No.:MK/S11-TE08
+Rarity:TD
+Expansion:【Tutorial Deck】 Detective Opera Milky Holmes
+Side:Schwarz
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:My Toys is called Direct Hack. The ability to hack any electrical devices just by touching it.
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 When this card is placed on your climax area from hand, put the top card of your deck into your stock, and all of your characters get +1 soul until end of turn. 

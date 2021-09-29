@@ -1,0 +1,16 @@
+Card Name:
+English Name:μ's Backup Dancer? Eli
+Card No.:LL/W34-E023
+Rarity:C
+Expansion:Love Live! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:Hello? This is your backup dancer, Eli Ayase.
+Trigger:
+Special Attribute:Music・Sports
+Text:【CONT】 If the number of your other 《Music》 characters is two or more, this card gets +1000 power.

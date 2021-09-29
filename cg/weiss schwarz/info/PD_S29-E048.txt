@@ -1,0 +1,16 @@
+Card Name:
+English Name:The Intense Voice of Hatsune Miku
+Card No.:PD/S29-E048
+Rarity:R
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Event
+Color:Green
+Level:3
+Cost:9
+Power:
+Soul:0
+Flavor Text:妹\u3000弟\u3000に道を預けて\u3000消え逝く未来も誰からも\u3000忘れ去られる運命も\u3000それらを含めて全てが\u3000Voc.たちなんだと理解しいずれおとずれる\u3000最後の場面に\u3000ココロを持つ故涙を流すなら\u3000泪より虹生み\u3000笑顔見せるため幸せ溢れる\u3000歌\u3000口ずさもう
+Trigger:
+Special Attribute:
+Text:All of your characters get the following ability until end of turn. "【AUTO】 This ability activates up to one time per turn. When damage dealt by this card is canceled,  【Stand】 this card."

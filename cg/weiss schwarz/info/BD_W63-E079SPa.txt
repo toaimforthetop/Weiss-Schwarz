@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Seeing Rabbits" Tae Hanazono
+Card No.:BD/W63-E079SPa
+Rarity:SP
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Poppin’Party
+Text:【AUTO】 When this card attacks, this card gets +X power until end of turn. X is equal to the number of other 《Music》 characters you have ×500.

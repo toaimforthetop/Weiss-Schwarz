@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Efreet" Kotori
+Card No.:DAL/W79-E059S
+Rarity:SR
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【AUTO】 When this card attacks, reveal the top card of your deck. If that card is a 《Date》 or 《Celestial Spirit》 character or an event, you may deal 1 damage to your opponent. (Return the revealed card to its original place. Damage may be canceled)【AUTO】 Change [Put this card into your waiting room] At the beginning of your climax phase, you may pay the cost. If you do, choose 1 "Expression of Killing Intent, Kotori" in your waiting room, and put it on the stage position that this card was on. (This ability does not activate if this card is not on the stage at the beginning of the climax phase)

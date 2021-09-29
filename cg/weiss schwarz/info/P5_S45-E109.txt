@@ -1,0 +1,17 @@
+Card Name:
+English Name:Protagonist as JOKER: Destiny Awaits
+Card No.:P5/S45-E109
+Rarity:PR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Thief・-
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck.
+Text:【AUTO】 [(1) Put this card into your clock] When this card becomes 【REVERSE】 in battle, you may pay the cost. If you do, look at up to two cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room.

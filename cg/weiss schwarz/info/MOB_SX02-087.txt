@@ -1,0 +1,18 @@
+Card Name:
+English Name:Ritsu: Falling From Grace
+Card No.:MOB/SX02-087
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:4000
+Soul:1
+Flavor Text:Even I…
+Trigger:
+Special Attribute:Esper・Student Council
+Text:【CONT】 This card gets +1 level and +1500 power for each marker underneath this card.
+Text:【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may look at the top card of your deck. If you do, put that card face down underneath this card as a marker.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Corruption and Guilt" is in your climax area, search your deck for up to 1 blue or 《Esper》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.

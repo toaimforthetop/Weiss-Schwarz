@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hungry, Mayoi Hachikuji
+Card No.:BM/S15-E019
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:7500
+Soul:1
+Flavor Text:But never mind that, Mr. Araragi.', "I'm hungry, you know?
+Trigger:Soul
+Special Attribute:Strange・Spirit
+Text:[AUTO]［(1)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one of your characters, and that character gets +1 soul until end of turn. 

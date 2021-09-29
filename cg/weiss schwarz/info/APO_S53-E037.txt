@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Demonic Beast Strength" Archer of Red
+Card No.:APO/S53-E037
+Rarity:R
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Animal
+Text:【CONT】 If you have another 《Master》 or 《Servant》 character, this card gets +1500 power.
+Text:【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is on your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.", '

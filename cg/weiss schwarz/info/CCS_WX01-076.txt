@@ -1,0 +1,16 @@
+Card Name:
+English Name:Dress Designer's Delight
+Card No.:CCS/WX01-076
+Rarity:CC
+Expansion:Cardcaptor Sakura : Clear Card
+Side:Weiss
+Type:Climax
+Color:Red
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Fortunately, I always have a selection of costumes ready and waiting for exactly this type of emergency.
+Trigger:Comeback
+Special Attribute:
+Text:【CONT】 All of your characters get +1000 power and +1 soul.(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)

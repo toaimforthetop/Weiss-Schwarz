@@ -1,0 +1,16 @@
+Card Name:
+English Name:I'll Seize My Own Star!!
+Card No.:RSL/S56-E094
+Rarity:U
+Expansion:Revue Starlight
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:3
+Cost:2
+Power:－
+Soul:0
+Flavor Text:Junna: "I want to... become a star."
+Trigger:
+Special Attribute:－・－
+Text:Put the top 4 cards of your deck into your waiting room, and deal X damage to your opponent. X is equal to the number of  trigger icons revealed among those cards. (Damage may be canceled)

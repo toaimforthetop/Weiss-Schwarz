@@ -1,0 +1,17 @@
+Card Name:
+English Name:Swimsuit Futaba
+Card No.:P5/S45-E084
+Rarity:U
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:
+Trigger:
+Special Attribute:Thief・Net
+Text:【CONT】 All of your other 《Thief》 or 《Coffee》 characters get +500 power.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When damage dealt by your direct attacking character is not canceled, choose a face down card in your opponent's memory, and put it into his or her waiting room. If you do, you may pay the cost. If you do, put the top card of your clock into your waiting room.", '

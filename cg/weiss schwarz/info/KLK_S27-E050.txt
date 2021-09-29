@@ -1,0 +1,16 @@
+Card Name:
+English Name:Along with Senketsu, Satsuki
+Card No.:KLK/S27-E050
+Rarity:U
+Expansion:KILL la KILL
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Lend me your strength, Senketsu.
+Trigger:
+Special Attribute:Clothes・Weapon
+Text:【AUTO】 When this card is placed on stage from your hand, choose one of your other characters with the highest level, and put it into your waiting room.

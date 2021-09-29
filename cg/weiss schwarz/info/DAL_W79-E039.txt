@@ -1,0 +1,17 @@
+Card Name:
+English Name:Prompt Judgement, Origami
+Card No.:DAL/W79-E039
+Rarity:C
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Kusakabe: "You\'re using the emergency uniform, right?"
+Trigger:
+Special Attribute:Date・AST
+Text:【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among those cards, choose 1 character in your opponent's center stage, and that character gets -1000 power until end of turn.
+Text:【AUTO】 At the beginning of your climax phase, choose 1 of your 《Date》 or 《Celestial Spirit》 characters, and that character gets +1000 power until end of turn.", '

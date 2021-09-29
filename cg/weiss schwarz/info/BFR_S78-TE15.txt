@@ -1,0 +1,16 @@
+Card Name:
+English Name:I Don't Want to Get Hurt, Kaede Honjo
+Card No.:BFR/S78-TE15
+Rarity:TD
+Expansion:BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:A great shielder focused on defense.
+Trigger:
+Special Attribute:Game・-
+Text:

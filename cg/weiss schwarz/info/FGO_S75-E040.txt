@@ -1,0 +1,17 @@
+Card Name:
+English Name:All-Out Seriousness, Jaguar Warrior
+Card No.:FGO/S75-E040
+Rarity:C
+Expansion:Fate/Grand Order Absolute Demonic Front: Babylonia
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:"But today, Im just a tad bit serious! You could say 6-% less tiger! Diet Jet Tiger!
+Trigger:
+Special Attribute:Babylonia・Divine
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order.
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Promises and Gratitude
+Card No.:TSK/S70-TE10
+Rarity:TD
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Climax
+Color:Yellow
+Level:
+Cost:
+Power:
+Soul:0
+Flavor Text:Thank you so much, Shizu!
+Trigger:Soul・Soul
+Special Attribute:
+Text:【CONT】 All of your characters get +2 soul.

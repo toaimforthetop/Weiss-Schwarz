@@ -1,0 +1,19 @@
+Card Name:
+English Name:Soryu-class Aircraft Carrier, Soryu-Kai-Ni
+Card No.:KC/S31-E077
+Rarity:RR
+Expansion:Kancolle, 2nd Fleet
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:"So, lets go get us a big one!
+Trigger:Soul
+Special Attribute:Fleet Girl・Aircraft Carrier
+Text:【CONT】 The character facing this card gets -1 soul. 
+Text:【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. 
+Text:【AUTO】 When?this?card?attacks, if a card named "Attack force, head out now-!" is in your climax area, until the end of your opponent\'s next turn, this card gets +2000 power and the following ability. "【CONT】 The character facing this card gets -1 soul."
+Text:【AUTO】 When this card is placed on your climax area from your hand, draw a card, choose one of your characters, and that character gets +2000 power and +1 soul until end of turn.

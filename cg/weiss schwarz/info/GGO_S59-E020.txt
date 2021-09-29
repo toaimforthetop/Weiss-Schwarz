@@ -1,0 +1,17 @@
+Card Name:
+English Name:《SHINC》, Tanya
+Card No.:GGO/S59-E020
+Rarity:C
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Character
+Color:Green
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Enemy locat―
+Trigger:
+Special Attribute:Avatar・SHINC
+Text:【CONT】 If you have 2 or more other《Avatar》 or 《Net》 characters, this card gets +1000 power.
+Text:【AUTO】 [Put the top card of your stock into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 card in your clock, return it to your hand, and put the top card of your deck into your clock.

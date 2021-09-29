@@ -1,0 +1,16 @@
+Card Name:
+English Name:Party Popper, Haruhi
+Card No.:SY/W08-E068
+Rarity:C
+Expansion:The Melancholy of Haruhi Suzumiya
+Side:Weiss
+Type:Character
+Color:Red
+Level:2
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"Come on, its okay.
+Trigger:Soul
+Special Attribute:Brigade Leader・SOS Brigade
+Text:-

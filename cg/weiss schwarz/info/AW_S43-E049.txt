@@ -1,0 +1,16 @@
+Card Name:
+English Name:Famous 《Healer》 Skill
+Card No.:AW/S43-E049
+Rarity:U
+Expansion:Accel・World -Infinite Burst-
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Here we go nowー
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose one of your characters, and that character gets the following ability until end of turn. "【AUTO】 This ability activates up to one time per turn. During this card\'s battle, when the damage you received is not canceled, choose up to X cards in your waiting room, and put them into your memory. At the beginning of the encore step, put all the cards that were put in your memory by this effect into your waiting room, and put up to X cards from the top of your clock into your waiting room. X is equal to the damage received."

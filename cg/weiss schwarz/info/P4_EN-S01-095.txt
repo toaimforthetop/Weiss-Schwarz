@@ -1,0 +1,16 @@
+Card Name:
+English Name:Aria of the Soul
+Card No.:P4/EN-S01-095
+Rarity:U
+Expansion:Persona 4 ver.E
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:0
+Power:
+Soul:0
+Flavor Text:Welcome… to the Velvet Room.
+Trigger:
+Special Attribute:
+Text:Choose one of your characters, and until end of turn that character gets +3000 power and the following ability. "【AUTO】 When this card\'s battle opponent becomes  【REVERSE】, you may draw a card."

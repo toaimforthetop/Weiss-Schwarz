@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Recovery and Resolve" Sana
+Card No.:MR/W59-E008
+Rarity:R
+Expansion:Magia Record: Puella Magi Madoka Magica Side Story
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:"Ill give my all for her, because she treats me like I matter...
+Trigger:
+Special Attribute:Magic・Skill
+Text:【CONT】 During your turn, this card gets -1 level and +500 power.
+Text:【AUTO】 【CXCOMBO】 When this card\'s battle opponent becomes 【REVERSE】, if "Invisible Girl After School" is in your climax area, choose 1 of your characters, that character gets +1000 power and +1 soul until end of turn, and this card gets the following ability until the end of your opponent\'s next turn. "【AUTO】 When this card is frontal attacked, you may return this card to your hand."

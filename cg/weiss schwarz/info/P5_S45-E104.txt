@@ -1,0 +1,16 @@
+Card Name:
+English Name:Morgana as MONA: Phantom Thief of Hearts
+Card No.:P5/S45-E104
+Rarity:PR
+Expansion:Persona 5
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:We are the Phantom Thieves, here to take your heart!
+Trigger:
+Special Attribute:Thief・-
+Text:【ACT】 [【REST】 two of your 《Thief》 characters] Choose one of your characters, and that character gets +2000 power until end of turn.

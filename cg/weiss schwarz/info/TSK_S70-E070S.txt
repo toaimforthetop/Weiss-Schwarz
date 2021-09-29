@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Intimidation" Ranga
+Card No.:TSK/S70-E070S
+Rarity:SR
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Rimuru: "He says he wants to talk to you. Hear him out."
+Trigger:
+Special Attribute:Demon Continent・Shadow
+Text:【AUTO】 When you use this card\'s "Backup", if you have a 《Demon Continent》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.
+Text:【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1000 power until end of turn)

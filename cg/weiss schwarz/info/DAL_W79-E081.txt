@@ -1,0 +1,18 @@
+Card Name:
+English Name:Naïve and Innocent Girl, Tohka
+Card No.:DAL/W79-E081
+Rarity:R
+Expansion:Date A Live
+Side:Weiss
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9000
+Soul:2
+Flavor Text:"Well then, lets go on our date!
+Trigger:Soul
+Special Attribute:Date・Celestial Spirit
+Text:【CONT】 This card gets +500 power for each of your other 《Date》 or 《Celestial Spirit》 characters.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(3) Put 2 cards from your hand into your waiting room & Put 1 "Delicious Date" from your climax area into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, choose up to 3 cards in your opponent\'s waiting room, put them on the top of their deck in any order, and deal 5 damage to your opponent. (Damage may be canceled)

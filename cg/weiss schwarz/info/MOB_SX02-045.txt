@@ -1,0 +1,16 @@
+Card Name:
+English Name:Psycho Helmet Cult Flyer
+Card No.:MOB/SX02-045
+Rarity:U
+Expansion:Mob Psycho 100
+Side:Schwarz
+Type:Event
+Color:Green
+Level:1
+Cost:0
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Choose 1 of your characters, and put it into your waiting room. If you do, search your deck for up to 1 climax, reveal it to your opponent, put it into your hand, and shuffle your deck.

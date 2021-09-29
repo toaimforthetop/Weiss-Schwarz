@@ -1,0 +1,17 @@
+Card Name:
+English Name:Akitsushima-class Seaplane Tender, Akitsushima Kai
+Card No.:KC/S42-E058
+Rarity:RR
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Even now, it is time for Akitsushima-style combat navigation technique. Maybe I can head out!
+Trigger:
+Special Attribute:Fleet Girl・Seaplane Tender
+Text:【CONT】 If the number of your other characters is one or less, this card gets +1500 power.
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may move this card to the open right position of your center stage. (You can only move it to the stage position on the right)", '

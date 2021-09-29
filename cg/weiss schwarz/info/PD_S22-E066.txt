@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Continuing Dream"Megurine Luka
+Card No.:PD/S22-E066
+Rarity:C
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:芽吹き育ち花咲くその日まで', '祈るようにずっと見守ってるよ
+Trigger:
+Special Attribute:Music・-
+Text:-

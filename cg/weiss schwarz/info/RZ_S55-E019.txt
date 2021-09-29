@@ -1,0 +1,17 @@
+Card Name:
+English Name:Face the Crisis, Wilhelm
+Card No.:RZ/S55-E019
+Rarity:C
+Expansion:Re:ZERO -Starting Life in Another World- Vol.2
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:That will be quite enough.
+Trigger:
+Special Attribute:Weapon・-
+Text:【CONT】 This card cannot side attack.
+Text:【AUTO】 [Put this card into your waiting room] At the end of this card's attack, you may pay the cost. If you do, draw 1 card, choose 1 card in your hand, and put it into your waiting room.", '

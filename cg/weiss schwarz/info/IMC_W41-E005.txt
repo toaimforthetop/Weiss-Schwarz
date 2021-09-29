@@ -1,0 +1,19 @@
+Card Name:
+English Name:Mika Jougasaki
+Card No.:IMC/W41-E005
+Rarity:RR
+Expansion:THE IDOLM@STER CINDERELLA GIRLS
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Thanks, everybody-!
+Trigger:Soul
+Special Attribute:Music・Gal
+Text:【CONT】 This card gets +2000 power for each marker underneath this card.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 [Put a card named "TOKIMEKI Escalate" from your hand into your waiting room] At the beginning of your climax phase, if there are no markers underneath this card, you may pay the cost. If you do, search your deck for up to three level 0 or lower characters, reveal them to your opponent, put them face down in any order underneath this card as markers, and shuffle your deck.
+Text:【AUTO】 At the beginning of your opponent's attack phase, you may put the top card of your deck into your waiting room. If that card is a 《Music》 character, you may move this card to an open position of your center stage.", '

@@ -1,0 +1,18 @@
+Card Name:
+English Name:“Great Magic” Caster
+Card No.:FS/S36-E083
+Rarity:C
+Expansion:Fate/stay night [Unlimited Blade Works] Vol.2
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:500
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Servant・Master
+Text:【CONT】 Your other character in the middle position of the center stage gets +1000 power.
+Text:【AUTO】 [Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card named "Encounter on a Rainy Day" in your waiting room, and return it to your hand.
+Text:【CONT】 This card gets +1000 power for each of your other cards in the back stage with "Illya(イリヤ)" in its card name.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hatsune Miku "Demons and the Dead"
+Card No.:PD/S29-E101
+Rarity:U
+Expansion:Hatsune Miku: Project DIVA F 2nd
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Music・Strange
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, you may pay the cost. If you do, until end of turn, this card gets +4000 power and your opponent cannot use "【AUTO】 Encore". (Your opponent cannot use the "【AUTO】 Encore [(3)]" rule either)

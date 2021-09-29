@@ -1,0 +1,16 @@
+Card Name:
+English Name:Childhood Friend Raspberyl
+Card No.:DG/EN-S03-E012S
+Rarity:SR
+Expansion:Disgaea
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:3500
+Soul:1
+Flavor Text:"Its just volunteer work. It's all a piece of cake to me.
+Trigger:
+Special Attribute:Demon・Delinquent
+Text:【AUTO】 Bond/"Overlord Mao" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Overlord Mao" in your waiting room, and return it to your hand.)

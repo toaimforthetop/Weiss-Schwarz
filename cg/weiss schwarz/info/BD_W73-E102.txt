@@ -1,0 +1,16 @@
+Card Name:
+English Name:Never-Ending Music, Aya Maruyama
+Card No.:BD/W73-E102
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:To the best stage!
+Trigger:Soul
+Special Attribute:Music・Pastel＊Palettes
+Text:【AUTO】 When your other 《Pastel＊Palettes》 character attacks, this card gets +X power until end of turn. X is equal to the number of other 《Pastel＊Palettes》 characters you have ×500.

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Class S Type.Kou Medal
+Card No.:KC/S42-E054
+Rarity:U
+Expansion:KanColle : Arrival! Reinforcement Fleets from Europe!
+Side:Schwarz
+Type:Event
+Color:Green
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:A proof of victory awarded to admirals who, together with elite fleet girls, have been triumphant over battles of high difficulties.
+Trigger:
+Special Attribute:
+Text:Search your deck for up to two 《Fleet Girl》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck.

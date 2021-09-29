@@ -1,0 +1,18 @@
+Card Name:
+English Name:Full of Vigor, Yui
+Card No.:SAO/S51-E079SP
+Rarity:SP
+Expansion:Sword Art Online The Movie – Ordinal Scale –
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Net・-
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Avatar》 or 《Net》 characters you have.
+Text:【AUTO】 [Put two cards from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost, If you do, put all of your opponent's stock into your opponent's waiting room, and your opponent puts the same number of cards from the top of his or her deck into the stock.
+Text:【AUTO】 During your opponent's turn, when the damage you received is not canceled, if this card is in your center stage, look at the top card of your deck, and put it on the top of your deck or into your waiting room.", '

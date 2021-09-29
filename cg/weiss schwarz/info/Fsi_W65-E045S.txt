@@ -1,0 +1,17 @@
+Card Name:
+English Name:Hekiyou Academy Student Council President, Kurimu
+Card No.:Fsi/W65-E045S
+Rarity:SR
+Expansion:Fujimi Fantasia Bunko
+Side:Weiss
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Please play together with me forever.
+Trigger:
+Special Attribute:Fantasia Bunko・Student Council・Sweets
+Text:【AUTO】 【CXCOMBO】 [(1)] When "Irreplaceable Daily Life" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other "Hekiyou Academy Student Council Secretary, Chizuru" or "Fragrance of Yuri, Chizuru", and 【STAND】 it.
+Text:【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand.

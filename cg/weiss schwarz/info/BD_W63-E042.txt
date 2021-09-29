@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Forgetting Something Important" Tsugumi Hazawa
+Card No.:BD/W63-E042
+Rarity:C
+Expansion:BanG Dream! Girls Band Party! Vol.2
+Side:Weiss
+Type:Character
+Color:Green
+Level:1
+Cost:0
+Power:4500
+Soul:1
+Flavor Text:Hmm... I wonder what I should get...
+Trigger:
+Special Attribute:Music・Afterglow
+Text:【AUTO】 [Put 1 card from your hand into your waiting room & Put 1 ""Last Favor Ever!! I Promise!!" Himari Uehara" from your waiting room into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Music》 character in your clock, return it to your hand, and this character gets +2000 power until end of turn.

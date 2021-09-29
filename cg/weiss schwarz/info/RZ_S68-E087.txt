@@ -1,0 +1,16 @@
+Card Name:
+English Name:Unsatisfied With the Grading, Emilia
+Card No.:RZ/S68-E087
+Rarity:C
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"I worked so hard, and I only got nine points? I dont think that's right.
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:-

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Wreck of a Former Vampire, Shinobu Oshino
+Card No.:BM/S15-E009
+Rarity:U
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:2500
+Soul:1
+Flavor Text:"The wreck of a former vampire. The dregs of a beautiful demon. I mean, what good would it do to describe her like that?
+Trigger:
+Special Attribute:Strange・Blood
+Text:[AUTO] Encore ［Put a character from your hand into your waiting room］ （When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)

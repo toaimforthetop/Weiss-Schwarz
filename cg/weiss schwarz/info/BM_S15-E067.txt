@@ -1,0 +1,16 @@
+Card Name:
+English Name:Hitagi Senjyogahara in Regular Clothes
+Card No.:BM/S15-E067
+Rarity:C
+Expansion:BAKEMONOGATARI
+Side:Schwarz
+Type:Character
+Color:Red
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Strange・-
+Text:[AUTO] When another of your 《Strange》 character attacks, this card gets +1000 power until end of turn. 

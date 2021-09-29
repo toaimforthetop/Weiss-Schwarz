@@ -1,0 +1,18 @@
+Card Name:
+English Name:Marceline the Vampire Queen
+Card No.:AT/WX02-042
+Rarity:RR
+Expansion:Adventure Time
+Side:Weiss
+Type:Character
+Color:Red
+Level:3
+Cost:2
+Power:8000
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Ooo・Vampire
+Text:【CONT】 Memory If "Remember You" is in your memory, this card gets +3000 power.
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 When "My Best Friends In The World" is placed on your climax area, if this card is in your center stage, choose up to 2 cards in your opponent\'s waiting room, return them to your opponent\'s deck, your opponent shuffles his or her deck, and this card gets +1500 power and the following ability until end of turn. "【AUTO】 [(2) Put 2 cards from your hand into your waiting room] When this card\'s battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 3 damage to your opponent." (Damage may be canceled)

@@ -1,0 +1,16 @@
+Card Name:
+English Name:Fluffy Breakfast, Kaede Azusagawa
+Card No.:SBY/W64-E068
+Rarity:C
+Expansion:Rascal Does Not Dream of Bunny Girl Senpai
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:Big Brother, this is delicious!
+Trigger:
+Special Attribute:Adolescence・Animal
+Text:-

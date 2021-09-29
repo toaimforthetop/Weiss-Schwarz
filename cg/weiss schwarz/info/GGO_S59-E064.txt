@@ -1,0 +1,16 @@
+Card Name:
+English Name:Emergency Med Kit
+Card No.:GGO/S59-E064
+Rarity:U
+Expansion:SAO Alternative – Gun Gale Online –
+Side:Schwarz
+Type:Event
+Color:Red
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:I see. This is...
+Trigger:
+Special Attribute:
+Text:【COUNTER】 Choose 1 《Avatar》 or 《Net》 character in your clock, and return it to your hand. Put this card into your memory.

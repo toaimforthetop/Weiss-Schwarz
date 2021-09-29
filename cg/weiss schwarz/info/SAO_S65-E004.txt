@@ -1,0 +1,17 @@
+Card Name:
+English Name:Brilliant Female Knight, Alice
+Card No.:SAO/S65-E004
+Rarity:RR
+Expansion:Sword Art Online -Alicization-
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Who do you think I am?
+Trigger:Soul
+Special Attribute:Fluctlight・Integrity Knight
+Text:【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.
+Text:【AUTO】 【CXCOMBO】 [(2) Put 1 《Fluctlight》 character from your hand into your waiting room] This ability activates up to 1 time per turn. When damage dealt by this card is canceled, if "Osmanthus Sword" is in your climax area, you may pay the cost. If you do, put the top 5 cards of your deck into your waiting room, choose up to X cards in your opponent\'s waiting room, return them to your opponent\'s deck, your opponent shuffles his or her deck, and deal X damage to your opponent. X is equal to the number of cards with  in its trigger icon revealed among those cards. (Damage may be canceled)

@@ -1,0 +1,18 @@
+Card Name:
+English Name:"Luminosité  Eternelle" Ruler
+Card No.:APO/S53-E002SP
+Rarity:SP
+Expansion:Fate/Apocrypha
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:3
+Cost:2
+Power:9500
+Soul:2
+Flavor Text:-
+Trigger:Soul
+Special Attribute:Servant・Flag
+Text:【CONT】 If the number of climax in your waiting room is two or less, this card gets -1 level while in your hand.
+Text:【AUTO】 When this card is placed on the stage from your hand, draw up to one card, choose up to one cost 1 or lower character in your hand, and put it on any position of your stage.
+Text:【AUTO】 [Put a card from your hand into your waiting room] At the beginning of your opponent's attack phase, you may pay the cost. If you do, choose one of your 《Master》 or 《Servant》 or 《Homunculus》 characters, and that character gets +2000 power until end of turn.

@@ -1,0 +1,17 @@
+Card Name:
+English Name:Usual Scenery, Illya
+Card No.:PI/EN-S04-E032
+Rarity:RR
+Expansion:Fate/kaleid liner PRISMA ILLYA
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:3
+Cost:2
+Power:10000
+Soul:2
+Flavor Text:Everything I thought might have been lost yesterday was here… next to me again, today.
+Trigger:Soul
+Special Attribute:Master・Magic
+Text:【AUTO】 When this card is placed on the stage from your hand, look at up to six cards from the top of your deck, choose three cards from among them, and put them into your waiting room. Put the rest on the top of your deck in any order.
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, put up to one card from the top of your clock into your waiting room, and this card gets +1000 power until end of turn.

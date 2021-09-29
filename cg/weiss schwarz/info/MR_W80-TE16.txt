@@ -1,0 +1,16 @@
+Card Name:
+English Name:Short Break, Iroha
+Card No.:MR/W80-TE16
+Rarity:TD
+Expansion:TV Anime "Magia Record: Puella Magi Madoka Magica Side Story"
+Side:Weiss
+Type:Character
+Color:Blue
+Level:1
+Cost:0
+Power:5500
+Soul:1
+Flavor Text:"Im sorry for having all of you come with me.
+Trigger:
+Special Attribute:Magic・Cooking
+Text:-

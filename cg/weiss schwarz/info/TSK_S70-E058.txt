@@ -1,0 +1,16 @@
+Card Name:
+English Name:Flare Circle
+Card No.:TSK/S70-E058
+Rarity:U
+Expansion:That Time I Got Reincarnated as a Slime
+Side:Schwarz
+Type:Event
+Color:Red
+Level:3
+Cost:3
+Power:
+Soul:0
+Flavor Text:-
+Trigger:
+Special Attribute:
+Text:Deal 4 damage to your opponent. (Damage may be canceled)

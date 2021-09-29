@@ -1,0 +1,16 @@
+Card Name:
+English Name:"With Great Vigor" Yunyun
+Card No.:KS/W76-PE01
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Red
+Level:1
+Cost:1
+Power:4500
+Soul:1
+Flavor Text:"You really are worried about everyone! Arent you?
+Trigger:Soul
+Special Attribute:Adventurer・Magic
+Text:【CONT】 Assist All of your 《Adventurer》 or 《Magic》 characters in front of this card get +X power. X is equal to that character's level ×500. 【AUTO】 When a climax is placed on your climax area, choose 1 of your characters, and that character gets +1000 power until end of turn.", '

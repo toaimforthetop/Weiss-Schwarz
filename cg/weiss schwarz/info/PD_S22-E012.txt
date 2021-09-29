@@ -1,0 +1,16 @@
+Card Name:
+English Name:Kagamine Rin"Transmitter"
+Card No.:PD/S22-E012
+Rarity:U
+Expansion:Hatsune Miku -Project DIVA- ƒ
+Side:Schwarz
+Type:Character
+Color:Yellow
+Level:1
+Cost:0
+Power:5000
+Soul:1
+Flavor Text:-
+Trigger:
+Special Attribute:Music・Mecha
+Text:【AUTO】［1］ When this card attacks, if a card named "Remote Controller" is in your climax area, you may pay the cost. If you do, choose one of your opponent\'s characters, and return it to your opponent\'s hand.

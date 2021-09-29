@@ -1,0 +1,17 @@
+Card Name:
+English Name:3rd Shiratsuyu-class Destroyer, Murasame
+Card No.:KC/S25-E149
+Rarity:C
+Expansion:Kancolle
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:1000
+Soul:1
+Flavor Text:Let me show you just one of the good points about Murasame♪
+Trigger:
+Special Attribute:Fleet Girl・Destroyer
+Text:【AUTO】[Put the top card of your deck into your clock] When this card's battle opponent becomes 【Reverse】, you may pay the cost. If you do, draw a card.
+Text:【ACT】[【REST】one of your 《Fleet Girl》 characters] This card gets +1000 power until end of turn.", '

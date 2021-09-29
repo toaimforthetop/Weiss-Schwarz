@@ -1,0 +1,17 @@
+Card Name:
+English Name:“Healing Menu” Hanayo Koizumi
+Card No.:LL/EN-W02-E161
+Rarity:C
+Expansion:Love Live! DX Vol.2
+Side:Weiss
+Type:Character
+Color:Blue
+Level:2
+Cost:1
+Power:6500
+Soul:1
+Flavor Text:Little rice balls, all in a row～ One, two, three, four, five♪ Five rice balls today～
+Trigger:Soul
+Special Attribute:Music・-
+Text:【CONT】 Experience If the number of cards named ""Happy Maker!" Hanayo Koizumi" in your level is two or more, this card gets +4000 power.
+Text:【AUTO】 When your other blue character attacks, this card gets +1500 power until end of turn.

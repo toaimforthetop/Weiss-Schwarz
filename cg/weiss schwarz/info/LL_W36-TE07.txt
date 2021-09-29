@@ -1,0 +1,16 @@
+Card Name:
+English Name:"Summer Uniform" Umi Sonoda
+Card No.:LL/W36-TE07
+Rarity:TD
+Expansion:Love Live! School idol festival
+Side:Weiss
+Type:Character
+Color:Yellow
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:It feels great to work out with the radio first thing in the morning. Want to join me?
+Trigger:
+Special Attribute:Music
+Text:

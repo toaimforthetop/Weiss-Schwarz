@@ -1,0 +1,16 @@
+Card Name:
+English Name:Nico in Training Wear
+Card No.:LL/EN-W01-056
+Rarity:RR
+Expansion:Love Live! DX
+Side:Weiss
+Type:Character
+Color:Green
+Level:2
+Cost:1
+Power:8000
+Soul:1
+Flavor Text:"Bit by bit. Lets go! Smile♪
+Trigger:Soul
+Special Attribute:Music・Otaku
+Text:【AUTO】 [(1) Put a card from your hand into your waiting room] When this card attacks, if a card named "With a Summer Smile 1,2,Jump!" is in your climax area, you may pay the cost. If you do, search your deck for up to two 《Music》 characters, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards, and this card gets +1000 power until end of turn.

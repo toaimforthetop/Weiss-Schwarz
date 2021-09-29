@@ -1,0 +1,16 @@
+Card Name:
+English Name:Taken
+Card No.:FS/S34-E097
+Rarity:U
+Expansion:Fate/stay night [Unlimited Blade Works]
+Side:Schwarz
+Type:Event
+Color:Blue
+Level:2
+Cost:2
+Power:
+Soul:0
+Flavor Text:Saber is now my puppet.
+Trigger:
+Special Attribute:
+Text:Choose one of your 【STAND】 《Master》 characters, and 【REST】 it. If you do, choose one of your opponent's level 2 or lower characters, and put it on the bottom of your opponent's deck.", '

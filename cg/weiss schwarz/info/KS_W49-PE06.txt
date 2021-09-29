@@ -1,0 +1,16 @@
+Card Name:
+English Name:“Construction Operator” Aqua
+Card No.:KS/W49-PE06
+Rarity:PR
+Expansion:PR Card 【Weiẞ Side】
+Side:Weiss
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:3000
+Soul:1
+Flavor Text:Kazuma: "We didn\'t come here to be laborers."
+Trigger:
+Special Attribute:Adventurer・Goddess
+Text:【CONT】 All of your other characters get the following ability. "【CONT】 This card cannot side attack."【AUTO】 When a climax is put on your climax area, this card gets the following ability until end of turn. "【AUTO】 When this card\'s battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock."

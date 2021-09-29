@@ -1,0 +1,17 @@
+Card Name:
+English Name:Cold Surprise Attack, Beatrice
+Card No.:RZ/S68-E027
+Rarity:U
+Expansion: Re:ZERO -Starting Life in Another World- Memory Snow
+Side:Schwarz
+Type:Character
+Color:Red
+Level:0
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:Hyaa-!
+Trigger:
+Special Attribute:Magic・Memory Snow
+Text:【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.
+Text:【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 0 or lower, you may 【REVERSE】 that character.", '

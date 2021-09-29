@@ -1,0 +1,17 @@
+Card Name:
+English Name:Bat Clan of Hida
+Card No.:BNJ/SX01-078c
+Rarity:U
+Expansion:Batman Ninja
+Side:Schwarz
+Type:Character
+Color:Blue
+Level:0
+Cost:0
+Power:2000
+Soul:1
+Flavor Text:Harley Quinn: "What?! Ninja Batmen?!"
+Trigger:
+Special Attribute:Sengoku・Weapon
+Text:【CONT】 You can put any number of cards with the same card name as this card into your deck.
+Text:【AUTO】 [(1) Put this card into your waiting room] When your other character with "Batman" in its card name is frontal attacked, you may pay the cost. If you do, return that character to your hand.

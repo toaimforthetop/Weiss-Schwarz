@@ -1,0 +1,17 @@
+Card Name:
+English Name:"Seisho Music Academy 99th Class" Karen Aijo
+Card No.:RSL/S56-PE05
+Rarity:PR
+Expansion:PR Card 【Schwarz Side】
+Side:Schwarz
+Type:Character
+Color:Red
+Level:1
+Cost:0
+Power:1500
+Soul:1
+Flavor Text:My dream is "to stand on the same stage as Hikari-chan"!
+Trigger:
+Special Attribute:Revue・Barrette
+Text:【CONT】 Your other character in the middle position of the center stage gets +1500 power.
+Text:【ACT】 [(2) 【REST】 this card] Draw 1 card.

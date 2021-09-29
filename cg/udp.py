@@ -41,7 +41,9 @@ class UDP(object):
 
 class UDPUI(tk.Toplevel):
 	def __init__(self, parent, player=[], 
-		set_msg=lambda *args: None, cmd=lambda *args: None):
+		set_msg=lambda *args: None, 
+		cmd=lambda *args: None, 
+		display=lambda *args: None):
 		super(UDPUI, self).__init__(parent)
 		self.geometry('320x120')
 		self.title('Session')
@@ -52,6 +54,7 @@ class UDPUI(tk.Toplevel):
 		self.__cmd = cmd
 		self.set_msg = set_msg
 		self.player = player
+		self.display = display
 		self.msg_fmt = MessageFormat(parent)
 
 		lbl = [0.15, 0.05]
@@ -99,7 +102,7 @@ class UDPUI(tk.Toplevel):
 		self.__insert('Sent\n')
 
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
-		self.__cmd(opp)
+		self.__cmd(opp, self.display)
 		self.msg_fmt.recv_msg(self.udp)
 
 	def __join(self):
@@ -113,7 +116,7 @@ class UDPUI(tk.Toplevel):
 		self.__insert('Receive\n')
 
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
-		self.__cmd(opp)
+		self.__cmd(opp, self.display)
 		self.msg_fmt.recv_msg(self.udp)
 
 class MessageFormat(object):

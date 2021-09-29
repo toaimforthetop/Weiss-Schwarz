@@ -46,7 +46,8 @@ class Window(tk.Tk):
 
 		text = ' '.join('{}:{}'.format(*card.img) for card in self.gamemat.pdeck)
 		self.udpui = udp.UDPUI(
-			self.gamemat, text, self.set_deck_msg, self.gamemat.get_odeck)
+			self.gamemat, text, self.set_deck_msg, 
+			self.gamemat.get_odeck, self.information.display)
 		self.udpui.withdraw()
 
 	def set_deck_msg(self, msg_func):

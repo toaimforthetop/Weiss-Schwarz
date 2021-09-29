@@ -29,11 +29,11 @@ class WeissSchwarz(tk.Frame):
 			card.img = (e, img)
 			card.set_img()
 
-	def get_odeck(self, deck):
+	def get_odeck(self, deck, display):
 		for img in deck:
 			card = OCard(self, img=tuple(img.split(':')))
 			card.place(relw=0.07, relh=0.1, relx=0.265, rely=0.29)
-			card.keybind()
+			card.keybind(display)
 			card.update_idletasks()
 			card.set_img()
 			self.odeck.append(card)

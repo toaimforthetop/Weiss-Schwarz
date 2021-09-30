@@ -3,6 +3,51 @@ import random
 import math
 from card import IMG
 import locate
+from tkinter.messagebox import askyesno
+
+def place_bottom_of_deck(deck, cards_to_deck):
+	question = 'Are you sure you want to put at bottom of deck {}?'
+	name_of_card = [card.img[1] for card in cards_to_deck.cards]
+	if not askyesno('Confirmation', question.format(name_of_card)):
+		return # if cancel or close
+
+	# send bottom card which is first card in first rather than top
+	while len(cards_to_deck.cards):
+		card = cards_to_deck.cards[0] 
+		card.leave_zone(card)
+		deck.add_to_bottom(card)
+
+def shuffle_all(zone):
+	if not askyesno('Confirmation','Do you want to Shuffle All?'):
+		return
+
+	for z in zone:
+		if z == zone[7]: continue
+		zone[7].add(z.cards) # add each zone to deck zone
+		z.clear_all() # then clear all zone out
+
+	shuffle(zone[7].cards)
+
+def reshuffle(deck, waiting_room):
+	deck.add(waiting_room.cards)
+	waiting_room.clear_all()
+	shuffle(deck.cards)
+
+def shuffle(cards):
+	random.shuffle(cards)
+
+	for card in cards:
+		card.flip(locate.BACKIMG)
+		card.display_to_opponent(locate.HIDDEN)
+		card.rotate(0)
+		card.location(0.665, 0.61)
+		card.set_img()
+		card.tkraise()
+
+def display_window(root, cards):
+	temp = Select(root)
+	temp.setup(9, 6) # (10, 6) works too
+	temp.display(cards)
 
 class Select(tk.Toplevel):
 	def __init__(self, *args, **kwargs):
@@ -14,13 +59,16 @@ class Select(tk.Toplevel):
 		self.geometry(f'{self.WIDTH}x{self.HEIGHT}')		
 		self.resizable(False, False)
 
-	def __grab(self, img_card, card):
-		img_card.place_forget() # remove the card from this window
-		self.cards.remove(img_card)
+	def __grab(self, select_card, main_card):
+		select_card.place_forget() # remove the card from this window
+		self.cards.remove(select_card)
+		card = main_card
+		card.leave_zone(card)
 		card.flip(card.img[1])
 		card.display_to_opponent(locate.HIDDEN)
-		card.location(relx=0.9, rely=0.6) # move the card from main window
+		card.location(relx=0.665, rely=0.85) # move the card from main window
 		self.__organize()
+		self.destroy()
 
 	def __organize(self):
 		window_edge_distance = 0.005
@@ -29,13 +77,6 @@ class Select(tk.Toplevel):
 				relw=self.w, relh=self.h, 
 				relx=window_edge_distance + ((self.w + self.spacing) * c), 
 				rely=window_edge_distance + ((self.h + self.spacing) * r))
-
-	def __clear(self):
-		# the window should clear everything therefore this might not be
-		# need but not sure yet
-		for card in self.cards.keys():
-			card.place_forget()
-		self.cards.clear()
 
 	def setup(self, column, row):
 		# get the size of width and height base on the row and column wanted
@@ -46,83 +87,8 @@ class Select(tk.Toplevel):
 	def display(self, cards):
 		self.cards = [
 		IMG(self, img=card.img[1], display=card.display,
-			cmd=lambda s, c=card: self.__grab(s, c)) for card in cards]
+			cmd=lambda s, m=card: self.__grab(s, m))  for card in cards]
 		self.__organize()
 		width, height = int(self.WIDTH * self.w), int(self.HEIGHT * self.h)
 		for card in self.cards:
 			card.set_img(width, height)
-
-class ZoneOption(tk.Frame):
-	def __init__(self, *args, **kwargs):
-		super(ZoneOption, self).__init__(*args, **kwargs)
-		# does not delete any of the same window which might/might not cause 
-		# problems later on
-		# could resolve this by making a variable = to None and do a check
-		# if exist, then delete it and create a new one otherwise new 
-		zone_func = {
-		'Deck': lambda: self.__display_window(self.zone[7]),
-		'Waiting Room': lambda: self.__display_window(self.zone[8]),
-		'Hand': lambda: self.__display_window(self.zone[12]),
-		'Level': lambda: self.__display_window(self.zone[10]),
-		'Memory': lambda: self.__display_window(self.zone[0]),
-		'Clock': lambda: self.__display_window(self.zone[11]),
-		'Shuffle All (Owner)': self.__shuffle_all,
-		'Shuffle Deck': self.__shuffle_deck,
-		'Reshuffle': self.__reshuffle,
-		}
-
-		self.name = tk.StringVar()
-		self.name.set('Deck')
-		self.name.trace('w', lambda *args: zone_func[self.name.get()]())
-		self.opt = tk.OptionMenu(self, self.name, *zone_func.keys())
-		self.opt.config(direction='above')
-		self.opt.place(relw=1, relh=1, relx=0, rely=0)
-
-	def __shuffle_all(self):
-		self.cards.clear()
-		self.__shuffle(self.deck)
-
-	def __shuffle_deck(self):
-		self.cards.clear()
-		self.__exist_in_zone(self.zone[7])
-		self.__shuffle(self.cards)
-
-	def __reshuffle(self):
-		self.cards.clear()
-		self.__exist_in_zone(self.zone[8])
-		self.__shuffle(self.cards)
-
-	def __shuffle(self, cards):
-		random.shuffle(cards)
-
-		for card in cards:
-			card.show = False
-			card.angle = 180
-			card.flip(locate.BACKIMG)
-			card.display_to_opponent(locate.HIDDEN)
-			card.rotate(0)
-			card.location(0.365+(0.1*3), 0.61)
-			card.set_image()
-			card.tkraise()
-
-	def __display_window(self, zone):
-		self.cards.clear()
-		self.__exist_in_zone(zone)
-		temp = Select(self.master)
-		temp.setup(9, 6)
-		temp.display(self.cards)
-
-	def __exist_in_zone(self, zone):
-		# due to it checking the self.deck, it will not show the actual
-		# position of the card if its on top or the bottom
-		# when checking the any zone but it will show which card came first
-		# for any zone other than deck unless __shuffle_all
-		for card in self.deck:
-			if (card.top() >= zone.top() and card.left() >= zone.left() and
-				card.top() <= zone.bottom() and card.left() <= zone.right()):
-				self.cards.append(card)
-
-	def setup(self, deck, zone):
-		self.deck = deck
-		self.zone = zone
-		self.cards = []

@@ -11,13 +11,10 @@ class Card(Label):
 		self.collision = lambda *args: None
 		self.display = lambda *args: None
 		self.send_msg = lambda *args: None
-		# these functions below are suppose to be use as a test for ocard
-		# in placement without the need of connecting to test it out
-		self.m = lambda *args: None
-		self.r = lambda *args: None
+		self.leave_zone = lambda *args: None
 		self.status = Frame(self)
-		self.status.place(relw=0.1, relh=0.1, relx=0.9, rely=0)
-
+		self.status.place(relw=0.1, relh=0.1, relx=0, rely=0.9)
+		
 	def __pressed(self, event):
 		self.focus_set()
 		self.tkraise()
@@ -25,6 +22,7 @@ class Card(Label):
 		self.bind('<B1-Motion>', self.__movement)
 		self.bind('<ButtonRelease-1>', self.__released)
 		self.display(self.current_img)
+		self.leave_zone(self)
 
 	def __movement(self, event):
 		x = (self.winfo_x() - self.start[0] + event.x)
@@ -50,6 +48,12 @@ class Card(Label):
 		self.display_to_opponent(locate.SHOW 
 			if self.status['bg'] == locate.HIDDEN else locate.HIDDEN)
 
+	def __show(self, event):
+		self.__flip(event)
+		self.__display(event)
+		self.focus_set()
+		self.tkraise()
+
 	def width(self):
 		return self.winfo_width()
 
@@ -70,16 +74,14 @@ class Card(Label):
 
 	def keybind(self):
 		self.bind('<Button-1>', self.__pressed)
+		self.bind('<Button-3>', self.__show)
 		self.bind('<r>', self.__rotate)
 		self.bind('<f>', self.__flip)
 		self.bind('<d>', self.__display)
-		self.bind('<Button-3>', self.__flip, add='+')
-		self.bind('<Button-3>', self.__display, add='+')
 		
 	def location(self, relx, rely):
 		self.place(relx=relx, rely=rely)
-		self.send_msg('m {} {} {} {}'.format(*self.img, relx, rely))
-		self.m(relx, rely)
+		self.send_msg('m {} {} {}'.format(self.img[0], relx, rely))
 
 	def rotate(self, angle):
 		self.angle = angle
@@ -90,19 +92,15 @@ class Card(Label):
 		relh = height / self.master.winfo_height()
 
 		self.place(relw=relw, relh=relh)
-		self.update_idletasks() # workaround for image issue
-		# card label updates to the right size, card image does not
-		# tried moving full code of set_img in here and replace resize with
-		#  (width, height) but it does not work
-		# even if the size is right, the image will not be updated
-		self.set_img()
-		self.send_msg('r {} {} {} {} {}'.format(*self.img, angle, relw, relh))
-		self.r(angle, relw, relh)
+		self.image = locate.add_image(
+			self.current_img, width, height, self.angle)
+		self.config(image=self.image, anchor='center')
+		self.send_msg('r {} {} {} {}'.format(self.img[0], angle, width, height))
 
 	def display_to_opponent(self, state):
 		self.status.config(bg=state)
 		self.status.tkraise()
-		self.send_msg('s {} {} {}'.format(*self.img, self.status['bg']))
+		self.send_msg('s {} {}'.format(self.img[0], self.status['bg']))
 
 	def flip(self, img):
 		self.current_img = img
@@ -121,7 +119,7 @@ class Card(Label):
 # corner rather than the bottom right corner, thus resulting in the position
 # of the image on opponent side to seem off
 # to resolve this, you have to find a way where image will rotate (resize) 
-# from the bottom left
+# from the bottom right
 class OCard(Label):
 	def __init__(self, *args, img=(0, locate.BACKIMG), **kwargs):
 		super(OCard, self).__init__(*args, **kwargs)
@@ -138,8 +136,11 @@ class OCard(Label):
 
 	def rotate(self, angle, w, h):
 		self.angle = {0:180, 90:-90, 180:0}[angle]
-		self.place(relw=w, relh=h)
-		self.set_img()
+		width = w / self.master.winfo_width()
+		height = h / self.master.winfo_height()
+		self.place(relw=width, relh=height)
+		self.image = locate.add_image(self.current_img, w, h, self.angle)
+		self.config(image=self.image, anchor='center')
 
 	def flip(self, color):
 		self.current_img = (self.img[1] 

@@ -1,8 +1,10 @@
+import random
 import tkinter as tk
 import locate
-from zone import Zone, state
+from zone import Zone
 from card import Card, OCard
-from select import ZoneOption
+import select
+import math
 
 class WeissSchwarz(tk.Frame):
 	def __init__(self, *args, **kwargs):
@@ -11,73 +13,31 @@ class WeissSchwarz(tk.Frame):
 		tk.Frame(self, bg='red', bd=1).place(relh=1, relx=0.5, rely=0)
 		tk.Frame(self, bg='red', bd=1).place(relw=1, relx=0, rely=0.5)
 
-		self.playerzone()
-		self.opponentzone()
+		self.player_zone()
+		self.opponent_zone()
 
 		self.odeck = []
-		self.get_pdeck()
 
-		self.option = ZoneOption(self)
-		self.option.setup(self.pdeck, self.pz)
+		self.btns = []
+		for e, text in enumerate(
+			['Deck', 'Waiting Room', 'Level', 'Clock', 'Hand']):
+			btn = tk.Button(self, text=text)
+			btn.place(relw=0.1, relh=0.03, relx=0, rely=0.52+(0.04*e))
+			self.btns.append(btn)
 
-	def update_pdeck(self, imgs):
-		if not self.pdeck: return
+		self.btns.append(tk.Button(self, text='Bottom of Deck'))
+		self.btns[-1].place(relw=0.1, relh=0.03, relx=0.65, rely=0.71+(0.12*2))
 
-		for e, (card, img) in enumerate(zip(self.pdeck, imgs)):
-			card.place(relw=0.07, relh=0.1, relx=0.665, rely=0.61)
-			card.current_img = locate.BACKIMG
-			card.img = (e, img)
-			card.set_img()
+		for e, text in enumerate(
+			['Shuffle All', 'Shuffle Deck', 'Reshuffle']):
+			btn = tk.Button(self, text=text)
+			btn.place(relw=0.1, relh=0.03, relx=0.9, rely=0.52+(0.04*e))
+			self.btns.append(btn)
 
-	def get_odeck(self, deck, display):
-		for img in deck:
-			card = OCard(self, img=tuple(img.split(':')))
-			card.place(relw=0.07, relh=0.1, relx=0.265, rely=0.29)
-			card.keybind(display)
-			card.update_idletasks()
-			card.set_img()
-			self.odeck.append(card)
+		for btn in self.btns:
+			btn.config(command=self.zone_func[btn['text']])
 
-	def get_pdeck(self):
-		deck = locate.grab_deck(locate.load_init_deck())
-		if '' in deck and len(deck) == 1: return # nothing exist in the file
-
-		self.pdeck = [Card(self, img=(e, img)) for e, img in enumerate(deck)]
-
-		for card in self.pdeck:
-			card.collision = self.collision
-			card.place(relw=0.07, relh=0.1, relx=0.665, rely=0.61)
-
-	def collision(self, card):
-		for zone in self.pz[:9]:
-			zone.collision(
-				card, 
-				self.status_for_zone.get(zone['text'], lambda *args: None))
-		
-		for zone in self.pz[9:11]:
-			zone.collision(
-				card, 
-				self.status_for_zone.get(zone['text'], lambda *args: None),
-				True)
-
-		for zone in self.pz[11:13]:
-			zone.collision(
-				card, 
-				self.status_for_zone.get(zone['text'], lambda *args: None),
-				True, True)
-
-	def playerzone(self):
-		self.status_for_zone = {
-		'Stock': lambda card: state(card, 90, False, False),
-		'Climax': lambda card: state(card, 90, True, True),
-		'Level': lambda card: state(card, 90, True, True),
-		'Memory': lambda card: card.rotate(90), # public zone with exceptions
-		'Deck': lambda card: state(card, 0, False, False),
-		'Waiting\nRoom': lambda card: state(card, 0, True, True),
-		'Clock': lambda card: state(card, 0, True, True),
-		'Hand': lambda card: state(card, 0, True, False),
-		}
-
+	def player_zone(self):
 		stock = Zone(self, text='Stock', relief='solid', bd=1)
 		stock.place(relw=0.1, relh=0.3, relx=0.105, rely=0.52)
 
@@ -101,7 +61,7 @@ class WeissSchwarz(tk.Frame):
 			zone.place(relw=0.07, relh=0.1, relx=0.415+(0.1*e), rely=0.64)
 
 		right = [Zone(self, text=name, relief='solid', bd=1) 
-		for name in ['Deck', 'Waiting\nRoom']]
+		for name in ['Deck', 'Waiting\nRoom', 'Select']]
 		for e, zone in enumerate(right):
 			zone.place(relw=0.07, relh=0.1, relx=0.665, rely=0.61+(0.12*e))
 
@@ -111,10 +71,24 @@ class WeissSchwarz(tk.Frame):
 			zone.place(relw=0.4, relh=0.1, relx=0.235, rely=0.76+(0.12*e))
 
 		# its due to collision check to be able to grid out the cards
-		self.pz = [memory, climax] + top + bottom + right + [stock, level] 
+		self.pz = top + bottom + [memory, climax] + right + [stock, level] 
 		self.pz.extend(other)
 
-	def opponentzone(self):
+		self.zone_func = {
+		'Deck': lambda: select.display_window(self, self.pz[7].cards),
+		'Waiting Room': lambda: select.display_window(self, self.pz[8].cards),
+		'Hand': lambda: select.display_window(self, self.pz[13].cards),
+		'Level': lambda: select.display_window(self, self.pz[11].cards),
+		'Memory': lambda: select.display_window(self, self.pz[0].cards),
+		'Clock': lambda: select.display_window(self, self.pz[12].cards),
+		'Shuffle All': lambda: select.shuffle_all(self.pz),
+		'Shuffle Deck': lambda: select.shuffle(self.pz[7].cards),
+		'Reshuffle': lambda: select.reshuffle(self.pz[7], self.pz[8]),
+		'Bottom of Deck': lambda: select.place_bottom_of_deck(
+			self.pz[7], self.pz[9]),
+		}
+
+	def opponent_zone(self):
 		stock = Zone(self, text='Stock', relief='solid', bd=1)
 		stock.place(relw=0.1, relh=0.3, relx=0.665+0.13, rely=0.18)
 
@@ -147,5 +121,64 @@ class WeissSchwarz(tk.Frame):
 		for e, zone in enumerate(other):
 			zone.place(relw=0.4, relh=0.1, relx=0.365, rely=0.14-(0.12*e))
 
-		self.oz = [memory, climax] + top + bottom + right + [stock, level]
+		self.oz = top + bottom + [memory, climax] + right + [stock, level]
 		self.oz.extend(other)
+
+	def set_deck_msg(self, msg_func):
+		for card in self.pz[7].cards:
+			card.send_msg = msg_func
+
+	def collision(self, card):
+		for zone in self.pz[:5]:
+			if zone.collision(card, zone['text'], False, False, True):
+				return
+
+		for zone in self.pz[5:10]:
+			if zone.collision(card, zone['text']):
+				return
+
+		for zone in self.pz[10:12]:
+			if zone.collision(card, zone['text'], True):
+				return
+
+		for zone in self.pz[12:14]:
+			if zone.collision(card, zone['text'], True, True):
+				return
+
+	def update_pdeck(self, imgs):
+		if not self.pdeck: return
+
+		for e, (card, img) in enumerate(zip(self.pdeck, imgs)):
+			card.place(relw=0.07, relh=0.1, relx=0.665, rely=0.61)
+			card.current_img = locate.BACKIMG
+			card.img = (e, img)
+			card.set_img()
+
+	def set_opponent_deck(self, deck, display):
+		for img in deck:
+			card = OCard(self, img=tuple(img.split(':')))
+			card.place(relw=0.07, relh=0.1, relx=0.265, rely=0.29)
+			card.keybind(display)
+			card.update_idletasks()
+			card.set_img()
+			self.odeck.append(card)
+
+	def set_player_deck(self, display):
+		deck = locate.grab_deck(locate.load_init_deck())
+		if '' in deck and len(deck) == 1: return # if nothing exist in the file
+
+		self.pz[7].add(
+			[Card(self, img=(e, img)) for e, img in enumerate(deck)])
+		random.shuffle(self.pz[7].cards)
+
+		for card in self.pz[7].cards:
+			card.leave_zone = self.pz[7].leave
+			card.collision = self.collision
+			card.display = display
+			card.status['bg'] = 'grey'
+			card.place(relw=0.07, relh=0.1, relx=0.665, rely=0.61)
+			card.update_idletasks()
+			card.size = (card.winfo_width(), card.winfo_height())
+			card.set_img()
+			card.keybind()
+			card.tkraise()

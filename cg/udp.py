@@ -40,24 +40,21 @@ class UDP(object):
 		return self.socket.recvfrom(self.__buffer)[0].decode()
 
 class UDPUI(tk.Toplevel):
-	def __init__(self, parent, player=[], 
-		set_msg=lambda *args: None, 
-		cmd=lambda *args: None, 
-		display=lambda *args: None):
+	def __init__(self, parent, display=lambda *args: None):
 		super(UDPUI, self).__init__(parent)
 		self.geometry('320x120')
 		self.title('Session')
 		self.resizable(False, False)
 
-		self.parent = parent
-		self.udp = UDP()
-		self.__cmd = cmd
-		self.set_msg = set_msg
-		self.player = player
+		self.set_msg = parent.set_deck_msg
 		self.display = display
-		self.msg_fmt = MessageFormat(parent)
+		self.opponent = parent.odeck
+		self.__cmd = parent.set_opponent_deck
+		self.player = ' '.join('{}:{}'.format(*card.img) 
+			for card in parent.pz[7].cards)
+		self.udp = UDP()
 
-		lbl = [0.15, 0.05]
+		lbl = (0.15, 0.05)
 		for e, txt in enumerate(['Host IP', 'Port', 'Buffer']):
 			tk.Label(self, text=txt, anchor='e').place(
 				relw=lbl[0], relx=lbl[1], rely=0.05+(0.20*e))
@@ -69,7 +66,7 @@ class UDPUI(tk.Toplevel):
 		self.buffer = tk.Entry(
 			self, validate='key', validatecommand=(validate, '%S'))
 
-		ent = [0.3, 0.22]
+		ent = (0.3, 0.22)
 		txts = ['0.0.0.0', '8080', '1024']
 		entrys = [self.ip, self.port, self.buffer]
 		for e, (entry, txt) in enumerate(zip(entrys, txts)):
@@ -77,7 +74,7 @@ class UDPUI(tk.Toplevel):
 			entry.delete(0, 'end')
 			entry.insert(0, txt)
 
-		btn = [0.2, 0.7]
+		btn = (0.2, 0.7)
 		tk.Button(self, text='Host', 
 			command=lambda: threading(self.__host)).place(
 			relw=btn[0], relx=0.06, rely=btn[1])
@@ -100,10 +97,7 @@ class UDPUI(tk.Toplevel):
 		self.__insert('Receive\n')
 		self.udp.send_msg(self.player)
 		self.__insert('Sent\n')
-
-		self.set_msg(lambda msg: self.udp.send_msg(msg))
-		self.__cmd(opp, self.display)
-		self.msg_fmt.recv_msg(self.udp)
+		self.__set_up(opp)
 
 	def __join(self):
 		try:
@@ -114,43 +108,45 @@ class UDPUI(tk.Toplevel):
 			return
 		opp = self.udp.set_info()
 		self.__insert('Receive\n')
+		self.__set_up(opp)
 
+	def __set_up(self, opp):
 		self.set_msg(lambda msg: self.udp.send_msg(msg))
 		self.__cmd(opp, self.display)
-		self.msg_fmt.recv_msg(self.udp)
+		msg_fmt = MessageFormat()
+		msg_fmt.recv_msg(self.opponent, self.udp)
 
 class MessageFormat(object):
-	def __init__(self, parent):
-		self.parent = parent
+	def __init__(self):
 		self.msg_type = {
 		'r': self.rotate,
 		's': self.state,
 		'm': self.movement,
 		}
 
-	def movement(self, number, img, x, y):
-		for card in self.parent.odeck:
-			if card.img == (number, img):
+	def movement(self, deck, number, x, y):
+		for card in deck:
+			if card.img[0] == number:
 				card.movement(float(x), float(y))
 				card.tkraise()
 				break
 
-	def state(self, number, img, color):
-		for card in self.parent.odeck:
-			if card.img == (number, img):
+	def state(self, deck, number, color):
+		for card in deck:
+			if card.img[0] == number:
 				card.flip(color)
 				card.tkraise()
 				break
 
-	def rotate(self, number, img, angle, w, h):
-		for card in self.parent.odeck:
-			if card.img == (number, img):
-				card.rotate(int(angle), float(w), float(h))
+	def rotate(self, deck, number, angle, w, h):
+		for card in deck:
+			if card.img[0] == number:
+				card.rotate(int(angle), int(w), int(h))
 				card.tkraise()
 				break
 
-	def recv_msg(self, udp):
+	def recv_msg(self, deck, udp):
 		while udp:
 			info = udp.receive_msg().split(' ')
 			print(*info[1:])
-			self.msg_type[info[0]](*info[1:])
+			self.msg_type.get(info[0], lambda *args: None)(deck, *info[1:])
